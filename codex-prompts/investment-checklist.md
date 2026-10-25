@@ -5,7 +5,7 @@ argument-hint: $ARGUMENTS
 
 Use the installed AI Berkshire Codex skill `investment-checklist` for this request.
 
-If the skill is not already loaded, read and follow `~/ai-berkshire/codex-skills/investment-checklist/SKILL.md`.
+If the skill is not already loaded, find its `SKILL.md` in the available skills list, or read `codex-skills/investment-checklist/SKILL.md` from the actual AI Berkshire checkout. Do not assume a fixed home-directory checkout path.
 
 User arguments:
 $ARGUMENTS

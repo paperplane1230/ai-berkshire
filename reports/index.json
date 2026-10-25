@@ -1,7 +1,7 @@
 {
-  "count": 2483,
-  "published": 2274,
-  "drafts": 209,
+  "count": 2485,
+  "published": 2275,
+  "drafts": 210,
   "reports": [
     {
       "title": "泡泡玛特（09992.HK）2026Q3业绩分析",
@@ -68,6 +68,28 @@
       "date": "2026-10-25",
       "date_source": "文件名",
       "ticker": ""
+    },
+    {
+      "title": "东阿阿胶（000423）研究报告",
+      "path": "reports/东阿阿胶/东阿阿胶研究报告-20261025.md",
+      "bucket": "公司",
+      "group": "东阿阿胶",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-25",
+      "date_source": "文件名",
+      "ticker": "000423.SZ"
+    },
+    {
+      "title": "来源、原件与核验范围",
+      "path": "reports/东阿阿胶/research-20261025/sources.md",
+      "bucket": "公司",
+      "group": "东阿阿胶",
+      "series": "research-20261025",
+      "type": "底稿",
+      "date": "2026-10-25",
+      "date_source": "文件名",
+      "ticker": "000423.SZ"
     },
     {
       "title": "恒生科技与纳斯达克估值对比研究报告",

@@ -2,7 +2,7 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-DEST="${CODEX_HOME:-$HOME/.codex}/skills"
+DEST="${CODEX_SKILLS_DIR:-$HOME/.agents/skills}"
 
 python3 "$ROOT/scripts/sync-codex-skills.py"
 mkdir -p "$DEST"

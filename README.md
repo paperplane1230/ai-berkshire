@@ -18,7 +18,7 @@
 
 > 📖 **想读报告，用 [阅读站](https://xbtlin.github.io/ai-berkshire/)**：成品报告按公司、专题、时间整理，电脑和手机都好读，可搜索、记住阅读进度。
 >
-> 📊 全部 2274 份报告（含底稿）· 111 家公司 · 29 个专题，GitHub 上的完整目录见 [研究报告索引](reports/README.md)，更新至 2026-10-28。
+> 📊 全部 2275 份报告（含底稿）· 112 家公司 · 29 个专题，GitHub 上的完整目录见 [研究报告索引](reports/README.md)，更新至 2026-10-28。
 
 <!-- REPORTS-BANNER:END -->
 
@@ -320,12 +320,12 @@ Codex 用户安装（macOS / Linux）：
 # 克隆仓库
 git clone https://github.com/xbtlin/ai-berkshire.git
 
-# 生成并安装 Codex skills 到 ~/.codex/skills
+# 生成并安装 Codex skills 到 ~/.agents/skills
 cd ai-berkshire
 ./scripts/install-codex-skills.sh
 
-# 可选：安装 Codex slash prompts 到 ~/.codex/prompts
-# 用于获得接近 Claude Code 的 /investment-research 体验
+# 可选：安装 Codex slash prompts 到 ~/.codex/prompts（也会安装配套 skills）
+# 入口为 /prompts:investment-research，不是 /investment-research
 ./scripts/install-codex-prompts.sh
 ```
 
@@ -336,8 +336,25 @@ git clone https://github.com/xbtlin/ai-berkshire.git
 cd ai-berkshire
 .\scripts\install-codex-skills.bat
 
-REM 可选：安装 Codex slash prompts
+REM 可选：安装 Codex slash prompts，同时安装配套 skills
 .\scripts\install-codex-prompts.bat
+```
+
+Windows 安装器使用系统 PowerShell，直接安装仓库中已经生成的包，**不依赖 `python.exe`、`py` 或 Windows Store 别名**。Skills 默认安装到 `%USERPROFILE%\.agents\skills`；prompts 安装到 `%CODEX_HOME%\prompts`，未设置 `CODEX_HOME` 时使用 `%USERPROFILE%\.codex\prompts`。可用 `CODEX_SKILLS_DIR` 单独指定技能目录。
+
+如果以前从 Claude Code 迁移过 `source-command-*`，可在 Windows 上统一为不带前缀的技能名：
+
+```bat
+.\scripts\install-codex-prompts.bat -RetireMigrated
+```
+
+安装器先安装并校验新版，再把识别出的旧迁移技能移到 `%CODEX_HOME%\backups\ai-berkshire-<时间戳>`（未设置时为 `%USERPROFILE%\.codex\backups\...`），保留完整文件并校验 SHA-256。未指定 `-RetireMigrated` 时只提示重复，不清理；无关技能不会被移走。已有同名新版文件发生变化时也会先备份。旧 `$source-command-investment-research` 入口归档后改用 `$investment-research`。
+
+Windows 用户修改 `skills/*.md` 后，需要先重新生成再安装；可用已安装的 `uv` 明确选择 Python，避开系统别名：
+
+```powershell
+uv run --no-project --python 3.12 python scripts/sync-codex-skills.py
+uv run --no-project --python 3.12 python scripts/sync-codex-prompts.py
 ```
 
 仓库同时维护三套入口：`skills/*.md` 是 Claude Code command 源文件；`codex-skills/*/SKILL.md` 是 Codex skill 包，由 `scripts/sync-codex-skills.py` 从 `skills/*.md` 生成；`codex-prompts/*.md` 是可选的 Codex slash prompt 兼容层。
@@ -377,10 +394,10 @@ REM 可选：安装 Codex slash prompts
 /wechat-article 美团
 ```
 
-在 Codex 中安装后重启 Codex，然后直接按 skill 名称描述任务，例如：
+在 Codex 中安装后，重启 CLI 或在 VS Code 执行 `Developer: Reload Window` 并新建会话。输入 `$` 可选择技能，也可直接按 skill 名称描述任务，例如：
 
 ```text
-使用 investment-research 研究腾讯
+$investment-research 腾讯
 使用 earnings-review 分析 PDD 2025年报
 使用 industry-funnel 筛选 AI算力
 使用 bottleneck-hunter 扫描 AI基础设施瓶颈
@@ -388,11 +405,13 @@ REM 可选：安装 Codex slash prompts
 使用 wechat-article 写美团投研文章
 ```
 
-如果安装了 Codex slash prompts，重启 Codex 后也可以在 `/` 菜单里搜索这些 prompt。Codex 官方的 custom prompt 入口通常显示为 `prompts:<name>`，例如：
+如果安装了 Codex slash prompts，重启 Codex 后也可以在 `/` 菜单里搜索这些 prompt。注意这不是 VS Code 自己的命令面板。Codex 的 custom prompt 入口为 `prompts:<name>`，例如：
 
 ```text
 /prompts:investment-research 腾讯
 ```
+
+[OpenAI 官方文档](https://developers.openai.com/codex/custom-prompts)已将 custom prompts 标为弃用；优先使用 Skills，slash prompts 仅保留为兼容入口。
 
 ---
 
@@ -664,7 +683,7 @@ REM 可选：安装 Codex slash prompts
 
 <!-- REPORTS-INDEX:START 由 tools/reports_index.py 自动更新，勿手改 -->
 
-**📊 [全部研究索引 →](reports/README.md)** ｜ 2274 份报告 · 111 家公司 · 29 个专题 · 更新至 2026-10-28
+**📊 [全部研究索引 →](reports/README.md)** ｜ 2275 份报告 · 112 家公司 · 29 个专题 · 更新至 2026-10-28
 
 最近更新：
 
@@ -674,8 +693,8 @@ REM 可选：安装 Codex slash prompts
 | 2026-10-27 | [腾讯控股（00700.HK）投资研究报告](reports/腾讯/腾讯投资研究报告-workbuddy-20261027.md) | 腾讯 |
 | 2026-10-25 | [腾讯与快手估值及三年、十年回报研究报告](reports/腾讯快手比较/估值-20261025/腾讯与快手估值及三年十年回报研究报告-20261025.md) | 腾讯快手比较 |
 | 2026-10-25 | [腾讯估值证据与经营分析底稿](reports/腾讯快手比较/估值-20261025/tencent_research.md) | 腾讯快手比较 |
+| 2026-10-25 | [东阿阿胶（000423）研究报告](reports/东阿阿胶/东阿阿胶研究报告-20261025.md) | 东阿阿胶 |
 | 2026-10-24 | [恒生科技与纳斯达克估值对比研究报告](reports/恒生科技/恒生科技与纳斯达克估值对比-20261024.md) | 恒生科技 |
-| 2026-10-23 | [恒生科技估值全景：指数与十家公司的历史位置（2026-10-23）](reports/恒生科技/恒生科技估值全景-20261023.md) | 恒生科技 |
 
 <!-- REPORTS-INDEX:END -->
 
