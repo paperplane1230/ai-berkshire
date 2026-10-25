@@ -5,7 +5,7 @@ argument-hint: $ARGUMENTS
 
 Use the installed AI Berkshire Codex skill `era-alpha` for this request.
 
-If the skill is not already loaded, read and follow `~/ai-berkshire/codex-skills/era-alpha/SKILL.md`.
+If the skill is not already loaded, find its `SKILL.md` in the available skills list, or read `codex-skills/era-alpha/SKILL.md` from the actual AI Berkshire checkout. Do not assume a fixed home-directory checkout path.
 
 User arguments:
 $ARGUMENTS

@@ -1,0 +1,66 @@
+{
+  "as_of": "2026-10-25",
+  "price_date": "2026-10-23",
+  "currency": "CNY",
+  "price": "46.96",
+  "shares": "639826824",
+  "reported_market_cap": "30046000000",
+  "annual_original": {
+    "2021": {"revenue":"3848985686.56","profit":"440439963.60","adjusted_profit":"352383752.92","ocf":"2800902528.25","capex":"24696727.03"},
+    "2022": {"revenue":"4041818347.54","profit":"779998116.10","adjusted_profit":"699829938.05","ocf":"2144878185.39","capex":"45574466.97"},
+    "2023": {"revenue":"4715265729.50","profit":"1150878550.46","adjusted_profit":"1082628480.93","ocf":"1953438009.50","capex":"54450096.03"},
+    "2024": {"revenue":"5920785955.41","profit":"1557000775.65","adjusted_profit":"1441714437.09","ocf":"2170810025.93","capex":"97399340.30"},
+    "2025": {"revenue":"6700474184.47","profit":"1738741090.72","adjusted_profit":"1638084776.94","ocf":"2289207775.27","capex":"82671902.76"}
+  },
+  "annual_restated": {
+    "2023": {"revenue":"5863706702.80","profit":"1156957243.58","adjusted_profit":"1088707174.05","ocf":"1813849199.54"},
+    "2024": {"revenue":"6156708052.00","profit":"1557132327.91","adjusted_profit":"1441714437.09","ocf":"2850716944.11"}
+  },
+  "ytd_2025q3": {
+    "revenue":"4766370643.52","profit":"1273820095.44","adjusted_profit":"1155183777.91","ocf":"1309738675.60","capex":"43958365.77",
+    "cost":"1254257305.66","operating_profit":"1505796001.81","selling":"1676115695.22","admin":"288969512.62","rd":"145195991.72",
+    "ar":"524989032.48","contract_liabilities":"522443178.45",
+    "cash_received":"4659695144.19","tax_refund":"21.13","other_inflow":"68323614.15","purchase_cash":"766239515.43","staff_cash":"680032198.84","tax_cash":"609690874.74","other_outflow":"1362317514.86"
+  },
+  "h1_2026": {
+    "revenue":"3155143496.50","profit":"860377588.81","adjusted_profit":"819872358.90","ocf":"81567258.59","capex":"213910790.52",
+    "ar":"588596585.49","contract_liabilities":"433238768.19",
+    "cash":"5011024977.94","trading_assets":"2966712188.58",
+    "ejiao_revenue":"2832685594.03","ejiao_revenue_prior":"2845391822.71","other_medicine_revenue":"264483020.75","other_medicine_prior":"141666478.25"
+  },
+  "h1_2025_restated_in_2026": {"revenue":"3051583802.55","profit":"814303895.42","adjusted_profit":"784148198.44","ocf":"966238927.23"},
+  "q3_2026_standalone": {"revenue":"1785103894.84","profit":"469345667.52","adjusted_profit":"438896249.91"},
+  "ytd_2026q3": {
+    "revenue":"4940247391.34","profit":"1329723256.33","adjusted_profit":"1258768608.81","ocf":"399698391.92","capex":"281494510.57",
+    "cost":"1240876895.99","operating_profit":"1572657737.58","selling":"1643884785.56","admin":"331468300.56","rd":"196255704.68",
+    "ar":"893063420.93","contract_liabilities":"431710977.99","cash":"3670798598.29","trading_assets":"3611072057.36",
+    "cash_equivalents":"2642693140.76","lease_current":"33226952.05","lease_noncurrent":"27960343.20","bank_debt":"0",
+    "equity_parent":"9769625041.54","equity_total":"9865257283.57","assets":"12423545876.67","liabilities":"2558288593.10",
+    "inventory":"755740599.23","inventory_start":"835537856.48","ar_start":"132242688.40","contract_start":"692718033.71",
+    "goodwill":"24181593.07","intangibles":"496627484.53","acquisitions_cash":"85796834.90",
+    "dividends_interest_cash":"1781478986.70","other_financing_cash":"134470041.34",
+    "cash_received":"4275715592.30","tax_refund":"793669.11","other_inflow":"124884151.93","purchase_cash":"856395712.93","staff_cash":"741388345.19","tax_cash":"722698026.81","other_outflow":"1681212936.49"
+  },
+  "three_year_assumptions": [
+    {"name":"悲观","growth":"-0.05","pe":"12"},
+    {"name":"基准","growth":"0.05","pe":"16"},
+    {"name":"乐观","growth":"0.10","pe":"20"}
+  ],
+  "ten_year_assumptions": {
+    "r":"0.08","roic":"0.20","rf_normalized":"0.025","rf_tool_reference":"0.017","beta":"1.0","payout_ratio":"0.70",
+    "scenarios":[
+      {"name":"悲观","growth":"-0.03","terminal_g":"0","probability":"0.30"},
+      {"name":"基准","growth":"0.05","terminal_g":"0.015","probability":"0.50"},
+      {"name":"乐观","growth":"0.10","terminal_g":"0.02","probability":"0.20"}
+    ],
+    "discrete_risks":"渠道回款持续恶化:情景,重大质量或监管事件:未建模,重大并购失败:未建模"
+  },
+  "notes": [
+    "全部原始金额为人民币元；历史2021-2024是当年原披露，不与2025重述口径拼接有机增速。",
+    "TTM=2025全年+2026前三季-2025前三季；2025比较数使用完整三季报及2026三季报的比较列。",
+    "净现金参考包含交易性金融资产，未声称全部为可自由分配现金；估值不另加该现金以免重复。",
+    "增长、倍数、派息率、概率、折现率、稳态ROIC均为研究假设，不是外部事实或管理层指引。",
+    "r=8%=长期归一化rf假设2.5%+风险补偿假设5.5%；不是2026-10-25实测CAPM。工具口径校验的rf另沿用其硬编码2026-08参考1.7%，不当成今日行情，亦不用于改变折现率。",
+    "不包含用户股数、现金、成本或私人资产数据。"
+  ]
+}
