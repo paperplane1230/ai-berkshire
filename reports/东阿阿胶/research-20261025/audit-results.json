@@ -1,0 +1,508 @@
+{
+  "seed": 20261025,
+  "extracted_count": 161,
+  "random_sample": [
+    {
+      "id": 9,
+      "label": "营业利润率 · 2025年前三季度",
+      "reported_value": 31.59,
+      "unit": "%",
+      "raw_text": "| 营业利润率 | 31.59% | 31.83% | +0.24个百分点 |",
+      "line_number": 41
+    },
+    {
+      "id": 12,
+      "label": "销售费用率 · 2026年前三季度",
+      "reported_value": 33.28,
+      "unit": "%",
+      "raw_text": "| 销售费用率 | 35.17% | 33.28% | -1.89个百分点 |",
+      "line_number": 42
+    },
+    {
+      "id": 14,
+      "label": "经营现金流净额 · 2026年前三季度",
+      "reported_value": 4.0,
+      "unit": "",
+      "raw_text": "| 经营现金流净额 | 13.10 | 4.00 | -69.48% |",
+      "line_number": 43
+    },
+    {
+      "id": 16,
+      "label": "购建长期资产现金支出 · 2026年前三季度",
+      "reported_value": 2.81,
+      "unit": "",
+      "raw_text": "| 购建长期资产现金支出 | 0.44 | 2.81 | +540.37% |",
+      "line_number": 44
+    },
+    {
+      "id": 19,
+      "label": "营业收入 · 2024原披露",
+      "reported_value": 59.21,
+      "unit": "",
+      "raw_text": "| 营业收入 | 59.21 | 61.57 | 67.00 | +13.17% | +8.83% |",
+      "line_number": 69
+    },
+    {
+      "id": 20,
+      "label": "营业收入 · 2024按2025年报重述",
+      "reported_value": 61.57,
+      "unit": "",
+      "raw_text": "| 营业收入 | 59.21 | 61.57 | 67.00 | +13.17% | +8.83% |",
+      "line_number": 69
+    },
+    {
+      "id": 22,
+      "label": "营业收入 · 对原数增速",
+      "reported_value": 13.17,
+      "unit": "%",
+      "raw_text": "| 营业收入 | 59.21 | 61.57 | 67.00 | +13.17% | +8.83% |",
+      "line_number": 69
+    },
+    {
+      "id": 26,
+      "label": "经营现金流 · 2025实际",
+      "reported_value": 22.89,
+      "unit": "",
+      "raw_text": "| 经营现金流 | 21.71 | 28.51 | 22.89 | +5.45% | -19.70% |",
+      "line_number": 70
+    },
+    {
+      "id": 35,
+      "label": "归母利润口径PE · 截至2026年9月TTM",
+      "reported_value": 16.74,
+      "unit": "倍",
+      "raw_text": "| 归母利润口径PE | 16.74倍 |",
+      "line_number": 86
+    },
+    {
+      "id": 37,
+      "label": "PB · 截至2026年9月TTM",
+      "reported_value": 3.08,
+      "unit": "倍",
+      "raw_text": "| PB | 3.08倍 |",
+      "line_number": 88
+    },
+    {
+      "id": 51,
+      "label": "毛驴养殖及驴肉／贸易 · 2025占比",
+      "reported_value": 0.87,
+      "unit": "%",
+      "raw_text": "| 毛驴养殖及驴肉／贸易 | 0.58 | 0.87% | 0.22 | 0.70% | -34.48% |",
+      "line_number": 120
+    },
+    {
+      "id": 58,
+      "label": "其他 · H1占比",
+      "reported_value": 1.14,
+      "unit": "%",
+      "raw_text": "| 其他 | 0.58 | 0.87% | 0.36 | 1.14% | +16.62% |",
+      "line_number": 121
+    },
+    {
+      "id": 66,
+      "label": "2026-03-31 · 应收账款净额",
+      "reported_value": 5.07,
+      "unit": "",
+      "raw_text": "| 2026-03-31 | 5.07 | 4.95 | 0.29 |",
+      "line_number": 180
+    },
+    {
+      "id": 87,
+      "label": "两项合计 · 金额",
+      "reported_value": 72.82,
+      "unit": "",
+      "raw_text": "| 两项合计 | 72.82 | 广义流动金融资产参考，不是全部冗余现金 |",
+      "line_number": 250
+    },
+    {
+      "id": 92,
+      "label": "分红 · 已确认事实",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 分红 | 2025年度剩余权益分派、2026中期分派均已实施 | 是真实股东回报；预案与实施基数有差异，不能重复计算，也不能保证未来派息 |",
+      "line_number": 273
+    },
+    {
+      "id": 94,
+      "label": "新一批拟注销 · 已确认事实",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| 新一批拟注销 | 10月公告拟注销剩余回购股份38.5869万股 | 截止日尚不是已完成事项，不从本报告股本中提前扣除 |",
+      "line_number": 275
+    },
+    {
+      "id": 98,
+      "label": "悲观 · EPS年增速假设",
+      "reported_value": -5.0,
+      "unit": "%",
+      "raw_text": "| 悲观 | -5% | 12倍 | 2.3339元 | 28.01元 | -40.36% | -11.47% |",
+      "line_number": 329
+    },
+    {
+      "id": 100,
+      "label": "悲观 · 三年后EPS",
+      "reported_value": 2.3339,
+      "unit": "",
+      "raw_text": "| 悲观 | -5% | 12倍 | 2.3339元 | 28.01元 | -40.36% | -11.47% |",
+      "line_number": 329
+    },
+    {
+      "id": 109,
+      "label": "基准 · 含假设分红的年化IRR",
+      "reported_value": 6.76,
+      "unit": "%",
+      "raw_text": "| 基准 | +5% | 16倍 | 3.1512元 | 50.42元 | +7.37% | +6.76% |",
+      "line_number": 330
+    },
+    {
+      "id": 105,
+      "label": "基准 · 三年后PE假设",
+      "reported_value": 16.0,
+      "unit": "倍",
+      "raw_text": "| 基准 | +5% | 16倍 | 3.1512元 | 50.42元 | +7.37% | +6.76% |",
+      "line_number": 330
+    },
+    {
+      "id": 108,
+      "label": "基准 · 对46.96元价格变化",
+      "reported_value": 7.37,
+      "unit": "%",
+      "raw_text": "| 基准 | +5% | 16倍 | 3.1512元 | 50.42元 | +7.37% | +6.76% |",
+      "line_number": 330
+    },
+    {
+      "id": 114,
+      "label": "乐观 · 对46.96元价格变化",
+      "reported_value": 54.31,
+      "unit": "%",
+      "raw_text": "| 乐观 | +10% | 20倍 | 3.6231元 | 72.46元 | +54.31% | +19.81% |",
+      "line_number": 331
+    },
+    {
+      "id": 113,
+      "label": "乐观 · 三年后价格",
+      "reported_value": 72.46,
+      "unit": "",
+      "raw_text": "| 乐观 | +10% | 20倍 | 3.6231元 | 72.46元 | +54.31% | +19.81% |",
+      "line_number": 331
+    },
+    {
+      "id": 124,
+      "label": "乐观 · 第十年利润（亿元）",
+      "reported_value": 45.17,
+      "unit": "",
+      "raw_text": "| 乐观 | 45.17 | 2% | 6.0个百分点 | 15.00倍 |",
+      "line_number": 361
+    },
+    {
+      "id": 147,
+      "label": "2025收入 · 第二来源",
+      "reported_value": 67.0,
+      "unit": "亿元",
+      "raw_text": "| 2025收入 | 67.0047亿元 | 新华社67亿元 | 四舍五入差异，低于1% |",
+      "line_number": 498
+    }
+  ],
+  "excluded_non_financial": [
+    {
+      "id": 92,
+      "label": "分红 · 已确认事实",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 分红 | 2025年度剩余权益分派、2026中期分派均已实施 | 是真实股东回报；预案与实施基数有差异，不能重复计算，也不能保证未来派息 |",
+      "line_number": 273,
+      "reason": "2025是年度，不是分红金额。分红执行状态另对S9法定公告核验。"
+    },
+    {
+      "id": 94,
+      "label": "新一批拟注销 · 已确认事实",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| 新一批拟注销 | 10月公告拟注销剩余回购股份38.5869万股 | 截止日尚不是已完成事项，不从本报告股本中提前扣除 |",
+      "line_number": 275,
+      "reason": "10是公告月份，不是注销股数；拟注销状态另对S9核验。"
+    }
+  ],
+  "checks": [
+    {
+      "id": 9,
+      "label": "营业利润率 · 2025年前三季度",
+      "reported_value": 31.59,
+      "unit": "%",
+      "raw_text": "| 营业利润率 | 31.59% | 31.83% | +0.24个百分点 |",
+      "line_number": 41,
+      "fetched_value": 31.5920878678868,
+      "fetched_source": "S1 p11 上年营业利润/收入；公式复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 12,
+      "label": "销售费用率 · 2026年前三季度",
+      "reported_value": 33.28,
+      "unit": "%",
+      "raw_text": "| 销售费用率 | 35.17% | 33.28% | -1.89个百分点 |",
+      "line_number": 42,
+      "fetched_value": 33.27535354690224,
+      "fetched_source": "S1 p11 销售费用/收入；公式复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 14,
+      "label": "经营现金流净额 · 2026年前三季度",
+      "reported_value": 4.0,
+      "unit": "",
+      "raw_text": "| 经营现金流净额 | 13.10 | 4.00 | -69.48% |",
+      "line_number": 43,
+      "fetched_value": 3.9969839192,
+      "fetched_source": "S1 p13；S11观点网4.00亿元交叉",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 16,
+      "label": "购建长期资产现金支出 · 2026年前三季度",
+      "reported_value": 2.81,
+      "unit": "",
+      "raw_text": "| 购建长期资产现金支出 | 0.44 | 2.81 | +540.37% |",
+      "line_number": 44,
+      "fetched_value": 2.8149451057,
+      "fetched_source": "S1 p13原件；仅公司底层来源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 19,
+      "label": "营业收入 · 2024原披露",
+      "reported_value": 59.21,
+      "unit": "",
+      "raw_text": "| 营业收入 | 59.21 | 61.57 | 67.00 | +13.17% | +8.83% |",
+      "line_number": 69,
+      "fetched_value": 59.2078595541,
+      "fetched_source": "S4 p9调整前列；S5 2024年报",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 20,
+      "label": "营业收入 · 2024按2025年报重述",
+      "reported_value": 61.57,
+      "unit": "",
+      "raw_text": "| 营业收入 | 59.21 | 61.57 | 67.00 | +13.17% | +8.83% |",
+      "line_number": 69,
+      "fetched_value": 61.56708052,
+      "fetched_source": "S4 p9调整后列，已视觉复核",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 22,
+      "label": "营业收入 · 对原数增速",
+      "reported_value": 13.17,
+      "unit": "%",
+      "raw_text": "| 营业收入 | 59.21 | 61.57 | 67.00 | +13.17% | +8.83% |",
+      "line_number": 69,
+      "fetched_value": 13.168660967174054,
+      "fetched_source": "S4 p9；公式复算，非同口径有机增长",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 26,
+      "label": "经营现金流 · 2025实际",
+      "reported_value": 22.89,
+      "unit": "",
+      "raw_text": "| 经营现金流 | 21.71 | 28.51 | 22.89 | +5.45% | -19.70% |",
+      "line_number": 70,
+      "fetched_value": 22.8920777527,
+      "fetched_source": "S4；S12新华社22.89亿元交叉",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 35,
+      "label": "归母利润口径PE · 截至2026年9月TTM",
+      "reported_value": 16.74,
+      "unit": "倍",
+      "raw_text": "| 归母利润口径PE | 16.74倍 |",
+      "line_number": 86,
+      "fetched_value": 16.74218588340563,
+      "fetched_source": "S1/S2/S4利润与S13股价/股本；Decimal复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 37,
+      "label": "PB · 截至2026年9月TTM",
+      "reported_value": 3.08,
+      "unit": "倍",
+      "raw_text": "| PB | 3.08倍 |",
+      "line_number": 88,
+      "fetched_value": 3.0754780789728,
+      "fetched_source": "S1 p10归母净资产与S13市值；公式复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 51,
+      "label": "毛驴养殖及驴肉／贸易 · 2025占比",
+      "reported_value": 0.87,
+      "unit": "%",
+      "raw_text": "| 毛驴养殖及驴肉／贸易 | 0.58 | 0.87% | 0.22 | 0.70% | -34.48% |",
+      "line_number": 120,
+      "fetched_value": 0.8713748208346882,
+      "fetched_source": "S4 p16产品表；公司披露单源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 58,
+      "label": "其他 · H1占比",
+      "reported_value": 1.14,
+      "unit": "%",
+      "raw_text": "| 其他 | 0.58 | 0.87% | 0.36 | 1.14% | +16.62% |",
+      "line_number": 121,
+      "fetched_value": 1.1354592423368723,
+      "fetched_source": "S3 p14产品表；公司披露单源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 66,
+      "label": "2026-03-31 · 应收账款净额",
+      "reported_value": 5.07,
+      "unit": "",
+      "raw_text": "| 2026-03-31 | 5.07 | 4.95 | 0.29 |",
+      "line_number": 180,
+      "fetched_value": 5.065995475,
+      "fetched_source": "S6 2026Q1资产负债表",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 87,
+      "label": "两项合计 · 金额",
+      "reported_value": 72.82,
+      "unit": "",
+      "raw_text": "| 两项合计 | 72.82 | 广义流动金融资产参考，不是全部冗余现金 |",
+      "line_number": 250,
+      "fetched_value": 72.8187065565,
+      "fetched_source": "S1 p9货币资金加交易性资产，非现金等价物",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 98,
+      "label": "悲观 · EPS年增速假设",
+      "reported_value": -5.0,
+      "unit": "%",
+      "raw_text": "| 悲观 | -5% | 12倍 | 2.3339元 | 28.01元 | -40.36% | -11.47% |",
+      "line_number": 329,
+      "fetched_value": -5.0,
+      "fetched_source": "inputs.json三年悲观增速；假设一致性，不是外部核验",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 100,
+      "label": "悲观 · 三年后EPS",
+      "reported_value": 2.3339,
+      "unit": "",
+      "raw_text": "| 悲观 | -5% | 12倍 | 2.3339元 | 28.01元 | -40.36% | -11.47% |",
+      "line_number": 329,
+      "fetched_value": 2.333856481174694,
+      "fetched_source": "扣非TTM每股利润*(1-5%)^3；模型复算",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 109,
+      "label": "基准 · 含假设分红的年化IRR",
+      "reported_value": 6.76,
+      "unit": "%",
+      "raw_text": "| 基准 | +5% | 16倍 | 3.1512元 | 50.42元 | +7.37% | +6.76% |",
+      "line_number": 330,
+      "fetched_value": 6.7637973955573765,
+      "fetched_source": "三年各期分红与退出价现金流求根",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 105,
+      "label": "基准 · 三年后PE假设",
+      "reported_value": 16.0,
+      "unit": "倍",
+      "raw_text": "| 基准 | +5% | 16倍 | 3.1512元 | 50.42元 | +7.37% | +6.76% |",
+      "line_number": 330,
+      "fetched_value": 16.0,
+      "fetched_source": "inputs.json三年基准PE；假设一致性，不是外部核验",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 108,
+      "label": "基准 · 对46.96元价格变化",
+      "reported_value": 7.37,
+      "unit": "%",
+      "raw_text": "| 基准 | +5% | 16倍 | 3.1512元 | 50.42元 | +7.37% | +6.76% |",
+      "line_number": 330,
+      "fetched_value": 7.365097212003565,
+      "fetched_source": "三年基准退出价/现价-1；模型复算",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 114,
+      "label": "乐观 · 对46.96元价格变化",
+      "reported_value": 54.31,
+      "unit": "%",
+      "raw_text": "| 乐观 | +10% | 20倍 | 3.6231元 | 72.46元 | +54.31% | +19.81% |",
+      "line_number": 331,
+      "fetched_value": 54.30617038027939,
+      "fetched_source": "三年乐观退出价/现价-1；模型复算",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 113,
+      "label": "乐观 · 三年后价格",
+      "reported_value": 72.46,
+      "unit": "",
+      "raw_text": "| 乐观 | +10% | 20倍 | 3.6231元 | 72.46元 | +54.31% | +19.81% |",
+      "line_number": 331,
+      "fetched_value": 72.4621776105792,
+      "fetched_source": "扣非TTM每股利润*(1+10%)^3*20；模型复算",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 124,
+      "label": "乐观 · 第十年利润（亿元）",
+      "reported_value": 45.17,
+      "unit": "",
+      "raw_text": "| 乐观 | 45.17 | 2% | 6.0个百分点 | 15.00倍 |",
+      "line_number": 361,
+      "fetched_value": 45.17442413320324,
+      "fetched_source": "扣非TTM利润*(1+10%)^10；模型复算",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 147,
+      "label": "2025收入 · 第二来源",
+      "reported_value": 67.0,
+      "unit": "亿元",
+      "raw_text": "| 2025收入 | 67.0047亿元 | 新华社67亿元 | 四舍五入差异，低于1% |",
+      "line_number": 498,
+      "fetched_value": 67.0,
+      "fetched_source": "S12新华网2026-03-25报道；与S4原件67.0047亿元相核",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 1001,
+      "label": "重点复核：应收账款同季同比",
+      "reported_value": 70.11,
+      "unit": "%",
+      "fetched_value": 70.11087197598212,
+      "fetched_source": "S1与S2应收原数相除；S11蓝鲸70.11%",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 1002,
+      "label": "重点复核：完整经营现金桥净减少",
+      "reported_value": 9.1004,
+      "unit": "亿元",
+      "fetched_value": 9.1004028368,
+      "fetched_source": "S1 p13逐项现金变化合计，并与累计OCF差额逐分对账",
+      "audit_kind": "derived"
+    }
+  ],
+  "outcome": {
+    "verdict": "PASS",
+    "pass_count": 25,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 25,
+    "fail_items": [],
+    "warn_items": []
+  }
+}

@@ -49,8 +49,10 @@ def prompt_for(source: Path) -> str:
         "argument-hint: $ARGUMENTS\n"
         "---\n\n"
         f"Use the installed AI Berkshire Codex skill `{name}` for this request.\n\n"
-        f"If the skill is not already loaded, read and follow "
-        f"`~/ai-berkshire/codex-skills/{name}/SKILL.md`.\n\n"
+        "If the skill is not already loaded, find its `SKILL.md` in the "
+        "available skills list, or read "
+        f"`codex-skills/{name}/SKILL.md` from the actual AI Berkshire checkout. "
+        "Do not assume a fixed home-directory checkout path.\n\n"
         "User arguments:\n"
         "$ARGUMENTS\n"
     )
