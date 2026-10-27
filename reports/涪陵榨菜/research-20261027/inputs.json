@@ -1,0 +1,80 @@
+{
+  "company": "涪陵榨菜",
+  "ticker": "002507",
+  "cutoff": "2026-10-27 Asia/Shanghai, after Q3 publication",
+  "price": "11.22",
+  "shares": "1153919028",
+  "reported_market_cap": "12947000000",
+  "historical_dividend_per_share": "0.42",
+  "annual": {
+    "2021": {"revenue":"2518647389.14","cost":"1199939736.71","profit":"741958457.29","adjusted_profit":"694494519.76","ocf":"745482455.96","capex":"140901597.20","interest_income":"96153157.56"},
+    "2022": {"revenue":"2548315095.90","cost":"1193997883.40","profit":"898803656.42","adjusted_profit":"817884554.28","ocf":"1079101901.90","capex":"131424637.74","interest_income":"104843798.08"},
+    "2023": {"revenue":"2449845145.50","cost":"1207405086.51","profit":"826577951.57","adjusted_profit":"755749061.39","ocf":"435487097.89","capex":"114683256.52","interest_income":"101522009.77"},
+    "2024": {"revenue":"2387126126.55","cost":"1169971308.07","profit":"799346652.13","adjusted_profit":"732116635.19","ocf":"816944577.91","capex":"261334881.02","interest_income":"102302017.44"},
+    "2025": {"revenue":"2431922780.17","cost":"1176382059.33","profit":"768034038.98","adjusted_profit":"697935713.13","ocf":"657219112.63","capex":"412339337.48","interest_income":"90305534.79"}
+  },
+  "ytd_2025q3": {
+    "revenue":"1998577368.74","profit":"672969983.10","adjusted_profit":"615117387.91",
+    "ocf":"446958791.53","capex":"306326512.76","cost":"924726200.78",
+    "selling":"319277671.65","administration":"61427189.56","rd":"7523326.83",
+    "operating_profit":"798088648.49","interest_income":"66647594.29",
+    "investment_income":"59372827.72","fair_value_gain":"4292840.52",
+    "ar":"120875334.19","contract_liabilities":"41323458.09","inventory":"648830136.88",
+    "cash_received":"2117130442.50","tax_refund":"7866008.79","other_inflow":"59808388.16",
+    "purchase_cash":"815961846.06","staff_cash":"299909866.45","tax_cash":"250618988.32","other_outflow":"371355347.09"
+  },
+  "ytd_2026q3": {
+    "revenue":"2067509518.74","profit":"613891650.82","adjusted_profit":"581904031.35",
+    "ocf":"691282029.56","capex":"398688469.66","cost":"985995547.21",
+    "selling":"334204388.24","administration":"61344011.39","rd":"21067739.80",
+    "operating_profit":"727818728.81","interest_income":"54404339.53",
+    "investment_income":"31159976.95","fair_value_gain":"2122100.59",
+    "cash_received":"2156744391.13","tax_refund":"2932825.90","other_inflow":"47241633.93",
+    "purchase_cash":"683025873.49","staff_cash":"300959113.43","tax_cash":"240261608.88","other_outflow":"291390225.60",
+    "cash":"2900736352.79","trading_assets":"3491711152.72","cash_equivalents":"545725523.24",
+    "other_current_assets":"215335664.71","bank_debt":"0","lease_current":"79089.88","lease_noncurrent":"0",
+    "equity_parent":"9110211863.26","assets":"9771089090.09","liabilities":"660877226.83",
+    "ar":"143583620.28","ar_start":"29169038.48","contract_liabilities":"57348047.73","contract_start":"93740962.85",
+    "inventory":"485243114.98","inventory_start":"626157797.45","construction":"933152731.23","construction_start":"654843945.82",
+    "goodwill":"38913076.54","intangibles":"503237743.99","dividend_interest_cash":"484645991.76"
+  },
+  "h1_2026": {"revenue":"1365457936.38","profit":"409000775.87","adjusted_profit":"387489996.90","ocf":"366074201.30","cost":"642596892.88","selling":"229597242.17","rd":"9944589.39","interest_income":"39545288.80","investment_income":"19989907.18","fair_value_gain":"2276169.55"},
+  "h1_2025": {"revenue":"1312643377.38","profit":"440706766.02","adjusted_profit":"414885000.22","ocf":"124003304.19","cost":"601855800.21","selling":"195246315.96","rd":"4845756.49","interest_income":"43796731.22","investment_income":"18251096.91","fair_value_gain":"8392685.46"},
+  "products_2025": {
+    "榨菜":{"revenue":"2059471664.42","prior_revenue":"2044418784.36","cost":"910468972.04","volume_tonnes":"111800","prior_volume_tonnes":"111400"},
+    "萝卜":{"revenue":"57489753.59","prior_revenue":"46071253.32"},
+    "泡菜":{"revenue":"214242739.12","prior_revenue":"229999755.73"},
+    "其他产品":{"revenue":"96566036.88","prior_revenue":"62373243.60"},
+    "其他业务":{"revenue":"4152586.16","prior_revenue":"4263089.54"}
+  },
+  "products_h1_2026": {
+    "榨菜":{"revenue":"1151418864.12","prior_revenue":"1122632937.52","cost":"489293111.87","volume_tonnes":"61000","prior_volume_tonnes":"59300"},
+    "萝卜":{"revenue":"26427445.01","prior_revenue":"33149268.50","cost":"21371857.18"},
+    "泡菜":{"revenue":"108294582.75","prior_revenue":"118591341.23","cost":"72777021.28"},
+    "其他产品":{"revenue":"77395853.11","prior_revenue":"36545560.96","cost":"56627838.67"},
+    "其他业务":{"revenue":"1921191.39","prior_revenue":"1724269.17","cost":"2527063.88"}
+  },
+  "three_year_assumptions": [
+    {"name":"悲观","growth":"-0.03","pe":"14"},
+    {"name":"基准","growth":"0.03","pe":"18"},
+    {"name":"乐观","growth":"0.07","pe":"22"}
+  ],
+  "ten_year_assumptions": {
+    "r":"0.08","roic":"0.15","payout_ratio":"0.70","rf_tool_reference":"0.017",
+    "discrete_risks":"食品安全:未建模,基地投产回报不佳:情景,原料及渠道压力:情景,治理与资本配置失误:未建模",
+    "scenarios":[
+      {"name":"悲观","growth":"-0.02","terminal_g":"0","probability":"0.25"},
+      {"name":"基准","growth":"0.03","terminal_g":"0.01","probability":"0.55"},
+      {"name":"乐观","growth":"0.06","terminal_g":"0.02","probability":"0.20"}
+    ]
+  },
+  "sotp_assumptions": {"interest_tax_rate":"0.15","core_pe":["14","16","18"],"surplus_cash":["2800000000","3200000000","3600000000"],"cash_realization_delay_years":"3"},
+  "notes": [
+    "All monetary financial-statement inputs are CNY, not CNY 100 million. Public company data only.",
+    "2025 Q3 adjusted profit is the exact sum of 2025 annual report Q1-Q3; not inferred from rounded growth.",
+    "Valuation assumptions are judgments, not management guidance. Consolidated earnings models DO NOT add cash.",
+    "SOTP separately removes after-tax bank interest from adjusted TTM profit; investment-product gains already excluded by adjusted profit. Do not combine SOTP with consolidated DCF.",
+    "Other-current-assets composition at Q3 lacks detailed notes; excluded from the conservative liquid-asset reference to avoid treating all assets as cash.",
+    "The 2026 interim dividend proposal is not counted as paid. 0.42 is historical annual declared dividend, not a forward promise."
+  ]
+}
