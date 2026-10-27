@@ -1,6 +1,6 @@
 {
-  "count": 2485,
-  "published": 2275,
+  "count": 2486,
+  "published": 2276,
   "drafts": 210,
   "reports": [
     {
@@ -24,6 +24,17 @@
       "date": "2026-10-27",
       "date_source": "文件名",
       "ticker": ""
+    },
+    {
+      "title": "涪陵榨菜（002507）研究报告",
+      "path": "reports/涪陵榨菜/涪陵榨菜研究报告-20261027.md",
+      "bucket": "公司",
+      "group": "涪陵榨菜",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-27",
+      "date_source": "文件名",
+      "ticker": "002507.SZ"
     },
     {
       "title": "腾讯与快手估值及三年、十年回报研究报告",

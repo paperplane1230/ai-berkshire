@@ -1,0 +1,698 @@
+{
+  "seed": 20261027,
+  "sample_ratio": 0.15,
+  "extracted_count": 197,
+  "random_sample": [
+    {
+      "id": 194,
+      "label": "巨潮原件落款为10月28日，但观点网在10月27日16",
+      "reported_value": 49.0,
+      "unit": "",
+      "raw_text": "**阅读提示：三季报已出。** 巨潮原件落款为10月28日，但观点网在10月27日16:49、财联社在17:15已刊发相应数据；本次直接下载、阅读并核验原PDF。因此本报告不是以半年报代替最新财报。[S1][S8][S9]",
+      "line_number": 9
+    },
+    {
+      "id": 195,
+      "label": "财联社在17",
+      "reported_value": 15.0,
+      "unit": "",
+      "raw_text": "**阅读提示：三季报已出。** 巨潮原件落款为10月28日，但观点网在10月27日16:49、财联社在17:15已刊发相应数据；本次直接下载、阅读并核验原PDF。因此本报告不是以半年报代替最新财报。[S1][S8][S9]",
+      "line_number": 9
+    },
+    {
+      "id": 7,
+      "label": "合并毛利率 · 2025前三季度",
+      "reported_value": 53.73,
+      "unit": "%",
+      "raw_text": "| 合并毛利率 | 53.73% | 52.31% | -1.42个百分点 |",
+      "line_number": 53
+    },
+    {
+      "id": 8,
+      "label": "合并毛利率 · 2026前三季度",
+      "reported_value": 52.31,
+      "unit": "%",
+      "raw_text": "| 合并毛利率 | 53.73% | 52.31% | -1.42个百分点 |",
+      "line_number": 53
+    },
+    {
+      "id": 11,
+      "label": "经营现金流（亿元） · 2025前三季度",
+      "reported_value": 4.4696,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 4.4696 | 6.9128 | +54.66% |",
+      "line_number": 55
+    },
+    {
+      "id": 13,
+      "label": "资本开支付现（亿元） · 2025前三季度",
+      "reported_value": 3.0633,
+      "unit": "",
+      "raw_text": "| 资本开支付现（亿元） | 3.0633 | 3.9869 | +30.15% |",
+      "line_number": 56
+    },
+    {
+      "id": 21,
+      "label": "扣非归母（亿元） · 2025单Q3",
+      "reported_value": 2.0023,
+      "unit": "",
+      "raw_text": "| 扣非归母（亿元） | 2.0023 | 1.9441 | -2.91% |",
+      "line_number": 65
+    },
+    {
+      "id": 26,
+      "label": "销售费用（亿元） · 2026单Q3",
+      "reported_value": 1.0461,
+      "unit": "",
+      "raw_text": "| 销售费用（亿元） | 1.2403 | 1.0461 | -15.66% |",
+      "line_number": 67
+    },
+    {
+      "id": 34,
+      "label": "榨菜 · H1收入同比",
+      "reported_value": 2.56,
+      "unit": "%",
+      "raw_text": "| 榨菜 | 20.5947 | 84.68% | 11.5142 | +2.56% | 57.51% |",
+      "line_number": 101
+    },
+    {
+      "id": 40,
+      "label": "萝卜 · H1毛利率",
+      "reported_value": 19.13,
+      "unit": "%",
+      "raw_text": "| 萝卜 | 0.5749 | 2.36% | 0.2643 | -20.28% | 19.13% |",
+      "line_number": 102
+    },
+    {
+      "id": 45,
+      "label": "泡菜 · H1毛利率",
+      "reported_value": 32.8,
+      "unit": "%",
+      "raw_text": "| 泡菜 | 2.1424 | 8.81% | 1.0829 | -8.68% | 32.80% |",
+      "line_number": 103
+    },
+    {
+      "id": 49,
+      "label": "其他产品 · H1收入同比",
+      "reported_value": 111.78,
+      "unit": "%",
+      "raw_text": "| 其他产品 | 0.9657 | 3.97% | 0.7740 | +111.78% | 26.83% |",
+      "line_number": 104
+    },
+    {
+      "id": 54,
+      "label": "其他业务 · H1收入同比",
+      "reported_value": 11.42,
+      "unit": "%",
+      "raw_text": "| 其他业务 | 0.0415 | 0.17% | 0.0192 | +11.42% | 不作为核心产品比较 |",
+      "line_number": 105
+    },
+    {
+      "id": 52,
+      "label": "其他业务 · 2025收入占比",
+      "reported_value": 0.17,
+      "unit": "%",
+      "raw_text": "| 其他业务 | 0.0415 | 0.17% | 0.0192 | +11.42% | 不作为核心产品比较 |",
+      "line_number": 105
+    },
+    {
+      "id": 59,
+      "label": "吨均营业收入（万元/吨） · 2025全年",
+      "reported_value": 1.8421,
+      "unit": "",
+      "raw_text": "| 吨均营业收入（万元/吨） | 1.8421 | 1.8876 |",
+      "line_number": 117
+    },
+    {
+      "id": 60,
+      "label": "吨均营业收入（万元/吨） · 2026H1",
+      "reported_value": 1.8876,
+      "unit": "",
+      "raw_text": "| 吨均营业收入（万元/吨） | 1.8421 | 1.8876 |",
+      "line_number": 117
+    },
+    {
+      "id": 66,
+      "label": "现金及现金等价物 · 金额（亿元）",
+      "reported_value": 5.4573,
+      "unit": "",
+      "raw_text": "| 现金及现金等价物 | 5.4573 | 已在货币资金内，不能重复相加 |",
+      "line_number": 166
+    },
+    {
+      "id": 67,
+      "label": "其他流动资产总额 · 金额（亿元）",
+      "reported_value": 2.1534,
+      "unit": "",
+      "raw_text": "| 其他流动资产总额 | 2.1534 | 含金融及非金融项目，Q3未给完整拆分，不全加进现金 |",
+      "line_number": 167
+    },
+    {
+      "id": 84,
+      "label": "2026年6月末 · 合同负债（亿元）",
+      "reported_value": 0.5856,
+      "unit": "",
+      "raw_text": "| 2026年6月末 | 1.0699 | 0.5856 | 5.9376 |",
+      "line_number": 204
+    },
+    {
+      "id": 99,
+      "label": "现金分红 · 已发生结果",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 现金分红 | 2025所属年度合计0.42元/股，利润派息比例约63.10% | 有股东回报，但不是100%利润派息 |",
+      "line_number": 260
+    },
+    {
+      "id": 105,
+      "label": "市值 · 最新复算值",
+      "reported_value": 129.47,
+      "unit": "亿元",
+      "raw_text": "| 市值 | 129.47亿元 | 价格乘股本，匹配行情源 |",
+      "line_number": 304
+    },
+    {
+      "id": 108,
+      "label": "TTM归母利润 · 最新复算值",
+      "reported_value": 7.0896,
+      "unit": "亿元",
+      "raw_text": "| TTM归母利润 | 7.0896亿元 | 同上 |",
+      "line_number": 306
+    },
+    {
+      "id": 111,
+      "label": "扣非PE · 最新复算值",
+      "reported_value": 19.48,
+      "unit": "倍",
+      "raw_text": "| 扣非PE | 19.48倍 | 更接近稳定利润，但非纯主营 |",
+      "line_number": 309
+    },
+    {
+      "id": 127,
+      "label": "基准 · 含股息年化IRR",
+      "reported_value": 3.85,
+      "unit": "%",
+      "raw_text": "| 基准 | +3% | 18倍 | 11.33元 | 1.19元 | +3.85% | 10.02元 |",
+      "line_number": 324
+    },
+    {
+      "id": 125,
+      "label": "基准 · 三年后价格",
+      "reported_value": 11.33,
+      "unit": "",
+      "raw_text": "| 基准 | +3% | 18倍 | 11.33元 | 1.19元 | +3.85% | 10.02元 |",
+      "line_number": 324
+    },
+    {
+      "id": 142,
+      "label": "中性 · 现金若第三年才兑现的参考",
+      "reported_value": 10.5,
+      "unit": "",
+      "raw_text": "| 中性 | 16倍 | 32 | 11.07元 | 10.50元 |",
+      "line_number": 340
+    },
+    {
+      "id": 154,
+      "label": "基准 · 前十年利润年增速",
+      "reported_value": 3.0,
+      "unit": "%",
+      "raw_text": "| 基准 | 55% | +3% | 1% | 13.33倍 | 7个百分点 | 8.9333 | +3.61% |",
+      "line_number": 361
+    },
+    {
+      "id": 185,
+      "label": "2026前三季收入 · 原件值（亿元）",
+      "reported_value": 20.6751,
+      "unit": "",
+      "raw_text": "| 2026前三季收入 | 20.6751 | 20.68 | 四舍五入一致 |",
+      "line_number": 485
+    },
+    {
+      "id": 186,
+      "label": "2026前三季收入 · 独立刊发媒体值（亿元）",
+      "reported_value": 20.68,
+      "unit": "",
+      "raw_text": "| 2026前三季收入 | 20.6751 | 20.68 | 四舍五入一致 |",
+      "line_number": 485
+    },
+    {
+      "id": 191,
+      "label": "2026前三季经营现金流 · 原件值（亿元）",
+      "reported_value": 6.9128,
+      "unit": "",
+      "raw_text": "| 2026前三季经营现金流 | 6.9128 | 6.91 | 四舍五入一致 |",
+      "line_number": 488
+    }
+  ],
+  "excluded_non_financial": [
+    {
+      "id": 194,
+      "label": "巨潮原件落款为10月28日，但观点网在10月27日16",
+      "reported_value": 49.0,
+      "unit": "",
+      "raw_text": "**阅读提示：三季报已出。** 巨潮原件落款为10月28日，但观点网在10月27日16:49、财联社在17:15已刊发相应数据；本次直接下载、阅读并核验原PDF。因此本报告不是以半年报代替最新财报。[S1][S8][S9]",
+      "line_number": 9,
+      "reason": "16:49的分钟数被错当财务金额；S8时间戳已核，不属财务抽检"
+    },
+    {
+      "id": 195,
+      "label": "财联社在17",
+      "reported_value": 15.0,
+      "unit": "",
+      "raw_text": "**阅读提示：三季报已出。** 巨潮原件落款为10月28日，但观点网在10月27日16:49、财联社在17:15已刊发相应数据；本次直接下载、阅读并核验原PDF。因此本报告不是以半年报代替最新财报。[S1][S8][S9]",
+      "line_number": 9,
+      "reason": "17:15的分钟数被错当财务金额；S9时间戳已核，不属财务抽检"
+    },
+    {
+      "id": 99,
+      "label": "现金分红 · 已发生结果",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 现金分红 | 2025所属年度合计0.42元/股，利润派息比例约63.10% | 有股东回报，但不是100%利润派息 |",
+      "line_number": 260,
+      "reason": "2025是利润所属年度，不是分红金额；另增分红0.42元专项复核"
+    }
+  ],
+  "checks": [
+    {
+      "id": 7,
+      "label": "合并毛利率 · 2025前三季度",
+      "reported_value": 53.73,
+      "unit": "%",
+      "raw_text": "| 合并毛利率 | 53.73% | 52.31% | -1.42个百分点 |",
+      "line_number": 53,
+      "fetched_value": 53.7307779401609,
+      "fetched_source": "S1 PDF p9 上年同期收入及营业成本，复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 8,
+      "label": "合并毛利率 · 2026前三季度",
+      "reported_value": 52.31,
+      "unit": "%",
+      "raw_text": "| 合并毛利率 | 53.73% | 52.31% | -1.42个百分点 |",
+      "line_number": 53,
+      "fetched_value": 52.309987534621165,
+      "fetched_source": "S1 PDF p9 当期收入及营业成本，复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 11,
+      "label": "经营现金流（亿元） · 2025前三季度",
+      "reported_value": 4.4696,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 4.4696 | 6.9128 | +54.66% |",
+      "line_number": 55,
+      "fetched_value": 4.4695879153,
+      "fetched_source": "S1 PDF p11 比较列，已核原件；单一底层来源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 13,
+      "label": "资本开支付现（亿元） · 2025前三季度",
+      "reported_value": 3.0633,
+      "unit": "",
+      "raw_text": "| 资本开支付现（亿元） | 3.0633 | 3.9869 | +30.15% |",
+      "line_number": 56,
+      "fetched_value": 3.0632651276,
+      "fetched_source": "S1 PDF p11 比较列；单一底层来源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 21,
+      "label": "扣非归母（亿元） · 2025单Q3",
+      "reported_value": 2.0023,
+      "unit": "",
+      "raw_text": "| 扣非归母（亿元） | 2.0023 | 1.9441 | -2.91% |",
+      "line_number": 65,
+      "fetched_value": 2.0023238769,
+      "fetched_source": "S3 PDF p8 分季度主表；单一底层来源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 26,
+      "label": "销售费用（亿元） · 2026单Q3",
+      "reported_value": 1.0461,
+      "unit": "",
+      "raw_text": "| 销售费用（亿元） | 1.2403 | 1.0461 | -15.66% |",
+      "line_number": 67,
+      "fetched_value": 1.0460714607,
+      "fetched_source": "S1 p9 与S2 p50累计减H1，复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 34,
+      "label": "榨菜 · H1收入同比",
+      "reported_value": 2.56,
+      "unit": "%",
+      "raw_text": "| 榨菜 | 20.5947 | 84.68% | 11.5142 | +2.56% | 57.51% |",
+      "line_number": 101,
+      "fetched_value": 2.5641441327733334,
+      "fetched_source": "S2 PDF p21-22产品表原件；单一底层来源",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 40,
+      "label": "萝卜 · H1毛利率",
+      "reported_value": 19.13,
+      "unit": "%",
+      "raw_text": "| 萝卜 | 0.5749 | 2.36% | 0.2643 | -20.28% | 19.13% |",
+      "line_number": 102,
+      "fetched_value": 19.13006659587029,
+      "fetched_source": "S2 PDF p22产品表原件；单一底层来源",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 45,
+      "label": "泡菜 · H1毛利率",
+      "reported_value": 32.8,
+      "unit": "%",
+      "raw_text": "| 泡菜 | 2.1424 | 8.81% | 1.0829 | -8.68% | 32.80% |",
+      "line_number": 103,
+      "fetched_value": 32.79717282995857,
+      "fetched_source": "S2 PDF p22产品表原件；单一底层来源",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 49,
+      "label": "其他产品 · H1收入同比",
+      "reported_value": 111.78,
+      "unit": "%",
+      "raw_text": "| 其他产品 | 0.9657 | 3.97% | 0.7740 | +111.78% | 26.83% |",
+      "line_number": 104,
+      "fetched_value": 111.77908089770912,
+      "fetched_source": "S2 PDF p21；单一底层来源",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 54,
+      "label": "其他业务 · H1收入同比",
+      "reported_value": 11.42,
+      "unit": "%",
+      "raw_text": "| 其他业务 | 0.0415 | 0.17% | 0.0192 | +11.42% | 不作为核心产品比较 |",
+      "line_number": 105,
+      "fetched_value": 11.420619438437214,
+      "fetched_source": "S2 PDF p21；单一底层来源",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 52,
+      "label": "其他业务 · 2025收入占比",
+      "reported_value": 0.17,
+      "unit": "%",
+      "raw_text": "| 其他业务 | 0.0415 | 0.17% | 0.0192 | +11.42% | 不作为核心产品比较 |",
+      "line_number": 105,
+      "fetched_value": 0.17075320786746853,
+      "fetched_source": "S3 PDF p22原件；单一底层来源",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 59,
+      "label": "吨均营业收入（万元/吨） · 2025全年",
+      "reported_value": 1.8421,
+      "unit": "",
+      "raw_text": "| 吨均营业收入（万元/吨） | 1.8421 | 1.8876 |",
+      "line_number": 117,
+      "fetched_value": 1.8421034565474061,
+      "fetched_source": "S3收入/销量；销量披露精度仅0.01万吨，非同SKU提价",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 60,
+      "label": "吨均营业收入（万元/吨） · 2026H1",
+      "reported_value": 1.8876,
+      "unit": "",
+      "raw_text": "| 吨均营业收入（万元/吨） | 1.8421 | 1.8876 |",
+      "line_number": 117,
+      "fetched_value": 1.8875719083934426,
+      "fetched_source": "S2收入/销量；非同SKU提价",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 66,
+      "label": "现金及现金等价物 · 金额（亿元）",
+      "reported_value": 5.4573,
+      "unit": "",
+      "raw_text": "| 现金及现金等价物 | 5.4573 | 已在货币资金内，不能重复相加 |",
+      "line_number": 166,
+      "fetched_value": 5.4572552324,
+      "fetched_source": "S1 PDF p11原件；不能与货币资金重复相加",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 67,
+      "label": "其他流动资产总额 · 金额（亿元）",
+      "reported_value": 2.1534,
+      "unit": "",
+      "raw_text": "| 其他流动资产总额 | 2.1534 | 含金融及非金融项目，Q3未给完整拆分，不全加进现金 |",
+      "line_number": 167,
+      "fetched_value": 2.1533566471,
+      "fetched_source": "S1 PDF p7原件；不全视作金融资产",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 84,
+      "label": "2026年6月末 · 合同负债（亿元）",
+      "reported_value": 0.5856,
+      "unit": "",
+      "raw_text": "| 2026年6月末 | 1.0699 | 0.5856 | 5.9376 |",
+      "line_number": 204,
+      "fetched_value": 0.5855798345,
+      "fetched_source": "S2合并资产负债表；单一底层来源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 105,
+      "label": "市值 · 最新复算值",
+      "reported_value": 129.47,
+      "unit": "亿元",
+      "raw_text": "| 市值 | 129.47亿元 | 价格乘股本，匹配行情源 |",
+      "line_number": 304,
+      "fetched_value": 129.4697149416,
+      "fetched_source": "S17腾讯/新浪收盘与S1股本复算；腾讯报129.47亿",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 108,
+      "label": "TTM归母利润 · 最新复算值",
+      "reported_value": 7.0896,
+      "unit": "亿元",
+      "raw_text": "| TTM归母利润 | 7.0896亿元 | 同上 |",
+      "line_number": 306,
+      "fetched_value": 7.089557067,
+      "fetched_source": "S1/S3全年加累计减同期；公式复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 111,
+      "label": "扣非PE · 最新复算值",
+      "reported_value": 19.48,
+      "unit": "倍",
+      "raw_text": "| 扣非PE | 19.48倍 | 更接近稳定利润，但非纯主营 |",
+      "line_number": 309,
+      "fetched_value": 19.477261996974207,
+      "fetched_source": "S1/S3/S17；精确市值除扣非TTM",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 127,
+      "label": "基准 · 含股息年化IRR",
+      "reported_value": 3.85,
+      "unit": "%",
+      "raw_text": "| 基准 | +3% | 18倍 | 11.33元 | 1.19元 | +3.85% | 10.02元 |",
+      "line_number": 324,
+      "fetched_value": 3.85480578608236,
+      "fetched_source": "三年65%派息与退出价逐年求根；另有独立单元测试",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 125,
+      "label": "基准 · 三年后价格",
+      "reported_value": 11.33,
+      "unit": "",
+      "raw_text": "| 基准 | +3% | 18倍 | 11.33元 | 1.19元 | +3.85% | 10.02元 |",
+      "line_number": 324,
+      "fetched_value": 11.330501430554445,
+      "fetched_source": "模型输入与Decimal复算，不是外部预测",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 142,
+      "label": "中性 · 现金若第三年才兑现的参考",
+      "reported_value": 10.5,
+      "unit": "",
+      "raw_text": "| 中性 | 16倍 | 32 | 11.07元 | 10.50元 |",
+      "line_number": 340,
+      "fetched_value": 10.498287638928286,
+      "fetched_source": "SOTP公式复算；未计等待期利息",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 154,
+      "label": "基准 · 前十年利润年增速",
+      "reported_value": 3.0,
+      "unit": "%",
+      "raw_text": "| 基准 | 55% | +3% | 1% | 13.33倍 | 7个百分点 | 8.9333 | +3.61% |",
+      "line_number": 361,
+      "fetched_value": 3.0,
+      "fetched_source": "inputs.json假设一致性，不是已验证未来增长",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 185,
+      "label": "2026前三季收入 · 原件值（亿元）",
+      "reported_value": 20.6751,
+      "unit": "",
+      "raw_text": "| 2026前三季收入 | 20.6751 | 20.68 | 四舍五入一致 |",
+      "line_number": 485,
+      "fetched_value": 20.6750951874,
+      "fetched_source": "S1 PDF p3；S8观点20.68亿元交叉",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 186,
+      "label": "2026前三季收入 · 独立刊发媒体值（亿元）",
+      "reported_value": 20.68,
+      "unit": "",
+      "raw_text": "| 2026前三季收入 | 20.6751 | 20.68 | 四舍五入一致 |",
+      "line_number": 485,
+      "fetched_value": 20.68,
+      "fetched_source": "S8观点网10/27 16:49全文；公司原件20.6750951874亿元",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 191,
+      "label": "2026前三季经营现金流 · 原件值（亿元）",
+      "reported_value": 6.9128,
+      "unit": "",
+      "raw_text": "| 2026前三季经营现金流 | 6.9128 | 6.91 | 四舍五入一致 |",
+      "line_number": 488,
+      "fetched_value": 6.9128202956,
+      "fetched_source": "S1 PDF p3/p11；S8观点6.91亿元交叉",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 1001,
+      "label": "2021追溯后扣非亿元",
+      "reported_value": 6.9449,
+      "fetched_value": 6.9449451976,
+      "fetched_source": "S4 2023年报2021比较列，解释16号追溯",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1002,
+      "label": "2022追溯后归母亿元",
+      "reported_value": 8.988,
+      "fetched_value": 8.9880365642,
+      "fetched_source": "S4 2023年报2022调整后比较列",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1003,
+      "label": "2024归母亿元",
+      "reported_value": 7.9935,
+      "fetched_value": 7.9934665213,
+      "fetched_source": "S3 2025年报比较列；已排除S10错误7.80亿",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1004,
+      "label": "2025合并毛利率百分数",
+      "reported_value": 51.63,
+      "fetched_value": 51.627491262376076,
+      "fetched_source": "S3合并利润表；不同于食品加工51.78%",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1005,
+      "label": "Q3单季OCF同比百分数",
+      "reported_value": 0.7,
+      "fetched_value": 0.6974152811433075,
+      "fetched_source": "S1累计减S2半年，对比S3单季",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1006,
+      "label": "Q3应收同季同比百分数",
+      "reported_value": 18.79,
+      "fetched_value": 18.786534276964716,
+      "fetched_source": "S1/S5资产负债表；不是年初比较",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1007,
+      "label": "Q3合同负债同季同比百分数",
+      "reported_value": 38.78,
+      "fetched_value": 38.77843331770398,
+      "fetched_source": "S1/S5；方向为同比增加",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1008,
+      "label": "完整OCF变化桥亿元",
+      "reported_value": 2.4432,
+      "fetched_value": 2.4432323803,
+      "fetched_source": "S1 PDF p10-11逐项对账；不是仅选有利项",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1009,
+      "label": "2025所属年度每股分红",
+      "reported_value": 0.42,
+      "fetched_value": 0.42,
+      "fetched_source": "S2/S3已宣告和现金支付桥；不含2026H1未批准预案",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1010,
+      "label": "十年基准前瞻退出PE",
+      "reported_value": 13.33,
+      "fetched_value": 13.333333333333334,
+      "fetched_source": "永续公式与terminal_value audit；非同业类比",
+      "audit_kind": "scenario_calculation",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1011,
+      "label": "SOTP中性超额现金假设亿元",
+      "reported_value": 32,
+      "fetched_value": 32.0,
+      "fetched_source": "输入假设一致性；不是会计披露或现金返还承诺",
+      "audit_kind": "assumption",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1012,
+      "label": "Q3去假设税后存款利息经营代理同比百分数",
+      "reported_value": 0.54,
+      "fetched_value": 0.5390696361347108,
+      "fetched_source": "S1/S2扣非减存款利息*85%，不是公司分部净利润",
+      "audit_kind": "scenario_calculation",
+      "unit": "as labeled"
+    }
+  ],
+  "outcome": {
+    "verdict": "PASS",
+    "pass_count": 39,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 39,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limitations": [
+    "Q3/H1 unaudited",
+    "no independent second source for all balance-sheet notes",
+    "scenario arithmetic is not validation of assumptions",
+    "timing of interim dividend and board nomination checked against S16/S15; proposals not implementation"
+  ]
+}
