@@ -1,0 +1,1117 @@
+{
+  "seed": 20261028,
+  "sample_ratio": 0.15,
+  "extracted_count": 220,
+  "excluded_non_financial": [
+    {
+      "id": 69,
+      "label": "国内主营收入（亿元） · 解释",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 国内主营收入（亿元） | 601.19 | 218.05 | H1同比-1.89%，不是国内收入全面高增 |",
+      "line_number": 90,
+      "reason": "H1 period marker"
+    },
+    {
+      "id": 72,
+      "label": "海外主营收入（亿元） · 解释",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 海外主营收入（亿元） | 60.38 | 58.94 | H1同比+196.61%，不可外推为长期增速 |",
+      "line_number": 91,
+      "reason": "H1 period marker"
+    },
+    {
+      "id": 75,
+      "label": "电网行业收入（亿元） · 解释",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 电网行业收入（亿元） | 420.42 | 138.83 | H1同比+6.42%；不是“电网智能”产品口径 |",
+      "line_number": 92,
+      "reason": "H1 period marker"
+    },
+    {
+      "id": 78,
+      "label": "其他行业收入（亿元） · 解释",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 其他行业收入（亿元） | 241.14 | 138.16 | H1同比+23.73%；与海外口径交叉，不能相加 |",
+      "line_number": 93,
+      "reason": "H1 period marker"
+    },
+    {
+      "id": 112,
+      "label": "系统级技术与工程能力 · 可以观察的证据",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 系统级技术与工程能力 | 强但须更新 | 跨专业产品、仿真测试、重大工程交付；2025研发投入47.39亿元 | 核心团队流失、技术路线变化、研发投入无经济回报 |",
+      "line_number": 170,
+      "reason": "year 2025"
+    },
+    {
+      "id": 113,
+      "label": "持续研发并覆盖关键控制技术 · 已有结果",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 持续研发并覆盖关键控制技术 | 2025研发投入47.39亿元，强度7.16% | 有长期投入，不等于每个新方向都有高回报 |",
+      "line_number": 216,
+      "reason": "year 2025"
+    },
+    {
+      "id": 114,
+      "label": "电网外与海外拓展 · 已有结果",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 电网外与海外拓展 | H1海外及能源低碳收入显著增长 | 证明获客能力；利润、风险与现金回报仍待检验 |",
+      "line_number": 217,
+      "reason": "H1 period marker"
+    },
+    {
+      "id": 115,
+      "label": "分红与回购 · 已有结果",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 分红与回购 | 2025所属年度每股0.622元，现金分红49.68亿元 | 现金分红约占归母60%；回购未注销部分不等于永久增厚每股收益 |",
+      "line_number": 220,
+      "reason": "year 2025; actual payout checked separately"
+    },
+    {
+      "id": 118,
+      "label": "8月启动的市场回购 · 已有结果",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| 8月启动的市场回购 | 截至10月28日累计支付1.51亿元，回购659.2268万股 | 用于未来股权激励而非减少注册资本，不能直接加入每股增厚假设 |",
+      "line_number": 222,
+      "reason": "October date; actual buyback checked separately"
+    },
+    {
+      "id": 119,
+      "label": "采购付款加快，同时持续清收 · 下一步核验",
+      "reported_value": 4.0,
+      "unit": "",
+      "raw_text": "| 采购付款加快，同时持续清收 | 不能把“高基数”当全部答案 | Q4现金流桥与应付规模是否继续下降 |",
+      "line_number": 240,
+      "reason": "Q4 period marker"
+    },
+    {
+      "id": 120,
+      "label": "PACK中试线9月底、变流器线12月底投产 · 本次判断",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| PACK中试线9月底、变流器线12月底投产 | 时间表具体；Q3简报不足以独立验证全部投产状态 | 正式投产、利用率、订单毛利和资本回报 |",
+      "line_number": 241,
+      "reason": "Q3 period marker"
+    },
+    {
+      "id": 123,
+      "label": "总股本 · 口径",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| 总股本 | 80.31756156亿股 | Q3原件及当晚回购进展公告确认 |",
+      "line_number": 281,
+      "reason": "Q3 period marker"
+    },
+    {
+      "id": 126,
+      "label": "TTM营业收入 · 口径",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| TTM营业收入 | 715.3203亿元 | 2025全年加2026前三季减2025前三季 |",
+      "line_number": 283,
+      "reason": "year 2025"
+    },
+    {
+      "id": 132,
+      "label": "PB / PS · 口径",
+      "reported_value": 9.0,
+      "unit": "",
+      "raw_text": "| PB / PS | 3.57倍 / 2.62倍 | 9月末归母净资产 / TTM收入 |",
+      "line_number": 288,
+      "reason": "September date"
+    },
+    {
+      "id": 137,
+      "label": "历史股息率 · 口径",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 历史股息率 | 2.66% | 2025所属年度每股0.622元 |",
+      "line_number": 291,
+      "reason": "year 2025"
+    },
+    {
+      "id": 178,
+      "label": "S1 · 资料与用途",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "| S1 | [2026年第三季度报告](https://pdf.dfcfw.com/pdf/H2_AN202610281831118643_1.pdf)，15页；p1-3主要指标，p6-9资产负债表，p10-12利润表，p13-14现金流",
+      "line_number": 406,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 179,
+      "label": "S2 · 资料与用途",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "| S2 | [2026年半年度报告](https://stockmc.xueqiu.com/202608/600406_20260827_8WAK.pdf)，234页；[新浪全文镜像](https://money.finance.sina",
+      "line_number": 407,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 180,
+      "label": "S3 · 资料与用途",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| S3 | [2025年年度报告](https://notice.10jqka.com.cn/api/pdf/5cb9ab12fb85b8cf.pdf)，306页；[新浪全文镜像](https://money.finance.sina.c",
+      "line_number": 408,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 181,
+      "label": "S4 · 资料与用途",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| S4 | [观点网10月28日三季报报道](https://www.guandian.cn/m/show/619643) | 独立刊发渠道，用于核心数据二源对照；非独立财务审计 |",
+      "line_number": 409,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 182,
+      "label": "S5 · 资料与用途",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "| S5 | [蓝鲸财经2026年中报分析](https://www.lanjinger.com/d/1787730896347490366) | H1收入、利润、分部交叉；叙述判断回到原件 |",
+      "line_number": 410,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 183,
+      "label": "S5 · 来源属性",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| S5 | [蓝鲸财经2026年中报分析](https://www.lanjinger.com/d/1787730896347490366) | H1收入、利润、分部交叉；叙述判断回到原件 |",
+      "line_number": 410,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 184,
+      "label": "S6 · 资料与用途",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| S6 | [证券市场周刊2025年业绩快报](https://static.weeklyonstock.com/26/0429/AB2617463961544.html) | 独立刊发渠道，收入、利润、CFO交叉；页面标注AI生成 |",
+      "line_number": 411,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 185,
+      "label": "S7 · 资料与用途",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "| S7 | [2026年9月1日业绩说明会记录](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600406&id=125801",
+      "line_number": 412,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 186,
+      "label": "S8 · 资料与用途",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| S8 | [2025年度权益分派实施公告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600406&id=12407365",
+      "line_number": 413,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 188,
+      "label": "S9 · 资料与用途",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "| S9 | [2026H1权益分派实施公告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600406&id=12614096",
+      "line_number": 414,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 190,
+      "label": "S10 · 资料与用途",
+      "reported_value": 9.0,
+      "unit": "",
+      "raw_text": "| S10 | [9月22日国家电网董事长论坛发言报道](https://finance.sina.com.cn/jjxw/2026-09-22/doc-inissyrc5632577.shtml)，[第一财经十五五规划报道](https:",
+      "line_number": 415,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 191,
+      "label": "S11 · 来源属性",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| S11 | [腾讯行情](https://qt.gtimg.cn/q=sh600406)、[新浪行情](https://hq.sinajs.cn/list=sh600406) | 10月28日缓存：腾讯16:14:44、 新浪15:34",
+      "line_number": 416,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 192,
+      "label": "S12 · 资料与用途",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| S12 | [10月28日回购进展公告](https://pdf.dfcfw.com/pdf/H2_AN202610281831118638_1.pdf) | 当晚确认总股本及回购用途，披露日期标10月29日 |",
+      "line_number": 417,
+      "reason": "source-title date, page or period marker"
+    },
+    {
+      "id": 196,
+      "label": "2025收入 · 结论",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| 2025收入 | 662.2896 | 662.29 | 一致；S3/S6 |",
+      "line_number": 426,
+      "reason": "source identifier, not financial figure"
+    },
+    {
+      "id": 199,
+      "label": "2025归母 · 结论",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| 2025归母 | 82.7897 | 82.79 | 一致；S3/S6 |",
+      "line_number": 427,
+      "reason": "source identifier, not financial figure"
+    },
+    {
+      "id": 202,
+      "label": "2025经营现金流 · 结论",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| 2025经营现金流 | 127.6870 | 127.69 | 一致；S3/S6 |",
+      "line_number": 428,
+      "reason": "source identifier, not financial figure"
+    },
+    {
+      "id": 205,
+      "label": "2026前三季收入 · 结论",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 2026前三季收入 | 438.7958 | 438.80 | 一致；S1/S4 |",
+      "line_number": 429,
+      "reason": "source identifier, not financial figure"
+    },
+    {
+      "id": 208,
+      "label": "2026前三季归母 · 结论",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 2026前三季归母 | 49.1165 | 49.12 | 一致；S1/S4 |",
+      "line_number": 430,
+      "reason": "source identifier, not financial figure"
+    },
+    {
+      "id": 211,
+      "label": "2026前三季扣非 · 结论",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 2026前三季扣非 | 47.0491 | 47.05 | 一致；S1/S4 |",
+      "line_number": 431,
+      "reason": "source identifier, not financial figure"
+    },
+    {
+      "id": 214,
+      "label": "2026前三季经营现金流 · 结论",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 2026前三季经营现金流 | -29.1954 | -29.20 | 一致；S1/S4 |",
+      "line_number": 432,
+      "reason": "source identifier, not financial figure"
+    },
+    {
+      "id": 217,
+      "label": "现行总股本 · 结论",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 现行总股本 | 80.31756156 | 80.31756156 | 一致；S1/S12与腾讯行情 |",
+      "line_number": 433,
+      "reason": "source identifier, not financial figure"
+    },
+    {
+      "id": 218,
+      "label": "研究日",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "研究日：2026年10月28日晚，Asia/Shanghai。财务截止2026年9月30日；金额除注明外均为人民币。本文只研究公开信息，不读取私人持仓，不执行交易，不构成个性化投资建议。",
+      "line_number": 3,
+      "reason": "research date"
+    },
+    {
+      "id": 219,
+      "label": "为10月29日，不代表28日晚仍不可得；观点网10月28日17",
+      "reported_value": 38.0,
+      "unit": "",
+      "raw_text": "三季报已经在今晚公开。正式披露日期标为10月29日，不代表28日晚仍不可得；观点网10月28日17:38已刊发累计与单季业绩。[S1][S4] 本文把单Q3与前三季度累计分开，不以半年报替代最新报告。",
+      "line_number": 9,
+      "reason": "time 17:38"
+    },
+    {
+      "id": 220,
+      "label": "季节性不能忽略",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "季节性不能忽略：2025年Q4贡献全年归母利润41.35%、全年CFO63.08%。因此不能把前三季负现金流按比例年化；同样，也不能机械假设今年Q4复制去年回款后就完全恢复。全年需要看到的是在正常履行供应商付款责任之后，仍能创造足够现金。",
+      "line_number": 130,
+      "reason": "year 2025; quarterly weights checked separately"
+    }
+  ],
+  "eligible_count": 181,
+  "random_sample": [
+    {
+      "id": 2,
+      "label": "营业收入（亿元） · 2026前三季度",
+      "reported_value": 438.7958,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 385.7651 | 438.7958 | +13.75% |",
+      "line_number": 46
+    },
+    {
+      "id": 1,
+      "label": "营业收入（亿元） · 2025前三季度",
+      "reported_value": 385.7651,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 385.7651 | 438.7958 | +13.75% |",
+      "line_number": 46
+    },
+    {
+      "id": 10,
+      "label": "营业利润率 · 2026前三季度",
+      "reported_value": 13.66,
+      "unit": "%",
+      "raw_text": "| 营业利润率 | 15.18% | 13.66% | -1.52个百分点 |",
+      "line_number": 50
+    },
+    {
+      "id": 9,
+      "label": "营业利润率 · 2025前三季度",
+      "reported_value": 15.18,
+      "unit": "%",
+      "raw_text": "| 营业利润率 | 15.18% | 13.66% | -1.52个百分点 |",
+      "line_number": 50
+    },
+    {
+      "id": 12,
+      "label": "归母净利率 · 2026前三季度",
+      "reported_value": 11.19,
+      "unit": "%",
+      "raw_text": "| 归母净利率 | 12.59% | 11.19% | -1.39个百分点 |",
+      "line_number": 51
+    },
+    {
+      "id": 37,
+      "label": "电网智能 · 2026H1收入",
+      "reported_value": 133.06,
+      "unit": "",
+      "raw_text": "| 电网智能 | 334.22 | 30.12% | 133.06 | +8.85% | 29.90% | -0.44个百分点 |",
+      "line_number": 79
+    },
+    {
+      "id": 55,
+      "label": "工业互联 · 2026H1收入",
+      "reported_value": 9.54,
+      "unit": "",
+      "raw_text": "| 工业互联 | 30.14 | 21.56% | 9.54 | -23.38% | 24.42% | +4.42个百分点 |",
+      "line_number": 82
+    },
+    {
+      "id": 56,
+      "label": "工业互联 · H1收入同比",
+      "reported_value": -23.38,
+      "unit": "%",
+      "raw_text": "| 工业互联 | 30.14 | 21.56% | 9.54 | -23.38% | 24.42% | +4.42个百分点 |",
+      "line_number": 82
+    },
+    {
+      "id": 53,
+      "label": "工业互联 · 2025收入",
+      "reported_value": 30.14,
+      "unit": "",
+      "raw_text": "| 工业互联 | 30.14 | 21.56% | 9.54 | -23.38% | 24.42% | +4.42个百分点 |",
+      "line_number": 82
+    },
+    {
+      "id": 60,
+      "label": "集成及其他 · 2025毛利率",
+      "reported_value": 26.64,
+      "unit": "%",
+      "raw_text": "| 集成及其他 | 6.87 | 26.64% | 1.29 | -56.98% | 39.53% | +4.45个百分点 |",
+      "line_number": 83
+    },
+    {
+      "id": 68,
+      "label": "国内主营收入（亿元） · 2026H1",
+      "reported_value": 218.05,
+      "unit": "",
+      "raw_text": "| 国内主营收入（亿元） | 601.19 | 218.05 | H1同比-1.89%，不是国内收入全面高增 |",
+      "line_number": 90
+    },
+    {
+      "id": 95,
+      "label": "存货 · 2026年9月末",
+      "reported_value": 170.0901,
+      "unit": "",
+      "raw_text": "| 存货 | 130.5822 | 151.6022 | 170.0901 | 较年初+30.26%，项目交付与周转风险并存 |",
+      "line_number": 105
+    },
+    {
+      "id": 109,
+      "label": "员工付款增加 · 对CFO同比变化的影响（亿元）",
+      "reported_value": -3.6494,
+      "unit": "",
+      "raw_text": "| 员工付款增加 | -3.6494 |",
+      "line_number": 123
+    },
+    {
+      "id": 131,
+      "label": "PB / PS · 复算值",
+      "reported_value": 3.57,
+      "unit": "倍",
+      "raw_text": "| PB / PS | 3.57倍 / 2.62倍 | 9月末归母净资产 / TTM收入 |",
+      "line_number": 288
+    },
+    {
+      "id": 133,
+      "label": "TTM简化FCF · 复算值",
+      "reported_value": 30.8401,
+      "unit": "亿元",
+      "raw_text": "| TTM简化FCF | 30.8401亿元 | TTM CFO 51.3505亿元减资本开支付现20.5104亿元 |",
+      "line_number": 289
+    },
+    {
+      "id": 143,
+      "label": "悲观 · 三年累计股息",
+      "reported_value": 1.73,
+      "unit": "",
+      "raw_text": "| 悲观 | -2% | 18倍 | 16.98元 | 1.73元 | -7.31% | 14.97元 |",
+      "line_number": 308
+    },
+    {
+      "id": 154,
+      "label": "乐观 · 第三年股价",
+      "reported_value": 39.42,
+      "unit": "",
+      "raw_text": "| 乐观 | +12% | 28倍 | 39.42元 | 2.27元 | +21.81% | 33.24元 |",
+      "line_number": 310
+    },
+    {
+      "id": 158,
+      "label": "悲观 · 主观情景权重",
+      "reported_value": 25.0,
+      "unit": "%",
+      "raw_text": "| 悲观 | 25% | 0% | 0% | 12.50倍 | 80.49 | -2.63% | 9.84元 |",
+      "line_number": 333
+    },
+    {
+      "id": 165,
+      "label": "基准 · 永续g",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 基准 | 50% | +7% | 1% | 13.33倍 | 158.34 | +4.81% | 18.01元 |",
+      "line_number": 334
+    },
+    {
+      "id": 164,
+      "label": "基准 · 前十年利润年增速",
+      "reported_value": 7.0,
+      "unit": "%",
+      "raw_text": "| 基准 | 50% | +7% | 1% | 13.33倍 | 158.34 | +4.81% | 18.01元 |",
+      "line_number": 334
+    },
+    {
+      "id": 168,
+      "label": "基准 · 严格现金流IRR",
+      "reported_value": 4.81,
+      "unit": "%",
+      "raw_text": "| 基准 | 50% | +7% | 1% | 13.33倍 | 158.34 | +4.81% | 18.01元 |",
+      "line_number": 334
+    },
+    {
+      "id": 174,
+      "label": "乐观 · 第十年利润（亿元）",
+      "reported_value": 250.0,
+      "unit": "",
+      "raw_text": "| 乐观 | 25% | +12% | 2% | 14.44倍 | 250.00 | +10.52% | 28.63元 |",
+      "line_number": 335
+    },
+    {
+      "id": 175,
+      "label": "乐观 · 严格现金流IRR",
+      "reported_value": 10.52,
+      "unit": "%",
+      "raw_text": "| 乐观 | 25% | +12% | 2% | 14.44倍 | 250.00 | +10.52% | 28.63元 |",
+      "line_number": 335
+    },
+    {
+      "id": 189,
+      "label": "S9 · 来源属性",
+      "reported_value": 0.153,
+      "unit": "",
+      "raw_text": "| S9 | [2026H1权益分派实施公告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600406&id=12614096",
+      "line_number": 414
+    },
+    {
+      "id": 197,
+      "label": "2025归母 · 原件值",
+      "reported_value": 82.7897,
+      "unit": "",
+      "raw_text": "| 2025归母 | 82.7897 | 82.79 | 一致；S3/S6 |",
+      "line_number": 427
+    },
+    {
+      "id": 207,
+      "label": "2026前三季归母 · 第二刊发渠道值",
+      "reported_value": 49.12,
+      "unit": "",
+      "raw_text": "| 2026前三季归母 | 49.1165 | 49.12 | 一致；S1/S4 |",
+      "line_number": 430
+    },
+    {
+      "id": 210,
+      "label": "2026前三季扣非 · 第二刊发渠道值",
+      "reported_value": 47.05,
+      "unit": "",
+      "raw_text": "| 2026前三季扣非 | 47.0491 | 47.05 | 一致；S1/S4 |",
+      "line_number": 431
+    },
+    {
+      "id": 212,
+      "label": "2026前三季经营现金流 · 原件值",
+      "reported_value": -29.1954,
+      "unit": "",
+      "raw_text": "| 2026前三季经营现金流 | -29.1954 | -29.20 | 一致；S1/S4 |",
+      "line_number": 432
+    }
+  ],
+  "checks": [
+    {
+      "id": 2,
+      "label": "营业收入（亿元） · 2026前三季度",
+      "reported_value": 438.7958,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 385.7651 | 438.7958 | +13.75% |",
+      "line_number": 46,
+      "fetched_value": 438.7957751161,
+      "fetched_source": "S1 p1/p10, original PDF table",
+      "audit_kind": "disclosed",
+      "fetched_value2": 438.8,
+      "fetched_source2": "S4 independent publication"
+    },
+    {
+      "id": 1,
+      "label": "营业收入（亿元） · 2025前三季度",
+      "reported_value": 385.7651,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 385.7651 | 438.7958 | +13.75% |",
+      "line_number": 46,
+      "fetched_value": 385.7650720281,
+      "fetched_source": "S1 p10 comparative column; issuer-only underlying evidence",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 10,
+      "label": "营业利润率 · 2026前三季度",
+      "reported_value": 13.66,
+      "unit": "%",
+      "raw_text": "| 营业利润率 | 15.18% | 13.66% | -1.52个百分点 |",
+      "line_number": 50,
+      "fetched_value": 13.657172281466025,
+      "fetched_source": "S1 p10-11 operating profit / revenue",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 9,
+      "label": "营业利润率 · 2025前三季度",
+      "reported_value": 15.18,
+      "unit": "%",
+      "raw_text": "| 营业利润率 | 15.18% | 13.66% | -1.52个百分点 |",
+      "line_number": 50,
+      "fetched_value": 15.177006272106269,
+      "fetched_source": "S1 p10-11 comparative operating profit / revenue",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 12,
+      "label": "归母净利率 · 2026前三季度",
+      "reported_value": 11.19,
+      "unit": "%",
+      "raw_text": "| 归母净利率 | 12.59% | 11.19% | -1.39个百分点 |",
+      "line_number": 51,
+      "fetched_value": 11.193481904652424,
+      "fetched_source": "S1 p1/p11 parent profit / revenue",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 37,
+      "label": "电网智能 · 2026H1收入",
+      "reported_value": 133.06,
+      "unit": "",
+      "raw_text": "| 电网智能 | 334.22 | 30.12% | 133.06 | +8.85% | 29.90% | -0.44个百分点 |",
+      "line_number": 79,
+      "fetched_value": 133.0621819362,
+      "fetched_source": "S2 MD&A product table",
+      "audit_kind": "disclosed",
+      "fetched_value2": 133.06,
+      "fetched_source2": "S5 Lanjing 2026H1"
+    },
+    {
+      "id": 55,
+      "label": "工业互联 · 2026H1收入",
+      "reported_value": 9.54,
+      "unit": "",
+      "raw_text": "| 工业互联 | 30.14 | 21.56% | 9.54 | -23.38% | 24.42% | +4.42个百分点 |",
+      "line_number": 82,
+      "fetched_value": 9.5374281601,
+      "fetched_source": "S2 MD&A product table",
+      "audit_kind": "disclosed",
+      "fetched_value2": 9.54,
+      "fetched_source2": "S5 Lanjing 2026H1"
+    },
+    {
+      "id": 56,
+      "label": "工业互联 · H1收入同比",
+      "reported_value": -23.38,
+      "unit": "%",
+      "raw_text": "| 工业互联 | 30.14 | 21.56% | 9.54 | -23.38% | 24.42% | +4.42个百分点 |",
+      "line_number": 82,
+      "fetched_value": -23.38,
+      "fetched_source": "S2 MD&A product table",
+      "audit_kind": "disclosed",
+      "fetched_value2": -23.38,
+      "fetched_source2": "S5 Lanjing 2026H1"
+    },
+    {
+      "id": 53,
+      "label": "工业互联 · 2025收入",
+      "reported_value": 30.14,
+      "unit": "",
+      "raw_text": "| 工业互联 | 30.14 | 21.56% | 9.54 | -23.38% | 24.42% | +4.42个百分点 |",
+      "line_number": 82,
+      "fetched_value": 30.1387712123,
+      "fetched_source": "S3 MD&A product table; issuer-only",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 60,
+      "label": "集成及其他 · 2025毛利率",
+      "reported_value": 26.64,
+      "unit": "%",
+      "raw_text": "| 集成及其他 | 6.87 | 26.64% | 1.29 | -56.98% | 39.53% | +4.45个百分点 |",
+      "line_number": 83,
+      "fetched_value": 26.64021616623515,
+      "fetched_source": "S3 product table revenue and cost, recomputed",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 68,
+      "label": "国内主营收入（亿元） · 2026H1",
+      "reported_value": 218.05,
+      "unit": "",
+      "raw_text": "| 国内主营收入（亿元） | 601.19 | 218.05 | H1同比-1.89%，不是国内收入全面高增 |",
+      "line_number": 90,
+      "fetched_value": 218.0502062821,
+      "fetched_source": "S2 domestic revenue table",
+      "audit_kind": "disclosed",
+      "fetched_value2": 218.05,
+      "fetched_source2": "S5 Lanjing 2026H1"
+    },
+    {
+      "id": 95,
+      "label": "存货 · 2026年9月末",
+      "reported_value": 170.0901,
+      "unit": "",
+      "raw_text": "| 存货 | 130.5822 | 151.6022 | 170.0901 | 较年初+30.26%，项目交付与周转风险并存 |",
+      "line_number": 105,
+      "fetched_value": 170.0901306126,
+      "fetched_source": "S1 p6 balance sheet; issuer-only",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 109,
+      "label": "员工付款增加 · 对CFO同比变化的影响（亿元）",
+      "reported_value": -3.6494,
+      "unit": "",
+      "raw_text": "| 员工付款增加 | -3.6494 |",
+      "line_number": 123,
+      "fetched_value": -3.649429906,
+      "fetched_source": "S1 p13 payroll cash current minus prior with outflow sign",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 131,
+      "label": "PB / PS · 复算值",
+      "reported_value": 3.57,
+      "unit": "倍",
+      "raw_text": "| PB / PS | 3.57倍 / 2.62倍 | 9月末归母净资产 / TTM收入 |",
+      "line_number": 288,
+      "fetched_value": 3.565737086263455,
+      "fetched_source": "S1 p9 / S11 price; extractor selects PB, PS tested separately",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 133,
+      "label": "TTM简化FCF · 复算值",
+      "reported_value": 30.8401,
+      "unit": "亿元",
+      "raw_text": "| TTM简化FCF | 30.8401亿元 | TTM CFO 51.3505亿元减资本开支付现20.5104亿元 |",
+      "line_number": 289,
+      "fetched_value": 30.8401499708,
+      "fetched_source": "S1 p13-14 / S3 consolidated cashflow, exact TTM",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 143,
+      "label": "悲观 · 三年累计股息",
+      "reported_value": 1.73,
+      "unit": "",
+      "raw_text": "| 悲观 | -2% | 18倍 | 16.98元 | 1.73元 | -7.31% | 14.97元 |",
+      "line_number": 308,
+      "fetched_value": 1.7327244629965275,
+      "fetched_source": "Three-year declared model cashflows, not forecast validation",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 154,
+      "label": "乐观 · 第三年股价",
+      "reported_value": 39.42,
+      "unit": "",
+      "raw_text": "| 乐观 | +12% | 28倍 | 39.42元 | 2.27元 | +21.81% | 33.24元 |",
+      "line_number": 310,
+      "fetched_value": 39.42374400549303,
+      "fetched_source": "EPS * (1.12)^3 * 28; independently recomputed",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 158,
+      "label": "悲观 · 主观情景权重",
+      "reported_value": 25.0,
+      "unit": "%",
+      "raw_text": "| 悲观 | 25% | 0% | 0% | 12.50倍 | 80.49 | -2.63% | 9.84元 |",
+      "line_number": 333,
+      "fetched_value": 25.0,
+      "fetched_source": "inputs.json subjective probability consistency only",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 165,
+      "label": "基准 · 永续g",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 基准 | 50% | +7% | 1% | 13.33倍 | 158.34 | +4.81% | 18.01元 |",
+      "line_number": 334,
+      "fetched_value": 1.0,
+      "fetched_source": "inputs.json terminal g, not observed economic data",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 164,
+      "label": "基准 · 前十年利润年增速",
+      "reported_value": 7.0,
+      "unit": "%",
+      "raw_text": "| 基准 | 50% | +7% | 1% | 13.33倍 | 158.34 | +4.81% | 18.01元 |",
+      "line_number": 334,
+      "fetched_value": 7.0,
+      "fetched_source": "inputs.json assumed growth, not management guidance",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 168,
+      "label": "基准 · 严格现金流IRR",
+      "reported_value": 4.81,
+      "unit": "%",
+      "raw_text": "| 基准 | 50% | +7% | 1% | 13.33倍 | 158.34 | +4.81% | 18.01元 |",
+      "line_number": 334,
+      "fetched_value": 4.812975079059229,
+      "fetched_source": "Declared annual dividends plus year-11 earnings terminal, root checked in unit tests",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 174,
+      "label": "乐观 · 第十年利润（亿元）",
+      "reported_value": 250.0,
+      "unit": "",
+      "raw_text": "| 乐观 | 25% | +12% | 2% | 14.44倍 | 250.00 | +10.52% | 28.63元 |",
+      "line_number": 335,
+      "fetched_value": 249.99798502142315,
+      "fetched_source": "TTM adjusted profit * (1.12)^10",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 175,
+      "label": "乐观 · 严格现金流IRR",
+      "reported_value": 10.52,
+      "unit": "%",
+      "raw_text": "| 乐观 | 25% | +12% | 2% | 14.44倍 | 250.00 | +10.52% | 28.63元 |",
+      "line_number": 335,
+      "fetched_value": 10.520254039723351,
+      "fetched_source": "Declared yearly cashflows and numerical root; not return guarantee",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 189,
+      "label": "S9 · 来源属性",
+      "reported_value": 0.153,
+      "unit": "",
+      "raw_text": "| S9 | [2026H1权益分派实施公告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600406&id=12614096",
+      "line_number": 414,
+      "fetched_value": 0.153,
+      "fetched_source": "S9 implementation notice; paid 2026-09-29",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 197,
+      "label": "2025归母 · 原件值",
+      "reported_value": 82.7897,
+      "unit": "",
+      "raw_text": "| 2025归母 | 82.7897 | 82.79 | 一致；S3/S6 |",
+      "line_number": 427,
+      "fetched_value": 82.7897172332,
+      "fetched_source": "S3 main indicators and consolidated profit",
+      "audit_kind": "disclosed",
+      "fetched_value2": 82.79,
+      "fetched_source2": "S6 Weekly on Stock publication"
+    },
+    {
+      "id": 207,
+      "label": "2026前三季归母 · 第二刊发渠道值",
+      "reported_value": 49.12,
+      "unit": "",
+      "raw_text": "| 2026前三季归母 | 49.1165 | 49.12 | 一致；S1/S4 |",
+      "line_number": 430,
+      "fetched_value": 49.12,
+      "fetched_source": "S4 extracted page",
+      "audit_kind": "disclosed",
+      "fetched_value2": 49.116525686,
+      "fetched_source2": "S1 original PDF p1"
+    },
+    {
+      "id": 210,
+      "label": "2026前三季扣非 · 第二刊发渠道值",
+      "reported_value": 47.05,
+      "unit": "",
+      "raw_text": "| 2026前三季扣非 | 47.0491 | 47.05 | 一致；S1/S4 |",
+      "line_number": 431,
+      "fetched_value": 47.05,
+      "fetched_source": "S4 extracted page",
+      "audit_kind": "disclosed",
+      "fetched_value2": 47.0491249096,
+      "fetched_source2": "S1 original PDF p1"
+    },
+    {
+      "id": 212,
+      "label": "2026前三季经营现金流 · 原件值",
+      "reported_value": -29.1954,
+      "unit": "",
+      "raw_text": "| 2026前三季经营现金流 | -29.1954 | -29.20 | 一致；S1/S4 |",
+      "line_number": 432,
+      "fetched_value": -29.1953853411,
+      "fetched_source": "S1 p2/p13 original",
+      "audit_kind": "disclosed",
+      "fetched_value2": -29.2,
+      "fetched_source2": "S4 extracted page"
+    },
+    {
+      "id": 1001,
+      "label": "2023 restated revenue CNY100m",
+      "reported_value": 519.6131,
+      "fetched_value": 519.6130670163,
+      "fetched_source": "S3 restated three-year indicators",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1002,
+      "label": "2023 restated parent profit CNY100m",
+      "reported_value": 71.7897,
+      "fetched_value": 71.7897049247,
+      "fetched_source": "S3 restated three-year indicators",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1003,
+      "label": "2023 adjusted profit CNY100m",
+      "reported_value": 69.6035,
+      "fetched_value": 69.6035465726,
+      "fetched_source": "S3 three-year indicators",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1004,
+      "label": "2023 restated OCF CNY100m",
+      "reported_value": 113.1719,
+      "fetched_value": 113.1718661354,
+      "fetched_source": "S3 restated three-year indicators",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1005,
+      "label": "2024 restated revenue CNY100m",
+      "reported_value": 578.2917,
+      "fetched_value": 578.2917232178,
+      "fetched_source": "S3 restated three-year indicators",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1006,
+      "label": "2024 restated parent profit CNY100m",
+      "reported_value": 76.1024,
+      "fetched_value": 76.1023569507,
+      "fetched_source": "S3 restated three-year indicators",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1007,
+      "label": "2024 adjusted profit CNY100m",
+      "reported_value": 73.8856,
+      "fetched_value": 73.8856029653,
+      "fetched_source": "S3 three-year indicators",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1008,
+      "label": "2024 restated OCF CNY100m",
+      "reported_value": 110.8679,
+      "fetched_value": 110.8678847977,
+      "fetched_source": "S3 restated three-year indicators",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1009,
+      "label": "2025 revenue CNY100m",
+      "reported_value": 662.2896,
+      "fetched_value": 662.2896322321,
+      "fetched_source": "S3 original; S6 662.29 confirms",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1010,
+      "label": "2025 adjusted profit CNY100m",
+      "reported_value": 79.8296,
+      "fetched_value": 79.8295564359,
+      "fetched_source": "S3 original; third-party annual summary 79.83",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1011,
+      "label": "2025 OCF CNY100m",
+      "reported_value": 127.687,
+      "fetched_value": 127.6870212504,
+      "fetched_source": "S3 original; S6 127.69 confirms",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1012,
+      "label": "2026 single Q3 OCF CNY100m",
+      "reported_value": -35.1065,
+      "fetched_value": -35.1064812591,
+      "fetched_source": "S1 p13 minus S2 H1 cashflow",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1013,
+      "label": "Full CFO bridge CNY100m",
+      "reported_value": -76.3365,
+      "fetched_value": -76.3364930501,
+      "fetched_source": "S1 p13 all seven change components, verified sum invariant",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1014,
+      "label": "Cash plus trading CNY100m",
+      "reported_value": 129.4619,
+      "fetched_value": 129.4619079751,
+      "fetched_source": "S1 p6; excludes cash equivalents duplicate",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1015,
+      "label": "Current total shares",
+      "reported_value": 8031756156.0,
+      "fetched_value": 8031756156.0,
+      "fetched_source": "S1 p9, S12 current 10/28 disclosure, Tencent quote",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1016,
+      "label": "Proposed cancellation shares",
+      "reported_value": 143730.0,
+      "fetched_value": 143730.0,
+      "fetched_source": "S13 proposal not completed cancellation",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1017,
+      "label": "2025 payout per share",
+      "reported_value": 0.622,
+      "fetched_value": 0.622,
+      "fetched_source": "S3 interim dividend and S8 implemented final dividend",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1018,
+      "label": "2026 latest repurchase amount CNY100m",
+      "reported_value": 1.51,
+      "fetched_value": 1.510740344,
+      "fetched_source": "S12 actual cash spent, not planned CNY0.5-1.0bn",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1019,
+      "label": "2026 latest repurchase shares 10k",
+      "reported_value": 659.2268,
+      "fetched_value": 659.2268,
+      "fetched_source": "S12 buyback for employee incentive, not capital retirement",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1020,
+      "label": "PS",
+      "reported_value": 2.62,
+      "fetched_value": 2.620660694584513,
+      "fetched_source": "S1/S3/S11 exact marketcap/TTM revenue",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 1021,
+      "label": "Forward terminal PE base",
+      "reported_value": 13.33,
+      "fetched_value": 13.333333333333334,
+      "fetched_source": "Perpetual formula; year11 profit multiplicand tested",
+      "audit_kind": "scenario_calculation",
+      "unit": "as labeled"
+    }
+  ],
+  "outcome": {
+    "verdict": "PASS",
+    "pass_count": 49,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 49,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limitations": [
+    "Q3/H1 unaudited",
+    "issuer-only notes not fully independently cross-checked",
+    "scenario consistency is not external verification",
+    "unmodelled extreme system-quality and overseas-policy risks"
+  ]
+}

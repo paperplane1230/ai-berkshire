@@ -1,0 +1,61 @@
+{
+  "data_cutoff": "2026-10-28 evening Asia/Shanghai",
+  "price": "23.34", "price_second": "23.340", "shares": "8031756156", "shares_quote": "8031756156", "reported_market_cap": "187461000000",
+  "dividend_2025_per_share": "0.622",
+  "minority_equity_q3": "3766038700.54",
+  "annual": {
+    "2023": {"revenue":"51961306701.63","profit":"7178970492.47","adjusted_profit":"6960354657.26","ocf":"11317186613.54","equity_parent":"47248435493.62"},
+    "2024": {"revenue":"57829172321.78","profit":"7610235695.07","adjusted_profit":"7388560296.53","ocf":"11086788479.77","capex":"1850169755.99","cost":"42459770307.62","equity_parent":"49281222950.03"},
+    "2025": {"revenue":"66228963223.21","profit":"8278971723.32","adjusted_profit":"7982955643.59","ocf":"12768702125.04","capex":"2110354922.10","cost":"49117323852.59","equity_parent":"52646425094.68","ar":"31249864276.02","inventory":"13058218914.99","ap":"27828765884.55","contract_assets":"1494607220.30","contract_liabilities":"7806968367.65","cash":"7323259338.52","trading_assets":"17170372185.73"}
+  },
+  "ytd_2026q3": {
+    "revenue":"43879577511.61","profit":"4911652568.60","adjusted_profit":"4704912490.96","cost":"32713639974.08","operating_profit":"5992709497.14","selling":"1578733906.28","management":"995704570.16","rd":"2475695530.14","finance":"151903376.52","credit_loss":"-441746847.11",
+    "ocf":"-2919538534.11","capex":"1178331939.15","cash_received":"46787758173.36","tax_refund":"560743188.12","other_inflow":"764331444.29","purchase_cash":"41795983055.81","staff_cash":"3931506150.00","tax_cash":"2458023881.49","other_outflow":"2846858252.58",
+    "cash":"6932263372.88","cash_equivalents":"6877600376.61","trading_assets":"6013927424.63","ar":"30314867982.38","inventory":"17009013061.26","ap":"22475311026.78","contract_assets":"1591017414.76","contract_liabilities":"7993602966.30","equity_parent":"52572913859.30","assets":"92406616925.14","liabilities":"36067664365.30","short_debt":"352207283.33","long_debt":"7000000","current_noncurrent_liabilities":"71136126.99","lease_noncurrent":"57434388.23"
+  },
+  "ytd_2025q3": {
+    "revenue":"38576507202.81","profit":"4855280899.04","adjusted_profit":"4638602096.70","cost":"28365056195.09","operating_profit":"5854758917.73","selling":"1510118490.13","management":"959564240.87","rd":"2305177025.37","finance":"-159278706.81","credit_loss":"-231044557.51",
+    "ocf":"4714110770.90","capex":"1237649038.30","cash_received":"44973628424.82","tax_refund":"332517099.88","other_inflow":"777877547.75","purchase_cash":"32468813767.36","staff_cash":"3566563159.40","tax_cash":"2509018032.52","other_outflow":"2825517342.27"
+  },
+  "h1_2026": {"revenue":"27767190529.75","profit":"3072688826.28","adjusted_profit":"2925285478.78","cost":"20731180000.21","operating_profit":"3718434407.23","selling":"1048988364.46","management":"641796205.27","rd":"1656526012.16","finance":"92607909.15","credit_loss":"-281541527.50","ocf":"591109591.80","capex":"754329578.19"},
+  "h1_2025": {"revenue":"24243208440.39","profit":"2952191275.23","adjusted_profit":"2804289840.63","cost":"17830802003.87","operating_profit":"3545299057.74","selling":"999327741.41","management":"630905089.64","rd":"1513234813.12","finance":"-131378213.47","credit_loss":"-175562109.26","ocf":"2808524757.71","capex":"732773800.74"},
+  "products_2025": {
+    "电网智能":{"revenue":"33422155368.42","cost":"23355515362.68"},
+    "数能融合":{"revenue":"12303335932.73","cost":"9520677773.30"},
+    "能源低碳":{"revenue":"16729807029.41","cost":"13349087357.57"},
+    "工业互联":{"revenue":"3013877121.23","cost":"2364168104.00"},
+    "集成及其他":{"revenue":"687074851.90","cost":"504036626.13"},
+    "其他业务":{"revenue":"72712919.52","cost":"23838628.91"}
+  },
+  "products_h1_2026": {
+    "电网智能":{"revenue":"13306218193.62","cost":"9327753355.32"},
+    "数能融合":{"revenue":"3696016837.05","cost":"2751503152.44"},
+    "能源低碳":{"revenue":"9614366192.88","cost":"7822640652.86"},
+    "工业互联":{"revenue":"953742816.01","cost":"720816959.82"},
+    "集成及其他":{"revenue":"128998220.58","cost":"78002377.75"},
+    "其他业务":{"revenue":"67848269.61","cost":"30463502.02"}
+  },
+  "three_year_assumptions":[
+    {"name":"悲观","growth":"-.02","pe":"18","payout":".60"},
+    {"name":"基准","growth":".07","pe":"22","payout":".60"},
+    {"name":"乐观","growth":".12","pe":"28","payout":".60"}
+  ],
+  "ten_year_assumptions": {
+    "r":".08","roic":".15","payout":".60","rf_reference":".02",
+    "discrete_risks":"海外履约损失:情景,采购竞争压价:情景,严重系统质量事件:未建模,重大海外政策变化:未建模",
+    "scenarios":[
+      {"name":"悲观","growth":"0","terminal_g":"0","probability":".25"},
+      {"name":"基准","growth":".07","terminal_g":".01","probability":".50"},
+      {"name":"乐观","growth":".12","terminal_g":".02","probability":".25"}
+    ]
+  },
+  "source_notes": {
+    "annual":"2025 issuer annual report, 2023 and 2024 restated comparative columns",
+    "ytd":"2026Q3 issuer report H2_AN202610281831118643_1.pdf pages 1-3 and 6-14",
+    "prior_adjusted_profit":"2025 annual quarter table: 609129038.29 + 2195160802.34 + 1834312256.07",
+    "h1":"2026H1 issuer report comparative columns",
+    "quote":"local/三季报-20261028/quotes-{tencent,sina}.txt, GBK936",
+    "rf":"2% reference assumption for audit ERP illustration, not a contemporaneous bond quote",
+    "cash":"cash+trading excludes deposits hidden in other assets and restricted-cash adjustments; not a claim that all cash is excess"
+  }
+}

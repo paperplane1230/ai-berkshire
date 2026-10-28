@@ -1,7 +1,7 @@
 {
-  "count": 2486,
-  "published": 2276,
-  "drafts": 210,
+  "count": 2491,
+  "published": 2279,
+  "drafts": 212,
   "reports": [
     {
       "title": "泡泡玛特（09992.HK）2026Q3业绩分析",
@@ -13,6 +13,61 @@
       "date": "2026-10-28",
       "date_source": "文件名",
       "ticker": ""
+    },
+    {
+      "title": "国电南瑞（600406）研究报告",
+      "path": "reports/国电南瑞/国电南瑞研究报告-20261028.md",
+      "bucket": "公司",
+      "group": "国电南瑞",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-28",
+      "date_source": "文件名",
+      "ticker": "600406.SH"
+    },
+    {
+      "title": "华东医药（000963）研究报告",
+      "path": "reports/华东医药/华东医药研究报告-20261028.md",
+      "bucket": "公司",
+      "group": "华东医药",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-28",
+      "date_source": "文件名",
+      "ticker": "000963.SZ"
+    },
+    {
+      "title": "华东医药研究证据登记",
+      "path": "reports/华东医药/research-20261028/source-register.md",
+      "bucket": "公司",
+      "group": "华东医药",
+      "series": "research-20261028",
+      "type": "底稿",
+      "date": "2026-10-28",
+      "date_source": "文件名",
+      "ticker": "000963.SZ"
+    },
+    {
+      "title": "兴齐眼药（300573）研究报告",
+      "path": "reports/兴齐眼药/兴齐眼药研究报告-20261028.md",
+      "bucket": "公司",
+      "group": "兴齐眼药",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-28",
+      "date_source": "文件名",
+      "ticker": "300573.SZ"
+    },
+    {
+      "title": "资料读取与核验记录",
+      "path": "reports/兴齐眼药/research-20261028/source-notes.md",
+      "bucket": "公司",
+      "group": "兴齐眼药",
+      "series": "research-20261028",
+      "type": "底稿",
+      "date": "2026-10-28",
+      "date_source": "front-matter",
+      "ticker": "300573.SZ"
     },
     {
       "title": "腾讯控股（00700.HK）投资研究报告",

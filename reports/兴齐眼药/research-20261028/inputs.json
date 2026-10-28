@@ -1,0 +1,36 @@
+{
+  "data_cutoff": "2026-10-28 evening Asia/Shanghai",
+  "price": "32.86", "shares": "354917774", "reported_market_cap": "11663000000",
+  "annual": {
+    "2023": {"revenue":"1467569910.64","profit":"240036047.12","adjusted_profit":"240448671.66","ocf":"317568222.76"},
+    "2024": {"revenue":"1943387835.59","profit":"338061776.59","adjusted_profit":"347542460.02","ocf":"416982963.18","cost":"421112533.31","capex":"198710063.30","rd":"220658226.68","selling":"705486097.79"},
+    "2025": {"revenue":"2472852236.79","profit":"695855596.25","adjusted_profit":"697046957.34","ocf":"753388785.68","cost":"465962118.19","capex":"270526699.17","rd":"225910095.09","selling":"763972611.16"}
+  },
+  "ytd_2026q3": {"revenue":"2237615141.00","profit":"705105856.98","adjusted_profit":"715811882.36","cost":"386897223.17","selling":"647237182.59","admin":"124316644.37","rd":"232818102.90","operating_profit":"833807248.74","ocf":"712535700.69","capex":"138844260.90","cash":"537820310.34","cash_equivalents":"530536241.82","ar":"325649803.68","ar_start":"262985341.15","inventory":"201015002.86","inventory_start":"189225899.95","construction":"643399687.52","construction_start":"380257761.90","other_payables":"338590696.82","other_payables_start":"204203685.88","bank_debt":"88000000","lease_current_upper":"7272603.80","lease_noncurrent":"10306303.18","equity":"2231516359.54","assets":"2994976425.41","liabilities":"763460065.87","cash_received":"2224148549.12","other_inflow":"18472286.24","purchase_cash":"149412835.93","staff_cash":"521832017.24","tax_cash":"310575541.15","other_outflow":"548264740.35"},
+  "ytd_2025q3": {"revenue":"1903728804.18","profit":"598906386.15","adjusted_profit":"596091025.14","cost":"355470544.74","selling":"555474170.54","admin":"118939414.98","rd":"155124563.10","operating_profit":"703467820.91","ocf":"574520184.30","capex":"131875957.56","cash_received":"1833095200.26","other_inflow":"15040435.52","purchase_cash":"140630297.06","staff_cash":"467601331.97","tax_cash":"241149021.54","other_outflow":"424234800.91"},
+  "h1_2026": {"revenue":"1400873956.41","profit":"430404293.36","adjusted_profit":"431589421.95","ocf":"393446613.50","cost":"248077845.85","selling":"413478661.58","admin":"80794547.85","rd":"161302852.97","capex":"61599343.60"},
+  "h1_2025": {"revenue":"1162742877.58","profit":"334826054.80","adjusted_profit":"330984652.17","ocf":"305549881.58","cost":"224704634.68","selling":"366101237.17","admin":"77895153.89","rd":"91760465.26","capex":"88822269.87"},
+  "products_2025": {
+    "滴眼剂":{"revenue":"1950243017.60","cost":"290194724.22"},
+    "凝胶剂及眼膏剂":{"revenue":"366553686.02","cost":"56753891.17"},
+    "溶液剂":{"revenue":"70017931.76"},
+    "医疗服务":{"revenue":"66095204.78","cost":"70383698.81"},
+    "其他":{"revenue":"19942396.63"}
+  },
+  "products_h1_2026": {
+    "滴眼剂":{"revenue":"1121535827.84","cost":"151961240.42"},
+    "凝胶剂及眼膏剂":{"revenue":"198523750.83","cost":"30879493.42"},
+    "其他合并余项":{"revenue":"80814377.74"}
+  },
+  "three_year": [
+    {"name":"悲观","growth":"-0.10","pe":"12","payout":"0.35"},
+    {"name":"基准","growth":"0.06","pe":"17","payout":"0.40"},
+    {"name":"乐观","growth":"0.15","pe":"22","payout":"0.45"}
+  ],
+  "ten_year": {"r":"0.08","roic":"0.15","rf_reference":"0.02","scenarios":[
+    {"name":"悲观","growth_first3":"-0.10","growth_next7":"0","terminal_g":"0","payout":"0.35","probability":"0.30"},
+    {"name":"基准","growth_first3":"0.06","growth_next7":"0.04","terminal_g":"0.01","payout":"0.40","probability":"0.50"},
+    {"name":"乐观","growth_first3":"0.15","growth_next7":"0.06","terminal_g":"0.02","payout":"0.45","probability":"0.20"}
+  ]},
+  "source_notes": {"annual":"2025年报三年比较列，原件S3；归母口径，元。","price":"腾讯与新浪2026-10-28同价，主代理统一抓取。","shares":"2026Q3原件与腾讯总股本，已含10转4.5及回购注销。","h1":"H1原件与Q3累计减单季勾稽。"}
+}

@@ -1,0 +1,111 @@
+Seed 20261028; raw 220, nonfinancial exclusions 39, eligible 181, random checks 28; targeted checks 21.
+External public disclosures, arithmetic and assumptions have separate audit_kind. Issuer mirrors are one underlying source.
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：国电南瑞研究报告-20261028.md
+======================================================================
+
+  ✅ 通过 [ 2] 营业收入（亿元） · 2026前三季度                  报告:       438.80
+                                                    S1 p1/p10, original PDF table: 438.80 (偏差 0.00%)  |  S4 independent publication: 438.80 (偏差 0.00%)
+  ✅ 通过 [ 1] 营业收入（亿元） · 2025前三季度                  报告:       385.77
+                                                    S1 p10 comparative column; issuer-only underlying evidence: 385.77 (偏差 0.00%)
+  ✅ 通过 [10] 营业利润率 · 2026前三季度                     报告:        13.66 %
+                                                    S1 p10-11 operating profit / revenue: 13.66 (偏差 0.02%)
+  ✅ 通过 [ 9] 营业利润率 · 2025前三季度                     报告:        15.18 %
+                                                    S1 p10-11 comparative operating profit / revenue: 15.18 (偏差 0.02%)
+  ✅ 通过 [12] 归母净利率 · 2026前三季度                     报告:        11.19 %
+                                                    S1 p1/p11 parent profit / revenue: 11.19 (偏差 0.03%)
+  ✅ 通过 [37] 电网智能 · 2026H1收入                      报告:       133.06
+                                                    S2 MD&A product table: 133.06 (偏差 0.00%)  |  S5 Lanjing 2026H1: 133.06 (偏差 0.00%)
+  ✅ 通过 [55] 工业互联 · 2026H1收入                      报告:         9.54
+                                                    S2 MD&A product table: 9.54 (偏差 0.03%)  |  S5 Lanjing 2026H1: 9.54 (偏差 0.00%)
+  ✅ 通过 [56] 工业互联 · H1收入同比                        报告:       -23.38 %
+                                                    S2 MD&A product table: -23.38 (偏差 0.00%)  |  S5 Lanjing 2026H1: -23.38 (偏差 0.00%)
+  ✅ 通过 [53] 工业互联 · 2025收入                        报告:        30.14
+                                                    S3 MD&A product table; issuer-only: 30.14 (偏差 0.00%)
+  ✅ 通过 [60] 集成及其他 · 2025毛利率                      报告:        26.64 %
+                                                    S3 product table revenue and cost, recomputed: 26.64 (偏差 0.00%)
+  ✅ 通过 [68] 国内主营收入（亿元） · 2026H1                  报告:       218.05
+                                                    S2 domestic revenue table: 218.05 (偏差 0.00%)  |  S5 Lanjing 2026H1: 218.05 (偏差 0.00%)
+  ✅ 通过 [95] 存货 · 2026年9月末                        报告:       170.09
+                                                    S1 p6 balance sheet; issuer-only: 170.09 (偏差 0.00%)
+  ✅ 通过 [109] 员工付款增加 · 对CFO同比变化的影响（亿元）             报告:        -3.65
+                                                    S1 p13 payroll cash current minus prior with outflow sign: -3.65 (偏差 0.00%)
+  ✅ 通过 [131] PB / PS · 复算值                        报告:         3.57 倍
+                                                    S1 p9 / S11 price; extractor selects PB, PS tested separately: 3.57 (偏差 0.12%)
+  ✅ 通过 [133] TTM简化FCF · 复算值                       报告:        30.84 亿元
+                                                    S1 p13-14 / S3 consolidated cashflow, exact TTM: 30.84 (偏差 0.00%)
+  ✅ 通过 [143] 悲观 · 三年累计股息                          报告:         1.73
+                                                    Three-year declared model cashflows, not forecast validation: 1.73 (偏差 0.16%)
+  ✅ 通过 [154] 乐观 · 第三年股价                           报告:        39.42
+                                                    EPS * (1.12)^3 * 28; independently recomputed: 39.42 (偏差 0.01%)
+  ✅ 通过 [158] 悲观 · 主观情景权重                          报告:        25.00 %
+                                                    inputs.json subjective probability consistency only: 25.00 (偏差 0.00%)
+  ✅ 通过 [165] 基准 · 永续g                             报告:         1.00 %
+                                                    inputs.json terminal g, not observed economic data: 1.00 (偏差 0.00%)
+  ✅ 通过 [164] 基准 · 前十年利润年增速                        报告:         7.00 %
+                                                    inputs.json assumed growth, not management guidance: 7.00 (偏差 0.00%)
+  ✅ 通过 [168] 基准 · 严格现金流IRR                        报告:         4.81 %
+                                                    Declared annual dividends plus year-11 earnings terminal, root checked in unit tests: 4.81 (偏差 0.06%)
+  ✅ 通过 [174] 乐观 · 第十年利润（亿元）                       报告:       250.00
+                                                    TTM adjusted profit * (1.12)^10: 250.00 (偏差 0.00%)
+  ✅ 通过 [175] 乐观 · 严格现金流IRR                        报告:        10.52 %
+                                                    Declared yearly cashflows and numerical root; not return guarantee: 10.52 (偏差 0.00%)
+  ✅ 通过 [189] S9 · 来源属性                            报告:         0.15
+                                                    S9 implementation notice; paid 2026-09-29: 0.15 (偏差 0.00%)
+  ✅ 通过 [197] 2025归母 · 原件值                         报告:        82.79
+                                                    S3 main indicators and consolidated profit: 82.79 (偏差 0.00%)  |  S6 Weekly on Stock publication: 82.79 (偏差 0.00%)
+  ✅ 通过 [207] 2026前三季归母 · 第二刊发渠道值                  报告:        49.12
+                                                    S4 extracted page: 49.12 (偏差 0.00%)  |  S1 original PDF p1: 49.12 (偏差 0.01%)
+  ✅ 通过 [210] 2026前三季扣非 · 第二刊发渠道值                  报告:        47.05
+                                                    S4 extracted page: 47.05 (偏差 0.00%)  |  S1 original PDF p1: 47.05 (偏差 0.00%)
+  ✅ 通过 [212] 2026前三季经营现金流 · 原件值                   报告:       -29.20
+                                                    S1 p2/p13 original: -29.20 (偏差 0.00%)  |  S4 extracted page: -29.20 (偏差 0.02%)
+  ✅ 通过 [1001] 2023 restated revenue CNY100m        报告:       519.61 as labeled
+                                                    S3 restated three-year indicators: 519.61 (偏差 0.00%)
+  ✅ 通过 [1002] 2023 restated parent profit CNY100m  报告:        71.79 as labeled
+                                                    S3 restated three-year indicators: 71.79 (偏差 0.00%)
+  ✅ 通过 [1003] 2023 adjusted profit CNY100m         报告:        69.60 as labeled
+                                                    S3 three-year indicators: 69.60 (偏差 0.00%)
+  ✅ 通过 [1004] 2023 restated OCF CNY100m            报告:       113.17 as labeled
+                                                    S3 restated three-year indicators: 113.17 (偏差 0.00%)
+  ✅ 通过 [1005] 2024 restated revenue CNY100m        报告:       578.29 as labeled
+                                                    S3 restated three-year indicators: 578.29 (偏差 0.00%)
+  ✅ 通过 [1006] 2024 restated parent profit CNY100m  报告:        76.10 as labeled
+                                                    S3 restated three-year indicators: 76.10 (偏差 0.00%)
+  ✅ 通过 [1007] 2024 adjusted profit CNY100m         报告:        73.89 as labeled
+                                                    S3 three-year indicators: 73.89 (偏差 0.00%)
+  ✅ 通过 [1008] 2024 restated OCF CNY100m            报告:       110.87 as labeled
+                                                    S3 restated three-year indicators: 110.87 (偏差 0.00%)
+  ✅ 通过 [1009] 2025 revenue CNY100m                 报告:       662.29 as labeled
+                                                    S3 original; S6 662.29 confirms: 662.29 (偏差 0.00%)
+  ✅ 通过 [1010] 2025 adjusted profit CNY100m         报告:        79.83 as labeled
+                                                    S3 original; third-party annual summary 79.83: 79.83 (偏差 0.00%)
+  ✅ 通过 [1011] 2025 OCF CNY100m                     报告:       127.69 as labeled
+                                                    S3 original; S6 127.69 confirms: 127.69 (偏差 0.00%)
+  ✅ 通过 [1012] 2026 single Q3 OCF CNY100m           报告:       -35.11 as labeled
+                                                    S1 p13 minus S2 H1 cashflow: -35.11 (偏差 0.00%)
+  ✅ 通过 [1013] Full CFO bridge CNY100m              报告:       -76.34 as labeled
+                                                    S1 p13 all seven change components, verified sum invariant: -76.34 (偏差 0.00%)
+  ✅ 通过 [1014] Cash plus trading CNY100m            报告:       129.46 as labeled
+                                                    S1 p6; excludes cash equivalents duplicate: 129.46 (偏差 0.00%)
+  ✅ 通过 [1015] Current total shares                 报告: 8031756156.00 as labeled
+                                                    S1 p9, S12 current 10/28 disclosure, Tencent quote: 8031756156.00 (偏差 0.00%)
+  ✅ 通过 [1016] Proposed cancellation shares         报告:    143730.00 as labeled
+                                                    S13 proposal not completed cancellation: 143730.00 (偏差 0.00%)
+  ✅ 通过 [1017] 2025 payout per share                报告:         0.62 as labeled
+                                                    S3 interim dividend and S8 implemented final dividend: 0.62 (偏差 0.00%)
+  ✅ 通过 [1018] 2026 latest repurchase amount CNY10  报告:         1.51 as labeled
+                                                    S12 actual cash spent, not planned CNY0.5-1.0bn: 1.51 (偏差 0.05%)
+  ✅ 通过 [1019] 2026 latest repurchase shares 10k    报告:       659.23 as labeled
+                                                    S12 buyback for employee incentive, not capital retirement: 659.23 (偏差 0.00%)
+  ✅ 通过 [1020] PS                                   报告:         2.62 as labeled
+                                                    S1/S3/S11 exact marketcap/TTM revenue: 2.62 (偏差 0.03%)
+  ✅ 通过 [1021] Forward terminal PE base             报告:        13.33 as labeled
+                                                    Perpetual formula; year11 profit multiplicand tested: 13.33 (偏差 0.03%)
+
+----------------------------------------------------------------------
+  抽检总数: 49  |  通过: 49  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================

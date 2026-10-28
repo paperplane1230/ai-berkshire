@@ -1,0 +1,23 @@
+{
+  "company": "国电南瑞 600406",
+  "retrieved_at": "2026-10-28 evening Asia/Shanghai",
+  "primary_pdfs": [
+    {"id":"S1","url":"https://pdf.dfcfw.com/pdf/H2_AN202610281831118643_1.pdf","local_cache":"tmp/pdfs/nari-20261028/nari-q3.pdf","pages":15,"sha256":"4c5a47d0b6b7f3cc5bbcab450c874afa10e34cef1cb372cf616b7c07df99d6e0","text":"tmp/pdfs/nari-20261028/nari-q3.txt","visual_review":"p1 and p13 reviewed by report agent; principal agent separately reviews key pages"},
+    {"id":"S2","url":"https://stockmc.xueqiu.com/202608/600406_20260827_8WAK.pdf","local_cache":"tmp/pdfs/nari-20261028/nari-h1.pdf","pages":234,"sha256":"21eb6468cc5e969eb848ae8d17b8fb3e555108185529540106086a69954da8df","text":"tmp/pdfs/nari-20261028/nari-h1.txt"},
+    {"id":"S3","url":"https://notice.10jqka.com.cn/api/pdf/5cb9ab12fb85b8cf.pdf","local_cache":"tmp/pdfs/nari-20261028/nari-2025.pdf","pages":306,"sha256":"263607df17b8f71f891ff2e046120f123f146039a9097b93aa9b2527d79fa25c","text":"tmp/pdfs/nari-20261028/nari-2025.txt"}
+  ],
+  "secondary_publications": [
+    {"id":"S4","url":"https://www.guandian.cn/m/show/619643","local_cache":"local/国电南瑞-20261028/secondary-0.md"},
+    {"id":"S5","url":"https://www.lanjinger.com/d/1787730896347490366","local_cache":"local/国电南瑞-20261028/secondary-1.md"},
+    {"id":"S6","url":"https://static.weeklyonstock.com/26/0429/AB2617463961544.html","local_cache":"local/国电南瑞-20261028/annual-secondary-0.md"}
+  ],
+  "additional_primary": [
+    {"id":"S7","url":"https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600406&id=12580190","local_cache":"local/国电南瑞-20261028/ir-div-0.md"},
+    {"id":"S8","url":"https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600406&id=12407365","local_cache":"local/国电南瑞-20261028/ir-div-2.md"},
+    {"id":"S9","url":"https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600406&id=12614096","local_cache":"local/国电南瑞-20261028/ir-div-1.md"},
+    {"id":"S12","url":"https://pdf.dfcfw.com/pdf/H2_AN202610281831118638_1.pdf","local_cache":"local/国电南瑞-20261028/buyback-0.md"},
+    {"id":"S13","url":"https://pdf.dfcfw.com/pdf/H2_AN202610281831118644_1.pdf","local_cache":"local/国电南瑞-20261028/buyback-1.md"}
+  ],
+  "quotes": {"price":"23.34","shares":"8031756156","tencent_time":"2026-10-28 16:14:44","sina_time":"2026-10-28 15:34:59","encoding":"GBK 936","cache_paths":["local/三季报-20261028/quotes-tencent.txt","local/三季报-20261028/quotes-sina.txt"]},
+  "caveat": "Mirrors are the same issuer source. Independent publication is transcription corroboration, not an independent financial audit. Detailed balance-sheet notes lack complete third-party corroboration."
+}
