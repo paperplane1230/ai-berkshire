@@ -1,0 +1,873 @@
+{
+  "seed": 20261028,
+  "ratio": 0.15,
+  "raw_count": 188,
+  "excluded_non_financial": [
+    {
+      "id": 98,
+      "label": "总股本（股） · 口径",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| 总股本（股） | 354917774 | Q3原件与腾讯总股本一致 |",
+      "line_number": 294,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 101,
+      "label": "TTM收入（亿元） · 口径",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| TTM收入（亿元） | 28.0674 | 2025全年加2026前三季减2025前三季 |",
+      "line_number": 296,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 109,
+      "label": "PB · 口径",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| PB | 5.23 | Q3归母净资产 |",
+      "line_number": 303,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 159,
+      "label": "已有合理小仓位 · 具体条件",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| 已有合理小仓位 | 以持有和经营复核为主 | Q3没有证明论文破裂，不因单季增速放缓自动清仓 |",
+      "line_number": 393,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 160,
+      "label": "S1 · 资料与用途",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "| S1 | [2026年第三季度报告原件](https://pdf.dfcfw.com/pdf/H2_AN202610281831103829_1.pdf)：累计与单季主指标、三表、股本、股东及临床进展 |",
+      "line_number": 430,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 161,
+      "label": "S2 · 资料与用途",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "| S2 | [2026年半年度报告全文](https://static.cninfo.com.cn/finalpage/2026-08-28/1225517259.PDF)：分产品、研发资本化、工程、治理及分红 |",
+      "line_number": 431,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 162,
+      "label": "S3 · 资料与用途",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| S3 | [2025年年度报告全文](https://static.cninfo.com.cn/finalpage/2026-04-22/1225135989.PDF)：三年历史、年度三表、产销、分部和客户供应商 |",
+      "line_number": 432,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 163,
+      "label": "S4 · 资料与用途",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| S4 | [财中社10月28日报道，经腾讯刊发](https://news.qq.com/rain/a/20261028A09YYH00)：最新收入、利润、OCF及单Q3独立刊发核验 |",
+      "line_number": 433,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 164,
+      "label": "S5 · 资料与用途",
+      "reported_value": 8.0,
+      "unit": "",
+      "raw_text": "| S5 | [北京商报8月31日报道](https://xinwen.bjd.com.cn/content/s6a94591ae4b03fa51a83968b.html)：H1及2025财务交叉、产品披露缺口和竞品线索 |",
+      "line_number": 434,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 165,
+      "label": "S6 · 资料与用途",
+      "reported_value": 4.0,
+      "unit": "",
+      "raw_text": "| S6 | [公司4月28日投资者交流记录](https://static.cninfo.com.cn/finalpage/2026-04-28/1225236902.PDF)：渠道、产品定位、管理层销售展望；与公司报告属于同一底层来源 ",
+      "line_number": 435,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 166,
+      "label": "S7 · 资料与用途",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| S7 | [新快报10月27日报道，经同花顺刊发](http://stock.10jqka.com.cn/20261027/c681107251.shtml)：十月主动降价及竞品阶段，已读取正文；报道中的市场规模推测不纳入估值 |",
+      "line_number": 436,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 167,
+      "label": "S8 · 资料与用途",
+      "reported_value": 8.0,
+      "unit": "",
+      "raw_text": "| S8 | [恒瑞官网8月18日公告](https://www.hengrui.com/media/detail-1013.html)：环孢素Ⅳ获批与首次发货，已读取原文，不作为头对头疗效证据 |",
+      "line_number": 437,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 168,
+      "label": "S10 · 资料与用途",
+      "reported_value": 10.0,
+      "unit": "",
+      "raw_text": "| S10 | 腾讯与新浪10月28日收盘快照：分别抓取，原始GBK文本保存在本地统一行情缓存；32.86元同价、总股本取腾讯并与S1勾稽 |",
+      "line_number": 439,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 171,
+      "label": "2025收入 · 结果",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 2025收入 | 24.7285 | 24.73 | 误差小于1% |",
+      "line_number": 445,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 174,
+      "label": "2025归母 · 结果",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 2025归母 | 6.9586 | 6.96 | 误差小于1% |",
+      "line_number": 446,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 177,
+      "label": "2026前三季收入 · 结果",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 2026前三季收入 | 22.3762 | 22.4 | 误差小于1% |",
+      "line_number": 447,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 180,
+      "label": "2026前三季归母 · 结果",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 2026前三季归母 | 7.0511 | 7.05 | 误差小于1% |",
+      "line_number": 448,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 183,
+      "label": "2026前三季扣非 · 结果",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 2026前三季扣非 | 7.1581 | 7.16 | 误差小于1% |",
+      "line_number": 449,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 186,
+      "label": "2026前三季经营现金流 · 结果",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 2026前三季经营现金流 | 7.1254 | 7.13 | 误差小于1% |",
+      "line_number": 450,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 187,
+      "label": "研究日",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "研究日：2026年10月28日晚，Asia/Shanghai；财务截止2026年9月30日，已纳入今晚发布的三季报。行情为10月28日收盘价。除另注明外，金额均为人民币。",
+      "line_number": 3,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    },
+    {
+      "id": 188,
+      "label": "结论",
+      "reported_value": 6.0,
+      "unit": "%",
+      "raw_text": "结论：6%的含股息结果看似翻转，但乐观档违反分母约束，不能作为重仓理由；在同时满足币种和分母要求的7%至9%区间，仓位压力测试没有翻转，均未覆盖资本成本。缺口首先要求降低仓位上限，而不是机械否决投资。",
+      "line_number": 362,
+      "reason": "Date, quarter token, source identifier or audit tolerance, not a financial observation"
+    }
+  ],
+  "valid_population_count": 191,
+  "random_sample": [
+    {
+      "id": 1168,
+      "label": "2023 · 归母净利润",
+      "reported_value": 2.4004,
+      "unit": "",
+      "line_number": 36,
+      "raw_text": "| 2023 | 14.6757 | 2.4004 | 2.4045 | 16.36% | 3.1757 | 未补齐 | 未补齐 |"
+    },
+    {
+      "id": 1171,
+      "label": "2023 · 经营现金流",
+      "reported_value": 3.1757,
+      "unit": "",
+      "line_number": 36,
+      "raw_text": "| 2023 | 14.6757 | 2.4004 | 2.4045 | 16.36% | 3.1757 | 未补齐 | 未补齐 |"
+    },
+    {
+      "id": 1176,
+      "label": "2024 · 经营现金流",
+      "reported_value": 4.1698,
+      "unit": "",
+      "line_number": 37,
+      "raw_text": "| 2024 | 19.4339 | 3.3806 | 3.4754 | 17.40% | 4.1698 | 1.9871 | 2.1827 |"
+    },
+    {
+      "id": 1175,
+      "label": "2024 · 归母净利率",
+      "reported_value": 17.4,
+      "unit": "%",
+      "line_number": 37,
+      "raw_text": "| 2024 | 19.4339 | 3.3806 | 3.4754 | 17.40% | 4.1698 | 1.9871 | 2.1827 |"
+    },
+    {
+      "id": 1185,
+      "label": "2025 · 简化FCF",
+      "reported_value": 4.8286,
+      "unit": "",
+      "line_number": 38,
+      "raw_text": "| 2025 | 24.7285 | 6.9586 | 6.9705 | 28.14% | 7.5339 | 2.7053 | 4.8286 |"
+    },
+    {
+      "id": 1182,
+      "label": "2025 · 归母净利率",
+      "reported_value": 28.14,
+      "unit": "%",
+      "line_number": 38,
+      "raw_text": "| 2025 | 24.7285 | 6.9586 | 6.9705 | 28.14% | 7.5339 | 2.7053 | 4.8286 |"
+    },
+    {
+      "id": 1183,
+      "label": "2025 · 经营现金流",
+      "reported_value": 7.5339,
+      "unit": "",
+      "line_number": 38,
+      "raw_text": "| 2025 | 24.7285 | 6.9586 | 6.9705 | 28.14% | 7.5339 | 2.7053 | 4.8286 |"
+    },
+    {
+      "id": 2,
+      "label": "营业收入（亿元） · 2026前三季度",
+      "reported_value": 22.3762,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 19.0373 | 22.3762 | +17.54% |",
+      "line_number": 48
+    },
+    {
+      "id": 1,
+      "label": "营业收入（亿元） · 2025前三季度",
+      "reported_value": 19.0373,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 19.0373 | 22.3762 | +17.54% |",
+      "line_number": 48
+    },
+    {
+      "id": 10,
+      "label": "销售费用（亿元） · 2026前三季度",
+      "reported_value": 6.4724,
+      "unit": "",
+      "raw_text": "| 销售费用（亿元） | 5.5547 | 6.4724 | +16.52% |",
+      "line_number": 52
+    },
+    {
+      "id": 9,
+      "label": "销售费用（亿元） · 2025前三季度",
+      "reported_value": 5.5547,
+      "unit": "",
+      "raw_text": "| 销售费用（亿元） | 5.5547 | 6.4724 | +16.52% |",
+      "line_number": 52
+    },
+    {
+      "id": 12,
+      "label": "研发费用（亿元） · 2026前三季度",
+      "reported_value": 2.3282,
+      "unit": "",
+      "raw_text": "| 研发费用（亿元） | 1.5512 | 2.3282 | +50.08% |",
+      "line_number": 53
+    },
+    {
+      "id": 37,
+      "label": "经营现金流（亿元） · 2025单Q3",
+      "reported_value": 2.6897,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 2.6897 | 3.1909 | +18.63% |",
+      "line_number": 71
+    },
+    {
+      "id": 53,
+      "label": "其他 · 收入占比",
+      "reported_value": 0.81,
+      "unit": "%",
+      "raw_text": "| 其他 | 0.1994 | 0.81% | 未单列 | 体量较小 |",
+      "line_number": 92
+    },
+    {
+      "id": 55,
+      "label": "滴眼剂 · 收入占比",
+      "reported_value": 80.06,
+      "unit": "%",
+      "raw_text": "| 滴眼剂 | 11.2154 | 80.06% | +24.20% | 86.45% |",
+      "line_number": 96
+    },
+    {
+      "id": 56,
+      "label": "滴眼剂 · 毛利率",
+      "reported_value": 86.45,
+      "unit": "%",
+      "raw_text": "| 滴眼剂 | 11.2154 | 80.06% | +24.20% | 86.45% |",
+      "line_number": 96
+    },
+    {
+      "id": 60,
+      "label": "其他合并余项 · 收入（亿元）",
+      "reported_value": 0.8081,
+      "unit": "",
+      "raw_text": "| 其他合并余项 | 0.8081 | 5.77% | 未独立拆分 | 未独立拆分 |",
+      "line_number": 98
+    },
+    {
+      "id": 68,
+      "label": "应收账款 · 判断",
+      "reported_value": 23.83,
+      "unit": "%",
+      "raw_text": "| 应收账款 | 3.2565 | 比年初增加23.83%，不是同季同比 |",
+      "line_number": 149
+    },
+    {
+      "id": 91,
+      "label": "定增计划终止 · 已发生或已披露事实",
+      "reported_value": 7.8979,
+      "unit": "亿元",
+      "raw_text": "| 定增计划终止 | 五月终止原拟募资7.8979亿元方案 | 减少即期摊薄，但建设资金仍要由现金、借款等承担 |",
+      "line_number": 254
+    },
+    {
+      "id": 107,
+      "label": "2025静态PE · 当前值",
+      "reported_value": 16.76,
+      "unit": "",
+      "raw_text": "| 2025静态PE | 16.76 | 不是当前TTM |",
+      "line_number": 302
+    },
+    {
+      "id": 121,
+      "label": "基准 · 派息率假设",
+      "reported_value": 40.0,
+      "unit": "%",
+      "raw_text": "| 基准 | +6% | 17 | 40% | 46.59 | 3.11 | +15.15% | 39.65 |",
+      "line_number": 316
+    },
+    {
+      "id": 131,
+      "label": "乐观 · 含股息年化IRR",
+      "reported_value": 35.99,
+      "unit": "%",
+      "raw_text": "| 乐观 | +15% | 22 | 45% | 77.00 | 4.14 | +35.99% | 64.65 |",
+      "line_number": 317
+    },
+    {
+      "id": 146,
+      "label": "基准 · r减g",
+      "reported_value": 7.0,
+      "unit": "",
+      "raw_text": "| 基准 | +6% | +4% | 1% | 40% | 12.8012 | 13.33 | 7个百分点 | 30.41 | +7.05% |",
+      "line_number": 341
+    },
+    {
+      "id": 142,
+      "label": "基准 · 永续g",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 基准 | +6% | +4% | 1% | 40% | 12.8012 | 13.33 | 7个百分点 | 30.41 | +7.05% |",
+      "line_number": 341
+    },
+    {
+      "id": 153,
+      "label": "乐观 · 第十年利润（亿元）",
+      "reported_value": 18.6781,
+      "unit": "",
+      "raw_text": "| 乐观 | +15% | +6% | 2% | 45% | 18.6781 | 14.44 | 6个百分点 | 47.57 | +12.66% |",
+      "line_number": 342
+    },
+    {
+      "id": 152,
+      "label": "乐观 · 派息率",
+      "reported_value": 45.0,
+      "unit": "%",
+      "raw_text": "| 乐观 | +15% | +6% | 2% | 45% | 18.6781 | 14.44 | 6个百分点 | 47.57 | +12.66% |",
+      "line_number": 342
+    },
+    {
+      "id": 156,
+      "label": "乐观 · 现值（元/股）",
+      "reported_value": 47.57,
+      "unit": "",
+      "raw_text": "| 乐观 | +15% | +6% | 2% | 45% | 18.6781 | 14.44 | 6个百分点 | 47.57 | +12.66% |",
+      "line_number": 342
+    },
+    {
+      "id": 1186,
+      "label": "6% · 含股息加权IRR",
+      "reported_value": 8.54,
+      "unit": "%",
+      "line_number": 354,
+      "raw_text": "| 6% | +8.54% | 表面通过 | 乐观档r减g仅4个百分点，只作情景参考 |"
+    },
+    {
+      "id": 173,
+      "label": "2025归母 · 独立刊发值（亿元）",
+      "reported_value": 6.96,
+      "unit": "",
+      "raw_text": "| 2025归母 | 6.9586 | 6.96 | 误差小于1% |",
+      "line_number": 446
+    }
+  ],
+  "targeted_count": 11,
+  "checks": [
+    {
+      "id": 1168,
+      "label": "2023 · 归母净利润",
+      "reported_value": 2.4004,
+      "unit": "",
+      "line_number": 36,
+      "raw_text": "| 2023 | 14.6757 | 2.4004 | 2.4045 | 16.36% | 3.1757 | 未补齐 | 未补齐 |",
+      "fetched_value": 2.4003604712,
+      "fetched_source": "S3 p8三年比较列，原件已读；单一底层来源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 1171,
+      "label": "2023 · 经营现金流",
+      "reported_value": 3.1757,
+      "unit": "",
+      "line_number": 36,
+      "raw_text": "| 2023 | 14.6757 | 2.4004 | 2.4045 | 16.36% | 3.1757 | 未补齐 | 未补齐 |",
+      "fetched_value": 3.1756822276,
+      "fetched_source": "S3 p8三年比较列，原件已读；单一底层来源",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 1176,
+      "label": "2024 · 经营现金流",
+      "reported_value": 4.1698,
+      "unit": "",
+      "line_number": 37,
+      "raw_text": "| 2024 | 19.4339 | 3.3806 | 3.4754 | 17.40% | 4.1698 | 1.9871 | 2.1827 |",
+      "fetched_value": 4.1698296318,
+      "fetched_source": "S3 p8及p84合并现金流量表比较列",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 1175,
+      "label": "2024 · 归母净利率",
+      "reported_value": 17.4,
+      "unit": "%",
+      "line_number": 37,
+      "raw_text": "| 2024 | 19.4339 | 3.3806 | 3.4754 | 17.40% | 4.1698 | 1.9871 | 2.1827 |",
+      "fetched_value": 17.395486912027863,
+      "fetched_source": "S3 p8归母利润/收入，Decimal独立复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 1185,
+      "label": "2025 · 简化FCF",
+      "reported_value": 4.8286,
+      "unit": "",
+      "line_number": 38,
+      "raw_text": "| 2025 | 24.7285 | 6.9586 | 6.9705 | 28.14% | 7.5339 | 2.7053 | 4.8286 |",
+      "fetched_value": 4.8286208651,
+      "fetched_source": "S3 p84-85经营净现金减购建长期资产付现",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 1182,
+      "label": "2025 · 归母净利率",
+      "reported_value": 28.14,
+      "unit": "%",
+      "line_number": 38,
+      "raw_text": "| 2025 | 24.7285 | 6.9586 | 6.9705 | 28.14% | 7.5339 | 2.7053 | 4.8286 |",
+      "fetched_value": 28.13979686684747,
+      "fetched_source": "S3 p8归母利润/收入，复算",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 1183,
+      "label": "2025 · 经营现金流",
+      "reported_value": 7.5339,
+      "unit": "",
+      "line_number": 38,
+      "raw_text": "| 2025 | 24.7285 | 6.9586 | 6.9705 | 28.14% | 7.5339 | 2.7053 | 4.8286 |",
+      "fetched_value": 7.5338878568,
+      "fetched_source": "S3 p8及p84合并现金流原件",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 2,
+      "label": "营业收入（亿元） · 2026前三季度",
+      "reported_value": 22.3762,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 19.0373 | 22.3762 | +17.54% |",
+      "line_number": 48,
+      "fetched_value": 22.37615141,
+      "fetched_source": "S1 p1/p7；S4财中社独立刊发22.4亿元",
+      "audit_kind": "disclosed",
+      "fetched_value2": 22.4,
+      "fetched_source2": "S4财中社2026-10-28正文"
+    },
+    {
+      "id": 1,
+      "label": "营业收入（亿元） · 2025前三季度",
+      "reported_value": 19.0373,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 19.0373 | 22.3762 | +17.54% |",
+      "line_number": 48,
+      "fetched_value": 19.0372880418,
+      "fetched_source": "S1 p1/p7比较列；S3分季收入可加总",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 10,
+      "label": "销售费用（亿元） · 2026前三季度",
+      "reported_value": 6.4724,
+      "unit": "",
+      "raw_text": "| 销售费用（亿元） | 5.5547 | 6.4724 | +16.52% |",
+      "line_number": 52,
+      "fetched_value": 6.4723718259,
+      "fetched_source": "S1 p7合并年初到期末利润表",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 9,
+      "label": "销售费用（亿元） · 2025前三季度",
+      "reported_value": 5.5547,
+      "unit": "",
+      "raw_text": "| 销售费用（亿元） | 5.5547 | 6.4724 | +16.52% |",
+      "line_number": 52,
+      "fetched_value": 5.5547417054,
+      "fetched_source": "S1 p7合并年初到期末利润表比较列",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 12,
+      "label": "研发费用（亿元） · 2026前三季度",
+      "reported_value": 2.3282,
+      "unit": "",
+      "raw_text": "| 研发费用（亿元） | 1.5512 | 2.3282 | +50.08% |",
+      "line_number": 53,
+      "fetched_value": 2.328181029,
+      "fetched_source": "S1 p3/p7研发费用，非研发总投入",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 37,
+      "label": "经营现金流（亿元） · 2025单Q3",
+      "reported_value": 2.6897,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 2.6897 | 3.1909 | +18.63% |",
+      "line_number": 71,
+      "fetched_value": 2.6897030272,
+      "fetched_source": "S3 p8分季度表直接披露，并与S1减S2比较列勾稽",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 53,
+      "label": "其他 · 收入占比",
+      "reported_value": 0.81,
+      "unit": "%",
+      "raw_text": "| 其他 | 0.1994 | 0.81% | 未单列 | 体量较小 |",
+      "line_number": 92,
+      "fetched_value": 0.8064532256843275,
+      "fetched_source": "S3 p22分产品其他收入/总收入",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 55,
+      "label": "滴眼剂 · 收入占比",
+      "reported_value": 80.06,
+      "unit": "%",
+      "raw_text": "| 滴眼剂 | 11.2154 | 80.06% | +24.20% | 86.45% |",
+      "line_number": 96,
+      "fetched_value": 80.05972433909358,
+      "fetched_source": "S2 p19分产品收入/总收入；S5报道80.06%",
+      "audit_kind": "derived",
+      "fetched_value2": 80.06,
+      "fetched_source2": "S5北京商报H1产品结构正文"
+    },
+    {
+      "id": 56,
+      "label": "滴眼剂 · 毛利率",
+      "reported_value": 86.45,
+      "unit": "%",
+      "raw_text": "| 滴眼剂 | 11.2154 | 80.06% | +24.20% | 86.45% |",
+      "line_number": 96,
+      "fetched_value": 86.45061204039582,
+      "fetched_source": "S2 p19原表及截图视觉核验",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 60,
+      "label": "其他合并余项 · 收入（亿元）",
+      "reported_value": 0.8081,
+      "unit": "",
+      "raw_text": "| 其他合并余项 | 0.8081 | 5.77% | 未独立拆分 | 未独立拆分 |",
+      "line_number": 98,
+      "fetched_value": 0.8081437774,
+      "fetched_source": "S2 p18-19总收入减两大披露剂型，不是独立分部",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 68,
+      "label": "应收账款 · 判断",
+      "reported_value": 23.83,
+      "unit": "%",
+      "raw_text": "| 应收账款 | 3.2565 | 比年初增加23.83%，不是同季同比 |",
+      "line_number": 149,
+      "fetched_value": 23.828119946144763,
+      "fetched_source": "S1 p5期末与年初比较，不是同比",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 91,
+      "label": "定增计划终止 · 已发生或已披露事实",
+      "reported_value": 7.8979,
+      "unit": "亿元",
+      "raw_text": "| 定增计划终止 | 五月终止原拟募资7.8979亿元方案 | 减少即期摊薄，但建设资金仍要由现金、借款等承担 |",
+      "line_number": 254,
+      "fetched_value": 7.897856,
+      "fetched_source": "S2 p35-36拟募资78978.56万元及5/25终止；S5报道7.9亿",
+      "audit_kind": "disclosed"
+    },
+    {
+      "id": 107,
+      "label": "2025静态PE · 当前值",
+      "reported_value": 16.76,
+      "unit": "",
+      "raw_text": "| 2025静态PE | 16.76 | 不是当前TTM |",
+      "line_number": 302,
+      "fetched_value": 16.76008372497155,
+      "fetched_source": "S10双源行情乘S1股本除S3年度利润",
+      "audit_kind": "derived"
+    },
+    {
+      "id": 121,
+      "label": "基准 · 派息率假设",
+      "reported_value": 40.0,
+      "unit": "%",
+      "raw_text": "| 基准 | +6% | 17 | 40% | 46.59 | 3.11 | +15.15% | 39.65 |",
+      "line_number": 316,
+      "fetched_value": 40.0,
+      "fetched_source": "inputs.json三年基准假设一致性；不是事实预测验证",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 131,
+      "label": "乐观 · 含股息年化IRR",
+      "reported_value": 35.99,
+      "unit": "%",
+      "raw_text": "| 乐观 | +15% | 22 | 45% | 77.00 | 4.14 | +35.99% | 64.65 |",
+      "line_number": 317,
+      "fetched_value": 35.98973950933086,
+      "fetched_source": "calculate.py逐年股利求根；test_calculation独立浮点NPV校验",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 146,
+      "label": "基准 · r减g",
+      "reported_value": 7.0,
+      "unit": "",
+      "raw_text": "| 基准 | +6% | +4% | 1% | 40% | 12.8012 | 13.33 | 7个百分点 | 30.41 | +7.05% |",
+      "line_number": 341,
+      "fetched_value": 7.0,
+      "fetched_source": "参数差值；terminal audit确认分母合格",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 142,
+      "label": "基准 · 永续g",
+      "reported_value": 1.0,
+      "unit": "%",
+      "raw_text": "| 基准 | +6% | +4% | 1% | 40% | 12.8012 | 13.33 | 7个百分点 | 30.41 | +7.05% |",
+      "line_number": 341,
+      "fetched_value": 1.0,
+      "fetched_source": "inputs.json假设一致性，不是永久增长已获验证",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 153,
+      "label": "乐观 · 第十年利润（亿元）",
+      "reported_value": 18.6781,
+      "unit": "",
+      "raw_text": "| 乐观 | +15% | +6% | 2% | 45% | 18.6781 | 14.44 | 6个百分点 | 47.57 | +12.66% |",
+      "line_number": 342,
+      "fetched_value": 18.678121390253178,
+      "fetched_source": "TTM扣非及明确两段增长假设独立复算",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 152,
+      "label": "乐观 · 派息率",
+      "reported_value": 45.0,
+      "unit": "%",
+      "raw_text": "| 乐观 | +15% | +6% | 2% | 45% | 18.6781 | 14.44 | 6个百分点 | 47.57 | +12.66% |",
+      "line_number": 342,
+      "fetched_value": 45.0,
+      "fetched_source": "inputs.json假设一致性，不是未来派息承诺",
+      "audit_kind": "assumption"
+    },
+    {
+      "id": 156,
+      "label": "乐观 · 现值（元/股）",
+      "reported_value": 47.57,
+      "unit": "",
+      "raw_text": "| 乐观 | +15% | +6% | 2% | 45% | 18.6781 | 14.44 | 6个百分点 | 47.57 | +12.66% |",
+      "line_number": 342,
+      "fetched_value": 47.56866994574005,
+      "fetched_source": "逐年股利加第十一年利润乘前瞻PE后折现；测试验证",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 1186,
+      "label": "6% · 含股息加权IRR",
+      "reported_value": 8.54,
+      "unit": "%",
+      "line_number": 354,
+      "raw_text": "| 6% | +8.54% | 表面通过 | 乐观档r减g仅4个百分点，只作情景参考 |",
+      "fetched_value": 8.542275942049217,
+      "fetched_source": "严格现金流重算；乐观分母仅4pp，不可据此准出买入",
+      "audit_kind": "scenario_calculation"
+    },
+    {
+      "id": 173,
+      "label": "2025归母 · 独立刊发值（亿元）",
+      "reported_value": 6.96,
+      "unit": "",
+      "raw_text": "| 2025归母 | 6.9586 | 6.96 | 误差小于1% |",
+      "line_number": 446,
+      "fetched_value": 6.96,
+      "fetched_source": "S5北京商报2026-08-31正文6.96亿元，已实际extract读取",
+      "audit_kind": "disclosed",
+      "fetched_value2": 6.9585559625,
+      "fetched_source2": "S3年报原件"
+    },
+    {
+      "id": 2001,
+      "label": "当前总股本",
+      "reported_value": 354917774,
+      "fetched_value": 354917774.0,
+      "fetched_source": "S2 p36注销说明与S1股本；腾讯行情同值",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2002,
+      "label": "单Q3收入亿元",
+      "reported_value": 8.3674,
+      "fetched_value": 8.3674118459,
+      "fetched_source": "S1 p1直接单季披露；S4独立刊发8.37亿",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2003,
+      "label": "单Q3归母亿元",
+      "reported_value": 2.747,
+      "fetched_value": 2.7470156362,
+      "fetched_source": "S1 p1直接披露；S4独立刊发2.75亿",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2004,
+      "label": "单Q3销售费用率",
+      "reported_value": 27.94,
+      "fetched_value": 27.936777263394866,
+      "fetched_source": "S1累计减S2半年复算",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2005,
+      "label": "单Q3研发费用率",
+      "reported_value": 8.55,
+      "fetched_value": 8.546878204046118,
+      "fetched_source": "S1累计减S2半年复算",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2006,
+      "label": "净现金参考亿元",
+      "reported_value": 4.3224,
+      "fetched_value": 4.3224140336,
+      "fetched_source": "S1资产负债表；未将现金等价物重复相加",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2007,
+      "label": "2026H1研发资本化金额",
+      "reported_value": 0,
+      "fetched_value": 0.0,
+      "fetched_source": "S2 p147-148全额费用化及空白资本化栏原件，明确非全年推断",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2008,
+      "label": "同SKU收入盈亏平衡量增百分数",
+      "reported_value": 26.97,
+      "fetched_value": 26.970600766936514,
+      "fetched_source": "S7两终端价的纯算术敏感性，不是公司销量预测",
+      "audit_kind": "scenario_calculation",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2009,
+      "label": "阿托品同规格价格降幅百分数",
+      "reported_value": -21.24,
+      "fetched_value": -21.241610738255034,
+      "fetched_source": "S7新快报正文与采购公示线索，终端价格非厂家净价",
+      "audit_kind": "derived",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2010,
+      "label": "H1研发中心在建亿元",
+      "reported_value": 4.1366,
+      "fetched_value": 4.1365810627,
+      "fetched_source": "S2 p117项目在建余额，不是所有在建工程",
+      "audit_kind": "disclosed",
+      "unit": "as labeled"
+    },
+    {
+      "id": 2011,
+      "label": "恒瑞环孢素已商业化状态",
+      "reported_value": 1,
+      "fetched_value": 1.0,
+      "fetched_source": "S8官网正文：2026-06-23获批、08-17首发，状态核验而非财务金额",
+      "audit_kind": "status_check",
+      "unit": "as labeled"
+    }
+  ],
+  "outcome": {
+    "verdict": "PASS",
+    "pass_count": 40,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 40,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limitations": [
+    "Random population is machine-extractable financial/model points, not every number in prose",
+    "No independent second source for all note details",
+    "Assumption and scenario checks are not external validation of future results",
+    "2025 annual total dividend reconciliation unresolved and no full-year dividend yield asserted"
+  ]
+}

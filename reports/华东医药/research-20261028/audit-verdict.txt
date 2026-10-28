@@ -1,0 +1,123 @@
+Seed 20261028; raw 206, nonfinancial exclusions 22, eligible 184, random checks 28 = ceil(eligible * 15%), effective coverage 15.2174%; targeted additions 27.
+Assumption checks are not external verification. Issuer mirrors are one source; full independent coverage of notes is incomplete.
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：华东医药研究报告-20261028.md
+======================================================================
+
+  ✅ 通过 [ 2] 营业收入（亿元） · 2026累计                    报告:       330.19
+                                                    S1 p2 and p17 primary PDF, 33019105609.31 CNY / 1e8: 330.19 (偏差 0.00%)  |  S5 China Fund News independently published on 2026-10-28, issuer underlying accounts: 330.19 (偏差 0.00%)
+  ✅ 通过 [ 1] 营业收入（亿元） · 2025累计                    报告:       326.64
+                                                    S1 p17 prior-period consolidated revenue 32664143135.68 CNY; S3 quarterly sums also match: 326.64 (偏差 0.00%)
+  ✅ 通过 [ 9] 扣非归母（亿元） · 累计同比                      报告:         3.57 %
+                                                    S1 current adjusted profit / S3 sum of first three quarters adjusted profit minus 1, times 100: 3.57 (偏差 0.08%)  |  S5 independently published rounded percent: 3.57 (偏差 0.00%)
+  ✅ 通过 [12] 营业利润（亿元） · 累计同比                      报告:        -0.23 %
+                                                    S1 p18 (3342797714.89 / 3350590171.04 - 1) * 100, independently computed and rounded to declared precision: -0.23 (偏差 0.00%)
+  ✅ 通过 [10] 营业利润（亿元） · 2025累计                    报告:        33.51
+                                                    S1 p18 prior-period operating profit 3350590171.04 CNY: 33.51 (偏差 0.00%)
+  ✅ 通过 [37] 扣非归母（亿元） · 单季同比                      报告:         0.03 %
+                                                    S1 p2 directly discloses 0.03%; also (932051389.97/931780891.87-1)*100 rounds to 0.03%: 0.03 (偏差 0.00%)
+  ✅ 通过 [53] 资本开支付现（亿元） · 单季同比                    报告:       -89.60 %
+                                                    S1 p20 minus S2 p105 for both years: current 30888828.04 vs prior 297088324.12 CNY: -89.60 (偏差 0.00%)
+  ✅ 通过 [55] 简化FCF（亿元） · 2026单Q3                  报告:        -6.70
+                                                    S1/S2 quarterly cashflow subtraction: -638637273.00 - 30888828.04 CNY: -6.70 (偏差 0.00%)
+  ✅ 通过 [56] 医药工业/中美华东，含CSO · 2025管理口径收入          报告:       147.84
+                                                    S3 p23 MD&A and S4 p2 management presentation; one issuer underlying source, not two independent accounts: 147.84 (偏差 0.00%)
+  ✅ 通过 [62] 医美，剔除内部抵消 · 2025管理口径收入               报告:        18.26
+                                                    S3 p28 MD&A medical aesthetics revenue after internal elimination; directly rechecked downloaded primary PDF text: 18.26 (偏差 0.00%)  |  S6 independently published article 2026-09-23, section on medical aesthetics decline; underlying accounts remain issuer supplied: 18.26 (偏差 0.00%)
+  ✅ 通过 [70] 商业 · 2026H1分行业毛利率                    报告:         6.62 %
+                                                    S2 p39 primary revenue 14099335279.67 and cost 13166618350.01; independently recomputed (1-cost/revenue)*100; original table 6.62%: 6.62 (偏差 0.07%)
+  ✅ 通过 [96] 现金及现金等价物 · 期末金额（亿元）                  报告:        39.38
+                                                    S1 p20 primary consolidated cashflow ending cash equivalents 3938207129.22 CNY; visual and local text rechecked; not added again to cash on balance sheet: 39.38 (偏差 0.00%)
+  ✅ 通过 [110] 重庆誉颜，YY001 · 合同上限结构                  报告:         0.50 亿元
+                                                    S2 p227 other related-party transactions: upfront payment CNY50m = CNY0.50 hundred-million; excludes separate CNY100m milestone cap: 0.50 (偏差 0.00%)
+  ✅ 通过 [130] PS · 当前复算值                           报告:         1.04
+                                                    S10 exact market cap 45825143838.24 / S1+S3 TTM revenue 43966972364.65; independent Decimal recalculation: 1.04 (偏差 0.22%)
+  ✅ 通过 [140] 悲观 · 三年后价格                           报告:        16.64
+                                                    TTM adjusted profit 3407531153.47 / shares1753736848 * .92^3 * PE11; independently recomputed, scenario not externally observed price: 16.64 (偏差 0.02%)
+  ✅ 通过 [155] 乐观 · 三年股息合计                          报告:         3.67
+                                                    Sum for years1..3 of (3407531153.47/1753736848)*1.12^year*.50; independent Decimal formula, scenario only: 3.67 (偏差 0.04%)
+  ✅ 通过 [151] 乐观 · 三年利润年增速                         报告:        12.00 %
+                                                    inputs.json three_year_assumptions optimistic growth=.12; assumption consistency, not external fact verification: 12.00 (偏差 0.00%)
+  ✅ 通过 [162] 悲观 · r-g宽度                           报告:         8.00
+                                                    (r=.08 - g=0)*100 percentage points; terminal formula denominator, numerical model check: 8.00 (偏差 0.00%)
+  ✅ 通过 [161] 悲观 · 前瞻退出PE                          报告:        12.50
+                                                    (1-0/.12)/(.08-0); forward terminal multiple independent formula check: 12.50 (偏差 0.00%)
+  ✅ 通过 [171] 基准 · 十年现值/股                          报告:        24.77
+                                                    Independently sum annual dividends: EPS*1.04^t*.45/1.08^t, t1..10, plus EPS*1.04^10*1.01*((1-.01/.12)/(.08-.01))/1.08^10; year11 terminal profits, no separately added cash: 24.77 (偏差 0.01%)
+  ✅ 通过 [165] 基准 · 判断概率                            报告:        50.00 %
+                                                    inputs.json scenario probability=.50, probabilities sum to one; subjective not empirical: 50.00 (偏差 0.00%)
+  ✅ 通过 [178] 乐观 · r-g宽度                           报告:         6.00
+                                                    (r=.08 - g=.02)*100 percentage points; terminal denominator check: 6.00 (偏差 0.00%)
+  ✅ 通过 [174] 乐观 · 前十年利润年增速                        报告:         9.00 %
+                                                    inputs.json ten_year_assumptions optimistic growth=.09; not external forecast verification: 9.00 (偏差 0.00%)
+  ✅ 通过 [203] terminalvalue近似模型的±2个百分点检查输出         报告:         6.00 %
+                                                    terminal-flip-0.02.txt r-minus-2pp input; this extracted number is r=6%, not the 9.49% approximate output: 6.00 (偏差 0.00%)
+  ✅ 通过 [183] 2025收入 · 原件值（亿元）                     报告:       436.12
+                                                    S3 p12 43612009891.02 CNY revenue, rechecked in downloaded primary PDF text: 436.12 (偏差 0.00%)  |  S6 independently published 2025 revenue in hundred-million CNY: 436.12 (偏差 0.00%)
+  ✅ 通过 [193] 2026累计归母 · 独立刊发值（亿元）                 报告:        27.72
+                                                    S5 China Fund News independently published on 2026-10-28, rounded hundred-million CNY: 27.72 (偏差 0.00%)  |  S1 p2 and p18 exact parent net profit 2771876687.23 CNY: 27.72 (偏差 0.00%)
+  ✅ 通过 [192] 2026累计归母 · 原件值（亿元）                   报告:        27.72
+                                                    S1 p2 and p18 primary parent net profit 2771876687.23 CNY, local text rechecked: 27.72 (偏差 0.00%)  |  S5 independently published rounded parent profit: 27.72 (偏差 0.00%)
+  ✅ 通过 [199] 2026H1经营现金流 · 独立刊发值（亿元）              报告:        24.99
+                                                    S6 independently published H1 cashflow, rounded 100m CNY: 24.99 (偏差 0.00%)  |  S2 issuer primary H1 report: 24.99 (偏差 0.02%)
+  ✅ 通过 [10001] 2021 revenue 亿元                      报告:       345.63 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 345.63 (偏差 0.00%)
+  ✅ 通过 [10002] 2021 profit 亿元                       报告:        23.02 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 23.02 (偏差 0.00%)
+  ✅ 通过 [10003] 2021 adjusted_profit 亿元              报告:        21.89 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 21.89 (偏差 0.00%)
+  ✅ 通过 [10004] 2021 ocf 亿元                          报告:        31.70 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 31.70 (偏差 0.00%)
+  ✅ 通过 [10005] 2022 revenue 亿元                      报告:       377.15 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 377.15 (偏差 0.00%)
+  ✅ 通过 [10006] 2022 profit 亿元                       报告:        24.99 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 24.99 (偏差 0.00%)
+  ✅ 通过 [10007] 2022 adjusted_profit 亿元              报告:        24.10 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 24.10 (偏差 0.00%)
+  ✅ 通过 [10008] 2022 ocf 亿元                          报告:        23.82 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 23.82 (偏差 0.00%)
+  ✅ 通过 [10009] 2023 revenue 亿元                      报告:       406.24 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 406.24 (偏差 0.00%)
+  ✅ 通过 [10010] 2023 profit 亿元                       报告:        28.39 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 28.39 (偏差 0.00%)
+  ✅ 通过 [10011] 2023 adjusted_profit 亿元              报告:        27.37 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 27.37 (偏差 0.00%)
+  ✅ 通过 [10012] 2023 ocf 亿元                          报告:        39.29 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 39.29 (偏差 0.00%)
+  ✅ 通过 [10013] 2024 revenue 亿元                      报告:       419.06 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 419.06 (偏差 0.00%)
+  ✅ 通过 [10014] 2024 profit 亿元                       报告:        35.12 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 35.12 (偏差 0.00%)
+  ✅ 通过 [10015] 2024 adjusted_profit 亿元              报告:        33.52 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 33.52 (偏差 0.00%)
+  ✅ 通过 [10016] 2024 ocf 亿元                          报告:        37.49 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 37.49 (偏差 0.00%)
+  ✅ 通过 [10017] 2025 revenue 亿元                      报告:       436.12 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 436.12 (偏差 0.00%)
+  ✅ 通过 [10018] 2025 profit 亿元                       报告:        34.14 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 34.14 (偏差 0.00%)
+  ✅ 通过 [10019] 2025 adjusted_profit 亿元              报告:        33.11 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 33.11 (偏差 0.00%)
+  ✅ 通过 [10020] 2025 ocf 亿元                          报告:        42.46 as labeled
+                                                    S3/S8 primary annual table; actual report cell parsed, independent second coverage incomplete: 42.46 (偏差 0.00%)
+  ✅ 通过 [10021] Q3单季OCF亿元                            报告:        -6.39 as labeled
+                                                    S1 p19 minus S2 p104; exact sign and period verified: -6.39 (偏差 0.00%)
+  ✅ 通过 [10022] Q3单季capex亿元                          报告:         0.31 as labeled
+                                                    S1 p20 minus S2 p105; cash paid is not accrual additions: 0.31 (偏差 0.00%)
+  ✅ 通过 [10023] TTM归母亿元                              报告:        34.38 as labeled
+                                                    S1/S3 full-year plus YTD minus prior YTD: 34.38 (偏差 0.00%)
+  ✅ 通过 [10024] H1研发资本化比例百分数                         报告:        32.66 as labeled
+                                                    S2 p203; raw capitalization/total, no external independent audit: 32.66 (偏差 0.01%)
+  ✅ 通过 [10025] Sinclair安全垫百分数                       报告:         2.18 as labeled
+                                                    S2 p171 impairment table; recoverable is an estimate, not market value: 2.18 (偏差 0.15%)
+  ✅ 通过 [10026] TTM简化FCF亿元                           报告:        22.57 as labeled
+                                                    S1/S2/S3 period-consistent cashflow subtraction, not owner distributable cash: 22.57 (偏差 0.00%)
+  ✅ 通过 [10027] 十年前瞻PE时点                             报告:        13.10 as labeled
+                                                    Perpetuity formula, multiplied by year11 profit; numerical assumption check: 13.10 (偏差 0.04%)
+
+----------------------------------------------------------------------
+  抽检总数: 55  |  通过: 55  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
