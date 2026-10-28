@@ -1,0 +1,62 @@
+{
+  "data_cutoff": "2026-10-28 evening Asia/Shanghai",
+  "price": "26.13",
+  "shares": "1753736848",
+  "reported_market_cap": "45825000000",
+  "historical_dividend_per_share": "0.93",
+  "source_note": "All financial amounts CNY; S1 Q3 primary PDF, S2 H1 primary PDF, S3 2025 annual primary PDF. Media are independent publications but depend on issuer accounts.",
+  "annual": {
+    "2023": {"revenue":"40623782520.43","profit":"2838860542.80","adjusted_profit":"2736571736.98","ocf":"3929216706.70","capex":"1606618467.79","cost":"27461731573.59","selling":"6645411414.21","rd":"1270803119.96","operating_profit":"3452927218.73"},
+    "2024": {"revenue":"41905707385.91","profit":"3512104678.06","adjusted_profit":"3351680026.72","ocf":"3748928882.35","capex":"1727864860.12","cost":"27988547185.82","selling":"6408522136.28","rd":"1425659218.47","operating_profit":"4324737325.90"},
+    "2025": {"revenue":"43612009891.02","profit":"3414335326.41","adjusted_profit":"3311448470.60","ocf":"4245604371.17","capex":"1574454008.41","cost":"29499479451.02","selling":"6526826370.64","rd":"1753147744.43","operating_profit":"4107892890.83"}
+  },
+  "older_core": {
+    "2021":{"revenue":"34563301233.67","profit":"2301631347.64","adjusted_profit":"2188946362.34","ocf":"3169757867.95"},
+    "2022":{"revenue":"37714587458.01","profit":"2499214359.57","adjusted_profit":"2409954557.05","ocf":"2381852668.60"}
+  },
+  "ytd_2026q3": {
+    "revenue":"33019105609.31","profit":"2771876687.23","adjusted_profit":"2789597830.72","ocf":"1860782257.63","capex":"749385798.03","cost":"22226135595.86","selling":"4969583168.79","rd":"1173129253.50","operating_profit":"3342797714.89",
+    "cash":"4114658586.14","cash_equivalents":"3938207129.22","trading_assets":"0","short_debt":"1644031190.59","long_debt":"251325999.47","current_noncurrent_debt":"69732665.49","lease_noncurrent":"109385827.42",
+    "equity_parent":"25749870534.55","minority_equity":"322001765.27","minority_profit":"-23392746.74","assets":"40076957097.91","liabilities":"14005084798.09","ar":"10671374376.01","ar_start":"8985587945.31","inventory":"5247188765.30","inventory_start":"5535765919.86","goodwill":"2839760558.34","development":"2308368923.41","development_start":"1757196902.53","intangible":"3696210279.50",
+    "cash_received":"34742252072.49","tax_refund":"3339722.24","other_inflow":"541380748.00","purchase_cash":"22970240429.75","staff_cash":"4285330475.95","tax_cash":"2295430827.49","other_outflow":"3875188551.91",
+    "investment_income":"-28772349.02","credit_impairment":"-28480291.32","other_income":"72199782.93","financial_expense":"28366576.24","management":"1099121025.48","tax_surcharges":"187884558.74"
+  },
+  "ytd_2025q3": {
+    "revenue":"32664143135.68","profit":"2747916019.11","adjusted_profit":"2693515147.85","ocf":"2610851944.18","capex":"1085447151.48","cost":"21715689459.85","selling":"4791980345.55","rd":"1507590822.48","operating_profit":"3350590171.04",
+    "cash_received":"35143641924.19","tax_refund":"15291551.75","other_inflow":"691105479.99","purchase_cash":"22966598545.25","staff_cash":"4049472030.97","tax_cash":"2277592721.51","other_outflow":"3945523714.02",
+    "investment_income":"-119368076.22","credit_impairment":"-83959366.71","other_income":"177555419.45","financial_expense":"11327627.01","management":"1090027991.29","tax_surcharges":"172981938.92"
+  },
+  "h1_2026": {"revenue":"22066646185.69","profit":"1860757262.42","adjusted_profit":"1857546440.75","ocf":"2499419530.63","capex":"718496969.99","cost":"14828934265.49","selling":"3415134454.00","rd":"747087944.12","operating_profit":"2257975694.46","investment_income":"595643.34","credit_impairment":"-28480291.32","other_income":"61562073.66","financial_expense":"15815238.01","management":"695712456.19","tax_surcharges":"133198163.38"},
+  "h1_2025": {"revenue":"21674928965.21","profit":"1814826860.86","adjusted_profit":"1761734255.98","ocf":"2456848510.10","capex":"788358827.36","cost":"14327396132.90","selling":"3229044236.81","rd":"999673972.93","operating_profit":"2243373665.84","investment_income":"-67265820.65","credit_impairment":"-83959366.71","other_income":"144290664.93","financial_expense":"22424175.74","management":"725296086.80","tax_surcharges":"114585169.40"},
+  "segments": {
+    "2025":{"商业":{"revenue":"29449035991.19","cost":"27291087507.51"},"制造业":{"revenue":"15846613196.31","cost":"3649030115.03"}},
+    "2026H1":{"商业":{"revenue":"14099335279.67","cost":"13166618350.01"},"制造业":{"revenue":"8679896494.76","cost":"2304003354.92"}}
+  },
+  "development_h1": {"2026_total":"1109486581.09","2026_expensed":"747087944.12","2026_capitalized":"362398636.97","2025_total":"1203133254.32","2025_expensed":"999673972.93","2025_capitalized":"203459281.39"},
+  "sinclair_h1_test":{"carrying":"2682208991.65","recoverable":"2740768580.00"},
+  "three_year_assumptions": [
+    {"name":"悲观","growth":"-.08","pe":"11","payout":".35"},
+    {"name":"基准","growth":".04","pe":"15","payout":".45"},
+    {"name":"乐观","growth":".12","pe":"20","payout":".50"}
+  ],
+  "ten_year_assumptions": {
+    "r":".08","roic":".12","payout":".45","rf_reference":".02",
+    "discrete_risks":"集采失标:情景,研发失败:情景,医美资产减值:尾部档,重大药物安全事件:未建模",
+    "scenarios":[
+      {"name":"悲观","growth":"-.03","terminal_g":"0","probability":".30"},
+      {"name":"基准","growth":".04","terminal_g":".01","probability":".50"},
+      {"name":"乐观","growth":".09","terminal_g":".02","probability":".20"}
+    ]
+  },
+  "cross_checks": [
+    {"field":"2026-10-28收盘价","source1":"腾讯16:14:30","value1":"26.13","source2":"新浪15:35:30","value2":"26.130","unit":"CNY"},
+    {"field":"最新总股本","source1":"S1原件","value1":"1753736848","source2":"腾讯行情","value2":"1753736848","unit":"股"},
+    {"field":"2025收入","source1":"S3公司年报","value1":"43612009891.02","source2":"S6求实药社独立刊发","value2":"43612000000","unit":"CNY"},
+    {"field":"2025归母","source1":"S3公司年报","value1":"3414335326.41","source2":"S6求实药社独立刊发","value2":"3414000000","unit":"CNY"},
+    {"field":"2025扣非","source1":"S3公司年报","value1":"3311448470.60","source2":"S6求实药社独立刊发","value2":"3311000000","unit":"CNY"},
+    {"field":"2026Q3累计收入","source1":"S1原件","value1":"33019105609.31","source2":"S5基金报独立刊发","value2":"33019000000","unit":"CNY"},
+    {"field":"2026Q3累计归母","source1":"S1原件","value1":"2771876687.23","source2":"S5基金报独立刊发","value2":"2772000000","unit":"CNY"},
+    {"field":"2026Q3累计扣非","source1":"S1原件","value1":"2789597830.72","source2":"S5基金报独立刊发","value2":"2790000000","unit":"CNY"},
+    {"field":"2026H1经营现金流","source1":"S2原件","value1":"2499419530.63","source2":"S6求实药社独立刊发","value2":"2499000000","unit":"CNY"}
+  ]
+}
