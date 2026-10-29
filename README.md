@@ -18,7 +18,7 @@
 
 > 📖 **想读报告，用 [阅读站](https://xbtlin.github.io/ai-berkshire/)**：成品报告按公司、专题、时间整理，电脑和手机都好读，可搜索、记住阅读进度。
 >
-> 📊 全部 2287 份报告（含底稿）· 119 家公司 · 29 个专题，GitHub 上的完整目录见 [研究报告索引](reports/README.md)，更新至 2026-11-12。
+> 📊 全部 2291 份报告（含底稿）· 123 家公司 · 29 个专题，GitHub 上的完整目录见 [研究报告索引](reports/README.md)，更新至 2026-11-12。
 
 <!-- REPORTS-BANNER:END -->
 
@@ -683,7 +683,7 @@ $investment-research 腾讯
 
 <!-- REPORTS-INDEX:START 由 tools/reports_index.py 自动更新，勿手改 -->
 
-**📊 [全部研究索引 →](reports/README.md)** ｜ 2287 份报告 · 119 家公司 · 29 个专题 · 更新至 2026-11-12
+**📊 [全部研究索引 →](reports/README.md)** ｜ 2291 份报告 · 123 家公司 · 29 个专题 · 更新至 2026-11-12
 
 最近更新：
 

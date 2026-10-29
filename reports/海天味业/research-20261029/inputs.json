@@ -1,0 +1,37 @@
+{
+  "units": "CNY, yuan unless stated",
+  "sources": {
+    "S1": "https://pdf.dfcfw.com/pdf/H2_AN202610291831177886_1.pdf",
+    "S2": "https://pdf.dfcfw.com/pdf/H2_AN202610291831177887_1.pdf",
+    "S3": "https://pdf.dfcfw.com/pdf/H2_AN202608261828486308_1.pdf",
+    "S4": "https://pdf.dfcfw.com/pdf/H2_AN202603261820776570_1.pdf",
+    "S5": "https://pdf.dfcfw.com/pdf/H2_AN202606041823255285_1.pdf",
+    "S6": "https://pdf.dfcfw.com/pdf/H2_AN202609211829723492_1.pdf (actual bytes are DOCX)",
+    "S7": "Eastmoney RPT_F10_FINANCE_MAINFINADATA SECUCODE=603288.SH, retrieved 2026-10-29",
+    "S8": "Tencent + Sina 2026-10-29 A/H close; Sina HKD/CNY same-day 21:35:58 snapshot"
+  },
+  "financial": {
+    "2023": {"revenue":"24559312356.59","profit":"5626626091.97","adjusted":"5394663934.17","cfo":"7355650997.74"},
+    "2024": {"revenue":"26904508894.01","profit":"6343626494.69","adjusted":"6068167468.37","cfo":"6840201569.11","capex":"1576229554.19"},
+    "2025": {"revenue":"28873380466.76","profit":"7038465194.15","adjusted":"6845473101.28","cfo":"7745950953.79","capex":"1283601482.19"},
+    "2025H1": {"revenue":"15231446763.67","profit":"3911459893.08","adjusted":"3816542513.66","cfo":"1502402735.60","cost":"9121787090.38","capex":"550011506.06"},
+    "2025YTD": {"revenue":"21630142229.89","profit":"5317824636.82","adjusted":"5155452002.46","cfo":"3144110194.62","cost":"12985199049.09","capex":"980592852.94","operating_profit":"6429483503.28","finance_expense":"-341551588.22"},
+    "2026H1": {"revenue":"16146273837.53","profit":"4190156263.00","adjusted":"3960405507.28","cfo":"1224226577.61","cost":"9520438519.97","capex":"535930948.39"},
+    "2026YTD": {"revenue":"22552931085.00","profit":"5379828889.33","adjusted":"5076875383.90","cfo":"2085923546.83","cost":"13538691012.58","capex":"820382349.01","operating_profit":"6402009295.13","finance_expense":"68243852.93"}
+  },
+  "balance": {"cash":"13902152394.02","cash_equivalents":"4181033607.88","trading_assets":"15770003419.71","receivables":"438675520.20","receivables_yearend":"295624145.05","inventory":"2522507521.91","inventory_yearend":"2407715424.00","contract_liabilities":"976543859.91","contract_liabilities_h1":"978657471.40","contract_liabilities_yearend":"4128488829.61","short_loans":"214684720.00","long_loans":"10000000","current_noncurrent_debt":"52935366.36","leases":"52223985.42","bills_payable":"3004385462.69","goodwill":"280934378.62","goodwill_yearend":"112937041.73","intangibles":"1191709736.94","assets":"48295132965.22","parent_equity":"39358851251.53","acquisition_cash":"913749873.03"},
+  "products": {
+    "soy": ["11468065639.92","11155742386.47","8296229832.55","7927942766.07"],
+    "oyster": ["3635308577.18","3628961501.99","2566288755.84","2502329945.16"],
+    "sauce": ["2260730077.15","2229270873.40","1645243866.18","1625950770.20"],
+    "other": ["3974149085.61","3590986951.01","2844261528.27","2505507042.34"]
+  },
+  "shares": {"A":"5559820644","H":"284152800","total":"5843973444","treasury_A":"27324744"},
+  "quote": {"date":"2026-10-29","A_CNY":"34.53","H_HKD":"25.50","HKDCNY":"0.8490622108"},
+  "dividend": {"2025_interim":"0.26","2025_special":"0.30","2025_final":"0.80","2025_2027_policy_payout":"0.80"},
+  "scenarios": [
+    {"name":"bear","growth":"0","A_exit_PE":"18","H_exit_PE":"12","payout":"0.80"},
+    {"name":"base","growth":"0.05","A_exit_PE":"23","H_exit_PE":"16","payout":"0.80"},
+    {"name":"bull","growth":"0.08","A_exit_PE":"28","H_exit_PE":"20","payout":"0.80"}
+  ]
+}

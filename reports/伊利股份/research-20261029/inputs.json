@@ -1,0 +1,27 @@
+{
+  "source_note": "All financial amounts in CNY. Transcribed from 2026Q3 consolidated statements, 2026H1 and 2025 annual report. Annual 2023/2024 are comparative figures in 2025 annual report. Prices are unadjusted 2026-10-29 closes from Tencent and Sina.",
+  "price": "29.45", "shares": "6325360667", "reported_cap": "186282000000", "dividend_2025": "1.38",
+  "annual": {
+    "2023": {"revenue":"125758168916.51","profit":"10428540457.94","deduct":"10026171076.03","ocf":"18290357650.56"},
+    "2024": {"revenue":"115393310976.69","profit":"8452859993.18","deduct":"6011274945.92","ocf":"21739740393.38"},
+    "2025": {"revenue":"115636231250.05","total_revenue":"115931105774.99","profit":"11565166497.81","deduct":"11068321695.12","ocf":"14343920490.32","capex":"3036644156.68"}
+  },
+  "periods": {
+    "2026ytd": {"revenue":"93581518865.47","total_revenue":"93813317667.45","profit":"8803770151.52","deduct":"8532200099.99","ocf":"15441464454.51","capex":"2118420324.67","cost":"60070897738.64","operating":"11276271481.53","pbt":"11000146858.51","tax":"2360792207.81","impairment":"2540622384.76","sales":"16752685169.50"},
+    "2025ytd": {"revenue":"90340548118.19","total_revenue":"90563616525.12","profit":"10426102617.04","deduct":"10102781490.65","ocf":"9399863342.62","capex":"2223010157.07","cost":"58429607227.03","operating":"12316850731.07","pbt":"11880435449.38","tax":"1460379990.17","impairment":"364587696.03","sales":"16552963553.94"},
+    "2026h1": {"revenue":"64330936547.38","total_revenue":"64489715236.16","profit":"5758628097.79","deduct":"5595762517.76","ocf":"9759147483.18","capex":"1304262044.68","cost":"40894077275.25","operating":"7512386765.46","pbt":"7314474445.37","tax":"1790782129.57","impairment":"2455875173.02","sales":"11432167134.28"},
+    "2025h1": {"revenue":"61776746682.68","total_revenue":"61932792650.11","profit":"7200477611.91","deduct":"7016349502.87","ocf":"2964215363.27","capex":"1452716041.52","cost":"39509196192.71","operating":"8586277169.84","pbt":"8274286309.15","tax":"1038842756.54","impairment":"337447486.85","sales":"11334120830.98"}
+  },
+  "balance": {
+    "2026q3":{"cash":"17282182964.00","ar":"3696369989.01","inventory":"8676204480.80","short_debt":"59876820716.12","long_debt":"607700455.91","current_long_debt":"181472214.76","lease":"279412713.36","other_current_liabilities":"805150803.54","payable_notes":"7614278735.99","payables":"12570640917.12","contract_liabilities":"5107788648.67","goodwill":"632520209.93","intangibles":"4565401975.23","equity":"56839805025.77","assets":"157051584640.01"},
+    "2025end":{"cash":"19494920358.00","ar":"2987426531.59","inventory":"10823125184.53","payable_notes":"1650779898.61","payables":"11479437770.67","contract_liabilities":"10564239506.92","goodwill":"2181530707.86"},
+    "2025q3":{"ar":"3140504485.31","inventory":"9022472775.14"},
+    "2024end":{"ar":"2878402047.44","inventory":"10744674420.37"}
+  },
+  "segments_ytd":{"liquid":"55720694478.07","powder":"24823435814.70","icecream":"10117912257.15","other":"2015153510.04","total":"92677196059.96","dealer":"87956113914.86"},
+  "scenarios":[
+    {"name":"bear","eps0":"1.50","growth":"0","terminal_pe":"13","payout":"0.75"},
+    {"name":"base","eps0":"1.75","growth":"0.04","terminal_pe":"16","payout":"0.75"},
+    {"name":"bull","eps0":"1.85","growth":"0.07","terminal_pe":"20","payout":"0.75"}
+  ]
+}

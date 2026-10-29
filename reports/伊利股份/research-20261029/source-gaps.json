@@ -1,0 +1,26 @@
+[
+  {
+    "field": "2025q3/ar",
+    "primary": "3140504485.31",
+    "secondary": "3140504485.31",
+    "primary_source": "S1/S4 balance sheet; 2025q3 comparative vendor snapshot",
+    "secondary_source": "em-balance",
+    "date": "2025-09-30",
+    "vendor_field": "ACCOUNTS_RECE",
+    "difference_pct": "0",
+    "exact_match": true,
+    "note": "2025q3 ar/inventory single vendor: NOT counted as independent source check"
+  },
+  {
+    "field": "2025q3/inventory",
+    "primary": "9022472775.14",
+    "secondary": "9022472775.14",
+    "primary_source": "S1/S4 balance sheet; 2025q3 comparative vendor snapshot",
+    "secondary_source": "em-balance",
+    "date": "2025-09-30",
+    "vendor_field": "INVENTORY",
+    "difference_pct": "0",
+    "exact_match": true,
+    "note": "2025q3 ar/inventory single vendor: NOT counted as independent source check"
+  }
+]

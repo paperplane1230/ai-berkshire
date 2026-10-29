@@ -1,0 +1,258 @@
+[
+  {
+    "id": 12,
+    "label": "经营现金流 · 2025年",
+    "reported_value": 45.9969,
+    "unit": "",
+    "raw_text": "| 经营现金流 | 35.0274 | 42.9700 | 45.9969 |",
+    "line_number": 40,
+    "fetched_value": 45.9969388044,
+    "fetched_source": "S3 年报页7；S4 NETCASH_OPERATE_PK 4599693880.44"
+  },
+  {
+    "id": 24,
+    "label": "营业利润 · 2025年前三季",
+    "reported_value": 56.0505,
+    "unit": "",
+    "raw_text": "| 营业利润 | 56.0505 | 55.7656 |",
+    "line_number": 53,
+    "fetched_value": 56.0505281615,
+    "fetched_source": "S1 三季报页11 上年同期"
+  },
+  {
+    "id": 29,
+    "label": "资本开支付现 · 2026年前三季",
+    "reported_value": 3.8159,
+    "unit": "",
+    "raw_text": "| 资本开支付现 | 3.2743 | 3.8159 |",
+    "line_number": 55,
+    "fetched_value": 3.8158981258,
+    "fetched_source": "S1 三季报页13，原始PDF视觉核验"
+  },
+  {
+    "id": 35,
+    "label": "基本/稀释EPS（元） · 2026年前三季",
+    "reported_value": 2.7,
+    "unit": "",
+    "raw_text": "| 基本/稀释EPS（元） | 2.68 | 2.70 |",
+    "line_number": 58,
+    "fetched_value": 2.7,
+    "fetched_source": "S1 页3；S4 EPSJB=EPSXS=2.7"
+  },
+  {
+    "id": 37,
+    "label": "营业收入 · 2026年第三季",
+    "reported_value": 103.7299,
+    "unit": "",
+    "raw_text": "| 营业收入 | 93.9711 | 103.7299 |",
+    "line_number": 66,
+    "fetched_value": 103.7298734438,
+    "fetched_source": "S1 页3 本报告期直接披露值"
+  },
+  {
+    "id": 45,
+    "label": "营业利润率 · 2026年第三季",
+    "reported_value": 12.56,
+    "unit": "%",
+    "raw_text": "| 营业利润率 | 14.74% | 12.56% |",
+    "line_number": 70,
+    "fetched_value": 12.556446275003626,
+    "fetched_source": "S1累计营业利润减S2半年营业利润 / S1单季收入，独立公式"
+  },
+  {
+    "id": 55,
+    "label": "工业销售 · 2026上半年毛利率",
+    "reported_value": 65.83,
+    "unit": "%",
+    "raw_text": "| 工业销售 | 160.1632 | 65.19% | 87.7208 | 65.83% |",
+    "line_number": 91,
+    "fetched_value": 65.83,
+    "fetched_source": "S2 页23 分行业表；仅原始财报单源"
+  },
+  {
+    "id": 57,
+    "label": "商业销售 · 2025年毛利率",
+    "reported_value": 6.69,
+    "unit": "%",
+    "raw_text": "| 商业销售 | 250.8338 | 6.69% | 130.6428 | 5.96% |",
+    "line_number": 92,
+    "fetched_value": 6.69,
+    "fetched_source": "S3 页23 分行业表；仅原始财报单源"
+  },
+  {
+    "id": 59,
+    "label": "商业销售 · 2026上半年毛利率",
+    "reported_value": 5.96,
+    "unit": "%",
+    "raw_text": "| 商业销售 | 250.8338 | 6.69% | 130.6428 | 5.96% |",
+    "line_number": 92,
+    "fetched_value": 5.96,
+    "fetched_source": "S2 页23 分行业表；仅原始财报单源"
+  },
+  {
+    "id": 69,
+    "label": "归母净资产 · 解读",
+    "reported_value": 2.35,
+    "unit": "倍",
+    "raw_text": "| 归母净资产 | 402.6965 | 当前PB约2.35倍 |",
+    "line_number": 108,
+    "fetched_value": 2.3452157998396626,
+    "fetched_source": "S1归母权益与股本、S5/S6价格重算PB"
+  },
+  {
+    "id": 86,
+    "label": "简化FCF收益率 · 计算结果",
+    "reported_value": 4.75,
+    "unit": "%",
+    "raw_text": "| 简化FCF收益率 | 4.75% |",
+    "line_number": 234,
+    "fetched_value": 4.747990146457513,
+    "fetched_source": "三期经营现金与资本开支按TTM公式、股价乘原始股本"
+  },
+  {
+    "id": 92,
+    "label": "悲观 · 年化IRR",
+    "reported_value": -3.26,
+    "unit": "%",
+    "raw_text": "| 悲观 | -2.00% | 80.00% | 14倍 | 35.08 | 10.44 | -3.26% |",
+    "line_number": 248,
+    "fetched_value": -3.261547473499407,
+    "fetched_source": "逐年现金流折现求根；另有NPV独立测试"
+  },
+  {
+    "id": 97,
+    "label": "基准 · 五年股息合计（元）",
+    "reported_value": 12.88,
+    "unit": "",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249,
+    "fetched_value": 12.88352127961487,
+    "fetched_source": "起点扣非EPS乘逐年增长和派息率后相加，模型重算"
+  },
+  {
+    "id": 93,
+    "label": "基准 · 每股利润年增长",
+    "reported_value": 3.0,
+    "unit": "%",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249,
+    "fetched_value": 3.0,
+    "fetched_source": "模型输入一致性；不是事实预测或外部验证"
+  },
+  {
+    "id": 94,
+    "label": "基准 · 派息率假设",
+    "reported_value": 85.0,
+    "unit": "%",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249,
+    "fetched_value": 85.0,
+    "fetched_source": "模型输入一致性；不是事实预测或外部验证"
+  },
+  {
+    "id": 105,
+    "label": "约42—44元，且主业未进一步恶化 · 空仓研究动作",
+    "reported_value": 15.0,
+    "unit": "",
+    "raw_text": "| 约42—44元，且主业未进一步恶化 | 对应约15—16倍扣非，可进入分批研究区 | 在组合约束下评估是否增配 |",
+    "line_number": 279,
+    "fetched_value": 15.0,
+    "fetched_source": "模型价格纪律区间下限；15倍乘扣非EPS为41.5763元，四舍五入约42元，非外部事实"
+  },
+  {
+    "id": 1001,
+    "label": "2026累计收入",
+    "reported_value": 322.5706,
+    "fetched_value": 322.5706331553,
+    "fetched_source": "S1页3；S4收入字段",
+    "unit": ""
+  },
+  {
+    "id": 1002,
+    "label": "2026累计归母",
+    "reported_value": 48.2235,
+    "fetched_value": 48.223533192,
+    "fetched_source": "S1页3；S4归母字段",
+    "unit": ""
+  },
+  {
+    "id": 1003,
+    "label": "2026累计扣非",
+    "reported_value": 46.3091,
+    "fetched_value": 46.3090687524,
+    "fetched_source": "S1页3；S4扣非字段",
+    "unit": ""
+  },
+  {
+    "id": 1004,
+    "label": "2026累计经营现金",
+    "reported_value": 48.7415,
+    "fetched_value": 48.7415019222,
+    "fetched_source": "S1页13；S4现金字段",
+    "unit": ""
+  },
+  {
+    "id": 1005,
+    "label": "2026单季归母",
+    "reported_value": 11.2118,
+    "fetched_value": 11.2118270053,
+    "fetched_source": "S1页3直接值",
+    "unit": ""
+  },
+  {
+    "id": 1006,
+    "label": "2026单季扣非",
+    "reported_value": 11.1249,
+    "fetched_value": 11.1249133288,
+    "fetched_source": "S1页3直接值",
+    "unit": ""
+  },
+  {
+    "id": 1007,
+    "label": "当日收盘价",
+    "reported_value": 52.93,
+    "fetched_value": 52.93,
+    "fetched_source": "S5腾讯；S6新浪独立报价",
+    "unit": ""
+  },
+  {
+    "id": 1008,
+    "label": "总股本亿股",
+    "reported_value": 17.84262603,
+    "fetched_value": 17.84262603,
+    "fetched_source": "S1页3；S4 TOTAL_SHARE；S5",
+    "unit": ""
+  },
+  {
+    "id": 1009,
+    "label": "市值亿元",
+    "reported_value": 944.4102,
+    "fetched_value": 944.4101957679,
+    "fetched_source": "股价乘原始股本；非市值倒推股本",
+    "unit": ""
+  },
+  {
+    "id": 1010,
+    "label": "2025所属年度每股分红",
+    "reported_value": 2.602,
+    "fetched_value": 2.602,
+    "fetched_source": "S3页2，年度与特别分红相加",
+    "unit": ""
+  },
+  {
+    "id": 1011,
+    "label": "基准年化IRR",
+    "reported_value": 6.48,
+    "fetched_value": 6.479378690077826,
+    "fetched_source": "逐年现金流折现求根；另有NPV独立测试",
+    "unit": ""
+  },
+  {
+    "id": 1012,
+    "label": "乐观年化IRR",
+    "reported_value": 13.52,
+    "fetched_value": 13.515998743382804,
+    "fetched_source": "逐年现金流折现求根；另有NPV独立测试",
+    "unit": ""
+  }
+]

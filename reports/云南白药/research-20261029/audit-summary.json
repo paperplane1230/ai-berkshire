@@ -1,0 +1,21 @@
+{
+  "report_sha256": "0a8bdf42c0e54271cd6f3f73608cb278c2af9ae6d8b13cee28a8f40eef5f8933",
+  "all_extracted_points": 108,
+  "excluded_points": 6,
+  "valid_points": 102,
+  "seed": 20261029,
+  "random_count": 16,
+  "random_coverage_pct": 15.686274509803921,
+  "focused_count": 12,
+  "total_checked": 28,
+  "verdict": {
+    "verdict": "PASS",
+    "pass_count": 28,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 28,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "scope": "Numeric source/formula consistency. Scenario inputs are assumptions, not externally verified outcomes. Source gaps remain disclosed."
+}

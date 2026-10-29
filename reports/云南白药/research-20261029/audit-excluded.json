@@ -1,0 +1,56 @@
+[
+  {
+    "id": 71,
+    "label": "2025年特别分红 · 解释",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 2025年特别分红 | 1.019 | 在2025年实施 |",
+    "line_number": 176,
+    "exclusion_reason": "Calendar year in implementation explanation, not a financial amount"
+  },
+  {
+    "id": 76,
+    "label": "2026年特别分红 · 解释",
+    "reported_value": 9.0,
+    "unit": "",
+    "raw_text": "| 2026年特别分红 | 1.038 | 季报确认9月24日实施完毕 |",
+    "line_number": 179,
+    "exclusion_reason": "Month in dividend implementation date, not a financial amount"
+  },
+  {
+    "id": 78,
+    "label": "2026年上述两笔现金口径合计 · 解释",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 2026年上述两笔现金口径合计 | 2.621 | 2025年度分配加2026特别分红，不是2026全年预测 |",
+    "line_number": 180,
+    "exclusion_reason": "Attribution year in explanation, not a financial amount"
+  },
+  {
+    "id": 79,
+    "label": "客户集中度 · 已知信息",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 客户集中度 | 2025前五客户占销售20.68% | 不是单一客户依赖，仍需监测回款 |",
+    "line_number": 204,
+    "exclusion_reason": "Year before customer concentration value; not the concentration percentage"
+  },
+  {
+    "id": 107,
+    "label": "研究日",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "研究日：2026年10月29日晚，Asia/Shanghai。财务截止2026年9月30日；股价采用10月29日收盘价。除每股数据外，金额单位为人民币亿元。",
+    "line_number": 3,
+    "exclusion_reason": "Research date year"
+  },
+  {
+    "id": 108,
+    "label": "hq.sinajs.cn/list=sz000538)",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "- [S6] [新浪行情](https://hq.sinajs.cn/list=sz000538)：2026-10-29 15:36:00，收盘52.930元，与腾讯一致。",
+    "line_number": 306,
+    "exclusion_reason": "Quote timestamp year after source URL"
+  }
+]

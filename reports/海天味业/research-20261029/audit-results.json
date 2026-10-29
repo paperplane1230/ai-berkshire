@@ -1,0 +1,66 @@
+{
+  "report_sha256": "07aba8136b9e60c6c832dbdbbc43747c2a061a2df2f1f74dd85c990e548b97cf",
+  "tool_extracted": 101,
+  "excluded": [
+    {
+      "id": 98,
+      "label": "研究日",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "研究日：2026年10月29日晚，Asia/Shanghai；财务截止2026年9月30日。三季报原件及主要经营数据已于今晚获取；公告目录标记10月30日，不表示本报告使用了尚未公开的预测数据。金额除注明外均为人民币。",
+      "line_number": 3
+    },
+    {
+      "id": 99,
+      "label": "fxshkdcny)，2026年10月29日快照；A股16",
+      "reported_value": 14.0,
+      "unit": "",
+      "raw_text": "- [S8] [腾讯A/H行情](https://qt.gtimg.cn/q=sh603288,hk03288)、[新浪行情及汇率](https://hq.sinajs.cn/list=sh603288,hk03288,fx_shkdcny",
+      "line_number": 290
+    },
+    {
+      "id": 100,
+      "label": "H股16",
+      "reported_value": 8.0,
+      "unit": "",
+      "raw_text": "- [S8] [腾讯A/H行情](https://qt.gtimg.cn/q=sh603288,hk03288)、[新浪行情及汇率](https://hq.sinajs.cn/list=sh603288,hk03288,fx_shkdcny",
+      "line_number": 290
+    },
+    {
+      "id": 101,
+      "label": "左右，汇率21",
+      "reported_value": 35.0,
+      "unit": "",
+      "raw_text": "- [S8] [腾讯A/H行情](https://qt.gtimg.cn/q=sh603288,hk03288)、[新浪行情及汇率](https://hq.sinajs.cn/list=sh603288,hk03288,fx_shkdcny",
+      "line_number": 290
+    }
+  ],
+  "supplemented_annual": 16,
+  "effective_population": 113,
+  "seed": 20261029,
+  "sample_count": 17,
+  "coverage_pct": 15.04424778761062,
+  "sample_verdict": {
+    "verdict": "PASS",
+    "pass_count": 17,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 17,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "full_recognized_population_verdict": {
+    "verdict": "PASS",
+    "pass_count": 113,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 113,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limitations": [
+    "Financial tables are covered; unstructured prose is additionally manually reviewed, not a fully enumerated random population.",
+    "Scenario verification checks arithmetic and stated assumptions, not forecast accuracy.",
+    "Rounding follows each report number display precision."
+  ]
+}
