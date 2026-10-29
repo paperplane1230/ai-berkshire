@@ -1,0 +1,119 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：安琪酵母研究报告-20261029.md
+======================================================================
+
+  ✅ 通过 [12] 营业利润 · 2026累计                        报告:        14.69
+                                                    S1 consolidated income statement operating profit: 14.69 (偏差 0.00%)
+  ✅ 通过 [24] 营业收入（亿元） · 2026Q3                    报告:        44.21
+                                                    S1 direct Q3; S1 minus S3 H1: 44.21 (偏差 0.00%)
+  ✅ 通过 [29] 扣非归母（亿元） · 2025Q3                    报告:         2.23
+                                                    S3 2025 annual quarterly table; comparative YTD minus H1: 2.23 (偏差 0.00%)
+  ✅ 通过 [35] 归母净利率 · 2025Q3                       报告:         8.16 %
+                                                    S3 quarterly profit / revenue, Decimal: 8.16 (偏差 0.04%)
+  ✅ 通过 [37] 经营现金流（亿元） · 2025Q3                   报告:        19.56
+                                                    S3 2025 annual quarterly cash table; S1 comparative minus H1: 19.56 (偏差 0.00%)
+  ✅ 通过 [45] 酵母及深加工 · 前三季度主营收入（亿元）                报告:        98.43
+                                                    S2 operating data, ten-thousand yuan converted to hundred-million: 98.43 (偏差 0.00%)
+  ✅ 通过 [55] 应收账款 · 2026年9月末                      报告:        18.58
+                                                    S1 consolidated balance sheet AR: 18.58 (偏差 0.00%)
+  ✅ 通过 [57] 存货 · 2026年9月末                        报告:        49.10
+                                                    S1 consolidated balance sheet inventory: 49.10 (偏差 0.00%)
+  ✅ 通过 [59] 粗口径有息负债 · 2026年9月末                   报告:        87.40
+                                                    S1 five debt-related balance sheet items, sum; conservative approximation: 87.40 (偏差 0.00%)
+  ✅ 通过 [69] 基准 · 三年利润年增速                         报告:         8.00 %
+                                                    Model assumption 8 percent; consistency only, not future verification: 8.00 (偏差 0.00%)
+  ✅ 通过 [82] 2026累计收入 · 东方财富（亿元）                  报告:       136.08
+                                                    S4 Eastmoney raw response; S1 exact match: 136.08 (偏差 0.00%)
+  ✅ 通过 [88] 2026H1收入 · 东方财富（亿元）                  报告:        91.87
+                                                    S4 Eastmoney raw response; S3 H1 exact match: 91.87 (偏差 0.00%)
+  ✅ 通过 [89] 2025收入 · 公告值（亿元）                     报告:       167.29
+                                                    S3 2025 annual; S4 Eastmoney exact match: 167.29 (偏差 0.00%)
+  ✅ 通过 [94] 结论                                   报告:        35.95
+                                                    S5 Tencent field 3 and Sina field 3, 2026-10-29: 35.95 (偏差 0.00%)
+  ✅ 通过 [1000] 2023-12-31 TOTALOPERATEREVE          报告:       135.85
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 135.85 (偏差 0.00%)
+  ✅ 通过 [1001] 2023-12-31 PARENTNETPROFIT           报告:        12.73
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 12.73 (偏差 0.00%)
+  ✅ 通过 [1002] 2023-12-31 KCFJCXSYJLR               报告:        11.06
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 11.06 (偏差 0.00%)
+  ✅ 通过 [1003] 2023-12-31 ROE                       报告:        13.06
+                                                    S3 annual and S4 Eastmoney: 13.06 (偏差 0.00%)
+  ✅ 通过 [1004] 2023-12-31 OCF                       报告:        13.27
+                                                    S3 annual 3-year comparison, issuer only: 13.27 (偏差 0.00%)
+  ✅ 通过 [1005] 2024-12-31 TOTALOPERATEREVE          报告:       151.97
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 151.97 (偏差 0.00%)
+  ✅ 通过 [1006] 2024-12-31 PARENTNETPROFIT           报告:        13.25
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 13.25 (偏差 0.00%)
+  ✅ 通过 [1007] 2024-12-31 KCFJCXSYJLR               报告:        11.70
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 11.70 (偏差 0.00%)
+  ✅ 通过 [1008] 2024-12-31 ROE                       报告:        12.83
+                                                    S3 annual and S4 Eastmoney: 12.83 (偏差 0.00%)
+  ✅ 通过 [1009] 2024-12-31 OCF                       报告:        16.50
+                                                    S3 annual 3-year comparison, issuer only: 16.50 (偏差 0.00%)
+  ✅ 通过 [1010] 2025-12-31 TOTALOPERATEREVE          报告:       167.29
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 167.29 (偏差 0.00%)
+  ✅ 通过 [1011] 2025-12-31 PARENTNETPROFIT           报告:        15.44
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 15.44 (偏差 0.00%)
+  ✅ 通过 [1012] 2025-12-31 KCFJCXSYJLR               报告:        13.59
+                                                    S3 annual 3-year comparison and S4 Eastmoney: 13.59 (偏差 0.00%)
+  ✅ 通过 [1013] 2025-12-31 ROE                       报告:        13.51
+                                                    S3 annual and S4 Eastmoney: 13.51 (偏差 0.00%)
+  ✅ 通过 [1014] 2025-12-31 OCF                       报告:        24.78
+                                                    S3 annual 3-year comparison, issuer only: 24.78 (偏差 0.00%)
+  ✅ 通过 [1015] market cap                           报告:       311.98
+                                                    S1/S3/S5 source inputs plus exact Decimal calculation: 311.98 (偏差 0.00%)
+  ✅ 通过 [1016] TTM PE                               报告:        19.51
+                                                    S1/S3/S5 source inputs plus exact Decimal calculation: 19.51 (偏差 0.01%)
+  ✅ 通过 [1017] core PE                              报告:        22.14
+                                                    S1/S3/S5 source inputs plus exact Decimal calculation: 22.14 (偏差 0.00%)
+  ✅ 通过 [1018] PB                                   报告:         2.44
+                                                    S1/S3/S5 source inputs plus exact Decimal calculation: 2.44 (偏差 0.12%)
+  ✅ 通过 [1019] dividend yield                       报告:         1.53
+                                                    S1/S3/S5 source inputs plus exact Decimal calculation: 1.53 (偏差 0.01%)
+  ✅ 通过 [1020] AR days                              报告:        36.72
+                                                    S1/S3/S5 source inputs plus exact Decimal calculation: 36.72 (偏差 0.01%)
+  ✅ 通过 [1021] inventory days                       报告:       133.05
+                                                    S1/S3/S5 source inputs plus exact Decimal calculation: 133.05 (偏差 0.00%)
+  ✅ 通过 [1022] TTM profit                           报告:        15.99
+                                                    Annual plus current YTD minus prior YTD; source S1/S3: 15.99 (偏差 0.00%)
+  ✅ 通过 [1023] TTM core_profit                      报告:        14.09
+                                                    Annual plus current YTD minus prior YTD; source S1/S3: 14.09 (偏差 0.00%)
+  ✅ 通过 [1024] TTM ocf                              报告:        19.72
+                                                    Annual plus current YTD minus prior YTD; source S1/S3: 19.72 (偏差 0.00%)
+  ✅ 通过 [1025] TTM capex                            报告:        17.65
+                                                    Annual plus current YTD minus prior YTD; source S1/S3: 17.65 (偏差 0.00%)
+  ✅ 通过 [1026] TTM fcf                              报告:         2.07
+                                                    Annual plus current YTD minus prior YTD; source S1/S3: 2.07 (偏差 0.00%)
+  ✅ 通过 [1027] bear exit_price                      报告:        27.66
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: 27.66 (偏差 0.02%)
+  ✅ 通过 [1028] bear dividend_sum                    报告:         1.66
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: 1.66 (偏差 0.04%)
+  ✅ 通过 [1029] bear cagr                            报告:        -6.57
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: -6.57 (偏差 0.07%)
+  ✅ 通过 [1030] base exit_price                      报告:        46.45
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: 46.45 (偏差 0.00%)
+  ✅ 通过 [1031] base dividend_sum                    报告:         1.94
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: 1.94 (偏差 0.04%)
+  ✅ 通过 [1032] base cagr                            报告:        10.41
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: 10.41 (偏差 0.03%)
+  ✅ 通过 [1033] bull exit_price                      报告:        61.19
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: 61.19 (偏差 0.01%)
+  ✅ 通过 [1034] bull dividend_sum                    报告:         2.13
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: 2.13 (偏差 0.03%)
+  ✅ 通过 [1035] bull cagr                            报告:        20.76
+                                                    Explicit scenario assumptions recomputed; not a forecast fact: 20.76 (偏差 0.02%)
+  ✅ 通过 [1036] base PV                              报告:        36.50
+                                                    Each year dividend discounted separately plus year-3 exit value: 36.50 (偏差 0.00%)
+  ✅ 通过 [1037] reverse growth                       报告:         7.59
+                                                    Bisection terminal-wealth return equation; not DCF: 7.59 (偏差 0.01%)
+  ✅ 通过 [1038] rough fair low                       报告:        31.11
+                                                    1.5 billion yuan profit times 18 / shares: 31.11 (偏差 0.01%)
+  ✅ 通过 [1039] rough fair high                      报告:        39.18
+                                                    1.7 billion yuan profit times 20 / shares: 39.18 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 54  |  通过: 54  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================

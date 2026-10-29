@@ -1,0 +1,18 @@
+{
+  "retrieved_at": "2026-10-29 evening Asia/Shanghai",
+  "source": "https://datacenter.eastmoney.com/securities/api/data/get",
+  "query": {"type": "RPT_F10_FINANCE_MAINFINADATA", "filter": "(SECUCODE=\"600298.SH\")", "sty": "ALL", "st": "REPORT_DATE", "sr": "-1", "ps": "20"},
+  "note": "Minimal extracted numerical fields, not complete source content. Q3 record notice/update dates are 2026-10-30 although retrieved on 2026-10-29 evening.",
+  "quotes": [
+    {"source": "https://qt.gtimg.cn/q=sh600298", "asof": "2026-10-29 16:14:54", "price": "35.95", "total_shares": "867815671", "market_cap_yi": "311.98"},
+    {"source": "https://hq.sinajs.cn/list=sh600298", "asof": "2026-10-29 15:34:58", "price": "35.95"}
+  ],
+  "data": [
+    {"REPORT_DATE": "2026-09-30 00:00:00", "TOTALOPERATEREVE": "13607950841.86", "PARENTNETPROFIT": "1171183084.93", "KCFJCXSYJLR": "1015391704.63", "XSMLL": "25.3246753098", "ROEJQ": "9.4"},
+    {"REPORT_DATE": "2026-06-30 00:00:00", "TOTALOPERATEREVE": "9186922783.90", "PARENTNETPROFIT": "880947198.63", "KCFJCXSYJLR": "794013248.51", "XSMLL": "26.7979396289", "ROEJQ": "7.06"},
+    {"REPORT_DATE": "2025-12-31 00:00:00", "TOTALOPERATEREVE": "16728842770.37", "PARENTNETPROFIT": "1544409068.94", "KCFJCXSYJLR": "1359139575.38", "XSMLL": "24.7064014578", "ROEJQ": "13.51"},
+    {"REPORT_DATE": "2025-09-30 00:00:00", "TOTALOPERATEREVE": "11786451197.65", "PARENTNETPROFIT": "1116432180.40", "KCFJCXSYJLR": "965428795.53", "XSMLL": "25.5393321821", "ROEJQ": "9.9"},
+    {"REPORT_DATE": "2024-12-31 00:00:00", "TOTALOPERATEREVE": "15196913197.79", "PARENTNETPROFIT": "1324569136.28", "KCFJCXSYJLR": "1169737631.25", "XSMLL": "23.5236077675", "ROEJQ": "12.83"},
+    {"REPORT_DATE": "2023-12-31 00:00:00", "TOTALOPERATEREVE": "13585284359.06", "PARENTNETPROFIT": "1272719795.37", "KCFJCXSYJLR": "1105738374.96", "XSMLL": "24.1938726829", "ROEJQ": "13.06"}
+  ]
+}

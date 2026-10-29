@@ -1,0 +1,32 @@
+[
+  {
+    "file": "annual.pdf",
+    "bytes": 3366549,
+    "sha256": "2c7fba45257decc8edc4a0d8462c51accf146593f8c6097b26ed5ad52cf4115e"
+  },
+  {
+    "file": "dividend.pdf",
+    "bytes": 130105,
+    "sha256": "6e489b3ca6506e9166d14b668e3540214a91250f77fe5d44e97a6e4d98f1b932"
+  },
+  {
+    "file": "h1.pdf",
+    "bytes": 3638677,
+    "sha256": "34f98e7ae2e70f2cd958945a1cc5448b0d550dac2830f83efc6556f54cfcea38"
+  },
+  {
+    "file": "ir-h1.pdf",
+    "bytes": 25519,
+    "sha256": "1f385251d30c8ab434d9f4e880459fa9d80da5d58f3a8fa7e36c374ec6dcaa8d"
+  },
+  {
+    "file": "q3-operating.pdf",
+    "bytes": 91770,
+    "sha256": "70ca2ce2ae429163365cb82abd7946df087637e6318e1e8d917d570d28e95da9"
+  },
+  {
+    "file": "q3.pdf",
+    "bytes": 222265,
+    "sha256": "f9419296571c283a2abd80f068cfc76c2755f27b505d444b41a7696e244816ab"
+  }
+]

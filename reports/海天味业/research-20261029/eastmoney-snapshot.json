@@ -1,0 +1,49 @@
+{
+  "retrieved": "2026-10-29",
+  "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=%28SECUCODE%3D%22603288.SH%22%29&p=1&ps=24&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+  "raw_sha256": "8cc107703a84a4e15a5b86c738b98c92eb34ff6ebd2be08eb9f52bca5fc389c5",
+  "data": {
+    "2026YTD": {
+      "revenue": "22552931085",
+      "profit": "5379828889.33",
+      "adjusted": "5076875383.9",
+      "cfo": "2085923546.83"
+    },
+    "2026H1": {
+      "revenue": "16146273837.53",
+      "profit": "4190156263",
+      "adjusted": "3960405507.28",
+      "cfo": "1224226577.61"
+    },
+    "2025": {
+      "revenue": "28873380466.76",
+      "profit": "7038465194.15",
+      "adjusted": "6845473101.28",
+      "cfo": "7745950953.79"
+    },
+    "2025YTD": {
+      "revenue": "21630142229.89",
+      "profit": "5317824636.82",
+      "adjusted": "5155452002.46",
+      "cfo": "3144110194.62"
+    },
+    "2025H1": {
+      "revenue": "15231446763.67",
+      "profit": "3911459893.08",
+      "adjusted": "3816542513.66",
+      "cfo": "1502402735.6"
+    },
+    "2024": {
+      "revenue": "26904508894.01",
+      "profit": "6343626494.69",
+      "adjusted": "6068167468.37",
+      "cfo": "6840201569.11"
+    },
+    "2023": {
+      "revenue": "24559312356.59",
+      "profit": "5626626091.97",
+      "adjusted": "5394663934.17",
+      "cfo": "7355650997.74"
+    }
+  }
+}

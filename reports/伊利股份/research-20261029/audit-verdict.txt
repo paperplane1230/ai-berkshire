@@ -1,0 +1,83 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：伊利股份研究报告-20261029.md
+======================================================================
+
+  ✅ 通过 [12] 扣非归母 · 2026单Q3                       报告:        29.36
+                                                    S1 primary Q3; S1-S3 subtraction: 29.36 (偏差 0.01%)  |  S7 independent vendor subtraction: 29.36 (偏差 0.01%)
+  ✅ 通过 [19] 利润总额 · 2025单Q3                       报告:        36.06
+                                                    S1-S3 comparative PBT: 36.06 (偏差 0.00%)  |  S7 independent vendor subtraction: 36.06 (偏差 0.00%)
+  ✅ 通过 [24] 经营现金流 · 2026单Q3                      报告:        56.82
+                                                    S1-S3 consolidated CFO: 56.82 (偏差 0.01%)  |  S7 independent vendor subtraction: 56.82 (偏差 0.01%)
+  ✅ 通过 [29] 简化自由现金流 · 2025年前三季                   报告:        71.77
+                                                    S1 CFO minus gross capex: 71.77 (偏差 0.00%)  |  S7 CFO minus gross capex: 71.77 (偏差 0.00%)
+  ✅ 通过 [35] 液体乳 · 2025年板块毛利率                     报告:        31.43 %
+                                                    S4 segment table: 31.43 (偏差 0.00%)
+  ✅ 通过 [34] 液体乳 · 主营占比                           报告:        60.12 %
+                                                    S2 liquid divided by total main revenue: 60.12 (偏差 0.01%)
+  ✅ 通过 [37] 奶粉及奶制品 · 主营占比                        报告:        26.78 %
+                                                    S2 powder divided by total main revenue: 26.78 (偏差 0.02%)
+  ✅ 通过 [45] 货币资金 · 2025年末                        报告:       194.95
+                                                    S1 balance sheet: 194.95 (偏差 0.00%)  |  S7 balance: 194.95 (偏差 0.00%)
+  ✅ 通过 [55] 合同负债 · 2025年末                        报告:       105.64
+                                                    S1 comparative contract liabilities: 105.64 (偏差 0.00%)
+  ✅ 通过 [57] 商誉 · 2025年末                          报告:        21.82
+                                                    S1 comparative goodwill: 21.82 (偏差 0.02%)
+  ✅ 通过 [62] TTM归母净利润 · 数值                        报告:        99.43 亿元
+                                                    S4+S1 current-S1 comparative: 99.43 (偏差 0.00%)  |  S7 independent TTM reconstruction: 99.43 (偏差 0.00%)
+  ✅ 通过 [73] 悲观 · 归一化起点EPS                        报告:         1.50
+                                                    Explicit bear-case modelling input, not a financial disclosure: 1.50 (偏差 0.00%)
+  ✅ 通过 [86] 乐观 · 归一化起点EPS                        报告:         1.85
+                                                    Explicit bull-case modelling input, not a financial disclosure: 1.85 (偏差 0.00%)
+  ✅ 通过 [92] 乐观 · 当前价现金流IRR                       报告:        16.63 %
+                                                    Decimal cashflow IRR; independently residual-tested: 16.63 (偏差 0.03%)
+  ✅ 通过 [1014] 收盘价                                  报告:        29.45 specified in report
+                                                    S8 Tencent and Sina 2026-10-29 snapshots: 29.45 (偏差 0.00%)  |  Sina 2026-10-29 15:34:58: 29.45 (偏差 0.00%)
+  ✅ 通过 [1015] 市值亿元                                 报告:      1862.82 specified in report
+                                                    S1 shares x S8 price: 1862.82 (偏差 0.00%)  |  Tencent market cap rounded to 0.01 hundred million: 1862.82 (偏差 0.00%)
+  ✅ 通过 [1016] 归母TTM PE                             报告:        18.74 specified in report
+                                                    TTM reconstruction and current shares: 18.74 (偏差 0.03%)
+  ✅ 通过 [1017] 扣非TTM PE                             报告:        19.61 specified in report
+                                                    TTM deduct reconstruction: 19.61 (偏差 0.02%)
+  ✅ 通过 [1018] 前三季归母同比                              报告:       -15.56 specified in report
+                                                    S1 actual unrounded primary values: -15.56 (偏差 0.00%)
+  ✅ 通过 [1019] 前三季CFO同比                             报告:        64.27 specified in report
+                                                    S1 actual unrounded primary values: 64.27 (偏差 0.01%)
+  ✅ 通过 [1020] 单季CFO同比                              报告:       -11.71 specified in report
+                                                    S1-S3 same-period difference: -11.71 (偏差 0.04%)
+  ✅ 通过 [1021] 2023/revenue                         报告:      1257.58 specified in report
+                                                    S4 three-year comparison: 1257.58 (偏差 0.00%)  |  S7 independent vendor: 1257.58 (偏差 0.00%)
+  ✅ 通过 [1022] 2023/profit                          报告:       104.29 specified in report
+                                                    S4 three-year comparison: 104.29 (偏差 0.00%)  |  S7 independent vendor: 104.29 (偏差 0.00%)
+  ✅ 通过 [1023] 2023/ocf                             报告:       182.90 specified in report
+                                                    S4 three-year comparison: 182.90 (偏差 0.00%)  |  S7 independent vendor: 182.90 (偏差 0.00%)
+  ✅ 通过 [1024] 2024/revenue                         报告:      1153.93 specified in report
+                                                    S4 three-year comparison: 1153.93 (偏差 0.00%)  |  S7 independent vendor: 1153.93 (偏差 0.00%)
+  ✅ 通过 [1025] 2024/profit                          报告:        84.53 specified in report
+                                                    S4 three-year comparison: 84.53 (偏差 0.00%)  |  S7 independent vendor: 84.53 (偏差 0.00%)
+  ✅ 通过 [1026] 2024/ocf                             报告:       217.40 specified in report
+                                                    S4 three-year comparison: 217.40 (偏差 0.00%)  |  S7 independent vendor: 217.40 (偏差 0.00%)
+  ✅ 通过 [1027] 2025/revenue                         报告:      1156.36 specified in report
+                                                    S4 three-year comparison: 1156.36 (偏差 0.00%)  |  S7 independent vendor: 1156.36 (偏差 0.00%)
+  ✅ 通过 [1028] 2025/profit                          报告:       115.65 specified in report
+                                                    S4 three-year comparison: 115.65 (偏差 0.00%)  |  S7 independent vendor: 115.65 (偏差 0.00%)
+  ✅ 通过 [1029] 2025/ocf                             报告:       143.44 specified in report
+                                                    S4 three-year comparison: 143.44 (偏差 0.00%)  |  S7 independent vendor: 143.44 (偏差 0.00%)
+  ✅ 通过 [1030] 基准IRR                                报告:         7.68 specified in report
+                                                    Five year distribution timing and terminal PE model: 7.68 (偏差 0.01%)
+  ✅ 通过 [1031] 基准10%折现价格                            报告:        26.72 specified in report
+                                                    Explicit 10% hurdle; not perpetuity: 26.72 (偏差 0.01%)
+  ✅ 通过 [1032] 乐观退出价                                报告:        51.89 specified in report
+                                                    1.85*(1.07^5)*20: 51.89 (偏差 0.01%)
+  ✅ 通过 [1033] 单Q3有效税率                              报告:        15.47 specified in report
+                                                    Quarter tax/PBT, S1-S3: 15.47 (偏差 0.03%)
+  ✅ 通过 [1034] 供应商账款及票据年内增额亿元                       报告:        70.55 specified in report
+                                                    S1 current versus year-end balances: 70.55 (偏差 0.00%)
+  ✅ 通过 [1035] 澳优影响合并商誉减值亿元                         报告:        15.47 specified in report
+                                                    S3 goodwill note; not grossed-up full goodwill value: 15.47 (偏差 0.03%)
+
+----------------------------------------------------------------------
+  抽检总数: 36  |  通过: 36  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
