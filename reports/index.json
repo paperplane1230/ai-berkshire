@@ -1,8 +1,52 @@
 {
-  "count": 2491,
-  "published": 2279,
+  "count": 2495,
+  "published": 2283,
   "drafts": 212,
   "reports": [
+    {
+      "title": "海天味业（603288.SH / 03288.HK）研究报告",
+      "path": "reports/海天味业/海天味业研究报告-20261029.md",
+      "bucket": "公司",
+      "group": "海天味业",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-29",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "安琪酵母（600298）研究报告",
+      "path": "reports/安琪酵母/安琪酵母研究报告-20261029.md",
+      "bucket": "公司",
+      "group": "安琪酵母",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-29",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "伊利股份（600887）研究报告",
+      "path": "reports/伊利股份/伊利股份研究报告-20261029.md",
+      "bucket": "公司",
+      "group": "伊利股份",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-29",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "云南白药（000538）研究报告",
+      "path": "reports/云南白药/云南白药研究报告-20261029.md",
+      "bucket": "公司",
+      "group": "云南白药",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-29",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "泡泡玛特（09992.HK）2026Q3业绩分析",
       "path": "reports/泡泡玛特/泡泡玛特-earnings-2026H1及Q3更新-20261028.md",

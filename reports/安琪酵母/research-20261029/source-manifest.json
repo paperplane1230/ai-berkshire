@@ -1,0 +1,67 @@
+[
+  {
+    "file": "local\\安琪酵母-20261029\\12041257.txt",
+    "sha256": "b7ceb7bd3578582151573697d04ba7f9dcf1ef08e012427c48b168fa4353bdeb",
+    "bytes": 9361
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12041292.txt",
+    "sha256": "a119ba0b1b916ac6a2d4629fe52322fd4dcc53f3d9aaf11bbcb492673941d6d7",
+    "bytes": 458819
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12365804.txt",
+    "sha256": "114a59666f31e42e71acbb1673db4ddd3c4a89cb002df94eb146663a150e9535",
+    "bytes": 8238
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12495539.txt",
+    "sha256": "afd77bd12b9fc718e9e8aefac1be0e598d1e947797fd399aee687ce6a91a83f1",
+    "bytes": 343101
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12621354.txt",
+    "sha256": "4fbce84d8772f5f8fcf62822a25f60ada6d4a4d9efd37a7c58d8f8d3391e6c56",
+    "bytes": 77560
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12646173.txt",
+    "sha256": "f6fdea72bf55968e1d9a36291a70520a566cd0978c16857ec532d6babfec3d52",
+    "bytes": 7553
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12646177.txt",
+    "sha256": "0b3be5043be3a48295d03400805e1cbdcd7aec11ad9643b84ff59e0eb934f338",
+    "bytes": 7461
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12676608.txt",
+    "sha256": "ec1176ed5e878505aea3aff3bd204f0cff572e92f9c89c8944abb48921d48848",
+    "bytes": 4522
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12676612.txt",
+    "sha256": "c5c840bf0098f19692290ea182a9e242643f0e293d7fc6de712428caaf0228d1",
+    "bytes": 5927
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\12676613.txt",
+    "sha256": "d9fe53a8ca73c184bce8e878a60d4d00dc64d6944596b689d0b84d58c8f00ce4",
+    "bytes": 39979
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\eastmoney-financials.json",
+    "sha256": "7d039634f5671ece0b91dfa5cc708025ffe5181700d03526fd079fc201a60dcb",
+    "bytes": 83815
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\quote-qq.txt",
+    "sha256": "6a997594da472d06b6007d7b9aa7e7dcb530125e18a1344e228b1a5bd2ee3e6f",
+    "bytes": 508
+  },
+  {
+    "file": "local\\安琪酵母-20261029\\quote-sina.txt",
+    "sha256": "470925d04bdee7babc00d4f283a589f4b6046ece2601337a2afe07d438a59eec",
+    "bytes": 267
+  }
+]

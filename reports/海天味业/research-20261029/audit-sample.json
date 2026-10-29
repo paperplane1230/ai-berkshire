@@ -1,0 +1,190 @@
+[
+  {
+    "id": 12,
+    "label": "归母净利润 · 单季同比",
+    "reported_value": -15.41,
+    "unit": "%",
+    "raw_text": "| 归母净利润 | 53.1782 | 53.7983 | +1.17% | 14.0636 | 11.8967 | -15.41% |",
+    "line_number": 50,
+    "fetched_value": -15.41,
+    "fetched_exact": "-15.40796001709643938887383986",
+    "fetched_source": "S1/S3, exact arithmetic"
+  },
+  {
+    "id": 24,
+    "label": "经营现金流 · 单季同比",
+    "reported_value": -47.51,
+    "unit": "%",
+    "raw_text": "| 经营现金流 | 31.4411 | 20.8592 | -33.66% | 16.4171 | 8.6170 | -47.51% |",
+    "line_number": 52,
+    "fetched_value": -47.51,
+    "fetched_exact": "-47.51214873967978787456212943",
+    "fetched_source": "S1/S3, exact arithmetic"
+  },
+  {
+    "id": 29,
+    "label": "合并毛利率 · 单季同比",
+    "reported_value": 2.34,
+    "unit": "",
+    "raw_text": "| 合并毛利率 | 39.97% | 39.97% | 基本持平 | 39.62% | 37.28% | 下降2.34个百分点 |",
+    "line_number": 53,
+    "fetched_value": 2.34,
+    "fetched_exact": "2.34183528714594292737379949",
+    "fetched_source": "S1/S3, decline in percentage points"
+  },
+  {
+    "id": 34,
+    "label": "酱油 · 2025产品毛利率",
+    "reported_value": 48.73,
+    "unit": "%",
+    "raw_text": "| 酱油 | 114.6807 | +2.80% | 31.7184 | -1.73% | 48.73% |",
+    "line_number": 69,
+    "fetched_value": 48.73,
+    "fetched_exact": "48.73",
+    "fetched_source": "S4 p30"
+  },
+  {
+    "id": 35,
+    "label": "蚝油 · 前三季度收入",
+    "reported_value": 36.3531,
+    "unit": "",
+    "raw_text": "| 蚝油 | 36.3531 | +0.17% | 10.6902 | -5.11% | 36.98% |",
+    "line_number": 70,
+    "fetched_value": 36.3531,
+    "fetched_exact": "36.3530857718",
+    "fetched_source": "S2 and S3 p21"
+  },
+  {
+    "id": 37,
+    "label": "蚝油 · Q3收入",
+    "reported_value": 10.6902,
+    "unit": "",
+    "raw_text": "| 蚝油 | 36.3531 | +0.17% | 10.6902 | -5.11% | 36.98% |",
+    "line_number": 70,
+    "fetched_value": 10.6902,
+    "fetched_exact": "10.6901982134",
+    "fetched_source": "S2 and S3 p21"
+  },
+  {
+    "id": 45,
+    "label": "其他 · 前三季度收入",
+    "reported_value": 39.7415,
+    "unit": "",
+    "raw_text": "| 其他 | 39.7415 | +10.67% | 11.2989 | +4.09% | 22.53% |",
+    "line_number": 72,
+    "fetched_value": 39.7415,
+    "fetched_exact": "39.7414908561",
+    "fetched_source": "S2 and S3 p21"
+  },
+  {
+    "id": 55,
+    "label": "应收账款 · 2026年9月末",
+    "reported_value": 4.3868,
+    "unit": "亿元",
+    "raw_text": "| 应收账款 | 4.3868亿元 | 比年初+48.39%，不是同比 |",
+    "line_number": 89,
+    "fetched_value": 4.3868,
+    "fetched_exact": "4.3867552020",
+    "fetched_source": "S1 p5-12"
+  },
+  {
+    "id": 57,
+    "label": "存货 · 2026年9月末",
+    "reported_value": 25.2251,
+    "unit": "亿元",
+    "raw_text": "| 存货 | 25.2251亿元 | 比年初+4.77%，不是同比 |",
+    "line_number": 90,
+    "fetched_value": 25.2251,
+    "fetched_exact": "25.2250752191",
+    "fetched_source": "S1 p5-12"
+  },
+  {
+    "id": 59,
+    "label": "合同负债 · 2026年9月末",
+    "reported_value": 9.7654,
+    "unit": "亿元",
+    "raw_text": "| 合同负债 | 9.7654亿元 | 年初41.2849亿元，半年末9.7866亿元 |",
+    "line_number": 91,
+    "fetched_value": 9.7654,
+    "fetched_exact": "9.7654385991",
+    "fetched_source": "S1 p5-12"
+  },
+  {
+    "id": 69,
+    "label": "扣非TTM PE · A股",
+    "reported_value": 29.82,
+    "unit": "倍",
+    "raw_text": "| 扣非TTM PE | 29.82倍 | 18.70倍 |",
+    "line_number": 206,
+    "fetched_value": 29.82,
+    "fetched_exact": "29.82052459892340086321644892",
+    "fetched_source": "S1/S3/S4/S8 derived valuation"
+  },
+  {
+    "id": 82,
+    "label": "基准 · A/H退出PE",
+    "reported_value": 23.0,
+    "unit": "",
+    "raw_text": "| 基准 | +5% | 1.5507 | 23 / 16倍 | 5.6395 | 35.67 | 29.22 | +3.86% | +7.68% |",
+    "line_number": 228,
+    "fetched_value": 23.0,
+    "fetched_exact": "23",
+    "fetched_source": "Explicit A exit PE assumption; H checked in model tests"
+  },
+  {
+    "id": 88,
+    "label": "乐观 · 每股利润年增速",
+    "reported_value": 8.0,
+    "unit": "%",
+    "raw_text": "| 乐观 | +8% | 1.7852 | 28 / 20倍 | 6.1586 | 49.99 | 42.05 | +10.74% | +15.16% |",
+    "line_number": 229,
+    "fetched_value": 8.0,
+    "fetched_exact": "8.00",
+    "fetched_source": "Explicit model assumption; not a forecast fact"
+  },
+  {
+    "id": 89,
+    "label": "乐观 · 第五年EPS（元）",
+    "reported_value": 1.7852,
+    "unit": "",
+    "raw_text": "| 乐观 | +8% | 1.7852 | 28 / 20倍 | 6.1586 | 49.99 | 42.05 | +10.74% | +15.16% |",
+    "line_number": 229,
+    "fetched_value": 1.7852,
+    "fetched_exact": "1.785244100852231385240360446",
+    "fetched_source": "Exact scenario cash-flow model; not a forecast fact"
+  },
+  {
+    "id": 90,
+    "label": "乐观 · A/H退出PE",
+    "reported_value": 28.0,
+    "unit": "",
+    "raw_text": "| 乐观 | +8% | 1.7852 | 28 / 20倍 | 6.1586 | 49.99 | 42.05 | +10.74% | +15.16% |",
+    "line_number": 229,
+    "fetched_value": 28.0,
+    "fetched_exact": "28",
+    "fetched_source": "Explicit A exit PE assumption; H checked in model tests"
+  },
+  {
+    "id": 93,
+    "label": "乐观 · H退出价（港元）",
+    "reported_value": 42.05,
+    "unit": "",
+    "raw_text": "| 乐观 | +8% | 1.7852 | 28 / 20倍 | 6.1586 | 49.99 | 42.05 | +10.74% | +15.16% |",
+    "line_number": 229,
+    "fetched_value": 42.05,
+    "fetched_exact": "42.05213889262945360706095497",
+    "fetched_source": "Exact scenario cash-flow model; not a forecast fact"
+  },
+  {
+    "id": 105,
+    "label": "2023 · 经营现金流",
+    "reported_value": 73.5565,
+    "unit": "",
+    "line_number": 35,
+    "raw_text": "| 2023 | 245.5931 | 56.2663 | 53.9466 | 73.5565 | 未在本表复核 | 未列 |",
+    "supplemented": true,
+    "fetched_value": 73.5565,
+    "fetched_exact": "73.5565099774",
+    "fetched_source": "S4 p8 and p94-95"
+  }
+]

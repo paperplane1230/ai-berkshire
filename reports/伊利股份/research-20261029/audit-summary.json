@@ -1,0 +1,22 @@
+{
+  "report": "伊利股份研究报告-20261029.md",
+  "sha256": "135b411d24781075d354c3e64eb9ddf7c529e259483d98b4513da8a6ba1edc79",
+  "extracted": 95,
+  "excluded": 7,
+  "effective": 88,
+  "random_sample": 14,
+  "random_coverage_pct": "15.90909090909090909090909091",
+  "seed": 20261029,
+  "directed": 22,
+  "total": 36,
+  "verdict": {
+    "verdict": "PASS",
+    "pass_count": 36,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 36,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limits": "PASS is numeric consistency, not investment truth; single-primary and assumptions are explicitly tagged. Vendor and filing share underlying company disclosure."
+}

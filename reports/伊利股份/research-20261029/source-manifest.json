@@ -1,0 +1,73 @@
+{
+  "annual-list.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/600887/page_type/ndbg.phtml",
+    "sha256": "83fb907a6a3104c85b91635d5c5f90651a7e783a27b6d2679862caa027de5f80",
+    "bytes": 51586
+  },
+  "annual.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600887&id=12279896",
+    "sha256": "1fda89989846d533c3bb58f4297dcaada9519a3a60c187f0c09aeeeedd53d844",
+    "bytes": 954127
+  },
+  "dividend.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600887&id=12679907",
+    "sha256": "14ee65a423f9e9162257fb61177344de0a614688a41a591e4edff374acb70bfe",
+    "bytes": 26959
+  },
+  "em-balance.meta": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_BALANCE&columns=ALL&filter=(SECURITY_CODE%3D%22600887%22)&pageSize=12&sortColumns=REPORT_DATE&sortTypes=-1",
+    "sha256": "cd05314b87eef3881a9bd13753400cfe207391d2c20faab5ac335047699c197c",
+    "bytes": 18564
+  },
+  "em-cash.meta": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_CASHFLOW&columns=ALL&filter=(SECURITY_CODE%3D%22600887%22)&pageSize=12&sortColumns=REPORT_DATE&sortTypes=-1",
+    "sha256": "49285e852a90c791f3bdddbe18a220ac82339c12cdf7a96625aec5f0a296300b",
+    "bytes": 15669
+  },
+  "em-indicators.meta": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_INCOME&columns=ALL&filter=(SECURITY_CODE%3D%22600887%22)&pageSize=12&sortColumns=REPORT_DATE&sortTypes=-1",
+    "sha256": "e0f745b721fd9312ff4255842dba468ef55246cd988868e1be5ca556cdb61f91",
+    "bytes": 15868
+  },
+  "h1.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600887&id=12547482",
+    "sha256": "a707677e68b55e6fc9edd7eb529cdcc89faab024a6180198f006f80efc55d8f8",
+    "bytes": 797671
+  },
+  "ir.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600887&id=12576411",
+    "sha256": "2cde5d55f7b8993213ebfe38f98d25f2ac98e774646759e780585473996df2ad",
+    "bytes": 24817
+  },
+  "q3-operating.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600887&id=12679909",
+    "sha256": "6957633989504260dcad6ee987be91693d64c741ca2909b72a0c6aba076aef54",
+    "bytes": 30022
+  },
+  "q3.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600887&id=12679906",
+    "sha256": "6614214ecd2bd362554a3f9bb43f661e251c010b7b77fed20a7efa5668e81c6e",
+    "bytes": 105789
+  },
+  "qq.meta": {
+    "url": "https://qt.gtimg.cn/q=sh600887",
+    "sha256": "dfcca9f2cd40bae4c30cb868c41771921d2c3f115c3eca05f7b383bdabbe392c",
+    "bytes": 523
+  },
+  "sina-quote.meta": {
+    "url": "https://hq.sinajs.cn/list=sh600887",
+    "sha256": "cdf92365682b025098627e095468da53510eb5aac9f482408155c29c488bb9f2",
+    "bytes": 276
+  },
+  "q3_original_pdf": {
+    "pages": 15,
+    "sha256": "e165e6ee19441a1c0a59199991016bbf78098073981c469f3432e533cb3ce7a0",
+    "download_date": "2026-10-29",
+    "document_date": "2026-10-30",
+    "visual_checked_pages": [
+      1,
+      9,
+      10
+    ]
+  }
+}

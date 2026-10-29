@@ -1,0 +1,866 @@
+[
+  {
+    "id": 1,
+    "label": "营业收入 · 2023年",
+    "reported_value": 391.1129,
+    "unit": "",
+    "raw_text": "| 营业收入 | 391.1129 | 400.3330 | 411.8700 |",
+    "line_number": 37
+  },
+  {
+    "id": 2,
+    "label": "营业收入 · 2024年",
+    "reported_value": 400.333,
+    "unit": "",
+    "raw_text": "| 营业收入 | 391.1129 | 400.3330 | 411.8700 |",
+    "line_number": 37
+  },
+  {
+    "id": 3,
+    "label": "营业收入 · 2025年",
+    "reported_value": 411.87,
+    "unit": "",
+    "raw_text": "| 营业收入 | 391.1129 | 400.3330 | 411.8700 |",
+    "line_number": 37
+  },
+  {
+    "id": 4,
+    "label": "归母净利润 · 2023年",
+    "reported_value": 40.9378,
+    "unit": "",
+    "raw_text": "| 归母净利润 | 40.9378 | 47.4942 | 51.5349 |",
+    "line_number": 38
+  },
+  {
+    "id": 5,
+    "label": "归母净利润 · 2024年",
+    "reported_value": 47.4942,
+    "unit": "",
+    "raw_text": "| 归母净利润 | 40.9378 | 47.4942 | 51.5349 |",
+    "line_number": 38
+  },
+  {
+    "id": 6,
+    "label": "归母净利润 · 2025年",
+    "reported_value": 51.5349,
+    "unit": "",
+    "raw_text": "| 归母净利润 | 40.9378 | 47.4942 | 51.5349 |",
+    "line_number": 38
+  },
+  {
+    "id": 7,
+    "label": "扣非归母 · 2023年",
+    "reported_value": 37.6361,
+    "unit": "",
+    "raw_text": "| 扣非归母 | 37.6361 | 45.2306 | 48.6457 |",
+    "line_number": 39
+  },
+  {
+    "id": 8,
+    "label": "扣非归母 · 2024年",
+    "reported_value": 45.2306,
+    "unit": "",
+    "raw_text": "| 扣非归母 | 37.6361 | 45.2306 | 48.6457 |",
+    "line_number": 39
+  },
+  {
+    "id": 9,
+    "label": "扣非归母 · 2025年",
+    "reported_value": 48.6457,
+    "unit": "",
+    "raw_text": "| 扣非归母 | 37.6361 | 45.2306 | 48.6457 |",
+    "line_number": 39
+  },
+  {
+    "id": 10,
+    "label": "经营现金流 · 2023年",
+    "reported_value": 35.0274,
+    "unit": "",
+    "raw_text": "| 经营现金流 | 35.0274 | 42.9700 | 45.9969 |",
+    "line_number": 40
+  },
+  {
+    "id": 11,
+    "label": "经营现金流 · 2024年",
+    "reported_value": 42.97,
+    "unit": "",
+    "raw_text": "| 经营现金流 | 35.0274 | 42.9700 | 45.9969 |",
+    "line_number": 40
+  },
+  {
+    "id": 12,
+    "label": "经营现金流 · 2025年",
+    "reported_value": 45.9969,
+    "unit": "",
+    "raw_text": "| 经营现金流 | 35.0274 | 42.9700 | 45.9969 |",
+    "line_number": 40
+  },
+  {
+    "id": 13,
+    "label": "经营现金流/归母 · 2023年",
+    "reported_value": 85.56,
+    "unit": "%",
+    "raw_text": "| 经营现金流/归母 | 85.56% | 90.47% | 89.25% |",
+    "line_number": 41
+  },
+  {
+    "id": 14,
+    "label": "经营现金流/归母 · 2024年",
+    "reported_value": 90.47,
+    "unit": "%",
+    "raw_text": "| 经营现金流/归母 | 85.56% | 90.47% | 89.25% |",
+    "line_number": 41
+  },
+  {
+    "id": 15,
+    "label": "经营现金流/归母 · 2025年",
+    "reported_value": 89.25,
+    "unit": "%",
+    "raw_text": "| 经营现金流/归母 | 85.56% | 90.47% | 89.25% |",
+    "line_number": 41
+  },
+  {
+    "id": 16,
+    "label": "营业收入 · 2025年前三季",
+    "reported_value": 306.5421,
+    "unit": "",
+    "raw_text": "| 营业收入 | 306.5421 | 322.5706 |",
+    "line_number": 49
+  },
+  {
+    "id": 17,
+    "label": "营业收入 · 2026年前三季",
+    "reported_value": 322.5706,
+    "unit": "",
+    "raw_text": "| 营业收入 | 306.5421 | 322.5706 |",
+    "line_number": 49
+  },
+  {
+    "id": 18,
+    "label": "归母净利润 · 2025年前三季",
+    "reported_value": 47.7712,
+    "unit": "",
+    "raw_text": "| 归母净利润 | 47.7712 | 48.2235 |",
+    "line_number": 50
+  },
+  {
+    "id": 19,
+    "label": "归母净利润 · 2026年前三季",
+    "reported_value": 48.2235,
+    "unit": "",
+    "raw_text": "| 归母净利润 | 47.7712 | 48.2235 |",
+    "line_number": 50
+  },
+  {
+    "id": 20,
+    "label": "扣非归母 · 2025年前三季",
+    "reported_value": 45.4994,
+    "unit": "",
+    "raw_text": "| 扣非归母 | 45.4994 | 46.3091 |",
+    "line_number": 51
+  },
+  {
+    "id": 21,
+    "label": "扣非归母 · 2026年前三季",
+    "reported_value": 46.3091,
+    "unit": "",
+    "raw_text": "| 扣非归母 | 45.4994 | 46.3091 |",
+    "line_number": 51
+  },
+  {
+    "id": 22,
+    "label": "毛利率 · 2025年前三季",
+    "reported_value": 30.06,
+    "unit": "%",
+    "raw_text": "| 毛利率 | 30.06% | 29.13% |",
+    "line_number": 52
+  },
+  {
+    "id": 23,
+    "label": "毛利率 · 2026年前三季",
+    "reported_value": 29.13,
+    "unit": "%",
+    "raw_text": "| 毛利率 | 30.06% | 29.13% |",
+    "line_number": 52
+  },
+  {
+    "id": 24,
+    "label": "营业利润 · 2025年前三季",
+    "reported_value": 56.0505,
+    "unit": "",
+    "raw_text": "| 营业利润 | 56.0505 | 55.7656 |",
+    "line_number": 53
+  },
+  {
+    "id": 25,
+    "label": "营业利润 · 2026年前三季",
+    "reported_value": 55.7656,
+    "unit": "",
+    "raw_text": "| 营业利润 | 56.0505 | 55.7656 |",
+    "line_number": 53
+  },
+  {
+    "id": 26,
+    "label": "经营现金流 · 2025年前三季",
+    "reported_value": 44.5597,
+    "unit": "",
+    "raw_text": "| 经营现金流 | 44.5597 | 48.7415 |",
+    "line_number": 54
+  },
+  {
+    "id": 27,
+    "label": "经营现金流 · 2026年前三季",
+    "reported_value": 48.7415,
+    "unit": "",
+    "raw_text": "| 经营现金流 | 44.5597 | 48.7415 |",
+    "line_number": 54
+  },
+  {
+    "id": 28,
+    "label": "资本开支付现 · 2025年前三季",
+    "reported_value": 3.2743,
+    "unit": "",
+    "raw_text": "| 资本开支付现 | 3.2743 | 3.8159 |",
+    "line_number": 55
+  },
+  {
+    "id": 29,
+    "label": "资本开支付现 · 2026年前三季",
+    "reported_value": 3.8159,
+    "unit": "",
+    "raw_text": "| 资本开支付现 | 3.2743 | 3.8159 |",
+    "line_number": 55
+  },
+  {
+    "id": 30,
+    "label": "简化自由现金流 · 2025年前三季",
+    "reported_value": 41.2854,
+    "unit": "",
+    "raw_text": "| 简化自由现金流 | 41.2854 | 44.9256 |",
+    "line_number": 56
+  },
+  {
+    "id": 31,
+    "label": "简化自由现金流 · 2026年前三季",
+    "reported_value": 44.9256,
+    "unit": "",
+    "raw_text": "| 简化自由现金流 | 41.2854 | 44.9256 |",
+    "line_number": 56
+  },
+  {
+    "id": 32,
+    "label": "经营现金流/归母 · 2025年前三季",
+    "reported_value": 93.28,
+    "unit": "%",
+    "raw_text": "| 经营现金流/归母 | 93.28% | 101.07% |",
+    "line_number": 57
+  },
+  {
+    "id": 33,
+    "label": "经营现金流/归母 · 2026年前三季",
+    "reported_value": 101.07,
+    "unit": "%",
+    "raw_text": "| 经营现金流/归母 | 93.28% | 101.07% |",
+    "line_number": 57
+  },
+  {
+    "id": 34,
+    "label": "基本/稀释EPS（元） · 2025年前三季",
+    "reported_value": 2.68,
+    "unit": "",
+    "raw_text": "| 基本/稀释EPS（元） | 2.68 | 2.70 |",
+    "line_number": 58
+  },
+  {
+    "id": 35,
+    "label": "基本/稀释EPS（元） · 2026年前三季",
+    "reported_value": 2.7,
+    "unit": "",
+    "raw_text": "| 基本/稀释EPS（元） | 2.68 | 2.70 |",
+    "line_number": 58
+  },
+  {
+    "id": 36,
+    "label": "营业收入 · 2025年第三季",
+    "reported_value": 93.9711,
+    "unit": "",
+    "raw_text": "| 营业收入 | 93.9711 | 103.7299 |",
+    "line_number": 66
+  },
+  {
+    "id": 37,
+    "label": "营业收入 · 2026年第三季",
+    "reported_value": 103.7299,
+    "unit": "",
+    "raw_text": "| 营业收入 | 93.9711 | 103.7299 |",
+    "line_number": 66
+  },
+  {
+    "id": 38,
+    "label": "归母净利润 · 2025年第三季",
+    "reported_value": 11.4421,
+    "unit": "",
+    "raw_text": "| 归母净利润 | 11.4421 | 11.2118 |",
+    "line_number": 67
+  },
+  {
+    "id": 39,
+    "label": "归母净利润 · 2026年第三季",
+    "reported_value": 11.2118,
+    "unit": "",
+    "raw_text": "| 归母净利润 | 11.4421 | 11.2118 |",
+    "line_number": 67
+  },
+  {
+    "id": 40,
+    "label": "扣非归母 · 2025年第三季",
+    "reported_value": 10.8902,
+    "unit": "",
+    "raw_text": "| 扣非归母 | 10.8902 | 11.1249 |",
+    "line_number": 68
+  },
+  {
+    "id": 41,
+    "label": "扣非归母 · 2026年第三季",
+    "reported_value": 11.1249,
+    "unit": "",
+    "raw_text": "| 扣非归母 | 10.8902 | 11.1249 |",
+    "line_number": 68
+  },
+  {
+    "id": 42,
+    "label": "毛利率 · 2025年第三季",
+    "reported_value": 28.26,
+    "unit": "%",
+    "raw_text": "| 毛利率 | 28.26% | 27.17% |",
+    "line_number": 69
+  },
+  {
+    "id": 43,
+    "label": "毛利率 · 2026年第三季",
+    "reported_value": 27.17,
+    "unit": "%",
+    "raw_text": "| 毛利率 | 28.26% | 27.17% |",
+    "line_number": 69
+  },
+  {
+    "id": 44,
+    "label": "营业利润率 · 2025年第三季",
+    "reported_value": 14.74,
+    "unit": "%",
+    "raw_text": "| 营业利润率 | 14.74% | 12.56% |",
+    "line_number": 70
+  },
+  {
+    "id": 45,
+    "label": "营业利润率 · 2026年第三季",
+    "reported_value": 12.56,
+    "unit": "%",
+    "raw_text": "| 营业利润率 | 14.74% | 12.56% |",
+    "line_number": 70
+  },
+  {
+    "id": 46,
+    "label": "经营现金流 · 2025年第三季",
+    "reported_value": 4.9478,
+    "unit": "",
+    "raw_text": "| 经营现金流 | 4.9478 | 7.6811 |",
+    "line_number": 71
+  },
+  {
+    "id": 47,
+    "label": "经营现金流 · 2026年第三季",
+    "reported_value": 7.6811,
+    "unit": "",
+    "raw_text": "| 经营现金流 | 4.9478 | 7.6811 |",
+    "line_number": 71
+  },
+  {
+    "id": 48,
+    "label": "资本开支付现 · 2025年第三季",
+    "reported_value": 1.2338,
+    "unit": "",
+    "raw_text": "| 资本开支付现 | 1.2338 | 1.5954 |",
+    "line_number": 72
+  },
+  {
+    "id": 49,
+    "label": "资本开支付现 · 2026年第三季",
+    "reported_value": 1.5954,
+    "unit": "",
+    "raw_text": "| 资本开支付现 | 1.2338 | 1.5954 |",
+    "line_number": 72
+  },
+  {
+    "id": 50,
+    "label": "简化自由现金流 · 2025年第三季",
+    "reported_value": 3.714,
+    "unit": "",
+    "raw_text": "| 简化自由现金流 | 3.7140 | 6.0857 |",
+    "line_number": 73
+  },
+  {
+    "id": 51,
+    "label": "简化自由现金流 · 2026年第三季",
+    "reported_value": 6.0857,
+    "unit": "",
+    "raw_text": "| 简化自由现金流 | 3.7140 | 6.0857 |",
+    "line_number": 73
+  },
+  {
+    "id": 52,
+    "label": "工业销售 · 2025年收入",
+    "reported_value": 160.1632,
+    "unit": "",
+    "raw_text": "| 工业销售 | 160.1632 | 65.19% | 87.7208 | 65.83% |",
+    "line_number": 91
+  },
+  {
+    "id": 53,
+    "label": "工业销售 · 2025年毛利率",
+    "reported_value": 65.19,
+    "unit": "%",
+    "raw_text": "| 工业销售 | 160.1632 | 65.19% | 87.7208 | 65.83% |",
+    "line_number": 91
+  },
+  {
+    "id": 54,
+    "label": "工业销售 · 2026上半年收入",
+    "reported_value": 87.7208,
+    "unit": "",
+    "raw_text": "| 工业销售 | 160.1632 | 65.19% | 87.7208 | 65.83% |",
+    "line_number": 91
+  },
+  {
+    "id": 55,
+    "label": "工业销售 · 2026上半年毛利率",
+    "reported_value": 65.83,
+    "unit": "%",
+    "raw_text": "| 工业销售 | 160.1632 | 65.19% | 87.7208 | 65.83% |",
+    "line_number": 91
+  },
+  {
+    "id": 56,
+    "label": "商业销售 · 2025年收入",
+    "reported_value": 250.8338,
+    "unit": "",
+    "raw_text": "| 商业销售 | 250.8338 | 6.69% | 130.6428 | 5.96% |",
+    "line_number": 92
+  },
+  {
+    "id": 57,
+    "label": "商业销售 · 2025年毛利率",
+    "reported_value": 6.69,
+    "unit": "%",
+    "raw_text": "| 商业销售 | 250.8338 | 6.69% | 130.6428 | 5.96% |",
+    "line_number": 92
+  },
+  {
+    "id": 58,
+    "label": "商业销售 · 2026上半年收入",
+    "reported_value": 130.6428,
+    "unit": "",
+    "raw_text": "| 商业销售 | 250.8338 | 6.69% | 130.6428 | 5.96% |",
+    "line_number": 92
+  },
+  {
+    "id": 59,
+    "label": "商业销售 · 2026上半年毛利率",
+    "reported_value": 5.96,
+    "unit": "%",
+    "raw_text": "| 商业销售 | 250.8338 | 6.69% | 130.6428 | 5.96% |",
+    "line_number": 92
+  },
+  {
+    "id": 60,
+    "label": "货币资金 · 2026年9月底",
+    "reported_value": 76.2909,
+    "unit": "",
+    "raw_text": "| 货币资金 | 76.2909 | 不能全部视作自由调度现金 |",
+    "line_number": 102
+  },
+  {
+    "id": 61,
+    "label": "现金及现金等价物 · 2026年9月底",
+    "reported_value": 70.6763,
+    "unit": "",
+    "raw_text": "| 现金及现金等价物 | 70.6763 | 与货币资金口径不同 |",
+    "line_number": 103
+  },
+  {
+    "id": 62,
+    "label": "交易性金融资产 · 2026年9月底",
+    "reported_value": 55.1926,
+    "unit": "",
+    "raw_text": "| 交易性金融资产 | 55.1926 | 理财资产有期限与净值风险 |",
+    "line_number": 104
+  },
+  {
+    "id": 63,
+    "label": "应收账款 · 2026年9月底",
+    "reported_value": 112.1031,
+    "unit": "",
+    "raw_text": "| 应收账款 | 112.1031 | 较年初增长+10.34% |",
+    "line_number": 105
+  },
+  {
+    "id": 64,
+    "label": "应收账款 · 解读",
+    "reported_value": 10.34,
+    "unit": "%",
+    "raw_text": "| 应收账款 | 112.1031 | 较年初增长+10.34% |",
+    "line_number": 105
+  },
+  {
+    "id": 65,
+    "label": "存货 · 2026年9月底",
+    "reported_value": 62.6404,
+    "unit": "",
+    "raw_text": "| 存货 | 62.6404 | 较年初增长+0.52% |",
+    "line_number": 106
+  },
+  {
+    "id": 66,
+    "label": "存货 · 解读",
+    "reported_value": 0.52,
+    "unit": "%",
+    "raw_text": "| 存货 | 62.6404 | 较年初增长+0.52% |",
+    "line_number": 106
+  },
+  {
+    "id": 67,
+    "label": "长期股权投资 · 2026年9月底",
+    "reported_value": 138.1476,
+    "unit": "",
+    "raw_text": "| 长期股权投资 | 138.1476 | 不是现金，主要投资需另看回报 |",
+    "line_number": 107
+  },
+  {
+    "id": 68,
+    "label": "归母净资产 · 2026年9月底",
+    "reported_value": 402.6965,
+    "unit": "",
+    "raw_text": "| 归母净资产 | 402.6965 | 当前PB约2.35倍 |",
+    "line_number": 108
+  },
+  {
+    "id": 69,
+    "label": "归母净资产 · 解读",
+    "reported_value": 2.35,
+    "unit": "倍",
+    "raw_text": "| 归母净资产 | 402.6965 | 当前PB约2.35倍 |",
+    "line_number": 108
+  },
+  {
+    "id": 70,
+    "label": "2025年特别分红 · 每股金额（元）",
+    "reported_value": 1.019,
+    "unit": "",
+    "raw_text": "| 2025年特别分红 | 1.019 | 在2025年实施 |",
+    "line_number": 176
+  },
+  {
+    "id": 71,
+    "label": "2025年特别分红 · 解释",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 2025年特别分红 | 1.019 | 在2025年实施 |",
+    "line_number": 176
+  },
+  {
+    "id": 72,
+    "label": "2025年年度分配 · 每股金额（元）",
+    "reported_value": 1.583,
+    "unit": "",
+    "raw_text": "| 2025年年度分配 | 1.583 | 年报方案，归属2025年度 |",
+    "line_number": 177
+  },
+  {
+    "id": 73,
+    "label": "2025所属年度合计 · 每股金额（元）",
+    "reported_value": 2.602,
+    "unit": "",
+    "raw_text": "| 2025所属年度合计 | 2.602 | 年报列示总派息率90.09% |",
+    "line_number": 178
+  },
+  {
+    "id": 74,
+    "label": "2025所属年度合计 · 解释",
+    "reported_value": 90.09,
+    "unit": "%",
+    "raw_text": "| 2025所属年度合计 | 2.602 | 年报列示总派息率90.09% |",
+    "line_number": 178
+  },
+  {
+    "id": 75,
+    "label": "2026年特别分红 · 每股金额（元）",
+    "reported_value": 1.038,
+    "unit": "",
+    "raw_text": "| 2026年特别分红 | 1.038 | 季报确认9月24日实施完毕 |",
+    "line_number": 179
+  },
+  {
+    "id": 76,
+    "label": "2026年特别分红 · 解释",
+    "reported_value": 9.0,
+    "unit": "",
+    "raw_text": "| 2026年特别分红 | 1.038 | 季报确认9月24日实施完毕 |",
+    "line_number": 179
+  },
+  {
+    "id": 77,
+    "label": "2026年上述两笔现金口径合计 · 每股金额（元）",
+    "reported_value": 2.621,
+    "unit": "",
+    "raw_text": "| 2026年上述两笔现金口径合计 | 2.621 | 2025年度分配加2026特别分红，不是2026全年预测 |",
+    "line_number": 180
+  },
+  {
+    "id": 78,
+    "label": "2026年上述两笔现金口径合计 · 解释",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 2026年上述两笔现金口径合计 | 2.621 | 2025年度分配加2026特别分红，不是2026全年预测 |",
+    "line_number": 180
+  },
+  {
+    "id": 79,
+    "label": "客户集中度 · 已知信息",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 客户集中度 | 2025前五客户占销售20.68% | 不是单一客户依赖，仍需监测回款 |",
+    "line_number": 204
+  },
+  {
+    "id": 80,
+    "label": "TTM营业收入 · 计算结果",
+    "reported_value": 427.8985,
+    "unit": "",
+    "raw_text": "| TTM营业收入 | 427.8985 |",
+    "line_number": 228
+  },
+  {
+    "id": 81,
+    "label": "TTM归母净利润 · 计算结果",
+    "reported_value": 51.9872,
+    "unit": "",
+    "raw_text": "| TTM归母净利润 | 51.9872 |",
+    "line_number": 229
+  },
+  {
+    "id": 82,
+    "label": "TTM扣非归母 · 计算结果",
+    "reported_value": 49.4554,
+    "unit": "",
+    "raw_text": "| TTM扣非归母 | 49.4554 |",
+    "line_number": 230
+  },
+  {
+    "id": 83,
+    "label": "TTM简化自由现金流 · 计算结果",
+    "reported_value": 44.8405,
+    "unit": "",
+    "raw_text": "| TTM简化自由现金流 | 44.8405 |",
+    "line_number": 231
+  },
+  {
+    "id": 84,
+    "label": "归母口径PE · 计算结果",
+    "reported_value": 18.17,
+    "unit": "倍",
+    "raw_text": "| 归母口径PE | 18.17倍 |",
+    "line_number": 232
+  },
+  {
+    "id": 85,
+    "label": "扣非口径PE · 计算结果",
+    "reported_value": 19.1,
+    "unit": "倍",
+    "raw_text": "| 扣非口径PE | 19.10倍 |",
+    "line_number": 233
+  },
+  {
+    "id": 86,
+    "label": "简化FCF收益率 · 计算结果",
+    "reported_value": 4.75,
+    "unit": "%",
+    "raw_text": "| 简化FCF收益率 | 4.75% |",
+    "line_number": 234
+  },
+  {
+    "id": 87,
+    "label": "悲观 · 每股利润年增长",
+    "reported_value": -2.0,
+    "unit": "%",
+    "raw_text": "| 悲观 | -2.00% | 80.00% | 14倍 | 35.08 | 10.44 | -3.26% |",
+    "line_number": 248
+  },
+  {
+    "id": 88,
+    "label": "悲观 · 派息率假设",
+    "reported_value": 80.0,
+    "unit": "%",
+    "raw_text": "| 悲观 | -2.00% | 80.00% | 14倍 | 35.08 | 10.44 | -3.26% |",
+    "line_number": 248
+  },
+  {
+    "id": 89,
+    "label": "悲观 · 第五年退出PE",
+    "reported_value": 14.0,
+    "unit": "倍",
+    "raw_text": "| 悲观 | -2.00% | 80.00% | 14倍 | 35.08 | 10.44 | -3.26% |",
+    "line_number": 248
+  },
+  {
+    "id": 90,
+    "label": "悲观 · 第五年价格（元）",
+    "reported_value": 35.08,
+    "unit": "",
+    "raw_text": "| 悲观 | -2.00% | 80.00% | 14倍 | 35.08 | 10.44 | -3.26% |",
+    "line_number": 248
+  },
+  {
+    "id": 91,
+    "label": "悲观 · 五年股息合计（元）",
+    "reported_value": 10.44,
+    "unit": "",
+    "raw_text": "| 悲观 | -2.00% | 80.00% | 14倍 | 35.08 | 10.44 | -3.26% |",
+    "line_number": 248
+  },
+  {
+    "id": 92,
+    "label": "悲观 · 年化IRR",
+    "reported_value": -3.26,
+    "unit": "%",
+    "raw_text": "| 悲观 | -2.00% | 80.00% | 14倍 | 35.08 | 10.44 | -3.26% |",
+    "line_number": 248
+  },
+  {
+    "id": 93,
+    "label": "基准 · 每股利润年增长",
+    "reported_value": 3.0,
+    "unit": "%",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249
+  },
+  {
+    "id": 94,
+    "label": "基准 · 派息率假设",
+    "reported_value": 85.0,
+    "unit": "%",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249
+  },
+  {
+    "id": 95,
+    "label": "基准 · 第五年退出PE",
+    "reported_value": 18.0,
+    "unit": "倍",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249
+  },
+  {
+    "id": 96,
+    "label": "基准 · 第五年价格（元）",
+    "reported_value": 57.84,
+    "unit": "",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249
+  },
+  {
+    "id": 97,
+    "label": "基准 · 五年股息合计（元）",
+    "reported_value": 12.88,
+    "unit": "",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249
+  },
+  {
+    "id": 98,
+    "label": "基准 · 年化IRR",
+    "reported_value": 6.48,
+    "unit": "%",
+    "raw_text": "| 基准 | +3.00% | 85.00% | 18倍 | 57.84 | 12.88 | +6.48% |",
+    "line_number": 249
+  },
+  {
+    "id": 99,
+    "label": "乐观 · 每股利润年增长",
+    "reported_value": 6.0,
+    "unit": "%",
+    "raw_text": "| 乐观 | +6.00% | 85.00% | 22倍 | 81.60 | 14.08 | +13.52% |",
+    "line_number": 250
+  },
+  {
+    "id": 100,
+    "label": "乐观 · 派息率假设",
+    "reported_value": 85.0,
+    "unit": "%",
+    "raw_text": "| 乐观 | +6.00% | 85.00% | 22倍 | 81.60 | 14.08 | +13.52% |",
+    "line_number": 250
+  },
+  {
+    "id": 101,
+    "label": "乐观 · 第五年退出PE",
+    "reported_value": 22.0,
+    "unit": "倍",
+    "raw_text": "| 乐观 | +6.00% | 85.00% | 22倍 | 81.60 | 14.08 | +13.52% |",
+    "line_number": 250
+  },
+  {
+    "id": 102,
+    "label": "乐观 · 第五年价格（元）",
+    "reported_value": 81.6,
+    "unit": "",
+    "raw_text": "| 乐观 | +6.00% | 85.00% | 22倍 | 81.60 | 14.08 | +13.52% |",
+    "line_number": 250
+  },
+  {
+    "id": 103,
+    "label": "乐观 · 五年股息合计（元）",
+    "reported_value": 14.08,
+    "unit": "",
+    "raw_text": "| 乐观 | +6.00% | 85.00% | 22倍 | 81.60 | 14.08 | +13.52% |",
+    "line_number": 250
+  },
+  {
+    "id": 104,
+    "label": "乐观 · 年化IRR",
+    "reported_value": 13.52,
+    "unit": "%",
+    "raw_text": "| 乐观 | +6.00% | 85.00% | 22倍 | 81.60 | 14.08 | +13.52% |",
+    "line_number": 250
+  },
+  {
+    "id": 105,
+    "label": "约42—44元，且主业未进一步恶化 · 空仓研究动作",
+    "reported_value": 15.0,
+    "unit": "",
+    "raw_text": "| 约42—44元，且主业未进一步恶化 | 对应约15—16倍扣非，可进入分批研究区 | 在组合约束下评估是否增配 |",
+    "line_number": 279
+  },
+  {
+    "id": 106,
+    "label": "约58—61元但增长仍停滞 · 空仓研究动作",
+    "reported_value": 21.0,
+    "unit": "",
+    "raw_text": "| 约58—61元但增长仍停滞 | 约21—22倍扣非，安全边际偏薄 | 评估减仓与更佳替代品 |",
+    "line_number": 282
+  },
+  {
+    "id": 107,
+    "label": "研究日",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "研究日：2026年10月29日晚，Asia/Shanghai。财务截止2026年9月30日；股价采用10月29日收盘价。除每股数据外，金额单位为人民币亿元。",
+    "line_number": 3
+  },
+  {
+    "id": 108,
+    "label": "hq.sinajs.cn/list=sz000538)",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "- [S6] [新浪行情](https://hq.sinajs.cn/list=sz000538)：2026-10-29 15:36:00，收盘52.930元，与腾讯一致。",
+    "line_number": 306
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "period": "2023",
+    "field": "revenue",
+    "primary": "39111292156.00",
+    "secondary": "39111292156",
+    "secondary_key": "TOTALOPERATEREVE",
+    "date": "2023-12-31"
+  },
+  {
+    "period": "2023",
+    "field": "profit",
+    "primary": "4093782074.02",
+    "secondary": "4093782074.02",
+    "secondary_key": "PARENTNETPROFIT",
+    "date": "2023-12-31"
+  },
+  {
+    "period": "2023",
+    "field": "core",
+    "primary": "3763605361.07",
+    "secondary": "3763605361.07",
+    "secondary_key": "KCFJCXSYJLR",
+    "date": "2023-12-31"
+  },
+  {
+    "period": "2023",
+    "field": "ocf",
+    "primary": "3502742348.02",
+    "secondary": "3502742348.02",
+    "secondary_key": "NETCASH_OPERATE_PK",
+    "date": "2023-12-31"
+  },
+  {
+    "period": "2024",
+    "field": "revenue",
+    "primary": "40033300814.72",
+    "secondary": "40033300814.72",
+    "secondary_key": "TOTALOPERATEREVE",
+    "date": "2024-12-31"
+  },
+  {
+    "period": "2024",
+    "field": "profit",
+    "primary": "4749415499.55",
+    "secondary": "4749415499.55",
+    "secondary_key": "PARENTNETPROFIT",
+    "date": "2024-12-31"
+  },
+  {
+    "period": "2024",
+    "field": "core",
+    "primary": "4523057538.23",
+    "secondary": "4523057538.23",
+    "secondary_key": "KCFJCXSYJLR",
+    "date": "2024-12-31"
+  },
+  {
+    "period": "2024",
+    "field": "ocf",
+    "primary": "4297003142.27",
+    "secondary": "4297003142.27",
+    "secondary_key": "NETCASH_OPERATE_PK",
+    "date": "2024-12-31"
+  },
+  {
+    "period": "2025",
+    "field": "revenue",
+    "primary": "41186999090.31",
+    "secondary": "41186999090.31",
+    "secondary_key": "TOTALOPERATEREVE",
+    "date": "2025-12-31"
+  },
+  {
+    "period": "2025",
+    "field": "profit",
+    "primary": "5153486838.91",
+    "secondary": "5153486838.91",
+    "secondary_key": "PARENTNETPROFIT",
+    "date": "2025-12-31"
+  },
+  {
+    "period": "2025",
+    "field": "core",
+    "primary": "4864568403.16",
+    "secondary": "4864568403.16",
+    "secondary_key": "KCFJCXSYJLR",
+    "date": "2025-12-31"
+  },
+  {
+    "period": "2025",
+    "field": "ocf",
+    "primary": "4599693880.44",
+    "secondary": "4599693880.44",
+    "secondary_key": "NETCASH_OPERATE_PK",
+    "date": "2025-12-31"
+  },
+  {
+    "period": "2025ytd",
+    "field": "revenue",
+    "primary": "30654214209.01",
+    "secondary": "30654214209.01",
+    "secondary_key": "TOTALOPERATEREVE",
+    "date": "2025-09-30"
+  },
+  {
+    "period": "2025ytd",
+    "field": "profit",
+    "primary": "4777119657.47",
+    "secondary": "4777119657.47",
+    "secondary_key": "PARENTNETPROFIT",
+    "date": "2025-09-30"
+  },
+  {
+    "period": "2025ytd",
+    "field": "core",
+    "primary": "4549939286.91",
+    "secondary": "4549939286.91",
+    "secondary_key": "KCFJCXSYJLR",
+    "date": "2025-09-30"
+  },
+  {
+    "period": "2025ytd",
+    "field": "ocf",
+    "primary": "4455969511.54",
+    "secondary": "4455969511.54",
+    "secondary_key": "NETCASH_OPERATE_PK",
+    "date": "2025-09-30"
+  },
+  {
+    "period": "2026ytd",
+    "field": "revenue",
+    "primary": "32257063315.53",
+    "secondary": "32257063315.53",
+    "secondary_key": "TOTALOPERATEREVE",
+    "date": "2026-09-30"
+  },
+  {
+    "period": "2026ytd",
+    "field": "profit",
+    "primary": "4822353319.20",
+    "secondary": "4822353319.2",
+    "secondary_key": "PARENTNETPROFIT",
+    "date": "2026-09-30"
+  },
+  {
+    "period": "2026ytd",
+    "field": "core",
+    "primary": "4630906875.24",
+    "secondary": "4630906875.24",
+    "secondary_key": "KCFJCXSYJLR",
+    "date": "2026-09-30"
+  },
+  {
+    "period": "2026ytd",
+    "field": "ocf",
+    "primary": "4874150192.22",
+    "secondary": "4874150192.22",
+    "secondary_key": "NETCASH_OPERATE_PK",
+    "date": "2026-09-30"
+  },
+  {
+    "period": "2025h1",
+    "field": "revenue",
+    "primary": "21257102896.02",
+    "secondary": "21257102896.02",
+    "secondary_key": "TOTALOPERATEREVE",
+    "date": "2025-06-30"
+  },
+  {
+    "period": "2025h1",
+    "field": "profit",
+    "primary": "3632911303.12",
+    "secondary": "3632911303.12",
+    "secondary_key": "PARENTNETPROFIT",
+    "date": "2025-06-30"
+  },
+  {
+    "period": "2025h1",
+    "field": "core",
+    "primary": "3460915449.48",
+    "secondary": "3460915449.48",
+    "secondary_key": "KCFJCXSYJLR",
+    "date": "2025-06-30"
+  },
+  {
+    "period": "2025h1",
+    "field": "ocf",
+    "primary": "3961187202.77",
+    "secondary": "3961187202.77",
+    "secondary_key": "NETCASH_OPERATE_PK",
+    "date": "2025-06-30"
+  },
+  {
+    "period": "2026h1",
+    "field": "revenue",
+    "primary": "21884075971.15",
+    "secondary": "21884075971.15",
+    "secondary_key": "TOTALOPERATEREVE",
+    "date": "2026-06-30"
+  },
+  {
+    "period": "2026h1",
+    "field": "profit",
+    "primary": "3701170618.67",
+    "secondary": "3701170618.67",
+    "secondary_key": "PARENTNETPROFIT",
+    "date": "2026-06-30"
+  },
+  {
+    "period": "2026h1",
+    "field": "core",
+    "primary": "3518415542.36",
+    "secondary": "3518415542.36",
+    "secondary_key": "KCFJCXSYJLR",
+    "date": "2026-06-30"
+  },
+  {
+    "period": "2026h1",
+    "field": "ocf",
+    "primary": "4106039368.33",
+    "secondary": "4106039368.33",
+    "secondary_key": "NETCASH_OPERATE_PK",
+    "date": "2026-06-30"
+  }
+]
