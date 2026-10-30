@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1000,
+    "label": "A股收盘价",
+    "reported_value": 40.3,
+    "fetched_value": 40.3,
+    "fetched_exact": "40.30",
+    "fetched_source": "S5 Tencent and Sina same-date quote",
+    "unit": "specified in report",
+    "verification_kind": "financial_fact"
+  },
+  {
+    "id": 1001,
+    "label": "A类股数亿股",
+    "reported_value": 5.70094356,
+    "fetched_value": 5.70094356,
+    "fetched_exact": "5.70094356",
+    "fetched_source": "S3 class shares; S2 no change; S1 total unchanged",
+    "unit": "specified in report",
+    "verification_kind": "financial_fact"
+  },
+  {
+    "id": 1002,
+    "label": "S类股数亿股",
+    "reported_value": 2,
+    "fetched_value": 2.0,
+    "fetched_exact": "2.00000000",
+    "fetched_source": "S3 class shares and S2 no change",
+    "unit": "specified in report",
+    "verification_kind": "financial_fact"
+  },
+  {
+    "id": 1003,
+    "label": "A类市值亿元",
+    "reported_value": 229.75,
+    "fetched_value": 229.748025468,
+    "fetched_exact": "229.748025468",
+    "fetched_source": "A shares including restricted shares x own price",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1004,
+    "label": "A价等价市值亿元",
+    "reported_value": 310.35,
+    "fetched_value": 310.348025468,
+    "fetched_exact": "310.348025468",
+    "fetched_source": "Total shares x A price, not combined traded cap",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1005,
+    "label": "两期历史股息率",
+    "reported_value": 11.89,
+    "fetched_value": 11.885856079404466,
+    "fetched_exact": "11.88585607940446650124069479",
+    "fetched_source": "S3/S6 two distributions divided by current A price",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1006,
+    "label": "历史两期合计派息比例",
+    "reported_value": 173.1,
+    "fetched_value": 173.09782663184345,
+    "fetched_exact": "173.0978266318434413798639721",
+    "fetched_source": "Not annual-report final-only 84.56%",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1007,
+    "label": "两期合计派息亿元",
+    "reported_value": 36.8875,
+    "fetched_value": 36.8875196524,
+    "fetched_exact": "36.8875196524",
+    "fetched_source": "Current unchanged share count times 4.79",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1008,
+    "label": "机械75%派息收益率",
+    "reported_value": 2.15,
+    "fetched_value": 2.148511441363278,
+    "fetched_exact": "2.148511441363278034206874299",
+    "fetched_source": "Scenario sensitivity, not guidance",
+    "unit": "specified in report",
+    "verification_kind": "assumption_calculation"
+  },
+  {
+    "id": 1009,
+    "label": "Q3当前毛利额亿元",
+    "reported_value": 7.382,
+    "fetched_value": 7.3819974637,
+    "fetched_exact": "7.3819974637",
+    "fetched_source": "S1-S2 sales minus cost",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1010,
+    "label": "Q3上期毛利额亿元",
+    "reported_value": 7.7256,
+    "fetched_value": 7.7256148953,
+    "fetched_exact": "7.7256148953",
+    "fetched_source": "S1-S2 comparable sales minus cost",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1011,
+    "label": "Q3销售费用节约亿元",
+    "reported_value": 1.6924,
+    "fetched_value": 1.6923888605,
+    "fetched_exact": "1.6923888605",
+    "fetched_source": "S1-S2 sales expense difference",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1012,
+    "label": "单Q3销售费率",
+    "reported_value": 23.61,
+    "fetched_value": 23.605247356394926,
+    "fetched_exact": "23.60524735639492509571186038",
+    "fetched_source": "S1-S2 current expense/current revenue",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1013,
+    "label": "期末列示借款租赁亿元",
+    "reported_value": 0.9491,
+    "fetched_value": 0.9491036126,
+    "fetched_exact": "0.9491036126",
+    "fetched_source": "S1 specifically defined liabilities",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1014,
+    "label": "现金减限定负担亿元",
+    "reported_value": 11.8651,
+    "fetched_value": 11.8651460403,
+    "fetched_exact": "11.8651460403",
+    "fetched_source": "Not free surplus cash, excludes other operating obligations",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1015,
+    "label": "应收周转天数",
+    "reported_value": 73.94,
+    "fetched_value": 73.93600543763388,
+    "fetched_exact": "73.93600543763387711345847976",
+    "fetched_source": "Average beginning/end AR and 273 days",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1016,
+    "label": "存货周转天数",
+    "reported_value": 381.43,
+    "fetched_value": 381.4259735226381,
+    "fetched_exact": "381.4259735226380925998968370",
+    "fetched_source": "Average beginning/end inventory, 273 days, consolidated COGS",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1017,
+    "label": "基准10%现值",
+    "reported_value": 33.59,
+    "fetched_value": 33.59011918441509,
+    "fetched_exact": "33.59011918441508597119942644",
+    "fetched_source": "Distribution timing and finite exit value",
+    "unit": "specified in report",
+    "verification_kind": "model_calculation"
+  },
+  {
+    "id": 1018,
+    "label": "目标10%所需增长率",
+    "reported_value": 12.21,
+    "fetched_value": 12.208437912997256,
+    "fetched_exact": "12.20843791299725597320005666",
+    "fetched_source": "Reverse bisection; not growth forecast",
+    "unit": "specified in report",
+    "verification_kind": "model_calculation"
+  },
+  {
+    "id": 1019,
+    "label": "2025第四季扣非亏损亿元",
+    "reported_value": 0.2282,
+    "fetched_value": 0.2282462702,
+    "fetched_exact": "0.2282462702",
+    "fetched_source": "S3 standalone Q4 and annual minus YTD",
+    "unit": "specified in report",
+    "verification_kind": "financial_calculation"
+  },
+  {
+    "id": 1020,
+    "label": "分配股利利润或付息现金亿元",
+    "reported_value": 36.6207,
+    "fetched_value": 36.6206999603,
+    "fetched_exact": "36.6206999603",
+    "fetched_source": "S1 p13 cashflow, not pure dividends",
+    "unit": "specified in report",
+    "verification_kind": "financial_fact"
+  }
+]

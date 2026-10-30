@@ -1,0 +1,342 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：中国中免研究报告-20261030.md random sample plus directed
+======================================================================
+
+  ✅ 通过 [ 5] 营业收入 · 2026单Q3                       报告:       111.66
+                                                    S1/S2, raw consolidated inputs and exact difference: 111.66 (偏差 0.00%)
+  ✅ 通过 [16] 扣非归母 · 2025单Q3                       报告:         4.41
+                                                    S1/S2, raw consolidated inputs and exact difference: 4.41 (偏差 0.00%)
+  ✅ 通过 [19] 合并净利润 · 2025累计                       报告:        34.64
+                                                    S1/S2, raw consolidated inputs and exact difference: 34.64 (偏差 0.00%)
+  ✅ 通过 [29] 营业利润 · 2026单Q3                       报告:         8.41
+                                                    S1/S2, raw consolidated inputs and exact difference: 8.41 (偏差 0.00%)
+  ✅ 通过 [34] 经营现金流 · 2025单Q3                      报告:         7.81
+                                                    S1/S2, raw consolidated inputs and exact difference: 7.81 (偏差 0.00%)
+  ✅ 通过 [35] 经营现金流 · 2026单Q3                      报告:        -4.12
+                                                    S1/S2, raw consolidated inputs and exact difference: -4.12 (偏差 0.00%)
+  ✅ 通过 [37] 资本开支付现 · 2026累计                      报告:         8.08
+                                                    S1/S2, raw consolidated inputs and exact difference: 8.08 (偏差 0.00%)
+  ✅ 通过 [43] 简化自由现金流 · 2026单Q3                    报告:        -6.79
+                                                    S1/S2, raw consolidated inputs and exact difference: -6.79 (偏差 0.00%)
+  ✅ 通过 [44] 免税商品 · 2025收入（亿元）                    报告:       391.65
+                                                    S2/S3 product tables; issuer single source: 391.65 (偏差 0.00%)
+  ✅ 通过 [53] 三亚市内免税店 · 半年收入                       报告:       132.56
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 132.56 (偏差 0.00%)
+  ✅ 通过 [67] 存货 · 2026年9月末                        报告:       190.73
+                                                    S1 consolidated balance sheet; single source: 190.73 (偏差 0.00%)
+  ✅ 通过 [70] 应付账款 · 2025年末                        报告:        39.48
+                                                    S1 consolidated balance sheet; single source: 39.48 (偏差 0.00%)
+  ✅ 通过 [72] 使用权资产 · 2025年末                       报告:        14.29
+                                                    S1 consolidated balance sheet; single source: 14.29 (偏差 0.00%)
+  ✅ 通过 [76] 一年内到期非流动负债 · 2025年末                  报告:         7.92
+                                                    S1 consolidated balance sheet; single source: 7.92 (偏差 0.00%)
+  ✅ 通过 [83] 当前股本口径TTM EPS · 数值或A股                报告:         2.02
+                                                    S1/S2/S3 TTM with current legal shares: 2.02 (偏差 0.00%)
+  ✅ 通过 [95] 压力 · A退出价（元）                         报告:        35.97
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 35.97 (偏差 0.00%)
+  ✅ 通过 [103] 基准 · A退出价（元）                         报告:        61.50
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 61.50 (偏差 0.00%)
+  ✅ 通过 [110] 乐观 · 五年股息合计（元）                       报告:         5.69
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 5.69 (偏差 0.00%)
+  ✅ 通过 [112] 乐观 · H退出价（港元）                        报告:        95.51
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 95.51 (偏差 0.00%)
+  ✅ 通过 [1000] A current price                      报告:        50.30
+                                                    S5 Tencent and Sina 2026-10-30: 50.30 (偏差 0.00%)
+  ✅ 通过 [1001] H current price HKD                  报告:        42.44
+                                                    S5 Tencent and Sina 2026-10-30: 42.44 (偏差 0.00%)
+  ✅ 通过 [1002] Combined A/H cap CNY hundred millio  报告:      1027.20
+                                                    A shares*A price + H shares*H price*same-day FX: 1027.20 (偏差 0.00%)
+  ✅ 通过 [1003] H discount percent                   报告:        28.45
+                                                    A/H quotes, single-source same-day FX: 28.45 (偏差 0.00%)
+  ✅ 通过 [1004] YTD minority bridge CNY hundred mil  报告:         4.73
+                                                    S1 net profit less attributable profit bridge: 4.73 (偏差 0.02%)
+  ✅ 通过 [1005] H1 FCF after financing lease cash    报告:        13.82
+                                                    S2 OCF less capex less lease financing payments, not all rent: 13.82 (偏差 0.02%)
+  ✅ 通过 [1006] TTM simple FCF                       报告:        35.16
+                                                    S1/S2/S3, not lease-adjusted FCFE: 35.16 (偏差 0.01%)
+  ✅ 通过 [1007] Named debt sum                       报告:       104.49
+                                                    S1 short/long loans, current noncurrent debt, leases: 104.49 (偏差 0.00%)
+  ✅ 通过 [1008] Debt-obligation-subtracted cash obs  报告:       129.59
+                                                    S1 explicit boundary, not freely distributable surplus: 129.59 (偏差 0.00%)
+  ✅ 通过 [1009] Base A 10-percent present value      报告:        41.77
+                                                    Model cashflow discounted at 10%; CNY: 41.77 (偏差 0.00%)
+  ✅ 通过 [1010] Base H 10-percent present value CNY  报告:        33.47
+                                                    Model cashflow discounted at 10%; CNY not HKD: 33.47 (偏差 0.01%)
+  ✅ 通过 [1011] 2026 announced distribution per sha  报告:         0.40
+                                                    S10 approved by board under shareholder delegation; implementation pending: 0.40 (偏差 0.00%)
+  ✅ 通过 [1012] bear H exit PE assumption            报告:        14.00
+                                                    Explicit H-model input; not company guidance: 14.00 (偏差 0.00%)
+  ✅ 通过 [1013] base H exit PE assumption            报告:        18.00
+                                                    Explicit H-model input; not company guidance: 18.00 (偏差 0.00%)
+  ✅ 通过 [1014] bull H exit PE assumption            报告:        23.00
+                                                    Explicit H-model input; not company guidance: 23.00 (偏差 0.00%)
+  ✅ 通过 [1015] 2025 fiscal-year dividend per old s  报告:         0.70
+                                                    S3 interim and S9 final distribution; historical reference only: 0.70 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 35  |  通过: 35  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：中国中免研究报告-20261030.md all recognized and supplemented tables
+======================================================================
+
+  ✅ 通过 [ 1] 营业收入 · 2025累计                        报告:       398.62
+                                                    S1/S2, raw consolidated inputs and exact difference: 398.62 (偏差 0.00%)
+  ✅ 通过 [ 2] 营业收入 · 2026累计                        报告:       388.21
+                                                    S1/S2, raw consolidated inputs and exact difference: 388.21 (偏差 0.00%)
+  ✅ 通过 [ 3] 营业收入 · 累计同比                          报告:        -2.61 %
+                                                    S1/S2, same-period growth: -2.61 (偏差 0.00%)
+  ✅ 通过 [ 4] 营业收入 · 2025单Q3                       报告:       117.11
+                                                    S1/S2, raw consolidated inputs and exact difference: 117.11 (偏差 0.00%)
+  ✅ 通过 [ 5] 营业收入 · 2026单Q3                       报告:       111.66
+                                                    S1/S2, raw consolidated inputs and exact difference: 111.66 (偏差 0.00%)
+  ✅ 通过 [ 6] 营业收入 · 单季同比                          报告:        -4.66 %
+                                                    S1/S2, same-period growth: -4.66 (偏差 0.00%)
+  ✅ 通过 [ 7] 归母净利润 · 2025累计                       报告:        30.52
+                                                    S1/S2, raw consolidated inputs and exact difference: 30.52 (偏差 0.00%)
+  ✅ 通过 [ 8] 归母净利润 · 2026累计                       报告:        36.70
+                                                    S1/S2, raw consolidated inputs and exact difference: 36.70 (偏差 0.00%)
+  ✅ 通过 [ 9] 归母净利润 · 累计同比                         报告:        20.25 %
+                                                    S1/S2, same-period growth: 20.25 (偏差 0.00%)
+  ✅ 通过 [10] 归母净利润 · 2025单Q3                      报告:         4.52
+                                                    S1/S2, raw consolidated inputs and exact difference: 4.52 (偏差 0.00%)
+  ✅ 通过 [11] 归母净利润 · 2026单Q3                      报告:         5.64
+                                                    S1/S2, raw consolidated inputs and exact difference: 5.64 (偏差 0.00%)
+  ✅ 通过 [12] 归母净利润 · 单季同比                         报告:        24.64 %
+                                                    S1/S2, same-period growth: 24.64 (偏差 0.00%)
+  ✅ 通过 [13] 扣非归母 · 2025累计                        报告:        30.36
+                                                    S1/S2, raw consolidated inputs and exact difference: 30.36 (偏差 0.00%)
+  ✅ 通过 [14] 扣非归母 · 2026累计                        报告:        36.44
+                                                    S1/S2, raw consolidated inputs and exact difference: 36.44 (偏差 0.00%)
+  ✅ 通过 [15] 扣非归母 · 累计同比                          报告:        20.00 %
+                                                    S1/S2, same-period growth: 20.00 (偏差 0.00%)
+  ✅ 通过 [16] 扣非归母 · 2025单Q3                       报告:         4.41
+                                                    S1/S2, raw consolidated inputs and exact difference: 4.41 (偏差 0.00%)
+  ✅ 通过 [17] 扣非归母 · 2026单Q3                       报告:         5.65
+                                                    S1/S2, raw consolidated inputs and exact difference: 5.65 (偏差 0.00%)
+  ✅ 通过 [18] 扣非归母 · 单季同比                          报告:        28.19 %
+                                                    S1/S2, same-period growth: 28.19 (偏差 0.00%)
+  ✅ 通过 [19] 合并净利润 · 2025累计                       报告:        34.64
+                                                    S1/S2, raw consolidated inputs and exact difference: 34.64 (偏差 0.00%)
+  ✅ 通过 [20] 合并净利润 · 2026累计                       报告:        36.09
+                                                    S1/S2, raw consolidated inputs and exact difference: 36.09 (偏差 0.00%)
+  ✅ 通过 [21] 合并净利润 · 累计同比                         报告:         4.19 %
+                                                    S1/S2, same-period growth: 4.19 (偏差 0.00%)
+  ✅ 通过 [22] 合并净利润 · 2025单Q3                      报告:         5.57
+                                                    S1/S2, raw consolidated inputs and exact difference: 5.57 (偏差 0.00%)
+  ✅ 通过 [23] 合并净利润 · 2026单Q3                      报告:         5.65
+                                                    S1/S2, raw consolidated inputs and exact difference: 5.65 (偏差 0.00%)
+  ✅ 通过 [24] 合并净利润 · 单季同比                         报告:         1.32 %
+                                                    S1/S2, same-period growth: 1.32 (偏差 0.00%)
+  ✅ 通过 [25] 营业利润 · 2025累计                        报告:        44.85
+                                                    S1/S2, raw consolidated inputs and exact difference: 44.85 (偏差 0.00%)
+  ✅ 通过 [26] 营业利润 · 2026累计                        报告:        45.55
+                                                    S1/S2, raw consolidated inputs and exact difference: 45.55 (偏差 0.00%)
+  ✅ 通过 [27] 营业利润 · 累计同比                          报告:         1.55 %
+                                                    S1/S2, same-period growth: 1.55 (偏差 0.00%)
+  ✅ 通过 [28] 营业利润 · 2025单Q3                       报告:         7.77
+                                                    S1/S2, raw consolidated inputs and exact difference: 7.77 (偏差 0.00%)
+  ✅ 通过 [29] 营业利润 · 2026单Q3                       报告:         8.41
+                                                    S1/S2, raw consolidated inputs and exact difference: 8.41 (偏差 0.00%)
+  ✅ 通过 [30] 营业利润 · 单季同比                          报告:         8.26 %
+                                                    S1/S2, same-period growth: 8.26 (偏差 0.00%)
+  ✅ 通过 [31] 经营现金流 · 2025累计                       报告:        33.88
+                                                    S1/S2, raw consolidated inputs and exact difference: 33.88 (偏差 0.00%)
+  ✅ 通过 [32] 经营现金流 · 2026累计                       报告:        20.67
+                                                    S1/S2, raw consolidated inputs and exact difference: 20.67 (偏差 0.00%)
+  ✅ 通过 [33] 经营现金流 · 累计同比                         报告:       -38.98 %
+                                                    S1/S2, same-period growth: -38.98 (偏差 0.00%)
+  ✅ 通过 [34] 经营现金流 · 2025单Q3                      报告:         7.81
+                                                    S1/S2, raw consolidated inputs and exact difference: 7.81 (偏差 0.00%)
+  ✅ 通过 [35] 经营现金流 · 2026单Q3                      报告:        -4.12
+                                                    S1/S2, raw consolidated inputs and exact difference: -4.12 (偏差 0.00%)
+  ✅ 通过 [36] 资本开支付现 · 2025累计                      报告:         8.59
+                                                    S1/S2, raw consolidated inputs and exact difference: 8.59 (偏差 0.00%)
+  ✅ 通过 [37] 资本开支付现 · 2026累计                      报告:         8.08
+                                                    S1/S2, raw consolidated inputs and exact difference: 8.08 (偏差 0.00%)
+  ✅ 通过 [38] 资本开支付现 · 2025单Q3                     报告:         3.68
+                                                    S1/S2, raw consolidated inputs and exact difference: 3.68 (偏差 0.00%)
+  ✅ 通过 [39] 资本开支付现 · 2026单Q3                     报告:         2.67
+                                                    S1/S2, raw consolidated inputs and exact difference: 2.67 (偏差 0.00%)
+  ✅ 通过 [40] 简化自由现金流 · 2025累计                     报告:        25.29
+                                                    S1/S2, raw consolidated inputs and exact difference: 25.29 (偏差 0.00%)
+  ✅ 通过 [41] 简化自由现金流 · 2026累计                     报告:        12.60
+                                                    S1/S2, raw consolidated inputs and exact difference: 12.60 (偏差 0.00%)
+  ✅ 通过 [42] 简化自由现金流 · 2025单Q3                    报告:         4.13
+                                                    S1/S2, raw consolidated inputs and exact difference: 4.13 (偏差 0.00%)
+  ✅ 通过 [43] 简化自由现金流 · 2026单Q3                    报告:        -6.79
+                                                    S1/S2, raw consolidated inputs and exact difference: -6.79 (偏差 0.00%)
+  ✅ 通过 [44] 免税商品 · 2025收入（亿元）                    报告:       391.65
+                                                    S2/S3 product tables; issuer single source: 391.65 (偏差 0.00%)
+  ✅ 通过 [45] 免税商品 · 2025毛利率                       报告:        36.97 %
+                                                    S2/S3 product tables; issuer single source: 36.97 (偏差 0.00%)
+  ✅ 通过 [46] 免税商品 · 2026H1收入（亿元）                  报告:       217.28
+                                                    S2/S3 product tables; issuer single source: 217.28 (偏差 0.00%)
+  ✅ 通过 [47] 免税商品 · 2026H1毛利率                     报告:        36.89 %
+                                                    S2/S3 product tables; issuer single source: 36.89 (偏差 0.00%)
+  ✅ 通过 [48] 有税商品 · 2025收入（亿元）                    报告:       133.88
+                                                    S2/S3 product tables; issuer single source: 133.88 (偏差 0.00%)
+  ✅ 通过 [49] 有税商品 · 2025毛利率                       报告:        17.13 %
+                                                    S2/S3 product tables; issuer single source: 17.13 (偏差 0.00%)
+  ✅ 通过 [50] 有税商品 · 2026H1收入（亿元）                  报告:        51.22
+                                                    S2/S3 product tables; issuer single source: 51.22 (偏差 0.00%)
+  ✅ 通过 [51] 有税商品 · 2026H1毛利率                     报告:        15.05 %
+                                                    S2/S3 product tables; issuer single source: 15.05 (偏差 0.00%)
+  ✅ 通过 [52] 三亚市内免税店 · 总资产                        报告:       199.57
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 199.57 (偏差 0.00%)
+  ✅ 通过 [53] 三亚市内免税店 · 半年收入                       报告:       132.56
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 132.56 (偏差 0.00%)
+  ✅ 通过 [54] 三亚市内免税店 · 半年净利润                      报告:        14.67
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 14.67 (偏差 0.00%)
+  ✅ 通过 [55] 三亚市内免税店 · 简化净利率                      报告:        11.06 %
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 11.06 (偏差 0.00%)
+  ✅ 通过 [56] 海口免税城公司 · 总资产                        报告:       124.54
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 124.54 (偏差 0.00%)
+  ✅ 通过 [57] 海口免税城公司 · 半年收入                       报告:        36.66
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 36.66 (偏差 0.00%)
+  ✅ 通过 [58] 海口免税城公司 · 半年净利润                      报告:         0.11
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 0.11 (偏差 0.00%)
+  ✅ 通过 [59] 海口免税城公司 · 简化净利率                      报告:         0.30 %
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 0.30 (偏差 0.00%)
+  ✅ 通过 [60] 海免公司 · 总资产                           报告:        44.79
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 44.79 (偏差 0.00%)
+  ✅ 通过 [61] 海免公司 · 半年收入                          报告:        18.72
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 18.72 (偏差 0.00%)
+  ✅ 通过 [62] 海免公司 · 半年净利润                         报告:         0.67
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 0.67 (偏差 0.00%)
+  ✅ 通过 [63] 海免公司 · 简化净利率                         报告:         3.60 %
+                                                    S2 subsidiary table, converted from ten-thousand yuan; single source: 3.60 (偏差 0.00%)
+  ✅ 通过 [64] 货币资金 · 2025年末                        报告:       337.81
+                                                    S1 consolidated balance sheet; single source: 337.81 (偏差 0.00%)
+  ✅ 通过 [65] 货币资金 · 2026年9月末                      报告:       234.08
+                                                    S1 consolidated balance sheet; single source: 234.08 (偏差 0.00%)
+  ✅ 通过 [66] 存货 · 2025年末                          报告:       153.02
+                                                    S1 consolidated balance sheet; single source: 153.02 (偏差 0.00%)
+  ✅ 通过 [67] 存货 · 2026年9月末                        报告:       190.73
+                                                    S1 consolidated balance sheet; single source: 190.73 (偏差 0.00%)
+  ✅ 通过 [68] 应收账款 · 2025年末                        报告:         0.73
+                                                    S1 consolidated balance sheet; single source: 0.73 (偏差 0.00%)
+  ✅ 通过 [69] 应收账款 · 2026年9月末                      报告:         1.12
+                                                    S1 consolidated balance sheet; single source: 1.12 (偏差 0.00%)
+  ✅ 通过 [70] 应付账款 · 2025年末                        报告:        39.48
+                                                    S1 consolidated balance sheet; single source: 39.48 (偏差 0.00%)
+  ✅ 通过 [71] 应付账款 · 2026年9月末                      报告:        66.76
+                                                    S1 consolidated balance sheet; single source: 66.76 (偏差 0.00%)
+  ✅ 通过 [72] 使用权资产 · 2025年末                       报告:        14.29
+                                                    S1 consolidated balance sheet; single source: 14.29 (偏差 0.00%)
+  ✅ 通过 [73] 使用权资产 · 2026年9月末                     报告:        65.81
+                                                    S1 consolidated balance sheet; single source: 65.81 (偏差 0.00%)
+  ✅ 通过 [74] 租赁负债（非流动） · 2025年末                   报告:        11.62
+                                                    S1 consolidated balance sheet; single source: 11.62 (偏差 0.00%)
+  ✅ 通过 [75] 租赁负债（非流动） · 2026年9月末                 报告:        46.82
+                                                    S1 consolidated balance sheet; single source: 46.82 (偏差 0.00%)
+  ✅ 通过 [76] 一年内到期非流动负债 · 2025年末                  报告:         7.92
+                                                    S1 consolidated balance sheet; single source: 7.92 (偏差 0.00%)
+  ✅ 通过 [77] 一年内到期非流动负债 · 2026年9月末                报告:        25.69
+                                                    S1 consolidated balance sheet; single source: 25.69 (偏差 0.00%)
+  ✅ 通过 [78] 商誉 · 2025年末                          报告:         4.85
+                                                    S1 consolidated balance sheet; single source: 4.85 (偏差 0.00%)
+  ✅ 通过 [79] 商誉 · 2026年9月末                        报告:        12.69
+                                                    S1 consolidated balance sheet; single source: 12.69 (偏差 0.00%)
+  ✅ 通过 [81] TTM归母净利润 · 数值或A股                     报告:        42.04 亿元
+                                                    S1/S2/S3 TTM with current legal shares: 42.04 (偏差 0.00%)
+  ✅ 通过 [82] TTM扣非归母 · 数值或A股                      报告:        41.52 亿元
+                                                    S1/S2/S3 TTM with current legal shares: 41.52 (偏差 0.00%)
+  ✅ 通过 [83] 当前股本口径TTM EPS · 数值或A股                报告:         2.02
+                                                    S1/S2/S3 TTM with current legal shares: 2.02 (偏差 0.00%)
+  ✅ 通过 [84] 归母TTM PE · 数值或A股                     报告:        24.86 倍
+                                                    Current quotes and exact same-GAAP numerator/denominator: 24.86 (偏差 0.00%)
+  ✅ 通过 [85] 归母TTM PE · H股                        报告:        17.79 倍
+                                                    Current quotes and exact same-GAAP numerator/denominator: 17.79 (偏差 0.00%)
+  ✅ 通过 [86] 扣非TTM PE · 数值或A股                     报告:        25.17 倍
+                                                    Current quotes and exact same-GAAP numerator/denominator: 25.17 (偏差 0.00%)
+  ✅ 通过 [87] 扣非TTM PE · H股                        报告:        18.01 倍
+                                                    Current quotes and exact same-GAAP numerator/denominator: 18.01 (偏差 0.00%)
+  ✅ 通过 [88] PB · 数值或A股                           报告:         1.81 倍
+                                                    Current quotes and exact same-GAAP numerator/denominator: 1.81 (偏差 0.00%)
+  ✅ 通过 [89] PB · H股                              报告:         1.30 倍
+                                                    Current quotes and exact same-GAAP numerator/denominator: 1.30 (偏差 0.00%)
+  ✅ 通过 [90] 历史税前股息率 · 数值或A股                      报告:         1.39 %
+                                                    Current quotes and exact same-GAAP numerator/denominator: 1.39 (偏差 0.00%)
+  ✅ 通过 [91] 历史税前股息率 · H股                         报告:         1.94 %
+                                                    Current quotes and exact same-GAAP numerator/denominator: 1.94 (偏差 0.00%)
+  ✅ 通过 [92] 压力 · 第五年EPS（元）                       报告:         2.00
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 2.00 (偏差 0.00%)
+  ✅ 通过 [93] 压力 · A/H退出PE                         报告:        18.00
+                                                    Explicit A exit PE assumption; H values separately checked: 18.00 (偏差 0.00%)
+  ✅ 通过 [94] 压力 · 五年股息合计（元）                       报告:         4.00
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 4.00 (偏差 0.00%)
+  ✅ 通过 [95] 压力 · A退出价（元）                         报告:        35.97
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 35.97 (偏差 0.00%)
+  ✅ 通过 [96] 压力 · H退出价（港元）                        报告:        32.99
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 32.99 (偏差 0.00%)
+  ✅ 通过 [97] 压力 · A税前IRR                          报告:        -4.67 %
+                                                    Finite five-year distribution and exit model, not an outcome forecast: -4.67 (偏差 0.00%)
+  ✅ 通过 [98] 压力 · H税前IRR                          报告:        -2.46 %
+                                                    Finite five-year distribution and exit model, not an outcome forecast: -2.46 (偏差 0.00%)
+  ✅ 通过 [99] 基准 · 每股盈利年增长                         报告:         6.00 %
+                                                    Explicit growth assumption, not a financial fact: 6.00 (偏差 0.00%)
+  ✅ 通过 [100] 基准 · 第五年EPS（元）                       报告:         2.67
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 2.67 (偏差 0.00%)
+  ✅ 通过 [101] 基准 · A/H退出PE                         报告:        23.00
+                                                    Explicit A exit PE assumption; H values separately checked: 23.00 (偏差 0.00%)
+  ✅ 通过 [102] 基准 · 五年股息合计（元）                       报告:         4.78
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 4.78 (偏差 0.00%)
+  ✅ 通过 [103] 基准 · A退出价（元）                         报告:        61.50
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 61.50 (偏差 0.00%)
+  ✅ 通过 [104] 基准 · H退出价（港元）                        报告:        56.76
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 56.76 (偏差 0.00%)
+  ✅ 通过 [105] 基准 · A税前IRR                          报告:         5.85 %
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 5.85 (偏差 0.00%)
+  ✅ 通过 [106] 基准 · H税前IRR                          报告:         8.34 %
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 8.34 (偏差 0.00%)
+  ✅ 通过 [107] 乐观 · 每股盈利年增长                         报告:        12.00 %
+                                                    Explicit growth assumption, not a financial fact: 12.00 (偏差 0.00%)
+  ✅ 通过 [108] 乐观 · 第五年EPS（元）                       报告:         3.52
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 3.52 (偏差 0.00%)
+  ✅ 通过 [109] 乐观 · A/H退出PE                         报告:        28.00
+                                                    Explicit A exit PE assumption; H values separately checked: 28.00 (偏差 0.00%)
+  ✅ 通过 [110] 乐观 · 五年股息合计（元）                       报告:         5.69
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 5.69 (偏差 0.00%)
+  ✅ 通过 [111] 乐观 · A退出价（元）                         报告:        98.60
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 98.60 (偏差 0.00%)
+  ✅ 通过 [112] 乐观 · H退出价（港元）                        报告:        95.51
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 95.51 (偏差 0.00%)
+  ✅ 通过 [113] 乐观 · A税前IRR                          报告:        16.12 %
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 16.12 (偏差 0.00%)
+  ✅ 通过 [114] 乐观 · H税前IRR                          报告:        19.88 %
+                                                    Finite five-year distribution and exit model, not an outcome forecast: 19.88 (偏差 0.00%)
+  ✅ 通过 [117] 2023 · 营业收入                          报告:       675.40
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 675.40 (偏差 0.00%)
+  ✅ 通过 [118] 2023 · 归母净利润                         报告:        67.14
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 67.14 (偏差 0.00%)
+  ✅ 通过 [119] 2023 · 扣非归母                          报告:        66.52
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 66.52 (偏差 0.00%)
+  ✅ 通过 [120] 2023 · 经营现金流                         报告:       151.26
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 151.26 (偏差 0.00%)
+  ✅ 通过 [121] 2024 · 营业收入                          报告:       564.74
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 564.74 (偏差 0.00%)
+  ✅ 通过 [122] 2024 · 归母净利润                         报告:        42.67
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 42.67 (偏差 0.00%)
+  ✅ 通过 [123] 2024 · 扣非归母                          报告:        41.44
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 41.44 (偏差 0.00%)
+  ✅ 通过 [124] 2024 · 经营现金流                         报告:        79.39
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 79.39 (偏差 0.00%)
+  ✅ 通过 [125] 2025 · 营业收入                          报告:       536.94
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 536.94 (偏差 0.00%)
+  ✅ 通过 [126] 2025 · 归母净利润                         报告:        35.86
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 35.86 (偏差 0.00%)
+  ✅ 通过 [127] 2025 · 扣非归母                          报告:        35.44
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 35.44 (偏差 0.00%)
+  ✅ 通过 [128] 2025 · 经营现金流                         报告:        60.59
+                                                    S3 three-year primary table, S4 independent vendor cross-check: 60.59 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 125  |  通过: 125  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================

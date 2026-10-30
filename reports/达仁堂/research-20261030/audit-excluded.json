@@ -1,0 +1,74 @@
+[
+  {
+    "id": 58,
+    "label": "2025前三季度利润分配 · 状态",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "| 2025前三季度利润分配 | 2.45 | 年报确认2026年2月实施 |",
+    "line_number": 157,
+    "reason": "year/month/time or URL port; not a financial measure"
+  },
+  {
+    "id": 60,
+    "label": "2025年度末期分配 · 状态",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "| 2025年度末期分配 | 2.34 | A股实施公告列示2026年7月10日发放 |",
+    "line_number": 158,
+    "reason": "year/month/time or URL port; not a financial measure"
+  },
+  {
+    "id": 63,
+    "label": "TTM营业收入 · 口径",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| TTM营业收入 | 46.6528亿元 | 2025全年加2026前三季减2025前三季 |",
+    "line_number": 215,
+    "reason": "year/month/time or URL port; not a financial measure"
+  },
+  {
+    "id": 88,
+    "label": "研究日",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "研究日：2026年10月30日晚，Asia/Shanghai；财务截止2026年9月30日；股价采用10月30日收盘价。金额除注明外均为人民币。",
+    "line_number": 3,
+    "reason": "year/month/time or URL port; not a financial measure"
+  },
+  {
+    "id": 89,
+    "label": "ance.sina.com.cn/211.154.219.97",
+    "reported_value": 9494.0,
+    "unit": "",
+    "raw_text": "- [S1] [2026年第三季度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=1268462",
+    "line_number": 284,
+    "reason": "year/month/time or URL port; not a financial measure"
+  },
+  {
+    "id": 90,
+    "label": "hq.sinajs.cn/list=sh600329)",
+    "reported_value": 10.0,
+    "unit": "",
+    "raw_text": "- [S5] [腾讯行情](https://qt.gtimg.cn/q=sh600329)与[新浪行情](https://hq.sinajs.cn/list=sh600329)：10月30日收盘均40.30元，时间戳分别16:14:48及1",
+    "line_number": 288,
+    "reason": "year/month/time or URL port; not a financial measure"
+  },
+  {
+    "id": 91,
+    "label": "月30日收盘均40.30元，时间戳分别16",
+    "reported_value": 14.0,
+    "unit": "",
+    "raw_text": "- [S5] [腾讯行情](https://qt.gtimg.cn/q=sh600329)与[新浪行情](https://hq.sinajs.cn/list=sh600329)：10月30日收盘均40.30元，时间戳分别16:14:48及1",
+    "line_number": 288,
+    "reason": "year/month/time or URL port; not a financial measure"
+  },
+  {
+    "id": 92,
+    "label": "及15",
+    "reported_value": 34.0,
+    "unit": "",
+    "raw_text": "- [S5] [腾讯行情](https://qt.gtimg.cn/q=sh600329)与[新浪行情](https://hq.sinajs.cn/list=sh600329)：10月30日收盘均40.30元，时间戳分别16:14:48及1",
+    "line_number": 288,
+    "reason": "year/month/time or URL port; not a financial measure"
+  }
+]

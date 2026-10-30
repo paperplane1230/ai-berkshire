@@ -1,0 +1,31 @@
+{
+  "report_sha256": "da6ab83018fe710ee728fc9a5316a1c61a105ebe3c2f2276b17558b89b653d12",
+  "tool_extracted": 116,
+  "excluded": 3,
+  "supplemented_annual": 12,
+  "effective_table_population": 125,
+  "seed": 20261030,
+  "random_count": 19,
+  "random_coverage_pct": 15.2,
+  "focused_count": 16,
+  "total_sample_and_focused": 35,
+  "verdict": {
+    "verdict": "PASS",
+    "pass_count": 35,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 35,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "full_table_verdict": {
+    "verdict": "PASS",
+    "pass_count": 125,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 125,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limits": "Recognized/supplemented financial tables; prose separately directed, not a claim of exhaustive all-prose extraction. Model inputs are not financial facts. Display precision is applied and unrounded values retained."
+}

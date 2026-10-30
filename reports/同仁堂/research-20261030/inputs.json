@@ -1,0 +1,29 @@
+{
+  "cutoff":"2026-10-30",
+  "price":"25.07", "shares":"1371470262", "reported_cap_yi":"343.83", "dividend_2025":"0.50",
+  "source_note":"Amounts in CNY. Primary: 2026Q3, 2026H1, 2025 annual issuer filings. 2023 figures and 2025YTD/2025H1 adjusted profit use disclosed CNY10000 tables, with CNY100 precision. Other adjusted profits can be reconstructed from parent profit minus non-recurring net gains. Vendor rounding differences are retained, not falsely called exact matches.",
+  "periods":{
+    "2023":{"revenue":"17860891500","profit":"1668834500","core":"1656602900","ocf":"1869491900"},
+    "2024":{"revenue":"18597281604.93","profit":"1526274925.98","core":"1481763629.23","ocf":"760985272.75","capex":"519551438.55"},
+    "2025":{"revenue":"17256185123.82","profit":"1189374356.88","core":"1147271927.04","ocf":"2692870707.26","capex":"357297923.48"},
+    "2026YTD":{"revenue":"11058872294.71","profit":"865730000.35","core":"842325520.30","group_profit":"1057214090.30","cost":"6484800614.24","operating":"1346086598.42","pbt":"1344607556.86","ocf":"1874891130.49","capex":"204586341.80","sales":"2064415814.33","admin":"957195476.93","rd":"197753343.82"},
+    "2025YTD":{"revenue":"13307914800.27","profit":"1177555845.30","core":"1162670100","group_profit":"1592954358.95","cost":"7470801785.05","operating":"1962908838.57","pbt":"1959146039.93","ocf":"1987863432.81","capex":"246061106.82","sales":"2612170539.26","admin":"1025689404.86","rd":"142929833.87"},
+    "2026H1":{"revenue":"8379065189.49","profit":"726191685.62","core":"713301794.56","group_profit":"935337499.58","cost":"4828823752.05","operating":"1180962994.97","pbt":"1179576245.54","ocf":"1727991763.46","capex":"111350964.15","sales":"1552245109.41","admin":"632710099.42","rd":"126939961.23"},
+    "2025H1":{"revenue":"9768898092.75","profit":"945498880.63","core":"942321200","group_profit":"1335168195.80","cost":"5442697914.63","operating":"1613873249.02","pbt":"1612573987.63","ocf":"1953135869.64","capex":"143514871.47","sales":"1857407575.14","admin":"686956775.27","rd":"90764225"}
+  },
+  "balance":{
+    "current":{"cash":"9752315067.98","cce":"9597676157.41","trading":"1120283691.66","ar":"1361342966.48","inventory":"9431959733.85","short_debt":"129019138.88","long_debt":"1005060614.72","current_noncurrent":"1005363193.64","lease":"990649300.68","assets":"29298128368.18","equity":"13741533375.04","minority_equity":"7506626419.40","goodwill":"43421633.98","intangibles":"752950233.10","payables":"2717057731.07","contract":"319720140.85"},
+    "opening":{"cash":"10878090468.95","cce":"10718859867.81","trading":"120374506.34","ar":"1000653312.45","inventory":"10616654736.44","short_debt":"115060791.67","long_debt":"1460334426.15","current_noncurrent":"953025994.31","lease":"1081105384.29","payables":"3139487483.01","contract":"398898585.12"}
+  },
+  "business":{
+    "h1_industrial_revenue":"5504009500","h1_commercial_revenue":"4887103900","h1_other_revenue":"69934900","h1_elimination":"2127300600","h1_main_revenue":"8333747700",
+    "h1_industrial_margin":"42.52","h1_commercial_margin":"25.19","annual_industrial_revenue":"10717829700","annual_commercial_revenue":"10477753800","annual_industrial_margin":"43.23","annual_commercial_margin":"27.23",
+    "technology_h1_revenue":"3024460600","technology_h1_profit":"351499700","commercial_h1_revenue":"4503377700","commercial_h1_profit":"57718800","guoyao_h1_revenue":"530154800","guoyao_h1_profit":"176874500",
+    "technology_stake":"46.85","commercial_stake":"51.98","guoyao_direct":"33.62","guoyao_technology":"38.05","stores":"1243","stores_opened":"6","stores_closed":"42","inventory_release_h1":"1164658045.22","lease_cash_h1":"308166573.63","minority_dividend_ytd":"312835647.07"
+  },
+  "scenarios":[
+    {"name":"bear","growth":"-0.03","payout":"0.60","exit_pe":"18"},
+    {"name":"base","growth":"0.08","payout":"0.60","exit_pe":"24"},
+    {"name":"bull","growth":"0.15","payout":"0.60","exit_pe":"30"}
+  ]
+}

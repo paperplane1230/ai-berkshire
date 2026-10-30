@@ -1,0 +1,42 @@
+[
+  {
+    "id": 68,
+    "label": "保持股东回报 · 可见结果",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 保持股东回报 | 2025年度现金分红已安排实施 | 不能据此保证未来盈利下滑时每股派息不变 |",
+    "line_number": 173
+  },
+  {
+    "id": 94,
+    "label": "研究日",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "研究日：2026年10月30日晚，Asia/Shanghai；财务截止2026年9月30日；股价采用10月30日收盘价。金额除注明外均为人民币亿元。",
+    "line_number": 3
+  },
+  {
+    "id": 95,
+    "label": "php?stockid=600085&id=12684555)",
+    "reported_value": 11.0,
+    "unit": "",
+    "raw_text": "- [S7] [2026年第三季度业绩说明会安排](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600085&id=12",
+    "line_number": 289
+  },
+  {
+    "id": 96,
+    "label": "hq.sinajs.cn/list=sh600085)",
+    "reported_value": 10.0,
+    "unit": "",
+    "raw_text": "- [S8] [腾讯行情](https://qt.gtimg.cn/q=sh600085)及[新浪行情](https://hq.sinajs.cn/list=sh600085)：10月30日分别为16:14:42、15:34:59快照，两源",
+    "line_number": 290
+  },
+  {
+    "id": 97,
+    "label": "月30日分别为16",
+    "reported_value": 14.0,
+    "unit": "",
+    "raw_text": "- [S8] [腾讯行情](https://qt.gtimg.cn/q=sh600085)及[新浪行情](https://hq.sinajs.cn/list=sh600085)：10月30日分别为16:14:42、15:34:59快照，两源",
+    "line_number": 290
+  }
+]
