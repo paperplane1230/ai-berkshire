@@ -1,0 +1,23 @@
+{
+  "price":"40.30","shares":"770094356","a_shares":"570094356","s_shares":"200000000","vendor_a_equivalent_cap":"31035000000",
+  "dividends":{"2025_interim":"2.45","2025_final":"2.34"},
+  "periods":{
+    "2026YTD":{"revenue":"3417807631.04","profit":"916830918.86","core":"911873005.05","cfo":"856025942.44","capex":"78497212.27","cost":"813610710.74","operating":"1062910019.01","pbt":"1060567889.10","sales":"1025999981.69","management":"328166692.40","research":"124761874.37","investment":"52977632.64"},
+    "2025YTD":{"revenue":"3669861317.00","profit":"2152182184.52","core":"818129657.48","cfo":"590329947.27","capex":"62879230.49","cost":"918089875.04","operating":"2522594956.81","pbt":"2520210723.80","sales":"1417152955.84","management":"303786560.05","research":"104621728.78","investment":"1627783782.27"},
+    "2026H1":{"revenue":"2454590636.50","profit":"644747359.84","core":"640560969.95","cfo":"832090265.76","capex":"35417271.07","cost":"588593462.57","operating":"754000934.04","pbt":"752341094.05","sales":"798630227.55","management":"198293793.77","research":"79953039.88","investment":"49271981.53"},
+    "2025H1":{"revenue":"2650519061.55","profit":"1927622964.41","core":"596244037.42","cfo":"487741377.69","capex":"41815151.60","cost":"671309109.12","operating":"2269618315.14","pbt":"2267022653.76","sales":"1020544315.65","management":"185737563.74","research":"61552325.35","investment":"1607744403.94"},
+    "2025":{"revenue":"4917335979.38","profit":"2131021536.79","core":"795305030.46","cfo":"461065773.21","capex":"118612858.88","cost":"1277410417.93"},
+    "2024":{"revenue":"7306736058.69","profit":"2229334236.14","core":"746374980.19","cfo":"924672004.13"},
+    "2023":{"revenue":"8222311849.05","profit":"986707377.83","core":"952294815.93","cfo":"688487880.39"}
+  },
+  "balance":{
+    "cash":"1314441281.64","cash_previous":"1016426875.22","cash_equivalents":"1311957438.67","receivables":"878070921.11","receivables_previous":"973204123.53","notes_receivable":"229357359.66","receivable_financing":"317912193.83","inventory":"1140528511.86","inventory_previous":"1132967879.44","short_loan":"86025869.65","current_noncurrent_debt":"4084694.63","lease":"4799796.98","long_payables":"30532473.38","current_noncurrent_assets":"310638490.84","other_current_assets":"205293207.54","other_noncurrent_assets":"1182883149.16","long_investments":"1194463768.98","other_payables":"1566793396.07","other_payables_previous":"3682905920.46","dividend_payable":"50416788.61","dividend_payable_previous":"1918117782.26","equity":"6215025635.71","assets":"8734001357.80","liabilities":"2522627606.09","intangibles":"303381282.38","goodwill":"0"},
+  "annual_segments":{"industrial":"4771793196.97","trade":"145542782.41","tcm":"4461169940.82","western":"89939197.86","other":"366226840.70"},
+  "cash_note":{"dividend_interest_paid":"3662069996.03","investment_recovered":"5172594124.45","investment_paid":"2065000000.00"},
+  "scenarios":[
+    {"name":"bear","growth":"0","payout":"0.70","exit_pe":"20"},
+    {"name":"base","growth":"0.08","payout":"0.75","exit_pe":"28"},
+    {"name":"bull","growth":"0.12","payout":"0.80","exit_pe":"32"}
+  ],
+  "sources":{"q3":"https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12684629","h1":"https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12495831","annual":"https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12039933","dividend":"https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12428364"}
+}

@@ -1,8 +1,41 @@
 {
-  "count": 2495,
-  "published": 2283,
+  "count": 2498,
+  "published": 2286,
   "drafts": 212,
   "reports": [
+    {
+      "title": "达仁堂（600329）研究报告",
+      "path": "reports/达仁堂/达仁堂研究报告-20261030.md",
+      "bucket": "公司",
+      "group": "达仁堂",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "同仁堂（600085）研究报告",
+      "path": "reports/同仁堂/同仁堂研究报告-20261030.md",
+      "bucket": "公司",
+      "group": "同仁堂",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中国中免（601888.SH / 01880.HK）研究报告",
+      "path": "reports/中国中免/中国中免研究报告-20261030.md",
+      "bucket": "公司",
+      "group": "中国中免",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "海天味业（603288.SH / 03288.HK）研究报告",
       "path": "reports/海天味业/海天味业研究报告-20261029.md",

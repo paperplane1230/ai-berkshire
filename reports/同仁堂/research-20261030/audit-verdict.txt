@@ -1,0 +1,298 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：同仁堂研究报告-20261030.md fixed-seed sample
+======================================================================
+
+  ✅ 通过 [ 5] 归母净利润 · 2025累计                       报告:        11.78
+                                                    S1/S2 consolidated statement or same-period difference: 11.78 (偏差 0.00%)
+  ✅ 通过 [16] 营业利润 · 2026单Q3                       报告:         1.65
+                                                    S1/S2 consolidated statement or same-period difference: 1.65 (偏差 0.00%)
+  ✅ 通过 [29] 简化自由现金流 · 2025累计                     报告:        17.42
+                                                    S1/S2 consolidated statement or same-period difference: 17.42 (偏差 0.00%)
+  ✅ 通过 [34] 医药工业 · 毛利率                           报告:        42.52 %
+                                                    S2 industry table; single issuer source: 42.52 (偏差 0.00%)
+  ✅ 通过 [35] 医药工业 · 收入同比                          报告:       -16.12 %
+                                                    S2 industry table; single issuer source: -16.12 (偏差 0.00%)
+  ✅ 通过 [37] 医药商业 · 毛利率                           报告:        25.19 %
+                                                    S2 industry table; single issuer source: 25.19 (偏差 0.00%)
+  ✅ 通过 [43] 主营合计 · 上半年收入                         报告:        83.34
+                                                    S2 industry table; single issuer source: 83.34 (偏差 0.00%)
+  ✅ 通过 [44] 主营合计 · 毛利率                           报告:        42.21 %
+                                                    S2 industry table; single issuer source: 42.21 (偏差 0.00%)
+  ✅ 通过 [53] 交易性金融资产 · 2025年末                     报告:         1.20
+                                                    S1 consolidated balance sheet: 1.20 (偏差 0.00%)
+  ✅ 通过 [67] 推进原料与质量研究 · 可见结果                     报告:        38.36 %
+                                                    S1 same-period R&D expense growth: 38.36 (偏差 0.01%)
+  ✅ 通过 [71] TTM扣非归母 · 数值                         报告:         8.27 亿元
+                                                    S1+S3 annual-minus-prior-YTD formula: 8.27 (偏差 0.00%)
+  ✅ 通过 [73] 归母TTM PE · 数值                        报告:        39.18 倍
+                                                    Current registered shares and TTM, not weighted historical EPS: 39.18 (偏差 0.00%)
+  ✅ 通过 [77] 压力 · 第五年EPS（元）                       报告:         0.52
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 0.52 (偏差 0.01%)
+  ✅ 通过 [83] 基准恢复 · 第五年EPS（元）                     报告:         0.89
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 0.89 (偏差 0.00%)
+  ✅ 通过 [101] 2023 · 归母净利润                         报告:        16.69
+                                                    S3 annual comparison table; source precision preserved: 16.69 (偏差 0.00%)
+  ✅ 通过 [109] 2025 · 归母净利润                         报告:        11.89
+                                                    S3 annual comparison table; source precision preserved: 11.89 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 16  |  通过: 16  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：同仁堂研究报告-20261030.md recognized tables and directed facts
+======================================================================
+
+  ✅ 通过 [ 1] 营业收入 · 2025累计                        报告:       133.08
+                                                    S1/S2 consolidated statement or same-period difference: 133.08 (偏差 0.00%)
+  ✅ 通过 [ 2] 营业收入 · 2026累计                        报告:       110.59
+                                                    S1/S2 consolidated statement or same-period difference: 110.59 (偏差 0.00%)
+  ✅ 通过 [ 3] 营业收入 · 2025单Q3                       报告:        35.39
+                                                    S1/S2 consolidated statement or same-period difference: 35.39 (偏差 0.00%)
+  ✅ 通过 [ 4] 营业收入 · 2026单Q3                       报告:        26.80
+                                                    S1/S2 consolidated statement or same-period difference: 26.80 (偏差 0.00%)
+  ✅ 通过 [ 5] 归母净利润 · 2025累计                       报告:        11.78
+                                                    S1/S2 consolidated statement or same-period difference: 11.78 (偏差 0.00%)
+  ✅ 通过 [ 6] 归母净利润 · 2026累计                       报告:         8.66
+                                                    S1/S2 consolidated statement or same-period difference: 8.66 (偏差 0.00%)
+  ✅ 通过 [ 7] 归母净利润 · 2025单Q3                      报告:         2.32
+                                                    S1/S2 consolidated statement or same-period difference: 2.32 (偏差 0.00%)
+  ✅ 通过 [ 8] 归母净利润 · 2026单Q3                      报告:         1.40
+                                                    S1/S2 consolidated statement or same-period difference: 1.40 (偏差 0.00%)
+  ✅ 通过 [ 9] 扣非归母 · 2025累计                        报告:        11.63
+                                                    S1/S2 consolidated statement or same-period difference: 11.63 (偏差 0.00%)
+  ✅ 通过 [10] 扣非归母 · 2026累计                        报告:         8.42
+                                                    S1/S2 consolidated statement or same-period difference: 8.42 (偏差 0.00%)
+  ✅ 通过 [11] 扣非归母 · 2025单Q3                       报告:         2.20
+                                                    S1/S2 consolidated statement or same-period difference: 2.20 (偏差 0.00%)
+  ✅ 通过 [12] 扣非归母 · 2026单Q3                       报告:         1.29
+                                                    S1/S2 consolidated statement or same-period difference: 1.29 (偏差 0.00%)
+  ✅ 通过 [13] 营业利润 · 2025累计                        报告:        19.63
+                                                    S1/S2 consolidated statement or same-period difference: 19.63 (偏差 0.00%)
+  ✅ 通过 [14] 营业利润 · 2026累计                        报告:        13.46
+                                                    S1/S2 consolidated statement or same-period difference: 13.46 (偏差 0.00%)
+  ✅ 通过 [15] 营业利润 · 2025单Q3                       报告:         3.49
+                                                    S1/S2 consolidated statement or same-period difference: 3.49 (偏差 0.00%)
+  ✅ 通过 [16] 营业利润 · 2026单Q3                       报告:         1.65
+                                                    S1/S2 consolidated statement or same-period difference: 1.65 (偏差 0.00%)
+  ✅ 通过 [17] 合并净利润 · 2025累计                       报告:        15.93
+                                                    S1/S2 consolidated statement or same-period difference: 15.93 (偏差 0.00%)
+  ✅ 通过 [18] 合并净利润 · 2026累计                       报告:        10.57
+                                                    S1/S2 consolidated statement or same-period difference: 10.57 (偏差 0.00%)
+  ✅ 通过 [19] 合并净利润 · 2025单Q3                      报告:         2.58
+                                                    S1/S2 consolidated statement or same-period difference: 2.58 (偏差 0.00%)
+  ✅ 通过 [20] 合并净利润 · 2026单Q3                      报告:         1.22
+                                                    S1/S2 consolidated statement or same-period difference: 1.22 (偏差 0.00%)
+  ✅ 通过 [21] 经营现金流 · 2025累计                       报告:        19.88
+                                                    S1/S2 consolidated statement or same-period difference: 19.88 (偏差 0.00%)
+  ✅ 通过 [22] 经营现金流 · 2026累计                       报告:        18.75
+                                                    S1/S2 consolidated statement or same-period difference: 18.75 (偏差 0.00%)
+  ✅ 通过 [23] 经营现金流 · 2025单Q3                      报告:         0.35
+                                                    S1/S2 consolidated statement or same-period difference: 0.35 (偏差 0.01%)
+  ✅ 通过 [24] 经营现金流 · 2026单Q3                      报告:         1.47
+                                                    S1/S2 consolidated statement or same-period difference: 1.47 (偏差 0.00%)
+  ✅ 通过 [25] 资本开支付现 · 2025累计                      报告:         2.46
+                                                    S1/S2 consolidated statement or same-period difference: 2.46 (偏差 0.00%)
+  ✅ 通过 [26] 资本开支付现 · 2026累计                      报告:         2.05
+                                                    S1/S2 consolidated statement or same-period difference: 2.05 (偏差 0.00%)
+  ✅ 通过 [27] 资本开支付现 · 2025单Q3                     报告:         1.03
+                                                    S1/S2 consolidated statement or same-period difference: 1.03 (偏差 0.00%)
+  ✅ 通过 [28] 资本开支付现 · 2026单Q3                     报告:         0.93
+                                                    S1/S2 consolidated statement or same-period difference: 0.93 (偏差 0.00%)
+  ✅ 通过 [29] 简化自由现金流 · 2025累计                     报告:        17.42
+                                                    S1/S2 consolidated statement or same-period difference: 17.42 (偏差 0.00%)
+  ✅ 通过 [30] 简化自由现金流 · 2026累计                     报告:        16.70
+                                                    S1/S2 consolidated statement or same-period difference: 16.70 (偏差 0.00%)
+  ✅ 通过 [31] 简化自由现金流 · 2025单Q3                    报告:        -0.68
+                                                    S1/S2 consolidated statement or same-period difference: -0.68 (偏差 0.00%)
+  ✅ 通过 [32] 简化自由现金流 · 2026单Q3                    报告:         0.54
+                                                    S1/S2 consolidated statement or same-period difference: 0.54 (偏差 0.01%)
+  ✅ 通过 [33] 医药工业 · 上半年收入                         报告:        55.04
+                                                    S2 industry table; single issuer source: 55.04 (偏差 0.00%)
+  ✅ 通过 [34] 医药工业 · 毛利率                           报告:        42.52 %
+                                                    S2 industry table; single issuer source: 42.52 (偏差 0.00%)
+  ✅ 通过 [35] 医药工业 · 收入同比                          报告:       -16.12 %
+                                                    S2 industry table; single issuer source: -16.12 (偏差 0.00%)
+  ✅ 通过 [36] 医药商业 · 上半年收入                         报告:        48.87
+                                                    S2 industry table; single issuer source: 48.87 (偏差 0.00%)
+  ✅ 通过 [37] 医药商业 · 毛利率                           报告:        25.19 %
+                                                    S2 industry table; single issuer source: 25.19 (偏差 0.00%)
+  ✅ 通过 [38] 医药商业 · 收入同比                          报告:       -19.28 %
+                                                    S2 industry table; single issuer source: -19.28 (偏差 0.00%)
+  ✅ 通过 [39] 其他行业 · 上半年收入                         报告:         0.70
+                                                    S2 industry table; single issuer source: 0.70 (偏差 0.01%)
+  ✅ 通过 [40] 其他行业 · 毛利率                           报告:         6.99 %
+                                                    S2 industry table; single issuer source: 6.99 (偏差 0.00%)
+  ✅ 通过 [41] 其他行业 · 收入同比                          报告:        57.41 %
+                                                    S2 industry table; single issuer source: 57.41 (偏差 0.00%)
+  ✅ 通过 [42] 行业间抵销 · 上半年收入                        报告:       -21.27
+                                                    S2 industry elimination, not standalone sales: -21.27 (偏差 0.00%)
+  ✅ 通过 [43] 主营合计 · 上半年收入                         报告:        83.34
+                                                    S2 industry table; single issuer source: 83.34 (偏差 0.00%)
+  ✅ 通过 [44] 主营合计 · 毛利率                           报告:        42.21 %
+                                                    S2 industry table; single issuer source: 42.21 (偏差 0.00%)
+  ✅ 通过 [45] 主营合计 · 收入同比                          报告:       -14.22 %
+                                                    S2 industry table; single issuer source: -14.22 (偏差 0.00%)
+  ✅ 通过 [46] 同仁堂科技（01666） · 600085直接持股            报告:        46.85 %
+                                                    S2 subsidiaries and control note: 46.85 (偏差 0.00%)
+  ✅ 通过 [47] 同仁堂商业 · 600085直接持股                   报告:        51.98 %
+                                                    S2 subsidiary ownership: 51.98 (偏差 0.00%)
+  ✅ 通过 [48] 同仁堂国药（03613） · 600085直接持股            报告:        33.62 %
+                                                    S2 direct and indirect stake, multiplied not simply added: 33.62 (偏差 0.00%)
+  ✅ 通过 [49] 同仁堂国药（03613） · 其他合并层级持股              报告:        38.05 %
+                                                    S2 direct and indirect stake, multiplied not simply added: 38.05 (偏差 0.00%)
+  ✅ 通过 [50] 同仁堂国药（03613） · 对投资者的含义               报告:        51.45 %
+                                                    S2 direct and indirect stake, multiplied not simply added: 51.45 (偏差 0.01%)
+  ✅ 通过 [51] 货币资金 · 2025年末                        报告:       108.78
+                                                    S1 consolidated balance sheet: 108.78 (偏差 0.00%)
+  ✅ 通过 [52] 货币资金 · 2026年9月末                      报告:        97.52
+                                                    S1 consolidated balance sheet: 97.52 (偏差 0.00%)
+  ✅ 通过 [53] 交易性金融资产 · 2025年末                     报告:         1.20
+                                                    S1 consolidated balance sheet: 1.20 (偏差 0.00%)
+  ✅ 通过 [54] 交易性金融资产 · 2026年9月末                   报告:        11.20
+                                                    S1 consolidated balance sheet: 11.20 (偏差 0.00%)
+  ✅ 通过 [55] 应收账款 · 2025年末                        报告:        10.01
+                                                    S1 consolidated balance sheet: 10.01 (偏差 0.00%)
+  ✅ 通过 [56] 应收账款 · 2026年9月末                      报告:        13.61
+                                                    S1 consolidated balance sheet: 13.61 (偏差 0.00%)
+  ✅ 通过 [57] 应收账款 · 阅读重点                          报告:        36.05 %
+                                                    S1 current versus opening AR, not year-on-year: 36.05 (偏差 0.01%)
+  ✅ 通过 [58] 存货 · 2025年末                          报告:       106.17
+                                                    S1 consolidated balance sheet: 106.17 (偏差 0.00%)
+  ✅ 通过 [59] 存货 · 2026年9月末                        报告:        94.32
+                                                    S1 consolidated balance sheet: 94.32 (偏差 0.00%)
+  ✅ 通过 [60] 列示借款及租赁相关负债 · 2025年末                 报告:        36.10
+                                                    S1 named debt scope, including current noncurrent liabilities: 36.10 (偏差 0.00%)
+  ✅ 通过 [61] 列示借款及租赁相关负债 · 2026年9月末               报告:        31.30
+                                                    S1 named debt scope, including current noncurrent liabilities: 31.30 (偏差 0.00%)
+  ✅ 通过 [62] 应付账款 · 2025年末                        报告:        31.39
+                                                    S1 consolidated balance sheet: 31.39 (偏差 0.00%)
+  ✅ 通过 [63] 应付账款 · 2026年9月末                      报告:        27.17
+                                                    S1 consolidated balance sheet: 27.17 (偏差 0.00%)
+  ✅ 通过 [64] 合同负债 · 2025年末                        报告:         3.99
+                                                    S1 consolidated balance sheet: 3.99 (偏差 0.00%)
+  ✅ 通过 [65] 合同负债 · 2026年9月末                      报告:         3.20
+                                                    S1 consolidated balance sheet: 3.20 (偏差 0.00%)
+  ✅ 通过 [66] 精准营销、优化销售费用 · 可见结果                   报告:        20.97 %
+                                                    S1 same-period sales expense decline: 20.97 (偏差 0.00%)
+  ✅ 通过 [67] 推进原料与质量研究 · 可见结果                     报告:        38.36 %
+                                                    S1 same-period R&D expense growth: 38.36 (偏差 0.01%)
+  ✅ 通过 [69] TTM营业收入 · 数值                         报告:       150.07 亿元
+                                                    S1+S3 annual-minus-prior-YTD formula: 150.07 (偏差 0.00%)
+  ✅ 通过 [70] TTM归母净利润 · 数值                        报告:         8.78 亿元
+                                                    S1+S3 annual-minus-prior-YTD formula: 8.78 (偏差 0.00%)
+  ✅ 通过 [71] TTM扣非归母 · 数值                         报告:         8.27 亿元
+                                                    S1+S3 annual-minus-prior-YTD formula: 8.27 (偏差 0.00%)
+  ✅ 通过 [72] 当前股本口径TTM扣非EPS · 数值                  报告:         0.60
+                                                    Current registered shares and TTM, not weighted historical EPS: 0.60 (偏差 0.01%)
+  ✅ 通过 [73] 归母TTM PE · 数值                        报告:        39.18 倍
+                                                    Current registered shares and TTM, not weighted historical EPS: 39.18 (偏差 0.00%)
+  ✅ 通过 [74] 扣非TTM PE · 数值                        报告:        41.58 倍
+                                                    Current registered shares and TTM, not weighted historical EPS: 41.58 (偏差 0.00%)
+  ✅ 通过 [75] TTM简化自由现金流 · 数值                      报告:        22.64 亿元
+                                                    S1+S3 annual-minus-prior-YTD formula: 22.64 (偏差 0.00%)
+  ✅ 通过 [76] 压力 · 每股盈利年增速                         报告:        -3.00 %
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: -3.00 (偏差 0.00%)
+  ✅ 通过 [77] 压力 · 第五年EPS（元）                       报告:         0.52
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 0.52 (偏差 0.01%)
+  ✅ 通过 [78] 压力 · 退出PE                            报告:        18.00 倍
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 18.00 (偏差 0.00%)
+  ✅ 通过 [79] 压力 · 第五年价格（元）                        报告:         9.32
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 9.32 (偏差 0.00%)
+  ✅ 通过 [80] 压力 · 五年股息合计（元）                       报告:         1.65
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 1.65 (偏差 0.15%)
+  ✅ 通过 [81] 压力 · 税前年化IRR                         报告:       -15.96 %
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: -15.96 (偏差 0.00%)
+  ✅ 通过 [82] 基准恢复 · 每股盈利年增速                       报告:         8.00 %
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 8.00 (偏差 0.00%)
+  ✅ 通过 [83] 基准恢复 · 第五年EPS（元）                     报告:         0.89
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 0.89 (偏差 0.00%)
+  ✅ 通过 [84] 基准恢复 · 退出PE                          报告:        24.00 倍
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 24.00 (偏差 0.00%)
+  ✅ 通过 [85] 基准恢复 · 第五年价格（元）                      报告:        21.26
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 21.26 (偏差 0.01%)
+  ✅ 通过 [86] 基准恢复 · 五年股息合计（元）                     报告:         2.29
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 2.29 (偏差 0.09%)
+  ✅ 通过 [87] 基准恢复 · 税前年化IRR                       报告:        -1.28 %
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: -1.28 (偏差 0.35%)
+  ✅ 通过 [88] 较强恢复 · 每股盈利年增速                       报告:        15.00 %
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 15.00 (偏差 0.00%)
+  ✅ 通过 [89] 较强恢复 · 第五年EPS（元）                     报告:         1.21
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 1.21 (偏差 0.00%)
+  ✅ 通过 [90] 较强恢复 · 退出PE                          报告:        30.00 倍
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 30.00 (偏差 0.00%)
+  ✅ 通过 [91] 较强恢复 · 第五年价格（元）                      报告:        36.38
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 36.38 (偏差 0.01%)
+  ✅ 通过 [92] 较强恢复 · 五年股息合计（元）                     报告:         2.81
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 2.81 (偏差 0.18%)
+  ✅ 通过 [93] 较强恢复 · 税前年化IRR                       报告:         9.63 %
+                                                    Explicit finite-horizon cash-flow model; not externally verified forecast: 9.63 (偏差 0.03%)
+  ✅ 通过 [100] 2023 · 营业收入                          报告:       178.61
+                                                    S3 annual comparison table; source precision preserved: 178.61 (偏差 0.00%)
+  ✅ 通过 [101] 2023 · 归母净利润                         报告:        16.69
+                                                    S3 annual comparison table; source precision preserved: 16.69 (偏差 0.00%)
+  ✅ 通过 [102] 2023 · 扣非归母                          报告:        16.57
+                                                    S3 annual comparison table; source precision preserved: 16.57 (偏差 0.00%)
+  ✅ 通过 [103] 2023 · 经营现金流                         报告:        18.69
+                                                    S3 annual comparison table; source precision preserved: 18.69 (偏差 0.00%)
+  ✅ 通过 [104] 2024 · 营业收入                          报告:       185.97
+                                                    S3 annual comparison table; source precision preserved: 185.97 (偏差 0.00%)
+  ✅ 通过 [105] 2024 · 归母净利润                         报告:        15.26
+                                                    S3 annual comparison table; source precision preserved: 15.26 (偏差 0.00%)
+  ✅ 通过 [106] 2024 · 扣非归母                          报告:        14.82
+                                                    S3 annual comparison table; source precision preserved: 14.82 (偏差 0.00%)
+  ✅ 通过 [107] 2024 · 经营现金流                         报告:         7.61
+                                                    S3 annual comparison table; source precision preserved: 7.61 (偏差 0.00%)
+  ✅ 通过 [108] 2025 · 营业收入                          报告:       172.56
+                                                    S3 annual comparison table; source precision preserved: 172.56 (偏差 0.00%)
+  ✅ 通过 [109] 2025 · 归母净利润                         报告:        11.89
+                                                    S3 annual comparison table; source precision preserved: 11.89 (偏差 0.00%)
+  ✅ 通过 [110] 2025 · 扣非归母                          报告:        11.47
+                                                    S3 annual comparison table; source precision preserved: 11.47 (偏差 0.00%)
+  ✅ 通过 [111] 2025 · 经营现金流                         报告:        26.93
+                                                    S3 annual comparison table; source precision preserved: 26.93 (偏差 0.00%)
+  ✅ 通过 [1000] 当日收盘价                                报告:        25.07 as described in report
+                                                    S8 Tencent and Sina 2026-10-30 both 25.07: 25.07 (偏差 0.00%)
+  ✅ 通过 [1001] 股本亿股                                 报告:        13.71 as described in report
+                                                    S1 consolidated balance sheet; not cap divided by price: 13.71 (偏差 0.00%)
+  ✅ 通过 [1002] 市值亿元                                 报告:       343.83 as described in report
+                                                    S1 shares times S8 same-day close: 343.83 (偏差 0.00%)
+  ✅ 通过 [1003] 历史派息元                                报告:         0.50 as described in report
+                                                    S5 implementation announcement, not future promise: 0.50 (偏差 0.00%)
+  ✅ 通过 [1004] 历史股息率                                报告:         1.99 as described in report
+                                                    S5 dividend divided by current S8 price: 1.99 (偏差 0.22%)
+  ✅ 通过 [1005] 单Q3收入同比                              报告:       -24.28 as described in report
+                                                    S1 direct disclosed rate and unrounded difference: -24.28 (偏差 0.01%)
+  ✅ 通过 [1006] 单Q3归母同比                              报告:       -39.87 as described in report
+                                                    S1 direct disclosed rate and unrounded difference: -39.87 (偏差 0.00%)
+  ✅ 通过 [1007] 单Q3扣非同比                              报告:       -41.45 as described in report
+                                                    S1 direct disclosed rate; source rounding below report precision: -41.45 (偏差 0.01%)
+  ✅ 通过 [1008] Q3当前毛利率                              报告:        38.21 as described in report
+                                                    S1-S2 revenue and costs: 38.21 (偏差 0.01%)
+  ✅ 通过 [1009] Q3上年毛利率                              报告:        42.69 as described in report
+                                                    S1-S2 latest comparatives: 42.69 (偏差 0.01%)
+  ✅ 通过 [1010] Q3少数股东损益亿元                           报告:        -0.18 as described in report
+                                                    Group net income minus parent net income: -0.18 (偏差 0.01%)
+  ✅ 通过 [1011] 合并流动资源减指定负担亿元                        报告:        75.88 as described in report
+                                                    CCE+trading assets minus specified debt; not parent distributable cash: 75.88 (偏差 0.00%)
+  ✅ 通过 [1012] 应收周转天数                               报告:        28.83 as described in report
+                                                    S1 average balance / YTD revenue x270; vendor agrees: 28.83 (偏差 0.01%)
+  ✅ 通过 [1013] 存货周转天数                               报告:       417.37 as described in report
+                                                    S1 average balance / YTD cost x270; vendor agrees: 417.37 (偏差 0.00%)
+  ✅ 通过 [1014] 库存释放H1亿元                             报告:        11.65 as described in report
+                                                    S2 cash-flow reconciliation, not perpetual free cash: 11.65 (偏差 0.00%)
+  ✅ 通过 [1015] 基准10%折现价格                            报告:        14.91 as described in report
+                                                    Finite five-year annual dividends and exit multiple: 14.91 (偏差 0.03%)
+  ✅ 通过 [1016] 反向盈利增长要求                             报告:        20.35 as described in report
+                                                    10% hurdle, 24x exit PE, 60% payout, five years: 20.35 (偏差 0.02%)
+  ✅ 通过 [1017] 委托贷款合计亿元                             报告:         0.76 as described in report
+                                                    S6 explicitly disclosed loan amounts; not completed equity conversion: 0.76 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 122  |  通过: 122  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================

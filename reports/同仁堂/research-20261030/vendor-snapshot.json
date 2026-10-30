@@ -1,0 +1,85 @@
+{
+  "periods": {
+    "2023": {
+      "revenue": "17860891456.13",
+      "profit": "1668834509.63",
+      "core": "1656602900",
+      "ocf": "1869491851.11"
+    },
+    "2024": {
+      "revenue": "18597281604.93",
+      "profit": "1526274925.98",
+      "core": "1481763600",
+      "ocf": "760985272.75"
+    },
+    "2025": {
+      "revenue": "17256185123.82",
+      "profit": "1189374356.88",
+      "core": "1147271900",
+      "ocf": "2692870707.26"
+    },
+    "2026YTD": {
+      "revenue": "11058872294.71",
+      "profit": "865730000.35",
+      "core": "842325500",
+      "ocf": "1874891130.49"
+    },
+    "2025YTD": {
+      "revenue": "13307914800.27",
+      "profit": "1177555845.3",
+      "core": "1162670112.26",
+      "ocf": "1987863432.81"
+    },
+    "2026H1": {
+      "revenue": "8379065189.49",
+      "profit": "726191685.62",
+      "core": "713301800",
+      "ocf": "1727991763.46"
+    },
+    "2025H1": {
+      "revenue": "9768898092.75",
+      "profit": "945498880.63",
+      "core": "942321200",
+      "ocf": "1953135869.64"
+    }
+  },
+  "sources": {
+    "eastmoney": {
+      "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=%28SECUCODE%3D%22600085.SH%22%29&p=1&ps=20&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+      "retrieved_at": "2026-10-30T21:09:38.105050+08:00",
+      "sha256": "2bfeaf06da2b2add354953288e66d377fd45fbaa3ee9e44488c59e5cf8cbe178",
+      "bytes": 83864
+    },
+    "qq": {
+      "url": "https://qt.gtimg.cn/q=sh600085",
+      "retrieved_at": "2026-10-30T21:09:37.995298+08:00",
+      "sha256": "dfea0d0098f8a3c0f84ef49a1438db33aa97ae7ba861ebf19ef813a1404d3ea1",
+      "bytes": 510
+    },
+    "sina": {
+      "url": "https://hq.sinajs.cn/list=sh600085",
+      "retrieved_at": "2026-10-30T21:09:38.031203+08:00",
+      "sha256": "3be4f38ae54ae4bba240e918ecec61c9dbabb938e336b4f8f7d96781e9e0d417",
+      "bytes": 268
+    }
+  },
+  "working_capital_vendor": {
+    "2026YTD": {
+      "CHZZTS": "417.370265408767",
+      "YSZKZZTS": "28.833816790531"
+    },
+    "2025YTD": {
+      "CHZZTS": "394.923232914946",
+      "YSZKZZTS": "29.46903755902"
+    }
+  },
+  "quotes": {
+    "qq_price": "25.07",
+    "qq_timestamp": "20261030161442",
+    "qq_cap_yi": "343.83",
+    "sina_price": "25.070",
+    "sina_date": "2026-10-30",
+    "sina_time": "15:34:59",
+    "shares_source": "2026Q3 consolidated balance sheet, not inferred from market cap"
+  }
+}

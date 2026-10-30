@@ -1,0 +1,155 @@
+{
+  "annual-list.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/600329/page_type/ndbg.phtml",
+    "retrieved_at": "2026-10-30T21:09:38.188451+08:00",
+    "sha256": "95adeb5b7dcdb115db405bbcb4daebbc682501d6ce427534645eaf16ca6e94e7",
+    "bytes": 51527,
+    "links": [
+      {
+        "title": "达仁堂：2025年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12039933"
+      },
+      {
+        "title": "达仁堂：2024年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=10832642"
+      },
+      {
+        "title": "达仁堂：2023年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=9923457"
+      },
+      {
+        "title": "达仁堂：2022年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=8948013"
+      },
+      {
+        "title": "中新药业：中新药业2021年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=7940080"
+      },
+      {
+        "title": "中新药业：中新药业2020年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=6997041"
+      },
+      {
+        "title": "中新药业2019年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=6060716"
+      },
+      {
+        "title": "中新药业2018年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=5134937"
+      },
+      {
+        "title": "中新药业2017年年度报告",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=4184324"
+      },
+      {
+        "title": "中新药业2016年年度报告（修订版）",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=3357033"
+      }
+    ]
+  },
+  "annual.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12039933",
+    "retrieved_at": "2026-10-30T21:20:17.162290+08:00",
+    "sha256": "e3824d0d7df4ec9c832a641575b269acbbde50f279892fabde162c153acf7b0e",
+    "bytes": 909950,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-3/2026-03-31/12039933.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-3/2026-03-31/12039933.PDF"
+      }
+    ]
+  },
+  "eastmoney.meta": {
+    "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=%28SECUCODE%3D%22600329.SH%22%29&p=1&ps=20&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "retrieved_at": "2026-10-30T21:09:38.413651+08:00",
+    "sha256": "433040afd8f2901d064c8dda98c9351bf8415474a45afcab52bfd0fa71d7f197",
+    "bytes": 83773
+  },
+  "h1.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12495831",
+    "retrieved_at": "2026-10-30T21:20:17.218396+08:00",
+    "sha256": "b9ac474f5593cbcaf8af78635e2e4e8412df7e6a25c0edb47fbb74defe0c167e",
+    "bytes": 725071,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495831.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495831.PDF"
+      }
+    ]
+  },
+  "q3-pdf.meta": {
+    "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684629.PDF",
+    "retrieved_at": "2026-10-30T21:26:34.223276+08:00",
+    "sha256": "ae113548bd10a40cf909c39aa41b1ef75e5bd0ae15e4f6577c74d7681ee129a8",
+    "bytes": 196869,
+    "pages": 13
+  },
+  "q3.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12684629",
+    "retrieved_at": "2026-10-30T21:20:16.782864+08:00",
+    "sha256": "3cdae52559f8b65fe5f3d678b48013593d81bb04858e0c44ccce06d629bc44fe",
+    "bytes": 78752,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684629.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684629.PDF"
+      }
+    ]
+  },
+  "qq.meta": {
+    "url": "https://qt.gtimg.cn/q=sh600329",
+    "retrieved_at": "2026-10-30T21:09:38.269328+08:00",
+    "sha256": "cbcb2e6aad4f9bb29339b00bbd8ff500b8089c92bb4632009f587d20fb0ad7bb",
+    "bytes": 491
+  },
+  "related-sale.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12684627",
+    "retrieved_at": "2026-10-30T21:20:16.947854+08:00",
+    "sha256": "a7fc098ea57398d686ff6d28f69beddd752c702ec46d0fe95358e7296ed584e6",
+    "bytes": 37039,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684627.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684627.PDF"
+      }
+    ]
+  },
+  "s-share.meta": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600329&id=12476798",
+    "retrieved_at": "2026-10-30T21:20:16.955698+08:00",
+    "sha256": "c4f7522c218d28ac3e878e65a74a7ec2f917dbe644e98169c8141c9e9b98c71d",
+    "bytes": 27285,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-05/12476798.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-05/12476798.PDF"
+      }
+    ]
+  },
+  "sina.meta": {
+    "url": "https://hq.sinajs.cn/list=sh600329",
+    "retrieved_at": "2026-10-30T21:09:38.268628+08:00",
+    "sha256": "bb093c9f3825404a039410b8e9c218f2be9dd3b31268a451f801d51a12be5ebb",
+    "bytes": 254
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "report_sha256": "e4a900bfbf4ec27190f3d16e1600c28547debd52c1d5e5b2e9a7d7c13765e40a",
+  "tool_extracted": 97,
+  "excluded": 5,
+  "supplemented_annual": 12,
+  "effective_population": 104,
+  "seed": 20261030,
+  "random_count": 16,
+  "random_coverage_pct": 15.384615384615385,
+  "directed_count": 18,
+  "full_table_and_directed_count": 122,
+  "sample_verdict": {
+    "verdict": "PASS",
+    "pass_count": 16,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 16,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "full_verdict": {
+    "verdict": "PASS",
+    "pass_count": 122,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 122,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "scope": "Recognized financial tables plus annual supplementation, not every number in prose. Model checks validate arithmetic and stated assumptions, not forecast truth."
+}
