@@ -1,0 +1,82 @@
+{
+  "q3": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601888&id=12684888",
+    "retrieved_at": "2026-10-30T21:20:16.038459+08:00",
+    "sha256": "45e0c0a5b2092b062b010786c87572377d3418e9c241b4d03a0422b5c30121ad",
+    "bytes": 75318
+  },
+  "h1": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601888&id=12511941",
+    "retrieved_at": "2026-10-30T21:20:16.214956+08:00",
+    "sha256": "30f462f298499850e0f79d3daa05986f0d1de982e02032e38266efe4098572c8",
+    "bytes": 571173
+  },
+  "annual": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601888&id=12047992",
+    "retrieved_at": "2026-10-30T21:20:16.293429+08:00",
+    "sha256": "a575958a8233a0d85e5078fab0a90c295313de5f0d847cbd52ac240fbfaf7fb1",
+    "bytes": 683228
+  },
+  "dividend": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601888&id=12433030",
+    "retrieved_at": "2026-10-30T21:20:16.178374+08:00",
+    "sha256": "63be2aee6c6256b0d51ffb8f9e1b5e3358d6c79796548e510214cf4183c27397",
+    "bytes": 29892
+  },
+  "dividend-new": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601888&id=12684887",
+    "retrieved_at": "2026-10-30T21:20:16.001007+08:00",
+    "sha256": "e46dfe96647dd22bd2cf2545e69c5f1a3223bf8e1592909276010811316f7d05",
+    "bytes": 27048
+  },
+  "ir": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601888&id=12578989",
+    "retrieved_at": "2026-10-30T21:20:16.216406+08:00",
+    "sha256": "4d2c470dbaaeae3fd7913d19230a22fe768d0d690005ae179262987bec5bd86a",
+    "bytes": 27227
+  },
+  "qq": {
+    "url": "https://qt.gtimg.cn/q=sh601888,hk01880",
+    "retrieved_at": "2026-10-30T21:09:37.691329+08:00",
+    "sha256": "e1f000dfa76b0b21289930beaa43089eecea9a4514f2e1b9e9a957f0b62876e1",
+    "bytes": 926
+  },
+  "sina": {
+    "url": "https://hq.sinajs.cn/list=sh601888,hk01880,fx_shkdcny",
+    "retrieved_at": "2026-10-30T21:09:37.805748+08:00",
+    "sha256": "9896f82cd140ae907d4d2f2adda6932b463647fd9418d6460798b2490bfbeb5d",
+    "bytes": 660
+  },
+  "eastmoney": {
+    "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=%28SECUCODE%3D%22601888.SH%22%29&p=1&ps=20&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "retrieved_at": "2026-10-30T21:09:37.834386+08:00",
+    "sha256": "a59aa962fcf853477739f8e09d534cb7f817ffb0b8b8e4e022ee3c7ec03a0e8f",
+    "bytes": 84586
+  },
+  "q3-pdf": {
+    "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684888.PDF",
+    "retrieved_at": "2026-10-30T21:26:32.755737+08:00",
+    "sha256": "5396bd21931f065e60d8835d5aefb286e800a063daba12243958d7331f0d081b",
+    "bytes": 204266,
+    "pages": 11
+  },
+  "ir-pdf": {
+    "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-9/2026-09-01/12578989.PDF",
+    "retrieved_at": "2026-10-30T21:26:34.349918+08:00",
+    "sha256": "ec46449e0626e82e7004ac35218571e4e7102f5c4dff6d910e7aa92e09608543",
+    "bytes": 195182,
+    "pages": 7
+  },
+  "visual_review": {
+    "q3_pages": [
+      1,
+      9,
+      10
+    ],
+    "scope": "Core table, consolidated profit attribution, operating cash and gross capex"
+  },
+  "supplemental_web_sources": {
+    "S7": "https://601888.irlianmeng.com/Event/achievementDetail/id/7712.html and /id/7757.html",
+    "S8": "https://shanghai.chinatax.gov.cn/gate/big5/shanghai.chinatax.gov.cn/zcfw/zcfgk/jckss/202510/t478009.html"
+  }
+}

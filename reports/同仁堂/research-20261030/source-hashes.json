@@ -1,0 +1,135 @@
+{
+  "tavily-12036509.txt": {
+    "sha256": "ed0c8a3647d85dcd30da2de7f1096dab0effb50335039b339050b9b1cada3eb9",
+    "bytes": 1008889
+  },
+  "tavily-12409128.txt": {
+    "sha256": "1603fe7a17556ce1bce70d98dd5d1ec3fdb81b6ae9e9f5c9c29b9b7e630eef63",
+    "bytes": 10637
+  },
+  "tavily-12574504.txt": {
+    "sha256": "d70274c21ed4df4eb74b53881ed37119c34712a2f9055f2801e827f45e054474",
+    "bytes": 343305
+  },
+  "tavily-q3.txt": {
+    "sha256": "4afd52391de6a725563445209c10a7fdbe977b76ce6ddba982ecf4d058051a45",
+    "bytes": 45974
+  },
+  "q3": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600085&id=12684556",
+    "retrieved_at": "2026-10-30T21:20:16.413807+08:00",
+    "sha256": "ff345a7dfd62c33608089ca12948c9ec063cc86cfaf792ccfa07bf9da2250b3e",
+    "bytes": 75442,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684556.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684556.PDF"
+      }
+    ]
+  },
+  "h1": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600085&id=12574504",
+    "retrieved_at": "2026-10-30T21:20:16.735382+08:00",
+    "sha256": "171cd16c2b9196733641591c63473c2a1371daed1261fbc561edbe2347c3ecdc",
+    "bytes": 702885,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-31/12574504.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-31/12574504.PDF"
+      }
+    ]
+  },
+  "annual": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600085&id=12036509",
+    "retrieved_at": "2026-10-30T21:20:16.669250+08:00",
+    "sha256": "877d32263a2207db9cd10224e539b8ece4e1cf3fcb56395003d2dd50fa46ff1d",
+    "bytes": 884094,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-3/2026-03-31/12036509.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-3/2026-03-31/12036509.PDF"
+      }
+    ]
+  },
+  "dividend": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600085&id=12409128",
+    "retrieved_at": "2026-10-30T21:20:16.524913+08:00",
+    "sha256": "9f8440a39b5f8979a92b22df0bcb36f1bdcf820a521cb0bcd11674d24e39f050",
+    "bytes": 29369,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-6/2026-06-25/12409128.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-6/2026-06-25/12409128.PDF"
+      }
+    ]
+  },
+  "related-loan": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600085&id=12684558",
+    "retrieved_at": "2026-10-30T21:20:16.580160+08:00",
+    "sha256": "87ea6cee41dbd389810c355e71287f5da283a870c94047b2646dee65e95ddf8b",
+    "bytes": 30024,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684558.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684558.PDF"
+      }
+    ]
+  },
+  "q3-meeting": {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600085&id=12684555",
+    "retrieved_at": "2026-10-30T21:20:16.730236+08:00",
+    "sha256": "58280c986372d6a34e333ba8f6f0ca7f4391877ce2e9ac88c548e50297cc6e0e",
+    "bytes": 27108,
+    "links": [
+      {
+        "title": "下载公告",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684555.PDF"
+      },
+      {
+        "title": "公告原文",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684555.PDF"
+      }
+    ]
+  },
+  "q3-pdf": {
+    "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684556.PDF",
+    "retrieved_at": "2026-10-30T21:26:34.070459+08:00",
+    "sha256": "76e9ed96867260ae28e052a7500d1e2c4c2edfaf5fb7f7a78fcf54933c2a4964",
+    "bytes": 167313,
+    "pages": 10
+  },
+  "visual_review": {
+    "file": "q3-pdf.pdf",
+    "pages": [
+      1,
+      7,
+      9
+    ],
+    "checks": [
+      "CNY10000 summary versus CNY statements",
+      "diluted EPS blank",
+      "current/prior columns",
+      "consolidated rather than parent-only cash flow"
+    ]
+  }
+}

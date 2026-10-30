@@ -1,0 +1,226 @@
+[
+  {
+    "period": "2023",
+    "metric": "revenue",
+    "primary": "17860891500",
+    "secondary": "17860891456.13",
+    "difference_pct": "2.456204383750945466523885440E-7",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2023",
+    "metric": "profit",
+    "primary": "1668834500",
+    "secondary": "1668834509.63",
+    "difference_pct": "5.770494318040524689536320108E-7",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2023",
+    "metric": "core",
+    "primary": "1656602900",
+    "secondary": "1656602900",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2023",
+    "metric": "ocf",
+    "primary": "1869491900",
+    "secondary": "1869491851.11",
+    "difference_pct": "0.000002615149068043568415567887724",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2024",
+    "metric": "revenue",
+    "primary": "18597281604.93",
+    "secondary": "18597281604.93",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2024",
+    "metric": "profit",
+    "primary": "1526274925.98",
+    "secondary": "1526274925.98",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2024",
+    "metric": "core",
+    "primary": "1481763629.23",
+    "secondary": "1481763600",
+    "difference_pct": "0.000001972649309471133373878783013",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2024",
+    "metric": "ocf",
+    "primary": "760985272.75",
+    "secondary": "760985272.75",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025",
+    "metric": "revenue",
+    "primary": "17256185123.82",
+    "secondary": "17256185123.82",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025",
+    "metric": "profit",
+    "primary": "1189374356.88",
+    "secondary": "1189374356.88",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025",
+    "metric": "core",
+    "primary": "1147271927.04",
+    "secondary": "1147271900",
+    "difference_pct": "0.000002356895463289518964642476815",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025",
+    "metric": "ocf",
+    "primary": "2692870707.26",
+    "secondary": "2692870707.26",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2026YTD",
+    "metric": "revenue",
+    "primary": "11058872294.71",
+    "secondary": "11058872294.71",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2026YTD",
+    "metric": "profit",
+    "primary": "865730000.35",
+    "secondary": "865730000.35",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2026YTD",
+    "metric": "core",
+    "primary": "842325520.30",
+    "secondary": "842325500",
+    "difference_pct": "0.000002409994652989976611539689569",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2026YTD",
+    "metric": "ocf",
+    "primary": "1874891130.49",
+    "secondary": "1874891130.49",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025YTD",
+    "metric": "revenue",
+    "primary": "13307914800.27",
+    "secondary": "13307914800.27",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025YTD",
+    "metric": "profit",
+    "primary": "1177555845.30",
+    "secondary": "1177555845.3",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025YTD",
+    "metric": "core",
+    "primary": "1162670100",
+    "secondary": "1162670112.26",
+    "difference_pct": "0.000001054469363235538610651465106",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025YTD",
+    "metric": "ocf",
+    "primary": "1987863432.81",
+    "secondary": "1987863432.81",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2026H1",
+    "metric": "revenue",
+    "primary": "8379065189.49",
+    "secondary": "8379065189.49",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2026H1",
+    "metric": "profit",
+    "primary": "726191685.62",
+    "secondary": "726191685.62",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2026H1",
+    "metric": "core",
+    "primary": "713301794.56",
+    "secondary": "713301800",
+    "difference_pct": "7.626505416764950638287091764E-7",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2026H1",
+    "metric": "ocf",
+    "primary": "1727991763.46",
+    "secondary": "1727991763.46",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025H1",
+    "metric": "revenue",
+    "primary": "9768898092.75",
+    "secondary": "9768898092.75",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025H1",
+    "metric": "profit",
+    "primary": "945498880.63",
+    "secondary": "945498880.63",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025H1",
+    "metric": "core",
+    "primary": "942321200",
+    "secondary": "942321200",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  },
+  {
+    "period": "2025H1",
+    "metric": "ocf",
+    "primary": "1953135869.64",
+    "secondary": "1953135869.64",
+    "difference_pct": "0",
+    "note": "CNY100 precision in some issuer summary rows; no exact-match claim"
+  }
+]

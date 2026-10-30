@@ -1,0 +1,30 @@
+{
+  "report_sha256": "2b66fe64a42176f45cbcc068a75d81abc527c257d52ab693518cb19cbb80e7cb",
+  "tool_extracted": 92,
+  "excluded": 8,
+  "supplemented": 12,
+  "effective_table_population": 96,
+  "seed": 20261030,
+  "random_sample": 15,
+  "random_coverage_pct": 15.625,
+  "directed": 21,
+  "sample_and_directed": {
+    "verdict": "PASS",
+    "pass_count": 36,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 36,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "full_table_check": {
+    "verdict": "PASS",
+    "pass_count": 96,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 96,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limits": "Assumptions are labelled, source mirrors not independent audits; prose not exhaustively enumerated by the parser."
+}
