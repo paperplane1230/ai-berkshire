@@ -1,0 +1,24 @@
+{
+  "cutoff": "2026-11-05",
+  "units": "CNY yuan; unrounded amounts transcribed independently from cached Eastmoney JSON, not copied from the issuer input file",
+  "source": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22000858.SZ%22)&p=1&ps=24&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+  "retrieved_at": "2026-11-05T20:13:32.509794+08:00",
+  "response_sha256": "e4ade6c5e8596d09bc660c70b585fb32db2457d82d79522a97b6ebfbf866b8ca",
+  "field_mapping": {"revenue":"TOTALOPERATEREVE","profit":"PARENTNETPROFIT","core":"KCFJCXSYJLR","cfo":"NETCASH_OPERATE_PK"},
+  "report_dates": {"2023":"2023-12-31","2024":"2024-12-31","2025":"2025-12-31","2025H1":"2025-06-30","2026H1":"2026-06-30","2025YTD":"2025-09-30","2026YTD":"2026-09-30"},
+  "update_dates": {"2023":"2025-04-26","2024":"2026-04-30","2025":"2026-04-30","2025H1":"2026-08-29","2026H1":"2026-08-29","2025YTD":"2026-10-28","2026YTD":"2026-10-28"},
+  "financial": {
+    "2023": {"revenue":"83272067317.19","profit":"30210585269.30","core":"30116468910.79","cfo":"41742479908.23"},
+    "2024": {"revenue":"89175178322.70","profit":"31853172533.98","core":"31741959276.27","cfo":"33939755192.78"},
+    "2025": {"revenue":"40528509770.23","profit":"8954257202.51","core":"8815635943.27","cfo":"29706259919.13"},
+    "2025H1": {"revenue":"23509972048.65","profit":"4623850715.13","core":"4611552206.91","cfo":"31136736628.58"},
+    "2026H1": {"revenue":"28416674541.77","profit":"8752942991.31","core":"8483289707.34","cfo":"-2153568792.32"},
+    "2025YTD": {"revenue":"30637727654.97","profit":"6474551792.18","core":"6458238128.80","cfo":"28247488416.94"},
+    "2026YTD": {"revenue":"32858473964.34","profit":"9710647471.03","core":"9440688403.06","cfo":"46684115.79"}
+  },
+  "quotes": {
+    "Tencent": {"price":"75.82","registered_shares":"3881608005","market_cap_yi":"2943.04","time":"20261105161454"},
+    "Sina": {"price":"75.820","time":"2026-11-05 15:35:45"}
+  },
+  "comparability": "2025 H1 and YTD are updated corrected comparatives. Do not mix with the originally disclosed 2025 nine-month revenue series."
+}

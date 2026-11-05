@@ -1,0 +1,232 @@
+[
+  {
+    "id": 2001,
+    "label": "现价",
+    "reported_value": 75.82,
+    "fetched_value": 75.82,
+    "fetched_exact": "75.82",
+    "fetched_source": "S6 two quote snapshots",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2002,
+    "label": "注册总股本亿股",
+    "reported_value": 38.81608005,
+    "fetched_value": 38.81608005,
+    "fetched_exact": "38.81608005",
+    "fetched_source": "S1 registered capital; not treasury-adjusted",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2003,
+    "label": "市值亿元",
+    "reported_value": 2943.04,
+    "fetched_value": 2943.035189391,
+    "fetched_exact": "2943.035189391",
+    "fetched_source": "Registered shares times dual-source price",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2004,
+    "label": "历史年度股息率",
+    "reported_value": 6.8,
+    "fetched_value": 6.8025391717225006,
+    "fetched_exact": "6.802539171722500659456607755",
+    "fetched_source": "S3 interim dividend and S8 actual final DPS; not future yield",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2005,
+    "label": "累计毛利率",
+    "reported_value": 79.89,
+    "fetched_value": 79.89295932589513,
+    "fetched_exact": "79.89295932589513833056947905943859788679",
+    "fetched_source": "S1 income/cost",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2006,
+    "label": "累计销售费率",
+    "reported_value": 23.73,
+    "fetched_value": 23.732312095117205,
+    "fetched_exact": "23.73231209511720627415258467986922246250",
+    "fetched_source": "S1 sales expense/revenue",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2007,
+    "label": "单Q3毛利率",
+    "reported_value": 77.32,
+    "fetched_value": 77.32138932092616,
+    "fetched_exact": "77.32138932092616407366268653587398946592",
+    "fetched_source": "S1-S2 income/cost",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2008,
+    "label": "单Q3销售费率",
+    "reported_value": 33.23,
+    "fetched_value": 33.2262687252565,
+    "fetched_exact": "33.22626872525650637688875618147473588837",
+    "fetched_source": "S1-S2 sales expense/revenue",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2009,
+    "label": "单Q3归母净利率",
+    "reported_value": 21.56,
+    "fetched_value": 21.5611824985532,
+    "fetched_exact": "21.56118249855320143625897279008930122501",
+    "fetched_source": "S1 direct quarter profit/revenue",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2010,
+    "label": "商品酒期末库存吨",
+    "reported_value": 49291.0,
+    "fetched_value": 49291.0,
+    "fetched_exact": "49291",
+    "fetched_source": "S2 physical volume table",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2011,
+    "label": "现金等价物亿元",
+    "reported_value": 1086.31,
+    "fetched_value": 1086.3124653495,
+    "fetched_exact": "1086.3124653495",
+    "fetched_source": "S1 consolidated cashflow ending balance",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2012,
+    "label": "到期及租赁负债合计亿元",
+    "reported_value": 2.17,
+    "fetched_value": 2.1705732706,
+    "fetched_exact": "2.1705732706",
+    "fetched_source": "S1 explicitly scoped obligations",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2013,
+    "label": "集团财务公司存款亿元",
+    "reported_value": 466.8,
+    "fetched_value": 466.7951669911,
+    "fetched_exact": "466.7951669911",
+    "fetched_source": "S2 H1 note, not assumed September balance",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2014,
+    "label": "70%对应200亿的利润门槛",
+    "reported_value": 285.71,
+    "fetched_value": 285.7142857142857,
+    "fetched_exact": "285.7142857142857142857142857",
+    "fetched_source": "Policy arithmetic, not cash sustainability threshold",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2015,
+    "label": "220亿净利分200亿派息比例",
+    "reported_value": 90.91,
+    "fetched_value": 90.9090909090909,
+    "fetched_exact": "90.90909090909090909090909091",
+    "fetched_source": "Explicit counterexample arithmetic",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2016,
+    "label": "已回购金额亿元",
+    "reported_value": 18.0074,
+    "fetched_value": 18.0073700941,
+    "fetched_exact": "18.0073700941",
+    "fetched_source": "S9 actual through 2026-10-31, not plan",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2017,
+    "label": "已回购股数万股",
+    "reported_value": 2453.7438,
+    "fetched_value": 2453.7438,
+    "fetched_exact": "2453.7438",
+    "fetched_source": "S9 actual share count",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2018,
+    "label": "bear 10%折现价",
+    "reported_value": 32.91,
+    "fetched_value": 32.90787718077558,
+    "fetched_exact": "32.90787718077557637197891731643445046924",
+    "fetched_source": "Explicit model discounted annual cashflows",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2019,
+    "label": "base 10%折现价",
+    "reported_value": 62.68,
+    "fetched_value": 62.678386403376166,
+    "fetched_exact": "62.67838640337616762192930204102971288385",
+    "fetched_source": "Explicit model discounted annual cashflows",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2020,
+    "label": "bull 10%折现价",
+    "reported_value": 93.58,
+    "fetched_value": 93.57528770615444,
+    "fetched_exact": "93.57528770615444159336645984313156343332",
+    "fetched_source": "Explicit model discounted annual cashflows",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2021,
+    "label": "无首年固定200亿基准IRR",
+    "reported_value": 4.66,
+    "fetched_value": 4.664695963668196,
+    "fetched_exact": "4.664695963668195945807452272447686276150",
+    "fetched_source": "Explicit sensitivity, not prediction",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2022,
+    "label": "无首年固定200亿基准PV",
+    "reported_value": 60.04,
+    "fetched_value": 60.044562292781066,
+    "fetched_exact": "60.04456229278106762688344615598792967716",
+    "fetched_source": "Explicit sensitivity, not prediction",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2023,
+    "label": "10%回报所需增长",
+    "reported_value": 10.6,
+    "fetched_value": 10.59865589301712,
+    "fetched_exact": "10.59865589301712147940854263099817928474",
+    "fetched_source": "Reverse model requirement; NOT management guidance",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  }
+]

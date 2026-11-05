@@ -1,0 +1,119 @@
+[
+  {
+    "id": 59,
+    "label": "经营现金低迷、票据化增加需要警惕 · 本次证据与处理",
+    "reported_value": 3.0,
+    "unit": "",
+    "raw_text": "| 经营现金低迷、票据化增加需要警惕 | 票据明显下降、单Q3现金转正；累计现金仍接近零 | 部分改善，尚未全面解除风险 |",
+    "line_number": 129,
+    "exclusion_reason": "Q3 marker, not a financial amount"
+  },
+  {
+    "id": 61,
+    "label": "仍由原代行人员主持、已收到问询且未闭环 · 本次证据与处理",
+    "reported_value": 6.0,
+    "unit": "",
+    "raw_text": "| 仍由原代行人员主持、已收到问询且未闭环 | 6月已正式选举邓敏；本轮未取得足够确认问询状态的原始函件 | 更新治理状态，保留未核实边界 |",
+    "line_number": 135,
+    "exclusion_reason": "June month"
+  },
+  {
+    "id": 62,
+    "label": "履行年度现金回报规划 · 可见结果",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 履行年度现金回报规划 | 2025末期分配已实施、回购持续推进 | 已完成分配、未来规划与回购上限分别核对 |",
+    "line_number": 173,
+    "exclusion_reason": "fiscal year label"
+  },
+  {
+    "id": 94,
+    "label": "研究日",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "研究日：2026年11月5日，Asia/Shanghai；财务截止2026年9月30日；股价采用11月5日收盘价。金额除注明外均为人民币。",
+    "line_number": 3,
+    "exclusion_reason": "research year"
+  },
+  {
+    "id": 95,
+    "label": "特别是2025比较数，必须统一",
+    "reported_value": 8.0,
+    "unit": "",
+    "raw_text": "特别是2025比较数，必须统一：8月部分旧稿把原披露的单Q3数字与重述后全年并列。新稿所有单季、同比与TTM均优先使用最新更正后的比较列，不把两套口径拼成趋势。公司未重述2024，也不意味着可以反向断言2024全部收入存在问题。[S4][R",
+    "line_number": 137,
+    "exclusion_reason": "August month"
+  },
+  {
+    "id": 96,
+    "label": "page/2026-10-28/1225630063.PDF)",
+    "reported_value": 11.0,
+    "unit": "",
+    "raw_text": "- [S1] [2026年第三季度报告](https://static.cninfo.com.cn/finalpage/2026-10-28/1225630063.PDF)：11页原件，未经审计，主要指标及合并三表。",
+    "line_number": 313,
+    "exclusion_reason": "PDF page count"
+  },
+  {
+    "id": 97,
+    "label": "page/2026-04-30/1225273091.PDF)",
+    "reported_value": 141.0,
+    "unit": "",
+    "raw_text": "- [S3] [2025年年度报告](https://static.cninfo.com.cn/finalpage/2026-04-30/1225273091.PDF)：141页原件，年度与分季度数据、分红、财务报表及附注。",
+    "line_number": 315,
+    "exclusion_reason": "PDF page count"
+  },
+  {
+    "id": 98,
+    "label": "page/2026-04-30/1225273122.PDF)",
+    "reported_value": 6.0,
+    "unit": "",
+    "raw_text": "- [S4] [前期会计差错更正公告](https://static.cninfo.com.cn/finalpage/2026-04-30/1225273122.PDF)：6页原件，仅对2025已披露中期报表部分项目调整，不影响现金流量表列",
+    "line_number": 316,
+    "exclusion_reason": "PDF page count"
+  },
+  {
+    "id": 99,
+    "label": "hq.sinajs.cn/list=sz000858)",
+    "reported_value": 11.0,
+    "unit": "",
+    "raw_text": "- [S6] [腾讯行情](https://qt.gtimg.cn/q=sz000858)、[新浪行情](https://hq.sinajs.cn/list=sz000858)：11月5日两路收盘均75.82元，时间戳分别16:14:54及",
+    "line_number": 318,
+    "exclusion_reason": "quote month"
+  },
+  {
+    "id": 100,
+    "label": "月5日两路收盘均75.82元，时间戳分别16",
+    "reported_value": 14.0,
+    "unit": "",
+    "raw_text": "- [S6] [腾讯行情](https://qt.gtimg.cn/q=sz000858)、[新浪行情](https://hq.sinajs.cn/list=sz000858)：11月5日两路收盘均75.82元，时间戳分别16:14:54及",
+    "line_number": 318,
+    "exclusion_reason": "quote minute"
+  },
+  {
+    "id": 101,
+    "label": "及15",
+    "reported_value": 35.0,
+    "unit": "",
+    "raw_text": "- [S6] [腾讯行情](https://qt.gtimg.cn/q=sz000858)、[新浪行情](https://hq.sinajs.cn/list=sz000858)：11月5日两路收盘均75.82元，时间戳分别16:14:54及",
+    "line_number": 318,
+    "exclusion_reason": "quote minute"
+  },
+  {
+    "id": 102,
+    "label": "ance.sina.com.cn/211.154.219.97",
+    "reported_value": 9494.0,
+    "unit": "",
+    "raw_text": "- [S7] [4月30日业绩说明会记录](https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-5/2026-05-07/1230",
+    "line_number": 319,
+    "exclusion_reason": "URL port"
+  },
+  {
+    "id": 103,
+    "label": "php?stockid=000858&id=12414667)",
+    "reported_value": 6.0,
+    "unit": "",
+    "raw_text": "- [S10] [董事长离任及选举公告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=1241466",
+    "line_number": 322,
+    "exclusion_reason": "June month"
+  }
+]
