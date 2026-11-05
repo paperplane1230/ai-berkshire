@@ -1,6 +1,6 @@
 {
-  "count": 2524,
-  "published": 2310,
+  "count": 2525,
+  "published": 2311,
   "drafts": 214,
   "reports": [
     {
@@ -199,6 +199,17 @@
       "type": "研究",
       "date": "2026-11-12",
       "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "五粮液（000858.SZ）研究报告",
+      "path": "reports/五粮液/五粮液研究报告-20261105.md",
+      "bucket": "公司",
+      "group": "五粮液",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-05",
+      "date_source": "文件名",
       "ticker": ""
     },
     {

@@ -1,0 +1,52 @@
+{
+  "units": "CNY yuan unless named otherwise. Legal registered shares used for valuation, not weighted EPS shares; 2025 comparisons are latest corrected figures.",
+  "cutoff": "2026-11-05",
+  "sources": {
+    "S1": "https://static.cninfo.com.cn/finalpage/2026-10-28/1225630063.PDF",
+    "S2": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12572159",
+    "S3": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273091.PDF",
+    "S4": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273122.PDF",
+    "S5": "Eastmoney RPT_F10_FINANCE_MAINFINADATA SECUCODE=000858.SZ, captured 2026-11-05",
+    "S6": "Tencent and Sina 000858 quotes, 2026-11-05 16:14:54 and 15:35:45"
+  },
+  "financial": {
+    "2023":{"revenue":"83272067317.19","profit":"30210585269.30","core":"30116468910.79","cfo":"41742479908.23"},
+    "2024":{"revenue":"89175178322.70","profit":"31853172533.98","core":"31741959276.27","cfo":"33939755192.78","cost":"20461423083.74","capex":"2666310780.23"},
+    "2025":{"revenue":"40528509770.23","profit":"8954257202.51","core":"8815635943.27","cfo":"29706259919.13","cost":"9101956953.59","capex":"1967407316.36","sale_cash":"91400295974.06","sales_expense":"7628615140.51","tax_surcharges":"11038061739.93","interest_income":"2693164763.58"},
+    "2025H1":{"revenue":"23509972048.65","profit":"4623850715.13","core":"4611552206.91","cfo":"31136736628.58","cost":"5203656031.65","capex":"950068700.93","sale_cash":"69467039356.79","sales_expense":"3499723307.95","admin_expense":"1712424934.59","rd_expense":"209601741.37","finance_expense":"-1261269705.58","interest_income":"1279488906.12","tax_surcharges":"7851817565.80","operating_profit":"6406086321.33","pbt":"6378998629.39","income_tax":"1498694514.11","net_profit":"4880304115.28"},
+    "2026H1":{"revenue":"28416674541.77","profit":"8752942991.31","core":"8483289707.34","cfo":"-2153568792.32","cost":"5599528326.71","capex":"430976585.07","sale_cash":"25484429955.13","sales_expense":"6322231378.53","admin_expense":"1503327228.81","rd_expense":"201501392.81","finance_expense":"-1033876389.49","interest_income":"1057421196.40","tax_surcharges":"4206740962.94","operating_profit":"11993281891.90","pbt":"11996837707.94","income_tax":"3000704885.64","net_profit":"8996132822.30"},
+    "2025YTD":{"revenue":"30637727654.97","profit":"6474551792.18","core":"6458238128.80","cfo":"28247488416.94","cost":"7437309893.84","capex":"1488528821.02","sale_cash":"76608043515.75","sales_expense":"4733344481.38","admin_expense":"2298633729.54","rd_expense":"318925867.64","finance_expense":"-2033395809.30","interest_income":"2057066902.39","tax_surcharges":"9116314571.01","operating_profit":"8908289957.18","pbt":"8869655654.03","income_tax":"2082682603.86","net_profit":"6786973050.17"},
+    "2026YTD":{"revenue":"32858473964.34","profit":"9710647471.03","core":"9440688403.06","cfo":"46684115.79","cost":"6606866724.90","capex":"658246537.09","sale_cash":"32690116655.30","sales_expense":"7798075590.91","admin_expense":"2002580747.16","rd_expense":"291248077.82","finance_expense":"-1524127680.32","interest_income":"1550053880.85","tax_surcharges":"4858694661.75","operating_profit":"13211157872.36","pbt":"13209349113.46","income_tax":"3240062336.22","net_profit":"9969286777.24","dividend_interest_cash":"13449176436.29","other_financing_outflow":"1503265362.46"}
+  },
+  "balance": {
+    "2025end":{"cash":"127014443016.86","cash_equivalents":"124114690633.67","receivables":"37745419.51","bills_financing":"9401640775.74","inventory":"20065336751.20","other_current_assets":"7968202942.10","other_current_liabilities":"27029072199.84","contract_liabilities":"13459591156.56","payables":"8534820869.28","payable_notes":"1352014535.90","dividend_payable":"5565976643.61","current_noncurrent_debt":"364149470.84","lease_liability":"44381182.44","parent_equity":"119932271234.99","assets":"189984270815.47","minority_equity":"2248412410.15","treasury_stock":"0"},
+    "2026H1":{"cash":"119088869922.03","cash_equivalents":"115663763077.51","receivables":"67086144.92","bills_financing":"7544093475.82","inventory":"22658310149.65","other_current_liabilities":"24348788958.09","contract_liabilities":"10441471221.99"},
+    "2026Q3":{"cash":"111729809959.56","cash_equivalents":"108631246534.95","receivables":"145058810.03","bills_financing":"1021975615.05","inventory":"24197453313.89","other_current_assets":"6503277634.07","other_current_liabilities":"23767265002.38","contract_liabilities":"8926973899.03","payables":"7220773465.28","payable_notes":"560727474.45","dividend_payable":"2124585309.52","current_noncurrent_debt":"143841135.51","lease_liability":"73216191.55","parent_equity":"118436973213.44","assets":"171960314815.83","minority_equity":"2519806092.50","treasury_stock":"1200796014.24","goodwill":"1621619.53","intangibles":"2577991109.33"}
+  },
+  "notes": {
+    "regulatory_goods_2025end":"4906972184.40",
+    "regulatory_goods_2026H1":"4506922167.70",
+    "regulatory_receipts_2025end":"26314680956.00",
+    "regulatory_receipts_2026H1":"23972698769.51",
+    "vat_to_transfer_2025end":"714391243.84",
+    "vat_to_transfer_2026H1":"376090188.58",
+    "prepaid_taxes_2025end":"2926231969.10",
+    "prepaid_taxes_2026H1":"2265598586.06",
+    "finance_company_deposit_2025end":"48973138361.74",
+    "finance_company_deposit_2026H1":"46679516699.11",
+    "restricted_cash_2026H1":"269779248.42",
+    "derecognized_endorsed_discounted_bills_2026H1":"4108215138.10",
+    "treasury_shares_2026Q3":"16127753"
+  },
+  "products_h1": {
+    "wuliangye":{"revenue":"23632025460.10","cost":"2856606247.31","yoy_revenue_pct":"72.84","volume_tonnes":"16292","volume_yoy_pct":"88.26","production_tonnes":"17781","end_inventory_tonnes":"26607"},
+    "other_liquor":{"revenue":"3234582027.96","cost":"1278487808.82","yoy_revenue_pct":"-60.17","volume_tonnes":"31181","volume_yoy_pct":"-63.75","production_tonnes":"31367","end_inventory_tonnes":"22684"},
+    "dealer":{"revenue":"18475857791.19","cost":"3119569233.66"},
+    "direct":{"revenue":"8390749696.87","cost":"1015524822.47"}
+  },
+  "volume_h1":{"begin_inventory_tonnes":"47616","production_tonnes":"49148","sales_tonnes":"47473","end_inventory_tonnes":"49291","production_yoy_pct":"-51.91","sales_yoy_pct":"-49.85","end_inventory_yoy_pct":"22.16","semi_finished_tonnes":"265402"},
+  "shares":"3881608005",
+  "quote":{"date":"2026-11-05","price":"75.82","reported_market_cap":"294304000000","tencent_time":"20261105161454","sina_time":"2026-11-05 15:35:45"},
+  "scenario_terms":{"years":5,"first_model_year_distribution_CNY":"20000000000","payout_years_2_to_5":"0.70","discount_rate":"0.10","note":"First model year assumes receipt of the 2026 shareholder-plan 20bn amount divided by current registered shares. This is NOT a declared distribution or a forecast certainty. Actual eligible dividend shares exclude treasury stock; later years follow earnings payout, not the 20bn floor. No extra net cash or buyback value is added."},
+  "scenarios":[{"name":"bear","growth":"-0.03","exit_pe":"14"},{"name":"base","growth":"0.06","exit_pe":"20"},{"name":"bull","growth":"0.12","exit_pe":"24"}]
+}

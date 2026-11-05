@@ -1,0 +1,30 @@
+{
+  "report_sha256": "96a481939d35fb02ae8f409ecf6dde7ebfd777d921d0fd5254b1b0b3e4b9bf0c",
+  "raw_points": 103,
+  "excluded": 13,
+  "supplemented_annual": 12,
+  "effective_table_points": 102,
+  "seed": 20261105,
+  "random_count": 16,
+  "random_coverage_pct": 15.686274509803921,
+  "directed_count": 23,
+  "random_plus_directed": {
+    "verdict": "PASS",
+    "pass_count": 39,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 39,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "full_table_verdict": {
+    "verdict": "PASS",
+    "pass_count": 102,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 102,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "scope": "Numeric consistency of source facts, policies and model assumptions, separately tagged; not forecast validation. Narrative values are targeted, not exhaustively sampled."
+}

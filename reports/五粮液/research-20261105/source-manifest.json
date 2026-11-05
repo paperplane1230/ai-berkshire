@@ -1,0 +1,608 @@
+{
+  "cutoff": "2026-11-05",
+  "source_id_map": {
+    "S1": "q3-pdf",
+    "S2": "h1-pdf",
+    "S3": "annual-pdf",
+    "S4": "correction-pdf",
+    "S5": "eastmoney",
+    "S6": [
+      "qq",
+      "sina"
+    ],
+    "S7": [
+      "ir-april",
+      "ir-june"
+    ],
+    "S8": "dividend",
+    "S9": "buyback",
+    "S10": "chair"
+  },
+  "source_independence": "Issuer filings and Eastmoney are separate publishing channels; Eastmoney ultimately transcribes issuer disclosures, so matching figures do not constitute an independent audit of the underlying accounts. Tencent and Sina independently publish the quote.",
+  "hash_note": "Capture response hashes describe downloaded bytes; cached JSON may be pretty-printed and has its own separately calculated artifact hash.",
+  "scope_note": "Primary PDFs/text are local cache artifacts and may be git-ignored; portable inputs and vendor snapshot suffice for offline arithmetic and 28 comparisons.",
+  "gaps": [
+    "No uniformly verified current wholesale bottle price; do not reuse old 745 CNY quote.",
+    "Q3 report is unaudited; no new quarterly full footnote audit.",
+    "The 20bn first-model-year payout is a plan-based scenario assumption, not a newly declared payment."
+  ],
+  "sources": {
+    "announcements": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/000858.phtml",
+      "retrieved_at": "2026-11-05T20:13:32.717185+08:00",
+      "bytes": 55259,
+      "links": [
+        {
+          "title": "五粮液：关于回购公司股份进展的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12689266"
+        },
+        {
+          "title": "五粮液：关于控股股东及其一致行动人增持股份触及1%整数倍的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12681026"
+        },
+        {
+          "title": "五粮液：关于回购公司股份进展情况的自愿性信息披露公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12674012"
+        },
+        {
+          "title": "五粮液：2026年三季度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12667142"
+        },
+        {
+          "title": "五粮液：关于回购公司股份进展的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12635835"
+        },
+        {
+          "title": "五粮液：2026年半年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12598716"
+        },
+        {
+          "title": "五粮液：关于回购公司股份进展的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12581041"
+        },
+        {
+          "title": "五粮液：四川省宜宾五粮液集团财务有限公司风险持续评估审核报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12572173"
+        },
+        {
+          "title": "五粮液：第七届董事会2026年第11次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12572172"
+        },
+        {
+          "title": "五粮液：2026年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12572159"
+        },
+        {
+          "title": "五粮液：2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12572158"
+        },
+        {
+          "title": "五粮液：2026年半年度报告摘要",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12572157"
+        },
+        {
+          "title": "五粮液：关于四川省宜宾五粮液集团有限公司增持公司股票的进展公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12480786"
+        },
+        {
+          "title": "五粮液：关于回购公司股份进展的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12475303"
+        },
+        {
+          "title": "五粮液：关于变更董事会秘书的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12466787"
+        },
+        {
+          "title": "五粮液：关于董事辞职的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12466786"
+        },
+        {
+          "title": "五粮液：第七届董事会2026年第10次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12466785"
+        },
+        {
+          "title": "五粮液：第七届董事会2026年第9次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12464420"
+        },
+        {
+          "title": "五粮液：关于董事辞职的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12451878"
+        },
+        {
+          "title": "五粮液：关于2025年度分红派息实施后调整回购股份价格上限的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12448398"
+        },
+        {
+          "title": "五粮液：2026年半年度业绩预告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12446580"
+        },
+        {
+          "title": "五粮液：2025年度分红派息实施公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12438862"
+        },
+        {
+          "title": "五粮液：关于回购公司股份进展的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12428353"
+        },
+        {
+          "title": "五粮液：2026年6月26日投资者关系活动记录表",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12423941"
+        },
+        {
+          "title": "五粮液：第七届董事会2026年第7次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12414669"
+        },
+        {
+          "title": "五粮液：北京中伦(成都)律师事务所关于宜宾五粮液股份有限公司2025年度股东会的法律意见书",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12414668"
+        },
+        {
+          "title": "五粮液：关于董事长离任及选举董事长的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12414667"
+        },
+        {
+          "title": "五粮液：2025年度股东会决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12414666"
+        },
+        {
+          "title": "五粮液：第七届董事会2026年第6次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12380775"
+        },
+        {
+          "title": "五粮液：2025年度股东会议案资料(更新后)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12380774"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "766cbd4954a084e6ccecc43f1a90ad23c801101034861b79fe46cf663c5b3988",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/announcements.html",
+          "sha256": "aa7e3efbe49bc690705f0ff8345edb569e86c2b2295711ce15e9ac249461166e",
+          "bytes": 58111
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/announcements.txt",
+          "sha256": "07430111070621976a4305c728e4a76c2022d73943af4e7a0b784e2e6e474037",
+          "bytes": 6384
+        }
+      ]
+    },
+    "annual-list": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/000858/page_type/ndbg.phtml",
+      "retrieved_at": "2026-11-05T20:13:32.937714+08:00",
+      "bytes": 51531,
+      "links": [
+        {
+          "title": "五粮液：2025年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12345970"
+        },
+        {
+          "title": "五粮液：2025年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12294780"
+        },
+        {
+          "title": "五粮液：2024年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=11139431"
+        },
+        {
+          "title": "五粮液：2024年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=11001249"
+        },
+        {
+          "title": "五粮液：2023年度报告(英文)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=10253606"
+        },
+        {
+          "title": "五粮液：2023年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=10141769"
+        },
+        {
+          "title": "五粮液：2022年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=9288011"
+        },
+        {
+          "title": "五粮液：2022年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=9172978"
+        },
+        {
+          "title": "五粮液：2021年度报告（英文版）",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=8285838"
+        },
+        {
+          "title": "五粮液：2021年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=8156326"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "49e957270868e14d7dbba33801cbd849eb2f67338ce680c0d4cb6e883803405e",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/annual-list.html",
+          "sha256": "7fbeaff8566daf7327403fe2b37d086b75277af687ded0606e47da5f2b3ea68c",
+          "bytes": 53898
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/annual-list.txt",
+          "sha256": "7a36d539ef25879ebf95677b8977856fa2adca9916b857e284f1fa9f5c1bb205",
+          "bytes": 4605
+        }
+      ]
+    },
+    "annual-pdf": {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273091.PDF",
+      "retrieved_at": "2026-11-05T20:13:31.063613+08:00",
+      "bytes": 3085658,
+      "pages": 141,
+      "response_sha256_as_recorded_at_capture": "09133e1f44b3bb4b2cebe211529ad68f5b04b6be10b43870f2a78c947d5910a4",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/annual-pdf.pdf",
+          "sha256": "09133e1f44b3bb4b2cebe211529ad68f5b04b6be10b43870f2a78c947d5910a4",
+          "bytes": 3085658
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/annual-pdf.txt",
+          "sha256": "1a6820523e2d1f4f1350dc01e1b2695ca1ecacc42ed2cb335c8b8e6078344032",
+          "bytes": 344386
+        }
+      ]
+    },
+    "annual": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12294780",
+      "retrieved_at": "2026-11-05T20:22:08.636950+08:00",
+      "bytes": 803442,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-30/12294780.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-30/12294780.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "ec4085f58ff4ebc92d6df30b06181b606c3a185181a2ddb521f0a1431cccaf4b",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/annual.html",
+          "sha256": "895329a418ae3c450212332bd0b44b365af4bdd1a8bdaa8a4e8f92d4e2ee097b",
+          "bytes": 891069
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/annual.txt",
+          "sha256": "ff0e56404ae6012c920b4154a2f19aa709475b7e187bfe6da06fd8cbefec42c9",
+          "bytes": 368341
+        }
+      ]
+    },
+    "buyback": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12689266",
+      "retrieved_at": "2026-11-05T20:22:10.520262+08:00",
+      "bytes": 27417,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-11/2026-11-04/12689266.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-11/2026-11-04/12689266.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "61037068e4e459bc4e134e8d8823e5212ff99419b9c7f405a8e3c09aa992a2b1",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/buyback.html",
+          "sha256": "43ef9edb68881b1c99b28f1396f9f991f237224b756969f0123121922d609ab3",
+          "bytes": 29836
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/buyback.txt",
+          "sha256": "7b7a22e013d54b9817472a2991fd3f056cab6bf35fc8513f1923b6e929b80e23",
+          "bytes": 5557
+        }
+      ]
+    },
+    "chair": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12414667",
+      "retrieved_at": "2026-11-05T20:22:10.842268+08:00",
+      "bytes": 26491,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-27/12414667.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-27/12414667.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "5f63d3d931f4a9c9972a920508ee8a9aa0e174d7ac37190231e31ade94a3b0ae",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/chair.html",
+          "sha256": "d28ff55cde72013d505d183c12796b3362be5b5092a9e7fd4ab92405091d5c0e",
+          "bytes": 28558
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/chair.txt",
+          "sha256": "6463d146ac3a00b021d918668eb789350d44c145aba936e0c03dcba62a95f5dd",
+          "bytes": 4311
+        }
+      ]
+    },
+    "correction-pdf": {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273122.PDF",
+      "retrieved_at": "2026-11-05T20:13:32.049941+08:00",
+      "bytes": 87482,
+      "pages": 6,
+      "response_sha256_as_recorded_at_capture": "466e1e18f25c1391fd160945b5977ce83732a40f223fc0dee7407bd90bb0e10d",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/correction-pdf.pdf",
+          "sha256": "466e1e18f25c1391fd160945b5977ce83732a40f223fc0dee7407bd90bb0e10d",
+          "bytes": 87482
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/correction-pdf.txt",
+          "sha256": "d2447cc2ef30d0d5e44d4977df17873579427aa01dc0cf2e6fa08df5cff11aa4",
+          "bytes": 11636
+        }
+      ]
+    },
+    "dividend": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12438862",
+      "retrieved_at": "2026-11-05T20:22:10.347238+08:00",
+      "bytes": 30345,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-7/2026-07-10/12438862.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-7/2026-07-10/12438862.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "08d4515ab5d5e23a9d2be472d46eee67e6decbc220f2d3f5fa16772d6e4867e4",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/dividend.html",
+          "sha256": "991d0453bcb6e2f7f94849a2661220d5e2aa35c0de91a4b91b7de85048244a70",
+          "bytes": 33780
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/dividend.txt",
+          "sha256": "92e16da4cdb3480a555c5430f3d729da6d84cab6eaff728a2c0aa4f2ee1c2621",
+          "bytes": 8989
+        }
+      ]
+    },
+    "eastmoney": {
+      "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22000858.SZ%22)&p=1&ps=24&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+      "retrieved_at": "2026-11-05T20:13:32.509794+08:00",
+      "bytes": 100993,
+      "response_sha256_as_recorded_at_capture": "e4ade6c5e8596d09bc660c70b585fb32db2457d82d79522a97b6ebfbf866b8ca",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/eastmoney.json",
+          "sha256": "549c640feafbf20c2789902a3e3bf227ba582bcfb993503d5748cbeb4bf4c3a9",
+          "bytes": 144995
+        }
+      ]
+    },
+    "finance-company": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12572173",
+      "retrieved_at": "2026-11-05T20:22:10.996778+08:00",
+      "bytes": 24819,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-29/12572173.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-29/12572173.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "cf0fd05113cbcdc22fb43e1cbb0d99f67dd03644d7d64891f9ae25d03760f274",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/finance-company.html",
+          "sha256": "7760edeabb8ea168aa56627697bc06202abd935e80f89c481b52080edec040d4",
+          "bytes": 26174
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/finance-company.txt",
+          "sha256": "3569ba30cc76bcb0125e6e840831d23c7b0ddef46c29e36afce26a32991b7f6c",
+          "bytes": 1998
+        }
+      ]
+    },
+    "h1-pdf": {
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-29/12572159.PDF",
+      "retrieved_at": "2026-11-05T20:22:11.251744+08:00",
+      "bytes": 1294394,
+      "pages": 124,
+      "response_sha256_as_recorded_at_capture": "15153679faee48d1b1b00c50557a88bdcbdf8cb4cbc49b8762e10f70210dfb5b",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/h1-pdf.pdf",
+          "sha256": "15153679faee48d1b1b00c50557a88bdcbdf8cb4cbc49b8762e10f70210dfb5b",
+          "bytes": 1294394
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/h1-pdf.txt",
+          "sha256": "452dd076d357b669176e26294743e6cf683f5ed55c7287ad4b118f9081d27dc7",
+          "bytes": 284098
+        }
+      ]
+    },
+    "h1": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12572159",
+      "retrieved_at": "2026-11-05T20:13:29.879400+08:00",
+      "bytes": 699110,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-29/12572159.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-29/12572159.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "4a5dce07a46e8c80280b1b3a34cbf86b3fdac15aaac6f933830d06dd52aaf84c",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/h1.html",
+          "sha256": "e3a5b9f86d42fe1a02a4693cbc9d7d2179c2803c1286177b3f1a0bd07fd045e3",
+          "bytes": 770060
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/h1.txt",
+          "sha256": "0a8119812d4934ae4c202f7ed83b1bc7db6cc71126b953b68228ed3ff075580d",
+          "bytes": 305654
+        }
+      ]
+    },
+    "ir": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12423941",
+      "retrieved_at": "2026-11-05T20:22:10.698316+08:00",
+      "bytes": 27630,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-30/12423941.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-30/12423941.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "91d0ae1c4a2ba035f4cbd1b82d6dae8753feef0872d27b67ae7bf46cd162654e",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/ir.html",
+          "sha256": "e6fef412da9bd0c478ceb6141869c4dcd8c0f7a13babea2f4bcab7ecdcc40bc6",
+          "bytes": 29869
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/ir.txt",
+          "sha256": "391f517cd21ee5af7280643a687ea9eae7a154bd3965f4d86cc77606f7222849",
+          "bytes": 4826
+        }
+      ]
+    },
+    "q3-pdf": {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-28/1225630063.PDF",
+      "retrieved_at": "2026-11-05T20:13:30.158534+08:00",
+      "bytes": 381234,
+      "pages": 11,
+      "response_sha256_as_recorded_at_capture": "6339022f1c23933e20f84c200e66bcf79f62eab16beb8fbd8ee3865ba21bd1a7",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/q3-pdf.pdf",
+          "sha256": "6339022f1c23933e20f84c200e66bcf79f62eab16beb8fbd8ee3865ba21bd1a7",
+          "bytes": 381234
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/q3-pdf.txt",
+          "sha256": "70d599c48878911244dc4fad31f1d0dc6f5664ea73f2cfdbaf74500ad7cef0d9",
+          "bytes": 20369
+        }
+      ]
+    },
+    "q3": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000858&id=12667142",
+      "retrieved_at": "2026-11-05T20:13:29.507799+08:00",
+      "bytes": 84314,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-10/2026-10-28/12667142.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-10/2026-10-28/12667142.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "cb96f5610eff7deaf9fd5b710291e5d30627f01138c628b32b98b1f638539cc2",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/q3.html",
+          "sha256": "b5c32e471e7d7d12cf2005fa19ccb5aa45d28b15c7b49972f88dba1d9f03f0dd",
+          "bytes": 90108
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/q3.txt",
+          "sha256": "5ebc43dd8ed1e450fd6e7b21bbc633211680d66e751521432b5e7c1ac69e9607",
+          "bytes": 24442
+        }
+      ]
+    },
+    "qq": {
+      "url": "https://qt.gtimg.cn/q=sz000858",
+      "retrieved_at": "2026-11-05T20:13:32.263064+08:00",
+      "bytes": 517,
+      "response_sha256_as_recorded_at_capture": "da48db8c20726b6988d5b8db268b35706a3e7412ffaaab72c70645e6d675e06e",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/qq.html",
+          "sha256": "9cf49208dabe9b55394ea9398054a66ec6af60f1c7700aa1de818501ca41ad1d",
+          "bytes": 521
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/qq.txt",
+          "sha256": "997e84d2354d73ae6a3faae65981e1c8757778f299ea0da3129dc07eeb2e81ea",
+          "bytes": 517
+        }
+      ]
+    },
+    "sina": {
+      "url": "https://hq.sinajs.cn/list=sz000858",
+      "retrieved_at": "2026-11-05T20:13:32.373791+08:00",
+      "bytes": 276,
+      "response_sha256_as_recorded_at_capture": "37dd1b230f0e6762bda63b9c2e5d3c7bee5274acc71948f7142946e9bc686e9c",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/wuliangye/sina.html",
+          "sha256": "53d85f15ec3e33918711c266516b3afb20da70118d4f39d021d30f18f852d94c",
+          "bytes": 280
+        },
+        {
+          "path": "local/五粮液-20261105/wuliangye/sina.txt",
+          "sha256": "e567856c3e87d05b0345cdbd2e875962eb89ca0ed71e379665d503c6c12309cf",
+          "bytes": 278
+        }
+      ]
+    },
+    "ir-april": {
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-5/2026-05-07/12303455.PDF",
+      "retrieved_on": "2026-11-05",
+      "retrieved_at": null,
+      "pages": 18,
+      "capture_note": "Full PDF text extracted through Tavily; raw PDF bytes and exact retrieval timestamp were not retained. Date is documented in ir-governance-notes.md.",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/ir-april.txt",
+          "sha256": "dd4c09f044bd134faf473580ef2545724bad44220325796e39a72a8ecf7557b6",
+          "bytes": 28626
+        }
+      ]
+    },
+    "ir-june": {
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-30/12423941.PDF",
+      "retrieved_on": "2026-11-05",
+      "retrieved_at": null,
+      "pages": 5,
+      "capture_note": "Full PDF text extracted through Tavily; raw PDF bytes and exact retrieval timestamp were not retained. Date is documented in ir-governance-notes.md.",
+      "cached_artifacts": [
+        {
+          "path": "local/五粮液-20261105/ir-june.txt",
+          "sha256": "a9a0632a08f6605487e7b61ad4b04572e111e60dc7c4f0d64229561c0b38c4d2",
+          "bytes": 7355
+        }
+      ]
+    }
+  }
+}
