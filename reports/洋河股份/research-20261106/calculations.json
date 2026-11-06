@@ -1,0 +1,1247 @@
+{
+  "cutoff": "2026-11-06",
+  "units": "Amounts CNY 100 million unless key says CNY, pct, days, shares or multiple. Pct is percent, not fraction.",
+  "source_header": "一手财报与行情截至2026-11-06。恢复模型首年100%派息仅为2025-2027规划尾段的时点近似，不是已宣布现金分配；后四年80%为研究假设，非保证、非规划已续期。资产反向敏感性与主恢复模型分开使用，不重复加财务资产价值。",
+  "comparability": "Issuer says no restatement required. 2025YTD core equals sum of 2025 annual quarterly table Q1+Q2+Q3.",
+  "periods": {
+    "2023": {
+      "revenue": "331.2627755151",
+      "profit": "100.1593004027",
+      "core": "98.4284498049",
+      "cfo": "61.3022086796",
+      "parent_margin_pct": "30.23560381843580363994631616867803073108",
+      "core_margin_pct": "29.71310303484833340163144942808512184804",
+      "cfo_parent_ratio_pct": "61.20470933116409112623810772902680048204",
+      "nonrecurring_profit": "1.7308505978"
+    },
+    "2024": {
+      "revenue": "288.7629699356",
+      "profit": "66.7338860212",
+      "core": "68.3523564335",
+      "cfo": "46.2871123728",
+      "cost": "77.5121835666",
+      "capex": "14.5401981157",
+      "parent_margin_pct": "23.11026446226225277905158365344047398904",
+      "core_margin_pct": "23.67074852040203148178553097520429366273",
+      "cfo_parent_ratio_pct": "69.36073280386447845339132591181793145793",
+      "nonrecurring_profit": "-1.6184704123",
+      "gross_margin_pct": "73.15715945715380704472150696358354067509",
+      "simple_fcf": "31.7469142571"
+    },
+    "2025": {
+      "revenue": "192.1105761305",
+      "profit": "22.0605892668",
+      "core": "21.347294123",
+      "cfo": "-7.6304032679",
+      "cost": "54.5552293643",
+      "capex": "6.7848168846",
+      "sales_expense": "52.0563199016",
+      "admin_expense": "17.8969098776",
+      "rd_expense": "1.4498699232",
+      "finance_expense": "-2.8405044625",
+      "tax_surcharges": "34.1761738291",
+      "interest_income": "2.9792810508",
+      "investment_income": "3.5782273944",
+      "fair_value_income": "-2.8829472185",
+      "asset_impairment": "-1.2836116293",
+      "parent_margin_pct": "11.48327682480860592684120069759836287703",
+      "core_margin_pct": "11.11198277209832658167225723737234763443",
+      "cfo_parent_ratio_pct": "-34.58839279231469309411638476605264457885",
+      "nonrecurring_profit": "0.7132951438",
+      "gross_margin_pct": "71.60217284068689921730472377607016048519",
+      "sales_expense_revenue_pct": "27.09706094798150803674865459361435976088",
+      "admin_expense_revenue_pct": "9.315942015312418651025903779712365011844",
+      "rd_expense_revenue_pct": "0.7547059367596236620146780055830165241471",
+      "tax_surcharges_revenue_pct": "17.78984505563309133090039551657738189847",
+      "simple_fcf": "-14.4152201525"
+    },
+    "2025H1": {
+      "revenue": "147.9565134014",
+      "profit": "43.4364903211",
+      "core": "42.3157776724",
+      "cfo": "6.1604415337",
+      "cost": "36.9587348261",
+      "capex": "4.4254597957",
+      "sale_cash": "123.7835441911",
+      "sales_expense": "21.4868937162",
+      "admin_expense": "8.6482953183",
+      "rd_expense": "0.732027288",
+      "finance_expense": "-1.4795106218",
+      "tax_surcharges": "24.1548977536",
+      "operating_profit": "59.2223766514",
+      "pbt": "59.2819966017",
+      "income_tax": "15.9276763472",
+      "net_profit": "43.3543202545",
+      "interest_income": "1.5567127443",
+      "investment_income": "0.849117561",
+      "fair_value_income": "0.6347727631",
+      "asset_impairment": "-0.0391284732",
+      "credit_impairment": "0.0010542729",
+      "parent_margin_pct": "29.35760604418851729671899713598275021267",
+      "core_margin_pct": "28.60014520455683971743024612524829647293",
+      "cfo_parent_ratio_pct": "14.18264111156205160862273237251077688798",
+      "nonrecurring_profit": "1.1207126487",
+      "gross_margin_pct": "75.02054220091517269369986896588237786528",
+      "sales_expense_revenue_pct": "14.52243853429212117438279016891096930758",
+      "admin_expense_revenue_pct": "5.845160256539383791946295367969080477702",
+      "rd_expense_revenue_pct": "0.4947584064880197307414840202429501313976",
+      "tax_surcharges_revenue_pct": "16.32567380664664984374182130611602699589",
+      "sale_cash_revenue_pct": "83.66211216080787317995065013168976912250",
+      "simple_fcf": "1.734981738"
+    },
+    "2026H1": {
+      "revenue": "105.4043157604",
+      "profit": "26.0171069452",
+      "core": "24.4904482683",
+      "cfo": "3.3479483522",
+      "cost": "28.0856084732",
+      "capex": "3.0494961946",
+      "sale_cash": "87.3808540202",
+      "sales_expense": "16.5945232075",
+      "admin_expense": "9.0456775419",
+      "rd_expense": "0.7766000311",
+      "finance_expense": "-0.6001079073",
+      "tax_surcharges": "18.4055564126",
+      "operating_profit": "35.2903526544",
+      "pbt": "35.3208078619",
+      "income_tax": "9.3665291311",
+      "net_profit": "25.9542787308",
+      "interest_income": "0.6423953093",
+      "investment_income": "1.496151173",
+      "fair_value_income": "0.6052138246",
+      "asset_impairment": "-0.0275992872",
+      "credit_impairment": "0.0006363013",
+      "parent_margin_pct": "24.68315149859786670466177933773567990633",
+      "core_margin_pct": "23.23476803736433735552626925053139296903",
+      "cfo_parent_ratio_pct": "12.86825764006661150586997664735263303006",
+      "nonrecurring_profit": "1.5266586769",
+      "gross_margin_pct": "73.35440368775520656655224149783313486784",
+      "sales_expense_revenue_pct": "15.74368477019657213030155883199558447062",
+      "admin_expense_revenue_pct": "8.581885358909019740658448273235454668357",
+      "rd_expense_revenue_pct": "0.7367820050796873290946936561031201037565",
+      "tax_surcharges_revenue_pct": "17.46186223952975694649287192736673243814",
+      "sale_cash_revenue_pct": "82.90064158172606255498650157906973921585",
+      "simple_fcf": "0.2984521576"
+    },
+    "2025YTD": {
+      "revenue": "180.9015565457",
+      "profit": "39.7500289708",
+      "core": "37.5688416173",
+      "cfo": "9.6623953743",
+      "cost": "52.2719987477",
+      "capex": "5.541355541",
+      "sale_cash": "170.3832761614",
+      "sales_expense": "34.0013697329",
+      "admin_expense": "12.9391539851",
+      "rd_expense": "1.0048885749",
+      "finance_expense": "-1.9534419399",
+      "tax_surcharges": "30.6709479505",
+      "operating_profit": "55.0844575749",
+      "pbt": "54.995270409",
+      "income_tax": "15.3701647265",
+      "net_profit": "39.6251056825",
+      "interest_income": "2.0517212924",
+      "investment_income": "2.4675431293",
+      "fair_value_income": "0.186246266",
+      "asset_impairment": "-0.0074842426",
+      "credit_impairment": "-0.0010812378",
+      "parent_margin_pct": "21.97329294994662200259973647314191043557",
+      "core_margin_pct": "20.76756128287333143743674064688957473087",
+      "cfo_parent_ratio_pct": "24.30789517511523171752565931843091868180",
+      "nonrecurring_profit": "2.1811873535",
+      "gross_margin_pct": "71.10472693224457678558682186296546453907",
+      "sales_expense_revenue_pct": "18.79550976904416631459266410138994713717",
+      "admin_expense_revenue_pct": "7.152594058432694864787555571304377971957",
+      "rd_expense_revenue_pct": "0.5554891810154996893439756788216485659583",
+      "tax_surcharges_revenue_pct": "16.95449643229122527226177296632401819848",
+      "sale_cash_revenue_pct": "94.18563301214998982800209054508773373705",
+      "simple_fcf": "4.1210398333"
+    },
+    "2026YTD": {
+      "revenue": "118.2185194202",
+      "profit": "18.3080401617",
+      "core": "17.9759097489",
+      "cfo": "1.1560171047",
+      "cost": "33.789852088",
+      "capex": "3.7509235699",
+      "sale_cash": "107.0745459339",
+      "sales_expense": "23.9350998174",
+      "admin_expense": "13.3973001634",
+      "rd_expense": "0.8712452525",
+      "finance_expense": "-0.852579583",
+      "tax_surcharges": "22.3719152935",
+      "operating_profit": "25.8723828719",
+      "pbt": "25.7915808517",
+      "income_tax": "7.5720338515",
+      "net_profit": "18.2195470002",
+      "interest_income": "0.8856641636",
+      "investment_income": "2.4111491844",
+      "fair_value_income": "-1.3223118457",
+      "asset_impairment": "-0.036111723",
+      "credit_impairment": "-0.0108070224",
+      "dividend_interest_cash": "22.1620827356",
+      "investment_paid": "213.10318182",
+      "investment_recovered": "201.8427509895",
+      "parent_margin_pct": "15.48660924827291055706528504151847161572",
+      "core_margin_pct": "15.20566306959555446770525024653924015411",
+      "cfo_parent_ratio_pct": "6.314259169686339567846634149761485007875",
+      "nonrecurring_profit": "0.3321304128",
+      "gross_margin_pct": "71.41746297135038596988825257955529172270",
+      "sales_expense_revenue_pct": "20.24648924279304514192368144422168795008",
+      "admin_expense_revenue_pct": "11.33265771649547756158745592660445204563",
+      "rd_expense_revenue_pct": "0.7369786534064224729343909042962121866434",
+      "tax_surcharges_revenue_pct": "18.92420527953026497939280271020096522418",
+      "sale_cash_revenue_pct": "90.57341139023279875316470479485698044653",
+      "simple_fcf": "-2.5949064652"
+    },
+    "2025Q3": {
+      "admin_expense": "4.2908586668",
+      "asset_impairment": "0.0316442306",
+      "capex": "1.1158957453",
+      "cfo": "3.5019538406",
+      "core": "-4.7469360551",
+      "cost": "15.3132639216",
+      "credit_impairment": "-0.0021355107",
+      "fair_value_income": "-0.4485264971",
+      "finance_expense": "-0.4739313181",
+      "income_tax": "-0.5575116207",
+      "interest_income": "0.4950085481",
+      "investment_income": "1.6184255683",
+      "net_profit": "-3.729214572",
+      "operating_profit": "-4.1379190765",
+      "pbt": "-4.2867261927",
+      "profit": "-3.6864613503",
+      "rd_expense": "0.2728612869",
+      "revenue": "32.9450431443",
+      "sale_cash": "46.5997319703",
+      "sales_expense": "12.5144760167",
+      "tax_surcharges": "6.5160501969",
+      "parent_margin_pct": "-11.18972992129110204402203921990994944420",
+      "core_margin_pct": "-14.40865029166396179579702818619750572891",
+      "cfo_parent_ratio_pct": null,
+      "cash_conversion_caveat": "No cash-conversion percentage shown for a loss-making period; two negatives do not imply healthy cash conversion.",
+      "nonrecurring_profit": "1.0604747048",
+      "gross_margin_pct": "53.51876197421392490278220722093237207247",
+      "sales_expense_revenue_pct": "37.98591479114574218760829671183378890968",
+      "admin_expense_revenue_pct": "13.02429214618401449060627145047329365139",
+      "rd_expense_revenue_pct": "0.8282316878592681588519281846943336194343",
+      "tax_surcharges_revenue_pct": "19.77854504047713492616019442303001227701",
+      "sale_cash_revenue_pct": "141.4468688542679038035901632042774826435",
+      "simple_fcf": "2.3860580953"
+    },
+    "2026Q3": {
+      "admin_expense": "4.3516226215",
+      "asset_impairment": "-0.0085124358",
+      "capex": "0.7014273753",
+      "cfo": "-2.1919312475",
+      "core": "-6.5145385194",
+      "cost": "5.7042436148",
+      "credit_impairment": "-0.0114433237",
+      "fair_value_income": "-1.9275256703",
+      "finance_expense": "-0.2524716757",
+      "income_tax": "-1.7944952796",
+      "interest_income": "0.2432688543",
+      "investment_income": "0.9149980114",
+      "net_profit": "-7.7347317306",
+      "operating_profit": "-9.4179697825",
+      "pbt": "-9.5292270102",
+      "profit": "-7.7090667835",
+      "rd_expense": "0.0946452214",
+      "revenue": "12.8142036598",
+      "sale_cash": "19.6936919137",
+      "sales_expense": "7.3405766099",
+      "tax_surcharges": "3.9663588809",
+      "parent_margin_pct": "-60.16032668252691602191262373025078990715",
+      "core_margin_pct": "-50.83841877616667158193374104032202873605",
+      "cfo_parent_ratio_pct": null,
+      "cash_conversion_caveat": "No cash-conversion percentage shown for a loss-making period; two negatives do not imply healthy cash conversion.",
+      "nonrecurring_profit": "-1.1945282641",
+      "gross_margin_pct": "55.48499332272178032985503182380129319443",
+      "sales_expense_revenue_pct": "57.28468818494312409242515697760379058901",
+      "admin_expense_revenue_pct": "33.95936834648309887009370504838837101873",
+      "rd_expense_revenue_pct": "0.7385962008463754383757995530153108172625",
+      "tax_surcharges_revenue_pct": "30.95283160937295157066940126298366325892",
+      "sale_cash_revenue_pct": "153.6864282521273183549843364726885312586",
+      "simple_fcf": "-2.8933586228"
+    },
+    "2025Q4": {
+      "admin_expense": "4.9577558925",
+      "asset_impairment": "-1.2761273867",
+      "capex": "1.2434613436",
+      "cfo": "-17.2927986422",
+      "core": "-16.2215474943",
+      "cost": "2.2832306166",
+      "fair_value_income": "-3.0691934845",
+      "finance_expense": "-0.8870625226",
+      "interest_income": "0.9275597584",
+      "investment_income": "1.1106842651",
+      "profit": "-17.689439704",
+      "rd_expense": "0.4449813483",
+      "revenue": "11.2090195848",
+      "sales_expense": "18.0549501687",
+      "tax_surcharges": "3.5052258786",
+      "parent_margin_pct": "-157.8143348771357211412551157772154988304",
+      "core_margin_pct": "-144.7187006105087236424970297461122159284",
+      "cfo_parent_ratio_pct": null,
+      "cash_conversion_caveat": "No cash-conversion percentage shown for a loss-making period; two negatives do not imply healthy cash conversion.",
+      "nonrecurring_profit": "-1.4678922097",
+      "gross_margin_pct": "79.63041638631645617534740806995114922123",
+      "sales_expense_revenue_pct": "161.0751951328859275096517895415855282323",
+      "admin_expense_revenue_pct": "44.23005825793157552517438260012058641791",
+      "rd_expense_revenue_pct": "3.969850752187259216965446299859693684349",
+      "tax_surcharges_revenue_pct": "31.27147608300430097041362785647079637709",
+      "simple_fcf": "-18.5362599858"
+    }
+  },
+  "growth": {
+    "H1": {
+      "admin_expense": {
+        "absolute_change": "0.3973822236",
+        "pct_vs_absolute_base": "4.594919680403717232991798353167946304635"
+      },
+      "asset_impairment": {
+        "absolute_change": "0.011529186",
+        "pct_vs_absolute_base": "29.46495239175343033829390511460079152795"
+      },
+      "capex": {
+        "absolute_change": "-1.3759636011",
+        "pct_vs_absolute_base": "-31.09199189736071383105797717867628169808"
+      },
+      "cfo": {
+        "absolute_change": "-2.8124931815",
+        "pct_vs_absolute_base": "-45.65408446966947959365226302269386636254"
+      },
+      "core": {
+        "absolute_change": "-17.8253294041",
+        "pct_vs_absolute_base": "-42.12454640937953223293530747584522087924"
+      },
+      "cost": {
+        "absolute_change": "-8.8731263529",
+        "pct_vs_absolute_base": "-24.00819831807083460817904450361560911592"
+      },
+      "credit_impairment": {
+        "absolute_change": "-0.0004179716",
+        "pct_vs_absolute_base": "-39.64548457994130362261991178944275244104"
+      },
+      "fair_value_income": {
+        "absolute_change": "-0.0295589385",
+        "pct_vs_absolute_base": "-4.656617331160345118468741684420895405618"
+      },
+      "finance_expense": {
+        "absolute_change": "0.8794027145",
+        "pct_vs_absolute_base": "59.43875640650030512677188540343874400429"
+      },
+      "income_tax": {
+        "absolute_change": "-6.5611472161",
+        "pct_vs_absolute_base": "-41.19337355353415665995094373247122405591"
+      },
+      "interest_income": {
+        "absolute_change": "-0.914317435",
+        "pct_vs_absolute_base": "-58.73385686266331673404801584882868746230"
+      },
+      "investment_income": {
+        "absolute_change": "0.647033612",
+        "pct_vs_absolute_base": "76.20071021002002336399682587650545599775"
+      },
+      "net_profit": {
+        "absolute_change": "-17.4000415237",
+        "pct_vs_absolute_base": "-40.13450429290019212518847266292110468545"
+      },
+      "operating_profit": {
+        "absolute_change": "-23.932023997",
+        "pct_vs_absolute_base": "-40.41044171170434413161319688806750251143"
+      },
+      "pbt": {
+        "absolute_change": "-23.9611887398",
+        "pct_vs_absolute_base": "-40.41899752599236349279458954765111939177"
+      },
+      "profit": {
+        "absolute_change": "-17.4193833759",
+        "pct_vs_absolute_base": "-40.10310972900645208708227195240413016989"
+      },
+      "rd_expense": {
+        "absolute_change": "0.0445727431",
+        "pct_vs_absolute_base": "6.088945566739583074121684928226336830219"
+      },
+      "revenue": {
+        "absolute_change": "-42.552197641",
+        "pct_vs_absolute_base": "-28.75993537746974301485224346858126800887"
+      },
+      "sale_cash": {
+        "absolute_change": "-36.4026901709",
+        "pct_vs_absolute_base": "-29.40834374131399494455333712287198107544"
+      },
+      "sales_expense": {
+        "absolute_change": "-4.8923705087",
+        "pct_vs_absolute_base": "-22.76909158354242318174696161203139483513"
+      },
+      "tax_surcharges": {
+        "absolute_change": "-5.749341341",
+        "pct_vs_absolute_base": "-23.80196927202115399642806791069355512058"
+      },
+      "note": "Uses absolute denominator for negative prior profit/CFO. A negative change from loss means worsening, not positive growth."
+    },
+    "YTD": {
+      "admin_expense": {
+        "absolute_change": "0.4581461783",
+        "pct_vs_absolute_base": "3.540773831330667374917011103373795956078"
+      },
+      "asset_impairment": {
+        "absolute_change": "-0.0286274804",
+        "pct_vs_absolute_base": "-382.5033731536174415297547944263591883032"
+      },
+      "capex": {
+        "absolute_change": "-1.7904319711",
+        "pct_vs_absolute_base": "-32.31036084677750873087318473507058441966"
+      },
+      "cfo": {
+        "absolute_change": "-8.5063782696",
+        "pct_vs_absolute_base": "-88.03591594093976320635273468556930317912"
+      },
+      "core": {
+        "absolute_change": "-19.5929318684",
+        "pct_vs_absolute_base": "-52.15207875714137104247191590185298273604"
+      },
+      "cost": {
+        "absolute_change": "-18.4821466597",
+        "pct_vs_absolute_base": "-35.35764291108769929513173070273695973059"
+      },
+      "credit_impairment": {
+        "absolute_change": "-0.0097257846",
+        "pct_vs_absolute_base": "-899.5046788042371437624544757869175494974"
+      },
+      "fair_value_income": {
+        "absolute_change": "-1.5085581117",
+        "pct_vs_absolute_base": "-809.9803255652921385280282612484698082484"
+      },
+      "finance_expense": {
+        "absolute_change": "1.1008623569",
+        "pct_vs_absolute_base": "56.35500776421105240344184749117456992303"
+      },
+      "income_tax": {
+        "absolute_change": "-7.798130875",
+        "pct_vs_absolute_base": "-50.73550618201957758959350603938369573596"
+      },
+      "interest_income": {
+        "absolute_change": "-1.1660571288",
+        "pct_vs_absolute_base": "-56.83311535145230332747313452796723532214"
+      },
+      "investment_income": {
+        "absolute_change": "-0.0563939449",
+        "pct_vs_absolute_base": "-2.285428944700877532904810572868636099993"
+      },
+      "net_profit": {
+        "absolute_change": "-21.4055586823",
+        "pct_vs_absolute_base": "-54.02019329314630402689526000357563841306"
+      },
+      "operating_profit": {
+        "absolute_change": "-29.212074703",
+        "pct_vs_absolute_base": "-53.03142844472864254839624540416180406657"
+      },
+      "pbt": {
+        "absolute_change": "-29.2036895573",
+        "pct_vs_absolute_base": "-53.10218376982614756034665613639532345626"
+      },
+      "profit": {
+        "absolute_change": "-21.4419888091",
+        "pct_vs_absolute_base": "-53.94207089723402390974943686618904244052"
+      },
+      "rd_expense": {
+        "absolute_change": "-0.1336433224",
+        "pct_vs_absolute_base": "-13.29931753013505179219845859947193235822"
+      },
+      "revenue": {
+        "absolute_change": "-62.6830371255",
+        "pct_vs_absolute_base": "-34.65035808559490551143109052313543340404"
+      },
+      "sale_cash": {
+        "absolute_change": "-63.3087302275",
+        "pct_vs_absolute_base": "-37.15665742189929187712915140234394227554"
+      },
+      "sales_expense": {
+        "absolute_change": "-10.0662699155",
+        "pct_vs_absolute_base": "-29.60548352779975190044735646268044232282"
+      },
+      "tax_surcharges": {
+        "absolute_change": "-8.299032657",
+        "pct_vs_absolute_base": "-27.05828548368916185579309488124586812973"
+      },
+      "note": "Uses absolute denominator for negative prior profit/CFO. A negative change from loss means worsening, not positive growth."
+    },
+    "Q3": {
+      "admin_expense": {
+        "absolute_change": "0.0607639547",
+        "pct_vs_absolute_base": "1.416125755204983811936166193559512371306"
+      },
+      "asset_impairment": {
+        "absolute_change": "-0.0401566664",
+        "pct_vs_absolute_base": "-126.9004353671977096513763870751213650933"
+      },
+      "capex": {
+        "absolute_change": "-0.41446837",
+        "pct_vs_absolute_base": "-37.14221258981262288356177317884787529712"
+      },
+      "cfo": {
+        "absolute_change": "-5.6938850881",
+        "pct_vs_absolute_base": "-162.5916658891326221668645485915032137731"
+      },
+      "core": {
+        "absolute_change": "-1.7676024643",
+        "pct_vs_absolute_base": "-37.23670266004380160836095775871240469535"
+      },
+      "cost": {
+        "absolute_change": "-9.6090203068",
+        "pct_vs_absolute_base": "-62.74965517472780236131628796624919263156"
+      },
+      "credit_impairment": {
+        "absolute_change": "-0.009307813",
+        "pct_vs_absolute_base": "-435.8588790962274270037607397612196464293"
+      },
+      "fair_value_income": {
+        "absolute_change": "-1.4789991732",
+        "pct_vs_absolute_base": "-329.7462207389397062223194126650851103084"
+      },
+      "finance_expense": {
+        "absolute_change": "0.2214596424",
+        "pct_vs_absolute_base": "46.72821439356151297991209920845279543049"
+      },
+      "income_tax": {
+        "absolute_change": "-1.2369836589",
+        "pct_vs_absolute_base": "-221.8758520848173595747257219458349489432"
+      },
+      "interest_income": {
+        "absolute_change": "-0.2517396938",
+        "pct_vs_absolute_base": "-50.85562557783231945767685622720259444344"
+      },
+      "investment_income": {
+        "absolute_change": "-0.7034275569",
+        "pct_vs_absolute_base": "-43.46369525284272537156752480848704841856"
+      },
+      "net_profit": {
+        "absolute_change": "-4.0055171586",
+        "pct_vs_absolute_base": "-107.4091361938398003235089793594209949901"
+      },
+      "operating_profit": {
+        "absolute_change": "-5.280050706",
+        "pct_vs_absolute_base": "-127.6015941439351635420992989542336691465"
+      },
+      "pbt": {
+        "absolute_change": "-5.2425008175",
+        "pct_vs_absolute_base": "-122.2961435332076603801791494813239509474"
+      },
+      "profit": {
+        "absolute_change": "-4.0226054332",
+        "pct_vs_absolute_base": "-109.1183400816787345337274130487986198703"
+      },
+      "rd_expense": {
+        "absolute_change": "-0.1782160655",
+        "pct_vs_absolute_base": "-65.31379644387362156064067144880126269023"
+      },
+      "revenue": {
+        "absolute_change": "-20.1308394845",
+        "pct_vs_absolute_base": "-61.10430451199134446173431900428048516077"
+      },
+      "sale_cash": {
+        "absolute_change": "-26.9060400566",
+        "pct_vs_absolute_base": "-57.73861547905118595376943847717734348284"
+      },
+      "sales_expense": {
+        "absolute_change": "-5.1738994068",
+        "pct_vs_absolute_base": "-41.34331633138827524746667805885811570673"
+      },
+      "tax_surcharges": {
+        "absolute_change": "-2.549691316",
+        "pct_vs_absolute_base": "-39.12939954349970148861791681941240141768"
+      },
+      "note": "Uses absolute denominator for negative prior profit/CFO. A negative change from loss means worsening, not positive growth."
+    }
+  },
+  "ttm": {
+    "admin_expense": "18.3550560559",
+    "asset_impairment": "-1.3122391097",
+    "capex": "4.9943849135",
+    "cfo": "-16.1367815375",
+    "core": "1.7543622546",
+    "cost": "36.0730827046",
+    "fair_value_income": "-4.3915053302",
+    "finance_expense": "-1.7396421056",
+    "interest_income": "1.813223922",
+    "investment_income": "3.5218334495",
+    "profit": "0.6186004577",
+    "rd_expense": "1.3162266008",
+    "revenue": "129.427539005",
+    "sales_expense": "41.9900499861",
+    "tax_surcharges": "25.8771411721",
+    "EPS_CNY": "0.04106359192090929164537199714723883786287",
+    "core_EPS_CNY": "0.1164571005527414270664607052244906474433",
+    "simple_fcf": "-21.131166451"
+  },
+  "balance": {
+    "2026H1": {
+      "cash": "111.6466074569",
+      "cash_equivalents": "110.9555611546",
+      "trading_financial_assets": "75.718363493",
+      "noncurrent_financial_assets": "35.4274669674",
+      "long_equity_investments": "12.6164670151",
+      "receivables": "0.0812829993",
+      "notes_receivable": "2.185915799",
+      "bills_financing": "0.2170728142",
+      "inventory": "198.5706863809",
+      "contract_liabilities": "43.0383798045",
+      "other_current_liabilities": "5.1285489839",
+      "short_debt": "0",
+      "long_debt": "1.4075",
+      "current_noncurrent_debt": "0.3535596992",
+      "lease_liability": "0.3943606066",
+      "parent_equity": "471.8128090453",
+      "assets": "559.7582139535",
+      "liabilities": "87.0461563592"
+    },
+    "2025end": {
+      "cash": "132.6336173762",
+      "cash_equivalents": "131.5502749511",
+      "trading_financial_assets": "72.93889826",
+      "noncurrent_financial_assets": "37.0953498294",
+      "long_equity_investments": "12.4670585094",
+      "receivables": "0.086219001",
+      "notes_receivable": "0.28125",
+      "bills_financing": "1.534282949",
+      "inventory": "203.7548943678",
+      "contract_liabilities": "75.2904733512",
+      "other_current_liabilities": "0.896858379",
+      "short_debt": "0.1001084932",
+      "long_debt": "0.81",
+      "current_noncurrent_debt": "0.3794929859",
+      "lease_liability": "0.4442346058",
+      "parent_equity": "467.9717351337",
+      "assets": "585.959444468",
+      "liabilities": "117.0254896864"
+    },
+    "2026Q3": {
+      "cash": "98.3980800825",
+      "cash_equivalents": "97.8746035915",
+      "trading_financial_assets": "86.6304130053",
+      "noncurrent_financial_assets": "33.3360436859",
+      "long_equity_investments": "13.093243777",
+      "receivables": "0.1129880135",
+      "notes_receivable": "0.0346626",
+      "bills_financing": "0.5974936768",
+      "inventory": "199.9733368794",
+      "contract_liabilities": "48.9646032423",
+      "other_current_liabilities": "2.3721196591",
+      "short_debt": "0.0490403071",
+      "long_debt": "1.4575",
+      "current_noncurrent_debt": "0.2774919841",
+      "lease_liability": "0.232563556",
+      "parent_equity": "464.0838169881",
+      "assets": "555.8227572654",
+      "liabilities": "90.8745682336",
+      "goodwill": "1.5088664581",
+      "intangibles": "17.1932893002"
+    }
+  },
+  "balance_changes": {
+    "2026H1_to_2026Q3": {
+      "assets": {
+        "change": "-3.9354566881",
+        "pct": "-0.7030636782092713712937692036532763911700"
+      },
+      "bills_financing": {
+        "change": "0.3804208626",
+        "pct": "175.2503481387122496705531723833891310006"
+      },
+      "cash": {
+        "change": "-13.2485273744",
+        "pct": "-11.86648450515117964665443007545756315302"
+      },
+      "cash_equivalents": {
+        "change": "-13.0809575631",
+        "pct": "-11.78936632556311410176135795363779973468"
+      },
+      "contract_liabilities": {
+        "change": "5.9262234378",
+        "pct": "13.76962484349925942621690727730470739640"
+      },
+      "current_noncurrent_debt": {
+        "change": "-0.0760677151",
+        "pct": "-21.51481497244129344479315588239984564395"
+      },
+      "inventory": {
+        "change": "1.4026504985",
+        "pct": "0.706373394816908543662076766553120331300"
+      },
+      "lease_liability": {
+        "change": "-0.1617970506",
+        "pct": "-41.02769087281346118103876554895227204978"
+      },
+      "liabilities": {
+        "change": "3.8284118744",
+        "pct": "4.398140061006118295293847419643091498100"
+      },
+      "long_debt": {
+        "change": "0.05",
+        "pct": "3.552397868561278863232682060390763765500"
+      },
+      "long_equity_investments": {
+        "change": "0.4767767619",
+        "pct": "3.779003752234048037478786623392295322200"
+      },
+      "noncurrent_financial_assets": {
+        "change": "-2.0914232815",
+        "pct": "-5.903394909448385741154381010689610435560"
+      },
+      "notes_receivable": {
+        "change": "-2.151253199",
+        "pct": "-98.41427560860957023532634250382669931926"
+      },
+      "other_current_liabilities": {
+        "change": "-2.7564293248",
+        "pct": "-53.74676801280887927681356975563623805988"
+      },
+      "parent_equity": {
+        "change": "-7.7289920572",
+        "pct": "-1.638147991963041206802154100339108044980"
+      },
+      "receivables": {
+        "change": "0.0317050142",
+        "pct": "39.00571395376646737493113150907067967900"
+      },
+      "short_debt": {
+        "change": "0.0490403071",
+        "pct": null
+      },
+      "trading_financial_assets": {
+        "change": "10.9120495123",
+        "pct": "14.41136470587982996939915123477007078530"
+      }
+    },
+    "2025end_to_2026Q3": {
+      "assets": {
+        "change": "-30.1366872026",
+        "pct": "-5.143135329094572398399197261763351119390"
+      },
+      "bills_financing": {
+        "change": "-0.9367892722",
+        "pct": "-61.05713895931460292856321119162747079450"
+      },
+      "cash": {
+        "change": "-34.2355372937",
+        "pct": "-25.81211156791029553353843030822904059115"
+      },
+      "cash_equivalents": {
+        "change": "-33.6756713596",
+        "pct": "-25.59908854019343881733017402029334799636"
+      },
+      "contract_liabilities": {
+        "change": "-26.3258701089",
+        "pct": "-34.96573860825701813269436136757621761398"
+      },
+      "current_noncurrent_debt": {
+        "change": "-0.1020010018",
+        "pct": "-26.87823111093764223377178365920359425542"
+      },
+      "inventory": {
+        "change": "-3.7815574884",
+        "pct": "-1.855934553195994749134777254813957625380"
+      },
+      "lease_liability": {
+        "change": "-0.2116710498",
+        "pct": "-47.64848281434809372520973466223373631645"
+      },
+      "liabilities": {
+        "change": "-26.1509214528",
+        "pct": "-22.34634652918619927635246041750503746602"
+      },
+      "long_debt": {
+        "change": "0.6475",
+        "pct": "79.93827160493827160493827160493827160490"
+      },
+      "long_equity_investments": {
+        "change": "0.6261852676",
+        "pct": "5.022718607824487635672024497573583193100"
+      },
+      "noncurrent_financial_assets": {
+        "change": "-3.7593061435",
+        "pct": "-10.13417088877418742847489982700845012886"
+      },
+      "notes_receivable": {
+        "change": "-0.2465874",
+        "pct": "-87.6755200"
+      },
+      "other_current_liabilities": {
+        "change": "1.4752612801",
+        "pct": "164.4921109779808390461611553946356116945"
+      },
+      "parent_equity": {
+        "change": "-3.8879181456",
+        "pct": "-0.8308019168057698692487668480264943189800"
+      },
+      "receivables": {
+        "change": "0.0267690125",
+        "pct": "31.04769504346263534183143690101442952230"
+      },
+      "short_debt": {
+        "change": "-0.0510681861",
+        "pct": "-51.01284063678225455500113351021849163144"
+      },
+      "trading_financial_assets": {
+        "change": "13.6915147453",
+        "pct": "18.77121134527539818641620375909418075710"
+      }
+    }
+  },
+  "valuation": {
+    "price_CNY": "37.86",
+    "registered_shares": "1506445074",
+    "market_cap": "570.3401050164",
+    "TTM_PE": "921.9846152991296113617472999163608604617",
+    "TTM_core_PE": "325.0982535225823707709859206406571761636",
+    "PB": "1.228959261535776877158971791593827035602",
+    "BVPS_CNY": "30.80655411855394337463909420968374450007",
+    "trailing_paid_dividend_CNY": "1.47",
+    "trailing_paid_dividend_yield_pct": "3.882725832012678288431061806656101426307",
+    "TTM_100pct_payout_yield_pct": "0.1084616796643140297025145196704670836314",
+    "caveat": "TTM earnings are near zero due partly to 2025Q4 losses; PE is arithmetic only. Trailing dividend yield is not a promised prospective yield. Negative FCF is not a positive cash earnings yield."
+  },
+  "cash_and_quality": {
+    "named_interest_and_lease_debt": "2.0165958472",
+    "cash_equivalents_less_named_debt": "95.8580077443",
+    "cash_plus_trading_assets_less_named_debt": "182.4884207496",
+    "excluded_noncurrent_financial_assets": "33.3360436859",
+    "excluded_long_equity_investments": "13.093243777",
+    "cash_liquid_sensitivity_less_contract_liabilities": "133.5238175073",
+    "cash_caveat": "Cash-equivalent subtotal is not legal distributable parent cash. Trading assets involve redemption/valuation risk, not cash equivalents. Other noncurrent financial assets and long-term equity stakes excluded from liquid cash. Subtracting all contract liabilities is an illustrative conservative adjustment, not a liquidation valuation.",
+    "receivables_notes_financing": "0.7451442903",
+    "DSO_receivables_only_273_days": "0.2300126715561262902651972220237687743797",
+    "DIO_273_days": "1630.930594834239216395116171483372490340",
+    "turnover_caveat": "Average year-opening and current balance, 273 days. Long aging raw liquor is not dealer inventory. DIO is an accounting ratio, not a channel-clearance countdown.",
+    "goodwill_intangibles_assets_pct": "3.364769706500142670291677415620081949783",
+    "asset_impairment_YTD": "-0.036111723",
+    "asset_impairment_note": "Large percentage increase is from a tiny base; all YTD asset impairment is only CNY3.61 million and cannot explain the CNY771 million Q3 loss.",
+    "investment_net_cash_outflow_YTD": "11.2604308305"
+  },
+  "contract_split": {
+    "2025end": {
+      "prepayments": "30.6397758529",
+      "unsettled_rebates": "44.6506974983",
+      "total": "75.2904733512",
+      "rebates_pct": "59.30457800420821110955268216106303416416"
+    },
+    "2026H1": {
+      "prepayments": "7.7567306592",
+      "unsettled_rebates": "35.2816491453",
+      "total": "43.0383798045",
+      "rebates_pct": "81.97717782492134380457913875464693667683"
+    }
+  },
+  "scenarios": [
+    {
+      "name": "bear",
+      "annual_profit": [
+        "5",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "annual_EPS_CNY": [
+        "0.3319072222609292424822917904805070908281",
+        "0.3319072222609292424822917904805070908281",
+        "0.3982886667131150909787501485766085089937",
+        "0.4646701111653009394752085066727099271593",
+        "0.5310515556174867879716668647688113453249"
+      ],
+      "payouts": [
+        "1.00",
+        "0.80",
+        "0.80",
+        "0.80",
+        "0.80"
+      ],
+      "exit_PE": "12",
+      "annual_dividend_CNY": [
+        "0.3319072222609292424822917904805070908281",
+        "0.2655257778087433939858334323844056726625",
+        "0.3186309333704920727830001188612868071950",
+        "0.3717360889322407515801668053381679417274",
+        "0.4248412444939894303773334918150490762599"
+      ],
+      "dividend_sum_CNY": "1.712641266866394891208625638879416588673",
+      "terminal_price_CNY": "6.372618667409841455660002377225736143899",
+      "cashflows_CNY": [
+        "-37.86",
+        "0.3319072222609292424822917904805070908281",
+        "0.2655257778087433939858334323844056726625",
+        "0.3186309333704920727830001188612868071950",
+        "0.3717360889322407515801668053381679417274",
+        "6.797459911903830886037335869040785220159"
+      ],
+      "IRR_pct": "-27.81174032256981777688386048613763497014",
+      "PV10_CNY": "5.235157318789237621720086933754575491465",
+      "NPV10_CNY": "-32.62484268121076237827991306624542450854",
+      "IRR_residual_CNY": "4E-38",
+      "no_dividend_sensitivity_IRR_pct": "-29.97913615205301937030635559731068006262"
+    },
+    {
+      "name": "base",
+      "annual_profit": [
+        "10",
+        "13",
+        "16",
+        "18",
+        "20"
+      ],
+      "annual_EPS_CNY": [
+        "0.6638144445218584849645835809610141816561",
+        "0.8629587778784160304539586552493184361530",
+        "1.062103111234973575943333729537622690650",
+        "1.194866000139345272936250445729825526981",
+        "1.327628889043716969929167161922028363312"
+      ],
+      "payouts": [
+        "1.00",
+        "0.80",
+        "0.80",
+        "0.80",
+        "0.80"
+      ],
+      "exit_PE": "16",
+      "annual_dividend_CNY": [
+        "0.6638144445218584849645835809610141816561",
+        "0.6903670223027328243631669241994547489224",
+        "0.8496824889879788607546669836300981525200",
+        "0.9558928001114762183490003565838604215848",
+        "1.062103111234973575943333729537622690650"
+      ],
+      "dividend_sum_CNY": "4.221859867159019964374751574912050195333",
+      "terminal_price_CNY": "21.24206222469947151886667459075245381299",
+      "cashflows_CNY": [
+        "-37.86",
+        "0.6638144445218584849645835809610141816561",
+        "0.6903670223027328243631669241994547489224",
+        "0.8496824889879788607546669836300981525200",
+        "0.9558928001114762183490003565838604215848",
+        "22.30416533593444509481000832029007650364"
+      ],
+      "IRR_pct": "-8.028590267347542370206810748785250329550",
+      "PV10_CNY": "16.31441745946433971448241722169948455217",
+      "NPV10_CNY": "-21.54558254053566028551758277830051544783",
+      "IRR_residual_CNY": "1E-38",
+      "no_dividend_sensitivity_IRR_pct": "-10.91528121063671402559312131074799067686"
+    },
+    {
+      "name": "bull",
+      "annual_profit": [
+        "15",
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "annual_EPS_CNY": [
+        "0.9957216667827877274468753714415212724842",
+        "1.327628889043716969929167161922028363312",
+        "1.659536111304646212411458952402535454140",
+        "1.991443333565575454893750742883042544968",
+        "2.323350555826504697376042533363549635796"
+      ],
+      "payouts": [
+        "1.00",
+        "0.80",
+        "0.80",
+        "0.80",
+        "0.80"
+      ],
+      "exit_PE": "20",
+      "annual_dividend_CNY": [
+        "0.9957216667827877274468753714415212724842",
+        "1.062103111234973575943333729537622690650",
+        "1.327628889043716969929167161922028363312",
+        "1.593154666852460363915000594306434035974",
+        "1.858680444661203757900834026690839708637"
+      ],
+      "dividend_sum_CNY": "6.837288778575142395135210883898446071057",
+      "terminal_price_CNY": "46.46701111653009394752085066727099271592",
+      "cashflows_CNY": [
+        "-37.86",
+        "0.9957216667827877274468753714415212724842",
+        "1.062103111234973575943333729537622690650",
+        "1.327628889043716969929167161922028363312",
+        "1.593154666852460363915000594306434035974",
+        "48.32569156119129770542168469396183242456"
+      ],
+      "IRR_pct": "7.445234753540989316808712983627237037250",
+      "PV10_CNY": "33.87503833187147610426388227267553214823",
+      "NPV10_CNY": "-3.98496166812852389573611772732446785177",
+      "IRR_residual_CNY": "4E-38",
+      "no_dividend_sensitivity_IRR_pct": "4.182032468335320786498103552980221745050"
+    }
+  ],
+  "products_H1": {
+    "mid_high_liquor": {
+      "revenue": "90.7809930694",
+      "cost": "18.6709638276",
+      "gross_margin_pct": "79.43295926127788255485721499755911767973"
+    },
+    "ordinary_liquor": {
+      "revenue": "12.473254544",
+      "cost": "7.8756375219",
+      "gross_margin_pct": "36.85980275542110351083363572220225509093"
+    },
+    "dealer": {
+      "revenue": "101.1813632132",
+      "cost": "26.0383300946",
+      "gross_margin_pct": "74.26568562855350964181409321759418605587"
+    },
+    "online_direct": {
+      "revenue": "2.0728844002",
+      "cost": "0.5082712549",
+      "gross_margin_pct": "75.48000000140094642987318092317418367149"
+    },
+    "liquor_in_province": {
+      "revenue": "43.9098401705",
+      "cost": "11.331637234",
+      "gross_margin_pct": "74.19339904221981822984372049207297626458"
+    },
+    "liquor_out_province": {
+      "revenue": "59.3444074429",
+      "cost": "15.2149641155",
+      "gross_margin_pct": "74.36158726474852129608237416484954483391"
+    },
+    "all_in_province": {
+      "revenue": "44.8241768769",
+      "revenue_yoy_pct": "-38.25475401455354999834009490289768203863"
+    },
+    "all_out_province": {
+      "revenue": "60.5801388835",
+      "revenue_yoy_pct": "-19.61358420278341471538429198454081894796"
+    }
+  },
+  "inventory_split_H1": {
+    "finished_goods": "7.1580291532",
+    "semi_finished": "182.6645834621",
+    "finished_goods_change_pct": "-61.51760647036124549945994180214419924757",
+    "semi_finished_change_pct": "4.029872782750821408424425587076048222000",
+    "semi_finished_inventory_pct": "91.98970240336039507140558258081262606389"
+  },
+  "H1_prepayment_change_pct": "-74.68411421663243234110558763147067199804",
+  "scenario_terms": {
+    "years": 5,
+    "payout_first_year": "1.00",
+    "payout_later_years": "0.80",
+    "discount_rate": "0.10",
+    "note": "Illustrative 2027-2031 earnings/recovery paths, received at each model year end. First year assumes 100% payout reflecting the last year of the 2025-2027 plan; actual declarations/payment dates are not forecast. Later 80% payout is an analyst assumption, not renewed policy. Terminal PE values the whole equity including financial assets; no extra net cash is added. Recovery stress test, not a standalone fair-value conclusion."
+  },
+  "asset_reverse_sensitivity": {
+    "market_cap_CNY": "57034010501.64",
+    "market_cap": "570.3401050164",
+    "formula": "required sustainable core after-tax operating profit = (market cap - separable financial asset scenario value A) / multiple M",
+    "note": "A values are pressure-test assumptions, NOT verified excess/distributable net cash. CNY18bn references the CNY18.24884207496bn cash-equivalents plus trading assets less named debt upper subtotal, before a full operating-reserve allowance. Required profit excludes income from separated financial assets. Do not add A to a valuation of unadjusted total net profit; do not add inventory. This is the current price's implied earnings requirement, not proof of cheapness or an addition to the recovery model.",
+    "precision": "Decimal, 40 significant digits. Each cell retains the exact numerator and denominator as well as the decimal quotient; no binary float arithmetic.",
+    "rows": [
+      {
+        "separable_financial_asset_value_A": "0",
+        "core_after_tax_multiple_M": "12",
+        "exact_numerator_CNY": "57034010501.64",
+        "exact_denominator_multiple": "12",
+        "required_core_after_tax_profit_CNY": "4752834208.47",
+        "required_core_after_tax_profit": "47.5283420847"
+      },
+      {
+        "separable_financial_asset_value_A": "0",
+        "core_after_tax_multiple_M": "16",
+        "exact_numerator_CNY": "57034010501.64",
+        "exact_denominator_multiple": "16",
+        "required_core_after_tax_profit_CNY": "3564625656.3525",
+        "required_core_after_tax_profit": "35.646256563525"
+      },
+      {
+        "separable_financial_asset_value_A": "0",
+        "core_after_tax_multiple_M": "20",
+        "exact_numerator_CNY": "57034010501.64",
+        "exact_denominator_multiple": "20",
+        "required_core_after_tax_profit_CNY": "2851700525.082",
+        "required_core_after_tax_profit": "28.51700525082"
+      },
+      {
+        "separable_financial_asset_value_A": "100",
+        "core_after_tax_multiple_M": "12",
+        "exact_numerator_CNY": "47034010501.64",
+        "exact_denominator_multiple": "12",
+        "required_core_after_tax_profit_CNY": "3919500875.136666666666666666666666666667",
+        "required_core_after_tax_profit": "39.19500875136666666666666666666666666667"
+      },
+      {
+        "separable_financial_asset_value_A": "100",
+        "core_after_tax_multiple_M": "16",
+        "exact_numerator_CNY": "47034010501.64",
+        "exact_denominator_multiple": "16",
+        "required_core_after_tax_profit_CNY": "2939625656.3525",
+        "required_core_after_tax_profit": "29.396256563525"
+      },
+      {
+        "separable_financial_asset_value_A": "100",
+        "core_after_tax_multiple_M": "20",
+        "exact_numerator_CNY": "47034010501.64",
+        "exact_denominator_multiple": "20",
+        "required_core_after_tax_profit_CNY": "2351700525.082",
+        "required_core_after_tax_profit": "23.51700525082"
+      },
+      {
+        "separable_financial_asset_value_A": "150",
+        "core_after_tax_multiple_M": "12",
+        "exact_numerator_CNY": "42034010501.64",
+        "exact_denominator_multiple": "12",
+        "required_core_after_tax_profit_CNY": "3502834208.47",
+        "required_core_after_tax_profit": "35.0283420847"
+      },
+      {
+        "separable_financial_asset_value_A": "150",
+        "core_after_tax_multiple_M": "16",
+        "exact_numerator_CNY": "42034010501.64",
+        "exact_denominator_multiple": "16",
+        "required_core_after_tax_profit_CNY": "2627125656.3525",
+        "required_core_after_tax_profit": "26.271256563525"
+      },
+      {
+        "separable_financial_asset_value_A": "150",
+        "core_after_tax_multiple_M": "20",
+        "exact_numerator_CNY": "42034010501.64",
+        "exact_denominator_multiple": "20",
+        "required_core_after_tax_profit_CNY": "2101700525.082",
+        "required_core_after_tax_profit": "21.01700525082"
+      },
+      {
+        "separable_financial_asset_value_A": "180",
+        "core_after_tax_multiple_M": "12",
+        "exact_numerator_CNY": "39034010501.64",
+        "exact_denominator_multiple": "12",
+        "required_core_after_tax_profit_CNY": "3252834208.47",
+        "required_core_after_tax_profit": "32.5283420847"
+      },
+      {
+        "separable_financial_asset_value_A": "180",
+        "core_after_tax_multiple_M": "16",
+        "exact_numerator_CNY": "39034010501.64",
+        "exact_denominator_multiple": "16",
+        "required_core_after_tax_profit_CNY": "2439625656.3525",
+        "required_core_after_tax_profit": "24.396256563525"
+      },
+      {
+        "separable_financial_asset_value_A": "180",
+        "core_after_tax_multiple_M": "20",
+        "exact_numerator_CNY": "39034010501.64",
+        "exact_denominator_multiple": "20",
+        "required_core_after_tax_profit_CNY": "1951700525.082",
+        "required_core_after_tax_profit": "19.51700525082"
+      }
+    ]
+  },
+  "flat_profit_requirement": {
+    "12": {
+      "annual_profit_for_10pct_return": "53.4752162805839449493214724426409887698",
+      "note": "Same profit every model year, same payout/timing; not the actual recovery path."
+    },
+    "16": {
+      "annual_profit_for_10pct_return": "43.37454691338025697812238807379739244177",
+      "note": "Same profit every model year, same payout/timing; not the actual recovery path."
+    },
+    "20": {
+      "annual_profit_for_10pct_return": "36.48338129515398496240601503759398496241",
+      "note": "Same profit every model year, same payout/timing; not the actual recovery path."
+    }
+  },
+  "primary_quarter_reconciliation": [
+    {
+      "period": "2025Q3",
+      "metric": "revenue",
+      "calculated_CNY": "3294504314.43",
+      "issuer_CNY": "3294504314.43",
+      "passed": true
+    },
+    {
+      "period": "2025Q3",
+      "metric": "profit",
+      "calculated_CNY": "-368646135.03",
+      "issuer_CNY": "-368646135.03",
+      "passed": true
+    },
+    {
+      "period": "2025Q3",
+      "metric": "core",
+      "calculated_CNY": "-474693605.51",
+      "issuer_CNY": "-474693605.51",
+      "passed": true
+    },
+    {
+      "period": "2025Q3",
+      "metric": "cfo",
+      "calculated_CNY": "350195384.06",
+      "issuer_CNY": "350195384.06",
+      "passed": true
+    },
+    {
+      "period": "2025Q4",
+      "metric": "revenue",
+      "calculated_CNY": "1120901958.48",
+      "issuer_CNY": "1120901958.48",
+      "passed": true
+    },
+    {
+      "period": "2025Q4",
+      "metric": "profit",
+      "calculated_CNY": "-1768943970.40",
+      "issuer_CNY": "-1768943970.40",
+      "passed": true
+    },
+    {
+      "period": "2025Q4",
+      "metric": "core",
+      "calculated_CNY": "-1622154749.43",
+      "issuer_CNY": "-1622154749.43",
+      "passed": true
+    },
+    {
+      "period": "2025Q4",
+      "metric": "cfo",
+      "calculated_CNY": "-1729279864.22",
+      "issuer_CNY": "-1729279864.22",
+      "passed": true
+    },
+    {
+      "period": "2026Q3",
+      "metric": "revenue",
+      "calculated_CNY": "1281420365.98",
+      "issuer_CNY": "1281420365.98",
+      "passed": true
+    },
+    {
+      "period": "2026Q3",
+      "metric": "profit",
+      "calculated_CNY": "-770906678.35",
+      "issuer_CNY": "-770906678.35",
+      "passed": true
+    },
+    {
+      "period": "2026Q3",
+      "metric": "core",
+      "calculated_CNY": "-651453851.94",
+      "issuer_CNY": "-651453851.94",
+      "passed": true
+    }
+  ],
+  "financial_rigor": {
+    "market_cap_passed": true,
+    "valuation_checks": {
+      "PE": 921.9846152991296,
+      "PB": 1.228959261535777,
+      "ROE": 0.13329498574518536,
+      "P_FCF": -26.990469567259005,
+      "FCF_Yield": -3.705011494920628,
+      "Dividend_Yield": 3.882725832012678
+    },
+    "cross_source_count": 28,
+    "cross_source_all_passed": true,
+    "log": "============================================================\n市值验算 (Market Cap Verification)\n============================================================\n  股价 (Price):       37.86 CNY\n  总股本 (Shares):    1.51B\n  计算市值:           57.03B CNY\n  报告市值:           57.03B CNY\n  偏差:               0.00%\n\n  ✅ 验证通过, 偏差仅 0.00%\n============================================================\n估值指标验算 (Valuation Verification)\n============================================================\n  当前股价: 37.86\n\n  PE (TTM):  37.86 / 0.04106359192090929164537199714723883786287 = 921.98x\n  盈利收益率: 0.11%\n  PB:        37.86 / 30.80655411855394337463909420968374450007 = 1.23x\n  ROE:       0.04106359192090929164537199714723883786287 / 30.80655411855394337463909420968374450007 = 0.13%\n  P/FCF:     37.86 / -1.402717351976949675365329648918882521435 = -26.99x\n  FCF Yield: -3.71%\n  股息率:    1.47 / 37.86 = 3.88%\n\n  ✅ 以上指标均使用精确十进制计算, 无浮点误差\n============================================================\n交叉验证: 2023:revenue (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 33.13B CNY yuan\n\n  ✅ issuer_filing       : 33.13B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 33.13B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 33.13B CNY yuan\n============================================================\n交叉验证: 2023:profit (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 10.02B CNY yuan\n\n  ✅ issuer_filing       : 10.02B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 10.02B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 10.02B CNY yuan\n============================================================\n交叉验证: 2023:core (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 9.84B CNY yuan\n\n  ✅ issuer_filing       : 9.84B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 9.84B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 9.84B CNY yuan\n============================================================\n交叉验证: 2023:cfo (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 6.13B CNY yuan\n\n  ✅ issuer_filing       : 6.13B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 6.13B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 6.13B CNY yuan\n============================================================\n交叉验证: 2024:revenue (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 28.88B CNY yuan\n\n  ✅ issuer_filing       : 28.88B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 28.88B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 28.88B CNY yuan\n============================================================\n交叉验证: 2024:profit (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 6.67B CNY yuan\n\n  ✅ issuer_filing       : 6.67B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 6.67B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 6.67B CNY yuan\n============================================================\n交叉验证: 2024:core (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 6.84B CNY yuan\n\n  ✅ issuer_filing       : 6.84B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 6.84B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 6.84B CNY yuan\n============================================================\n交叉验证: 2024:cfo (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 4.63B CNY yuan\n\n  ✅ issuer_filing       : 4.63B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 4.63B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 4.63B CNY yuan\n============================================================\n交叉验证: 2025:revenue (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 19.21B CNY yuan\n\n  ✅ issuer_filing       : 19.21B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 19.21B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 19.21B CNY yuan\n============================================================\n交叉验证: 2025:profit (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 2.21B CNY yuan\n\n  ✅ issuer_filing       : 2.21B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 2.21B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 2.21B CNY yuan\n============================================================\n交叉验证: 2025:core (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 2.13B CNY yuan\n\n  ✅ issuer_filing       : 2.13B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 2.13B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 2.13B CNY yuan\n============================================================\n交叉验证: 2025:cfo (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: -763.04M CNY yuan\n\n  ✅ issuer_filing       : -763.04M CNY yuan  (偏差 -0.00%)\n  ✅ Eastmoney           : -763.04M CNY yuan  (偏差 -0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): -763.04M CNY yuan\n============================================================\n交叉验证: 2025H1:revenue (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 14.80B CNY yuan\n\n  ✅ issuer_filing       : 14.80B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 14.80B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 14.80B CNY yuan\n============================================================\n交叉验证: 2025H1:profit (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 4.34B CNY yuan\n\n  ✅ issuer_filing       : 4.34B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 4.34B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 4.34B CNY yuan\n============================================================\n交叉验证: 2025H1:core (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 4.23B CNY yuan\n\n  ✅ issuer_filing       : 4.23B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 4.23B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 4.23B CNY yuan\n============================================================\n交叉验证: 2025H1:cfo (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 616.04M CNY yuan\n\n  ✅ issuer_filing       : 616.04M CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 616.04M CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 616.04M CNY yuan\n============================================================\n交叉验证: 2026H1:revenue (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 10.54B CNY yuan\n\n  ✅ issuer_filing       : 10.54B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 10.54B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 10.54B CNY yuan\n============================================================\n交叉验证: 2026H1:profit (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 2.60B CNY yuan\n\n  ✅ issuer_filing       : 2.60B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 2.60B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 2.60B CNY yuan\n============================================================\n交叉验证: 2026H1:core (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 2.45B CNY yuan\n\n  ✅ issuer_filing       : 2.45B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 2.45B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 2.45B CNY yuan\n============================================================\n交叉验证: 2026H1:cfo (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 334.79M CNY yuan\n\n  ✅ issuer_filing       : 334.79M CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 334.79M CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 334.79M CNY yuan\n============================================================\n交叉验证: 2025YTD:revenue (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 18.09B CNY yuan\n\n  ✅ issuer_filing       : 18.09B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 18.09B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 18.09B CNY yuan\n============================================================\n交叉验证: 2025YTD:profit (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 3.98B CNY yuan\n\n  ✅ issuer_filing       : 3.98B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 3.98B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 3.98B CNY yuan\n============================================================\n交叉验证: 2025YTD:core (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 3.76B CNY yuan\n\n  ✅ issuer_filing       : 3.76B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 3.76B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 3.76B CNY yuan\n============================================================\n交叉验证: 2025YTD:cfo (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 966.24M CNY yuan\n\n  ✅ issuer_filing       : 966.24M CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 966.24M CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 966.24M CNY yuan\n============================================================\n交叉验证: 2026YTD:revenue (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 11.82B CNY yuan\n\n  ✅ issuer_filing       : 11.82B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 11.82B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 11.82B CNY yuan\n============================================================\n交叉验证: 2026YTD:profit (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 1.83B CNY yuan\n\n  ✅ issuer_filing       : 1.83B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 1.83B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 1.83B CNY yuan\n============================================================\n交叉验证: 2026YTD:core (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 1.80B CNY yuan\n\n  ✅ issuer_filing       : 1.80B CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 1.80B CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 1.80B CNY yuan\n============================================================\n交叉验证: 2026YTD:cfo (Cross-Validation)\n============================================================\n  数据来源数: 2\n  参考中位数: 115.60M CNY yuan\n\n  ✅ issuer_filing       : 115.60M CNY yuan  (偏差 0.00%)\n  ✅ Eastmoney           : 115.60M CNY yuan  (偏差 0.00%)\n\n  ✅ 所有来源偏差 ≤ 1%, 数据一致\n\n  共识值 (加权中位数): 115.60M CNY yuan\n"
+  }
+}

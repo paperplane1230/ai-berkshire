@@ -1,6 +1,6 @@
 {
-  "count": 2525,
-  "published": 2311,
+  "count": 2526,
+  "published": 2312,
   "drafts": 214,
   "reports": [
     {
@@ -199,6 +199,17 @@
       "type": "研究",
       "date": "2026-11-12",
       "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "洋河股份（002304.SZ）研究报告",
+      "path": "reports/洋河股份/洋河股份研究报告-20261106.md",
+      "bucket": "公司",
+      "group": "洋河股份",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-06",
+      "date_source": "文件名",
       "ticker": ""
     },
     {

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 43,
+    "label": "交易性金融资产 · 判断边界",
+    "reported_value": 3.0,
+    "unit": "",
+    "raw_text": "| 交易性金融资产 | 86.6304 | 半年附注主要为一年内到期银行结构性存款；Q3未重列完整构成 |",
+    "line_number": 125,
+    "exclusion_reason": "Q3 period marker"
+  },
+  {
+    "id": 50,
+    "label": "等中报收入降幅收窄至15%以内 · 本次结果",
+    "reported_value": 1.0,
+    "unit": "",
+    "raw_text": "| 等中报收入降幅收窄至15%以内 | H1收入仍下滑约28.76%，Q3单季下滑61.10% | 原销售企稳检验未达标，不再停留在“等8月中报” |",
+    "line_number": 150,
+    "exclusion_reason": "H1 period marker"
+  },
+  {
+    "id": 52,
+    "label": "合同负债回升即打款回暖 · 本次结果",
+    "reported_value": 3.0,
+    "unit": "",
+    "raw_text": "| 合同负债回升即打款回暖 | Q3总额回升，预收与折扣未细拆 | 不能确认旧“真实预收回暖”条件已达成 |",
+    "line_number": 153,
+    "exclusion_reason": "Q3 period marker"
+  },
+  {
+    "id": 53,
+    "label": "Q4亏损是季节性，不宜夸大 · 本次结果",
+    "reported_value": 3.0,
+    "unit": "",
+    "raw_text": "| Q4亏损是季节性，不宜夸大 | 保留这一提醒；但同Q3亏损继续扩大 | 不永久外推低谷，也不拿季节性免除同季恶化 |",
+    "line_number": 154,
+    "exclusion_reason": "Q3 period marker"
+  },
+  {
+    "id": 57,
+    "label": "维护产品价格、聚焦主导品牌 · 判断",
+    "reported_value": 8.0,
+    "unit": "",
+    "raw_text": "| 维护产品价格、聚焦主导品牌 | 未取得同口径当日批价双源 | 不沿用8月梦6+报价证明当前价盘稳定 |",
+    "line_number": 187,
+    "exclusion_reason": "August month"
+  },
+  {
+    "id": 58,
+    "label": "提高资金回报、现金分红 · 本次观察",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| 提高资金回报、现金分红 | 已派发2025年度股利，仍有金融与基金投资 | 要看真实现金回收及资本机会成本 |",
+    "line_number": 188,
+    "exclusion_reason": "year label"
+  },
+  {
+    "id": 60,
+    "label": "TTM营业收入 · 含义",
+    "reported_value": 1.0,
+    "unit": "",
+    "raw_text": "| TTM营业收入 | 129.4275亿元 | 继续低于旧Q1滚动口径，不是必然触底 |",
+    "line_number": 236,
+    "exclusion_reason": "Q1 period marker"
+  },
+  {
+    "id": 62,
+    "label": "TTM归母净利润 · 含义",
+    "reported_value": 3.0,
+    "unit": "",
+    "raw_text": "| TTM归母净利润 | 0.6186亿元 | 受Q3及上一个Q4亏损拖累 |",
+    "line_number": 237,
+    "exclusion_reason": "Q3 period marker"
+  },
+  {
+    "id": 104,
+    "label": "研究日",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "研究日：2026年11月6日，Asia/Shanghai；财务截止2026年9月30日；行情采用11月6日收盘价。金额除注明外均为人民币。",
+    "line_number": 3,
+    "exclusion_reason": "research year"
+  },
+  {
+    "id": 105,
+    "label": "page/2026-10-30/1225641440.PDF)",
+    "reported_value": 11.0,
+    "unit": "",
+    "raw_text": "- [S1] [2026年第三季度报告](https://static.cninfo.com.cn/finalpage/2026-10-30/1225641440.PDF)：11页原件，未经审计，核心数据、合并三表及股东表。",
+    "line_number": 307,
+    "exclusion_reason": "PDF page count"
+  },
+  {
+    "id": 106,
+    "label": "page/2026-04-28/1225219764.PDF)",
+    "reported_value": 166.0,
+    "unit": "",
+    "raw_text": "- [S3] [2025年年度报告](https://static.cninfo.com.cn/finalpage/2026-04-28/1225219764.PDF)：166页原件，三年比较、分季度数据及财务附注。",
+    "line_number": 309,
+    "exclusion_reason": "PDF page count"
+  },
+  {
+    "id": 107,
+    "label": "hq.sinajs.cn/list=sz002304)",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "- [S10] [腾讯行情](https://qt.gtimg.cn/q=sz002304)、[新浪行情](https://hq.sinajs.cn/list=sz002304)：2026年11月6日两源收盘均37.86元；时间戳分别16:",
+    "line_number": 316,
+    "exclusion_reason": "quote year"
+  },
+  {
+    "id": 108,
+    "label": "年11月6日两源收盘均37.86元；时间戳分别16",
+    "reported_value": 14.0,
+    "unit": "",
+    "raw_text": "- [S10] [腾讯行情](https://qt.gtimg.cn/q=sz002304)、[新浪行情](https://hq.sinajs.cn/list=sz002304)：2026年11月6日两源收盘均37.86元；时间戳分别16:",
+    "line_number": 316,
+    "exclusion_reason": "quote minute"
+  },
+  {
+    "id": 109,
+    "label": "及15",
+    "reported_value": 36.0,
+    "unit": "",
+    "raw_text": "- [S10] [腾讯行情](https://qt.gtimg.cn/q=sz002304)、[新浪行情](https://hq.sinajs.cn/list=sz002304)：2026年11月6日两源收盘均37.86元；时间戳分别16:",
+    "line_number": 316,
+    "exclusion_reason": "quote minute"
+  }
+]

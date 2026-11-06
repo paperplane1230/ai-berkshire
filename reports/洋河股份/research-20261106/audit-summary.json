@@ -1,0 +1,30 @@
+{
+  "report_sha256": "c3ce10939ceb13b42b123232fe339a74a9987b73ca2fa8c6f05ed83c69efbefc",
+  "extracted": 109,
+  "excluded": 14,
+  "annual_supplement": 12,
+  "effective": 107,
+  "seed": 20261106,
+  "random_count": 17,
+  "random_coverage_pct": 15.887850467289718,
+  "directed_count": 30,
+  "selected_verdict": {
+    "verdict": "PASS",
+    "pass_count": 47,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 47,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "full_table_verdict": {
+    "verdict": "PASS",
+    "pass_count": 107,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 107,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limits": "Table population plus targeted narrative checks, not every numeral in prose. Historical policy, current facts and forecast assumptions are tagged separately. PASS is not investment certainty."
+}

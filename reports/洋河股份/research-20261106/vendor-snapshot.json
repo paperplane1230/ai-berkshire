@@ -1,0 +1,16 @@
+{
+  "source": "S5 Eastmoney RPT_F10_FINANCE_MAINFINADATA SECUCODE=002304.SZ",
+  "captured_on": "2026-11-06",
+  "raw_artifact": "local/洋河股份-20261106/yanghe/eastmoney.json",
+  "field_map": {"revenue":"TOTALOPERATEREVE","profit":"PARENTNETPROFIT","core":"KCFJCXSYJLR","cfo":"NETCASH_OPERATE_PK"},
+  "independence_note": "Different publication channel, not an independent audit. Vendor ultimately transcribes issuer accounts.",
+  "financial": {
+    "2023": {"revenue":"33126277551.51","profit":"10015930040.27","core":"9842844980.49","cfo":"6130220867.96"},
+    "2024": {"revenue":"28876296993.56","profit":"6673388602.12","core":"6835235643.35","cfo":"4628711237.28"},
+    "2025": {"revenue":"19211057613.05","profit":"2206058926.68","core":"2134729412.3","cfo":"-763040326.79"},
+    "2025H1": {"revenue":"14795651340.14","profit":"4343649032.11","core":"4231577767.24","cfo":"616044153.37"},
+    "2026H1": {"revenue":"10540431576.04","profit":"2601710694.52","core":"2449044826.83","cfo":"334794835.22"},
+    "2025YTD": {"revenue":"18090155654.57","profit":"3975002897.08","core":"3756884161.73","cfo":"966239537.43"},
+    "2026YTD": {"revenue":"11821851942.02","profit":"1830804016.17","core":"1797590974.89","cfo":"115601710.47"}
+  }
+}

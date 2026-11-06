@@ -1,0 +1,69 @@
+{
+  "cutoff": "2026-11-06",
+  "source_header": "一手财报与行情截至2026-11-06。恢复模型首年100%派息仅为2025-2027规划尾段的时点近似，不是已宣布现金分配；后四年80%为研究假设，非保证、非规划已续期。资产反向敏感性与主恢复模型分开使用，不重复加财务资产价值。",
+  "units": "CNY yuan. All numeric inputs are decimal strings. Quarterly differences use issuer annual/H1/YTD statements; no YTD annualisation.",
+  "sources": {
+    "S1": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641440.PDF",
+    "S2": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546852",
+    "S3": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225219764.PDF",
+    "S4": "Eastmoney RPT_F10_FINANCE_MAINFINADATA, SECUCODE=002304.SZ, captured 2026-11-06",
+    "S10": "Tencent and Sina 002304 current unadjusted quotes, captured 2026-11-06"
+  },
+  "financial": {
+    "2023": {"revenue":"33126277551.51","profit":"10015930040.27","core":"9842844980.49","cfo":"6130220867.96"},
+    "2024": {"revenue":"28876296993.56","profit":"6673388602.12","core":"6835235643.35","cfo":"4628711237.28","cost":"7751218356.66","capex":"1454019811.57"},
+    "2025": {"revenue":"19211057613.05","profit":"2206058926.68","core":"2134729412.30","cfo":"-763040326.79","cost":"5455522936.43","capex":"678481688.46","sales_expense":"5205631990.16","admin_expense":"1789690987.76","rd_expense":"144986992.32","finance_expense":"-284050446.25","tax_surcharges":"3417617382.91","interest_income":"297928105.08","investment_income":"357822739.44","fair_value_income":"-288294721.85","asset_impairment":"-128361162.93"},
+    "2025H1": {"revenue":"14795651340.14","profit":"4343649032.11","core":"4231577767.24","cfo":"616044153.37","cost":"3695873482.61","capex":"442545979.57","sale_cash":"12378354419.11","sales_expense":"2148689371.62","admin_expense":"864829531.83","rd_expense":"73202728.80","finance_expense":"-147951062.18","tax_surcharges":"2415489775.36","operating_profit":"5922237665.14","pbt":"5928199660.17","income_tax":"1592767634.72","net_profit":"4335432025.45","interest_income":"155671274.43","investment_income":"84911756.10","fair_value_income":"63477276.31","asset_impairment":"-3912847.32","credit_impairment":"105427.29"},
+    "2026H1": {"revenue":"10540431576.04","profit":"2601710694.52","core":"2449044826.83","cfo":"334794835.22","cost":"2808560847.32","capex":"304949619.46","sale_cash":"8738085402.02","sales_expense":"1659452320.75","admin_expense":"904567754.19","rd_expense":"77660003.11","finance_expense":"-60010790.73","tax_surcharges":"1840555641.26","operating_profit":"3529035265.44","pbt":"3532080786.19","income_tax":"936652913.11","net_profit":"2595427873.08","interest_income":"64239530.93","investment_income":"149615117.30","fair_value_income":"60521382.46","asset_impairment":"-2759928.72","credit_impairment":"63630.13"},
+    "2025YTD": {"revenue":"18090155654.57","profit":"3975002897.08","core":"3756884161.73","cfo":"966239537.43","cost":"5227199874.77","capex":"554135554.10","sale_cash":"17038327616.14","sales_expense":"3400136973.29","admin_expense":"1293915398.51","rd_expense":"100488857.49","finance_expense":"-195344193.99","tax_surcharges":"3067094795.05","operating_profit":"5508445757.49","pbt":"5499527040.90","income_tax":"1537016472.65","net_profit":"3962510568.25","interest_income":"205172129.24","investment_income":"246754312.93","fair_value_income":"18624626.60","asset_impairment":"-748424.26","credit_impairment":"-108123.78"},
+    "2026YTD": {"revenue":"11821851942.02","profit":"1830804016.17","core":"1797590974.89","cfo":"115601710.47","cost":"3378985208.80","capex":"375092356.99","sale_cash":"10707454593.39","sales_expense":"2393509981.74","admin_expense":"1339730016.34","rd_expense":"87124525.25","finance_expense":"-85257958.30","tax_surcharges":"2237191529.35","operating_profit":"2587238287.19","pbt":"2579158085.17","income_tax":"757203385.15","net_profit":"1821954700.02","interest_income":"88566416.36","investment_income":"241114918.44","fair_value_income":"-132231184.57","asset_impairment":"-3611172.30","credit_impairment":"-1080702.24","dividend_interest_cash":"2216208273.56","investment_paid":"21310318182.00","investment_recovered":"20184275098.95"}
+  },
+  "primary_quarter_checks": {
+    "2025Q3": {"revenue":"3294504314.43","profit":"-368646135.03","core":"-474693605.51","cfo":"350195384.06"},
+    "2025Q4": {"revenue":"1120901958.48","profit":"-1768943970.40","core":"-1622154749.43","cfo":"-1729279864.22"},
+    "2026Q3": {"revenue":"1281420365.98","profit":"-770906678.35","core":"-651453851.94"}
+  },
+  "balance": {
+    "2026H1": {"cash":"11164660745.69","cash_equivalents":"11095556115.46","trading_financial_assets":"7571836349.30","noncurrent_financial_assets":"3542746696.74","long_equity_investments":"1261646701.51","receivables":"8128299.93","notes_receivable":"218591579.90","bills_financing":"21707281.42","inventory":"19857068638.09","contract_liabilities":"4303837980.45","other_current_liabilities":"512854898.39","short_debt":"0","long_debt":"140750000.00","current_noncurrent_debt":"35355969.92","lease_liability":"39436060.66","parent_equity":"47181280904.53","assets":"55975821395.35","liabilities":"8704615635.92"},
+    "2025end": {"cash":"13263361737.62","cash_equivalents":"13155027495.11","trading_financial_assets":"7293889826.00","noncurrent_financial_assets":"3709534982.94","long_equity_investments":"1246705850.94","receivables":"8621900.10","notes_receivable":"28125000.00","bills_financing":"153428294.90","inventory":"20375489436.78","contract_liabilities":"7529047335.12","other_current_liabilities":"89685837.90","short_debt":"10010849.32","long_debt":"81000000.00","current_noncurrent_debt":"37949298.59","lease_liability":"44423460.58","parent_equity":"46797173513.37","assets":"58595944446.80","liabilities":"11702548968.64"},
+    "2026Q3": {"cash":"9839808008.25","cash_equivalents":"9787460359.15","trading_financial_assets":"8663041300.53","noncurrent_financial_assets":"3333604368.59","long_equity_investments":"1309324377.70","receivables":"11298801.35","notes_receivable":"3466260.00","bills_financing":"59749367.68","inventory":"19997333687.94","contract_liabilities":"4896460324.23","other_current_liabilities":"237211965.91","short_debt":"4904030.71","long_debt":"145750000.00","current_noncurrent_debt":"27749198.41","lease_liability":"23256355.60","parent_equity":"46408381698.81","assets":"55582275726.54","liabilities":"9087456823.36","goodwill":"150886645.81","intangibles":"1719328930.02"}
+  },
+  "notes": {
+    "prepayment_2026H1":"775673065.92",
+    "unsettled_rebates_2026H1":"3528164914.53",
+    "finished_goods_2026H1":"715802915.32",
+    "semi_finished_2026H1":"18266458346.21",
+    "frozen_cash_2026H1":"2588608.00",
+    "deposit_interest_receivable_2026H1":"66516022.23",
+    "h1_trading_assets_nature":"Mainly bank structured deposits maturing within one year; H1 note 2. Q3 has no new composition footnote.",
+    "h1_noncurrent_financial_assets_nature":"Equity instruments; H1 note 11. Not cash equivalents.",
+    "prepayment_2025end":"3063977585.29",
+    "unsettled_rebates_2025end":"4465069749.83",
+    "finished_goods_2025end":"1860078985.91",
+    "semi_finished_2025end":"17558858679.33",
+    "dividend_paid_2026_per_share":"1.47",
+    "dividend_paid_2026_total":"2214474258.78",
+    "quarter_contract_split":"Q3 only discloses total and attribution to both prepayments and unsettled discounts; no Q3 split may be inferred from H1.",
+    "dividend_policy":"2025-2027 plan: not less than 100% of each year's parent-attributable profit, subject to charter and annual board/shareholder approval. The previous CNY7bn floor is not retained. No guaranteed future DPS."
+  },
+  "products_h1": {
+    "mid_high_liquor": {"revenue":"9078099306.94","cost":"1867096382.76","yoy_revenue_pct":"-28.36"},
+    "ordinary_liquor": {"revenue":"1247325454.40","cost":"787563752.19","yoy_revenue_pct":"-32.24"},
+    "dealer": {"revenue":"10118136321.32","cost":"2603833009.46","yoy_revenue_pct":"-29.21"},
+    "online_direct": {"revenue":"207288440.02","cost":"50827125.49","yoy_revenue_pct":"-6.01"},
+    "liquor_in_province": {"revenue":"4390984017.05","cost":"1133163723.40","yoy_revenue_pct":"-38.34"},
+    "liquor_out_province": {"revenue":"5934440744.29","cost":"1521496411.55","yoy_revenue_pct":"-19.72"},
+    "all_in_province": {"revenue":"4482417687.69","prior_revenue":"7259534910.18"},
+    "all_out_province": {"revenue":"6058013888.35","prior_revenue":"7536116429.96"}
+  },
+  "volume_h1": {"sales_tonnes":"53670.57","prior_sales_tonnes":"78192.32","production_tonnes":"32598.47","prior_production_tonnes":"48891.12","inventory_tonnes":"10050.46","prior_inventory_tonnes":"16293.52","finished_all_tonnes":"10484.62","semi_finished_tonnes":"767636.99","dealers":"7833","dealer_change":"-538"},
+  "shares":"1506445074",
+  "quote": {"date":"2026-11-06","price":"37.86","reported_market_cap":"57034000000","tencent_time":"20261106161415","sina_time":"2026-11-06 15:36:00","sina_price":"37.860"},
+  "asset_reverse_terms": {"separable_financial_asset_values_CNY":["0","10000000000","15000000000","18000000000"],"core_after_tax_profit_multiples":["12","16","20"],"note":"A values are pressure-test assumptions, NOT verified excess/distributable net cash. CNY18bn references the CNY18.24884207496bn cash-equivalents plus trading assets less named debt upper subtotal, before a full operating-reserve allowance. Required profit excludes income from separated financial assets. Do not add A to a valuation of unadjusted total net profit; do not add inventory. This is the current price's implied earnings requirement, not proof of cheapness or an addition to the recovery model."},
+  "scenario_terms": {"years":5,"payout_first_year":"1.00","payout_later_years":"0.80","discount_rate":"0.10","note":"Illustrative 2027-2031 earnings/recovery paths, received at each model year end. First year assumes 100% payout reflecting the last year of the 2025-2027 plan; actual declarations/payment dates are not forecast. Later 80% payout is an analyst assumption, not renewed policy. Terminal PE values the whole equity including financial assets; no extra net cash is added. Recovery stress test, not a standalone fair-value conclusion."},
+  "scenarios": [
+    {"name":"bear","annual_profit_CNY":["500000000","500000000","600000000","700000000","800000000"],"exit_pe":"12"},
+    {"name":"base","annual_profit_CNY":["1000000000","1300000000","1600000000","1800000000","2000000000"],"exit_pe":"16"},
+    {"name":"bull","annual_profit_CNY":["1500000000","2000000000","2500000000","3000000000","3500000000"],"exit_pe":"20"}
+  ]
+}
