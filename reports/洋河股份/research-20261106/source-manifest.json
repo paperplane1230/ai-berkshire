@@ -1,0 +1,671 @@
+{
+  "cutoff": "2026-11-06",
+  "source_header": "一手财报与行情截至2026-11-06。恢复模型首年100%派息仅为2025-2027规划尾段的时点近似，不是已宣布现金分配；后四年80%为研究假设，非保证、非规划已续期。资产反向敏感性与主恢复模型分开使用，不重复加财务资产价值。",
+  "source_id_map": {
+    "S1": "q3-pdf",
+    "S2": [
+      "h1"
+    ],
+    "S3": "annual-pdf",
+    "S4": "eastmoney",
+    "S5": [
+      "plan-new-pdf",
+      "plan-old-pdf"
+    ],
+    "S6": [
+      "dividend",
+      "progress"
+    ],
+    "S7": [
+      "ir",
+      "ir-may"
+    ],
+    "S9": [
+      "related-investment"
+    ],
+    "S10": [
+      "qq",
+      "sina"
+    ]
+  },
+  "visual_review": {
+    "reviewed_on": "2026-11-06",
+    "q3_pdf_pages": [
+      2,
+      7,
+      8,
+      10
+    ],
+    "annual_pdf_pages": [
+      9
+    ],
+    "result": "Rendered primary data table, income statement, cash-flow statement and annual quarterly comparison; numeric columns, negative signs and CNY units visually agree with inputs.",
+    "artifacts": [
+      "local/洋河股份-20261106/yanghe/annual-page9-check.png",
+      "local/洋河股份-20261106/yanghe/q3-page10-check.png",
+      "local/洋河股份-20261106/yanghe/q3-page2-check.png",
+      "local/洋河股份-20261106/yanghe/q3-page7-check.png",
+      "local/洋河股份-20261106/yanghe/q3-page8-check.png"
+    ]
+  },
+  "source_independence": "Issuer filings and Eastmoney are distinct publishing channels, not independent audits of accounts. Tencent/Sina separately publish quotes.",
+  "hash_note": "Response-byte hashes are distinct from normalized/pretty-printed cached-artifact hashes.",
+  "portable_scope": "Inputs and vendor snapshot support offline arithmetic and 28 checks without local caches.",
+  "gaps": [
+    "Q3 unaudited and lacks full footnotes.",
+    "Q3 contract-liability split and current dealer inventories not disclosed in Q3 accounts.",
+    "Future payout/valuation multiples are assumptions; no CNY7bn guaranteed annual dividend.",
+    "No exact free cash available for parent shareholder distribution established."
+  ],
+  "sources": {
+    "announcements": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/002304.phtml",
+      "retrieved_at": "2026-11-06T20:42:22.373505+08:00",
+      "bytes": 55337,
+      "links": [
+        {
+          "title": "洋河股份：2026年三季度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12678395"
+        },
+        {
+          "title": "洋河股份：关于与专业机构共同投资暨关联交易的进展公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12585127"
+        },
+        {
+          "title": "洋河股份：2026年1-6月非经营性资金占用及其他关联资金往来情况汇总表",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546853"
+        },
+        {
+          "title": "洋河股份：2026年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546852"
+        },
+        {
+          "title": "洋河股份：关于“质量回报双提升”行动方案的进展公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546851"
+        },
+        {
+          "title": "洋河股份：第八届董事会第二十三次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546850"
+        },
+        {
+          "title": "洋河股份：2026年半年度报告摘要",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546849"
+        },
+        {
+          "title": "洋河股份：关于第一期核心骨干持股计划存续期展期的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12482999"
+        },
+        {
+          "title": "洋河股份：第八届董事会第二十二次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12482997"
+        },
+        {
+          "title": "洋河股份：关于选举副董事长及公司总裁变动的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12425496"
+        },
+        {
+          "title": "洋河股份：第八届董事会第二十一次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12425493"
+        },
+        {
+          "title": "洋河股份：关于与专业机构共同投资暨关联交易的进展公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12406577"
+        },
+        {
+          "title": "洋河股份：2025年度分红派息实施公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12404768"
+        },
+        {
+          "title": "洋河股份：2025年年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12380362"
+        },
+        {
+          "title": "洋河股份：投资者关系管理信息20260608",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12380970"
+        },
+        {
+          "title": "洋河股份：2025年度股东会决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12372181"
+        },
+        {
+          "title": "洋河股份：2025年度股东会法律意见书",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12372165"
+        },
+        {
+          "title": "洋河股份：投资者关系管理信息20260513",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12318170"
+        },
+        {
+          "title": "洋河股份：关于召开2025年度股东会的通知",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12313976"
+        },
+        {
+          "title": "洋河股份：第八届董事会第二十次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12313975"
+        },
+        {
+          "title": "洋河股份：关于举行2025年度网上业绩说明会的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12299095"
+        },
+        {
+          "title": "洋河股份：2025年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235181"
+        },
+        {
+          "title": "洋河股份：2025年年度审计报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235180"
+        },
+        {
+          "title": "洋河股份：董事会关于独立董事独立性评估的专项意见",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235179"
+        },
+        {
+          "title": "洋河股份：2025年度非经营性资金占用及其他关联资金往来情况的专项说明",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235178"
+        },
+        {
+          "title": "洋河股份：2025年度非经营性资金占用及其他关联资金往来情况汇总表",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235177"
+        },
+        {
+          "title": "洋河股份：关于2025年度会计师事务所履职情况评估报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235176"
+        },
+        {
+          "title": "洋河股份：董事会审计委员会对2025年度会计师事务所履行监督职责情况的报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235175"
+        },
+        {
+          "title": "洋河股份：董事和高级管理人员薪酬与考核管理办法(2026年4月)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235174"
+        },
+        {
+          "title": "洋河股份：2026年一季度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235173"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "8671f8a63f2a83e472b71d65aa5ebed61c18bb2d407cd8c45f476689d1936bf7",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/announcements.html",
+          "sha256": "5537d983382fbb895d8c9687797c5bbe2b9da0b215e3b42712dcb1962a3e1b7a",
+          "bytes": 58223
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/announcements.txt",
+          "sha256": "1d510ee469f0aaf8e164d696322bd09d4d23a92c37f667e63b6ce64bf9e365b9",
+          "bytes": 6481
+        }
+      ]
+    },
+    "annual-list": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002304/page_type/ndbg.phtml",
+      "retrieved_at": "2026-11-06T20:42:22.798119+08:00",
+      "bytes": 51579,
+      "links": [
+        {
+          "title": "洋河股份：2025年年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12380362"
+        },
+        {
+          "title": "洋河股份：2025年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235181"
+        },
+        {
+          "title": "洋河股份：2024年年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=11156769"
+        },
+        {
+          "title": "洋河股份：2024年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=11045666"
+        },
+        {
+          "title": "洋河股份：2023年年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=10256716"
+        },
+        {
+          "title": "洋河股份：2023年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=10132680"
+        },
+        {
+          "title": "洋河股份：2022年年度报告(英文版)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=9285410"
+        },
+        {
+          "title": "洋河股份：2022年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=9088002"
+        },
+        {
+          "title": "洋河股份：2021年年度报告（英文版）",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=8263631"
+        },
+        {
+          "title": "洋河股份：2021年年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=8142745"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "eb570eb5bb1178d77c7f9eb3f2b9aba5d2b2c81c28a397973ae10f0928fb9a89",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/annual-list.html",
+          "sha256": "96be3652ed776d9f2403d5577fb8e2d107f92bceeb65e8cb127ab8c423215064",
+          "bytes": 53970
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/annual-list.txt",
+          "sha256": "803275a1063b0a46509cdf65973be75083012621cda289c6244baa3c36070d72",
+          "bytes": 4662
+        }
+      ]
+    },
+    "annual-pdf": {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225219764.PDF",
+      "retrieved_at": "2026-11-06T20:42:23.522327+08:00",
+      "bytes": 3708370,
+      "pages": 166,
+      "response_sha256_as_recorded_at_capture": "10af27149ab8b7b5f7a5678b76ada3bc1d422bc068a9fd52f5c1b253f610032c",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/annual-pdf.pdf",
+          "sha256": "10af27149ab8b7b5f7a5678b76ada3bc1d422bc068a9fd52f5c1b253f610032c",
+          "bytes": 3708370
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/annual-pdf.txt",
+          "sha256": "cf8cce9526f57071825f46c438e592a9980be120465a4d3d2a60a394b59fe13d",
+          "bytes": 367066
+        }
+      ]
+    },
+    "annual": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12235181",
+      "retrieved_at": "2026-11-06T21:10:15.943241+08:00",
+      "bytes": 824841,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-28/12235181.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-28/12235181.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "5df389a7c44b06a44632bb304915fc2e47d151f0c8bbe4420bae1dd88b131f72",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/annual.html",
+          "sha256": "e3bfedd249731e9b15ca76cdd46a356ad6b8323d23234acc3115975da3440937",
+          "bytes": 915790
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/annual.txt",
+          "sha256": "df75139bcdf0450c0cf3cded425df45135b4603a4516136244c6a824b3894cc9",
+          "bytes": 379363
+        }
+      ]
+    },
+    "dividend": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12404768",
+      "retrieved_at": "2026-11-06T21:10:16.149106+08:00",
+      "bytes": 28643,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-23/12404768.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-23/12404768.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "17c81f6bc00e3d180026fcf8c7d8c018423c690ebc7211f732d42046f1ec3e00",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/dividend.html",
+          "sha256": "9c514c97caedde5fa54ee78f45b760d4cd0bab9ee9f7129bba493ed37c1f9e0d",
+          "bytes": 31197
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/dividend.txt",
+          "sha256": "d9ba630f1d44390d69228810d0f35d0bb14f00f154e72419e336f5449e8a65c5",
+          "bytes": 6030
+        }
+      ]
+    },
+    "eastmoney": {
+      "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22002304.SZ%22)&p=1&ps=24&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+      "retrieved_at": "2026-11-06T20:42:23.228500+08:00",
+      "bytes": 101071,
+      "response_sha256_as_recorded_at_capture": "fd072e14d89a25b122429c537139174726568fb1d140342d2720410be68b5aa8",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/eastmoney.json",
+          "sha256": "32bd7b25e31b60d5d5475b29484cc86ba68813a4ba357ed5d614aacbf30f9b3a",
+          "bytes": 145069
+        }
+      ]
+    },
+    "h1": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546852",
+      "retrieved_at": "2026-11-06T21:10:15.548499+08:00",
+      "bytes": 556947,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-27/12546852.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-27/12546852.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "6f238356ef3869dff27a38303b235326cc18e8ff19e53a82e17796032bf6c9d5",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/h1.html",
+          "sha256": "da600445db47865a1f357e07be1f2e2a1542b8e2c779c64ab377ab914e941c68",
+          "bytes": 623738
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/h1.txt",
+          "sha256": "2c2e9292c6633be2d945399a8c28d980f76ae6402261ba1058ab1ccbfa6b2ffa",
+          "bytes": 286699
+        }
+      ]
+    },
+    "half-list": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_BulletinZhong/stockid/002304/page_type/zqbg.phtml",
+      "retrieved_at": "2026-11-06T20:42:22.580367+08:00",
+      "bytes": 51559,
+      "links": [
+        {
+          "title": "洋河股份：2026年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546852"
+        },
+        {
+          "title": "洋河股份：2025年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=11311102"
+        },
+        {
+          "title": "洋河股份：2024年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=10453832"
+        },
+        {
+          "title": "洋河股份：2023年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=9470330"
+        },
+        {
+          "title": "洋河股份：2022年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=8477059"
+        },
+        {
+          "title": "洋河股份：2021年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=7498734"
+        },
+        {
+          "title": "洋河股份：2020年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=6568858"
+        },
+        {
+          "title": "洋河股份：2019年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=5621399"
+        },
+        {
+          "title": "洋河股份：2018年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=4716989"
+        },
+        {
+          "title": "洋河股份：2017年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=3698593"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "7d34e7859ff27de83c474c40e4bda24d52db071031d47d0d075d14f5073b1db2",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/half-list.html",
+          "sha256": "0d3f2265be7362fd3792aaaeaccd4fd3bcc07fc7565ba46ce65467ef579a879c",
+          "bytes": 53943
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/half-list.txt",
+          "sha256": "4d6423223439e84f9851cf6b55b5f7a1a10bec2f01b918691b64eefbfecbffe7",
+          "bytes": 4633
+        }
+      ]
+    },
+    "ir-may": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12318170",
+      "retrieved_at": "2026-11-06T21:10:16.831748+08:00",
+      "bytes": 46966,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-5/2026-05-13/12318170.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-5/2026-05-13/12318170.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "5b504c91253657255c40b8a1a41e5d6c455c07aa10be2d75700e70e8fd356555",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/ir-may.html",
+          "sha256": "181443a35c2d9653a3638d3b076d4777c5730e40ca4e5b57a7c8ec6492ef5807",
+          "bytes": 58168
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/ir-may.txt",
+          "sha256": "2b86416b925089568e0a098b533984458f7c91ad80440b4388c4ee4ae1403132",
+          "bytes": 32467
+        }
+      ]
+    },
+    "ir": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12380970",
+      "retrieved_at": "2026-11-06T21:10:16.663268+08:00",
+      "bytes": 35178,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-08/12380970.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-08/12380970.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "57e964575624d312d5272115076e429bf7f680305e51d95b330769dc2292edb5",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/ir.html",
+          "sha256": "3c346b2b0184528960f4de603b6da34bdc7bde3d12a3bbe63c5a9ca64bffd0a6",
+          "bytes": 41046
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/ir.txt",
+          "sha256": "168b231a0ae99d31561001987d2f3c3cc50414f3a3db09893d3367b438d5b614",
+          "bytes": 15767
+        }
+      ]
+    },
+    "plan-new-pdf": {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-01-24/1224948903.PDF",
+      "retrieved_at": "2026-11-06T20:42:25.380902+08:00",
+      "bytes": 108701,
+      "pages": 2,
+      "response_sha256_as_recorded_at_capture": "82bca28eac103b16d20bb07c6c7e32509b849fbf7ee4a1c159212416ad87daf1",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/plan-new-pdf.pdf",
+          "sha256": "82bca28eac103b16d20bb07c6c7e32509b849fbf7ee4a1c159212416ad87daf1",
+          "bytes": 108701
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/plan-new-pdf.txt",
+          "sha256": "20f73b33dd4247fb68614f24fbdefcff53982d969536779da7ff9c2a1c9b4724",
+          "bytes": 1899
+        }
+      ]
+    },
+    "plan-old-pdf": {
+      "url": "https://static.cninfo.com.cn/finalpage/2024-08-30/1221057776.PDF",
+      "retrieved_at": "2026-11-06T20:42:25.522228+08:00",
+      "bytes": 118420,
+      "pages": 2,
+      "response_sha256_as_recorded_at_capture": "30c5a12c4c78b798f36e3c0b5f10805f99addac9ef05bc25a83c55a494bc160b",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/plan-old-pdf.pdf",
+          "sha256": "30c5a12c4c78b798f36e3c0b5f10805f99addac9ef05bc25a83c55a494bc160b",
+          "bytes": 118420
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/plan-old-pdf.txt",
+          "sha256": "53dd9e325b65a23624bdfba2ee1042724cca0fcdef751eac69f9ec02949c4918",
+          "bytes": 2417
+        }
+      ]
+    },
+    "progress": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12546851",
+      "retrieved_at": "2026-11-06T21:10:16.326360+08:00",
+      "bytes": 27878,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-27/12546851.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-27/12546851.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "f12aa23b4177ef7faa62d4fd6607c1d195f19912aee79a0fb76e969fe09422a0",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/progress.html",
+          "sha256": "c6422a943c348182ebb3d7d71930471fc235f001babba993c2c0e97c5e301a05",
+          "bytes": 30586
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/progress.txt",
+          "sha256": "ee3cf16dce1ab3fbd52752a031e915c3c9a8b7c115be1debaa37d846dc950b3d",
+          "bytes": 6306
+        }
+      ]
+    },
+    "q3-pdf": {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641440.PDF",
+      "retrieved_at": "2026-11-06T21:10:16.945644+08:00",
+      "bytes": 156474,
+      "pages": 11,
+      "response_sha256_as_recorded_at_capture": "cbe4f63d16a980a14a8607432a4f667f89dae55fda30a2968c9529219757179c",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/q3-pdf.pdf",
+          "sha256": "cbe4f63d16a980a14a8607432a4f667f89dae55fda30a2968c9529219757179c",
+          "bytes": 156474
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/q3-pdf.txt",
+          "sha256": "1db24bdf89f8486cf6ffecc5f7b6670506ae527038f83e3950a4f8421996b9a6",
+          "bytes": 23875
+        }
+      ]
+    },
+    "q3": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12678395",
+      "retrieved_at": "2026-11-06T21:10:15.219692+08:00",
+      "bytes": 76428,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-10/2026-10-30/12678395.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-10/2026-10-30/12678395.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "3d19297ebb7aeefba44ad2ecb919b12acb53cfa1787b705d5dda2c8c0c68c905",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/q3.html",
+          "sha256": "4ad34b4faa360637f788990a7e35b3f649342c11c8dd576a24c374da31b8f6e5",
+          "bytes": 83258
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/q3.txt",
+          "sha256": "88b17b9221acb175e1489c0e6a58cd45f1e27782787f72a16132f19fd4fbc1f3",
+          "bytes": 27729
+        }
+      ]
+    },
+    "qq": {
+      "url": "https://qt.gtimg.cn/q=sz002304",
+      "retrieved_at": "2026-11-06T20:42:22.950660+08:00",
+      "bytes": 492,
+      "response_sha256_as_recorded_at_capture": "5bd723a8c0b2d19404761388b874cd7f42dd412bfb6384b9d8072c497b783378",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/qq.html",
+          "sha256": "0bcdee02ba0b6ad0cc084ffc166441bde0c47b130919e2fbf44d3d86121daba4",
+          "bytes": 497
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/qq.txt",
+          "sha256": "acc41a9282faeac59c5276e58d1fb549ec36b58b3ed0924b2a5770b39874060f",
+          "bytes": 493
+        }
+      ]
+    },
+    "related-investment": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12585127",
+      "retrieved_at": "2026-11-06T21:10:16.482046+08:00",
+      "bytes": 33748,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-9/2026-09-05/12585127.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-9/2026-09-05/12585127.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "038ebde3e01d92948ccee4b52b9a3c6b29f2439e3b1219031430f5d298e49cf3",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/related-investment.html",
+          "sha256": "9be41303a634a64cc02a164807f2861daee09f4270b58c0eb906b0f46b586fd4",
+          "bytes": 38314
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/related-investment.txt",
+          "sha256": "f0c6873e4a9b7ba02cc960d9b1963f94e64dde86c76ada5b8c34a4c5425d7799",
+          "bytes": 12258
+        }
+      ]
+    },
+    "sina": {
+      "url": "https://hq.sinajs.cn/list=sz002304",
+      "retrieved_at": "2026-11-06T20:42:23.053237+08:00",
+      "bytes": 262,
+      "response_sha256_as_recorded_at_capture": "9b50d5b8a5b0f51e82ca4120e2dee887a01c019b7931cdde098041757de1230f",
+      "cached_artifacts": [
+        {
+          "path": "local/洋河股份-20261106/yanghe/sina.html",
+          "sha256": "1b2085b51cf9b6ec340ef36d138ca3e4f0cd71ee7817349c6464bf9cc1fdcde8",
+          "bytes": 267
+        },
+        {
+          "path": "local/洋河股份-20261106/yanghe/sina.txt",
+          "sha256": "e9a3f40fbbe51a4bd478b4f0d84fdd725c3ccd3020f2a8ddb77cb5f014d84b1c",
+          "bytes": 265
+        }
+      ]
+    }
+  }
+}

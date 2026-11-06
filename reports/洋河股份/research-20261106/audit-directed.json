@@ -1,0 +1,302 @@
+[
+  {
+    "id": 2001,
+    "label": "current close",
+    "reported_value": 37.86,
+    "fetched_value": 37.86,
+    "fetched_exact": "37.86",
+    "fetched_source": "S10 Tencent and Sina",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2002,
+    "label": "registered shares hundred million",
+    "reported_value": 15.06445074,
+    "fetched_value": 15.06445074,
+    "fetched_exact": "15.06445074",
+    "fetched_source": "S1 registered capital",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2003,
+    "label": "market cap hundred million",
+    "reported_value": 570.34,
+    "fetched_value": 570.3401050164,
+    "fetched_exact": "570.3401050164",
+    "fetched_source": "Price times registered shares",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2004,
+    "label": "historical yield",
+    "reported_value": 3.88,
+    "fetched_value": 3.882725832012678,
+    "fetched_exact": "3.882725832012678288431061806656101426307",
+    "fetched_source": "S6 historical DPS / current price, not future yield",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2005,
+    "label": "gross margin",
+    "reported_value": 55.48,
+    "fetched_value": 55.48499332272178,
+    "fetched_exact": "55.48499332272178032985503182380129319443",
+    "fetched_source": "S1-S2 same-quarter formula",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2006,
+    "label": "prior gross margin",
+    "reported_value": 53.52,
+    "fetched_value": 53.51876197421392,
+    "fetched_exact": "53.51876197421392490278220722093237207247",
+    "fetched_source": "S1-S2 same-quarter formula",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2007,
+    "label": "sales expense ratio",
+    "reported_value": 57.28,
+    "fetched_value": 57.28468818494312,
+    "fetched_exact": "57.28468818494312409242515697760379058901",
+    "fetched_source": "S1-S2 same-quarter formula",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2008,
+    "label": "prior sales expense ratio",
+    "reported_value": 37.99,
+    "fetched_value": 37.985914791145746,
+    "fetched_exact": "37.98591479114574218760829671183378890968",
+    "fetched_source": "S1-S2 same-quarter formula",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2009,
+    "label": "admin ratio",
+    "reported_value": 33.96,
+    "fetched_value": 33.959368346483096,
+    "fetched_exact": "33.95936834648309887009370504838837101873",
+    "fetched_source": "S1-S2 same-quarter formula",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2010,
+    "label": "prior admin ratio",
+    "reported_value": 13.02,
+    "fetched_value": 13.024292146184015,
+    "fetched_exact": "13.02429214618401449060627145047329365139",
+    "fetched_source": "S1-S2 same-quarter formula",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2011,
+    "label": "Q3 gross profit",
+    "reported_value": 7.11,
+    "fetched_value": 7.109960045,
+    "fetched_exact": "7.1099600450",
+    "fetched_source": "S1-S2 revenue less cost",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2012,
+    "label": "Q3 fair value",
+    "reported_value": -1.9275,
+    "fetched_value": -1.9275256703,
+    "fetched_exact": "-1.9275256703",
+    "fetched_source": "S1-S2 fair-value line",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2013,
+    "label": "Q3 investment income",
+    "reported_value": 0.915,
+    "fetched_value": 0.9149980114,
+    "fetched_exact": "0.9149980114",
+    "fetched_source": "S1-S2 investment-income line",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2014,
+    "label": "Q3 impairment ten thousand",
+    "reported_value": 85.12,
+    "fetched_value": 85.124358,
+    "fetched_exact": "85.1243580000",
+    "fetched_source": "CNY hundred million to ten thousand",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2015,
+    "label": "Q4 2025 loss",
+    "reported_value": -17.6894,
+    "fetched_value": -17.689439704,
+    "fetched_exact": "-17.6894397040",
+    "fetched_source": "S3 direct quarterly table",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2016,
+    "label": "Q4 2025 CFO",
+    "reported_value": -17.2928,
+    "fetched_value": -17.2927986422,
+    "fetched_exact": "-17.2927986422",
+    "fetched_source": "S3 direct quarterly table",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2017,
+    "label": "mid_high_liquor H1 yoy",
+    "reported_value": -28.36,
+    "fetched_value": -28.36,
+    "fetched_exact": "-28.36",
+    "fetched_source": "S2 liquor table; tool omitted percentage cells",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2018,
+    "label": "ordinary_liquor H1 yoy",
+    "reported_value": -32.24,
+    "fetched_value": -32.24,
+    "fetched_exact": "-32.24",
+    "fetched_source": "S2 liquor table; tool omitted percentage cells",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2019,
+    "label": "liquor_in_province H1 yoy",
+    "reported_value": -38.34,
+    "fetched_value": -38.34,
+    "fetched_exact": "-38.34",
+    "fetched_source": "S2 liquor table; tool omitted percentage cells",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2020,
+    "label": "liquor_out_province H1 yoy",
+    "reported_value": -19.72,
+    "fetched_value": -19.72,
+    "fetched_exact": "-19.72",
+    "fetched_source": "S2 liquor table; tool omitted percentage cells",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2021,
+    "label": "liquid resources observation",
+    "reported_value": 182.4884,
+    "fetched_value": 182.4884207496,
+    "fetched_exact": "182.4884207496",
+    "fetched_source": "Scoped balance sum, NOT distributable net cash",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2022,
+    "label": "paid dividend total",
+    "reported_value": 22.1447,
+    "fetched_value": 22.1447425878,
+    "fetched_exact": "22.1447425878",
+    "fetched_source": "S6 actual distribution",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2023,
+    "label": "bear exit price",
+    "reported_value": 6.37,
+    "fetched_value": 6.372618667409841,
+    "fetched_exact": "6.372618667409841455660002377225736143899",
+    "fetched_source": "Explicit scenario",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2024,
+    "label": "bear discounted value",
+    "reported_value": 5.24,
+    "fetched_value": 5.235157318789238,
+    "fetched_exact": "5.235157318789237621720086933754575491465",
+    "fetched_source": "10% annual cash-flow discount, not liquidation value",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2025,
+    "label": "base exit price",
+    "reported_value": 21.24,
+    "fetched_value": 21.24206222469947,
+    "fetched_exact": "21.24206222469947151886667459075245381299",
+    "fetched_source": "Explicit scenario",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2026,
+    "label": "base discounted value",
+    "reported_value": 16.31,
+    "fetched_value": 16.31441745946434,
+    "fetched_exact": "16.31441745946433971448241722169948455217",
+    "fetched_source": "10% annual cash-flow discount, not liquidation value",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2027,
+    "label": "bull exit price",
+    "reported_value": 46.47,
+    "fetched_value": 46.467011116530095,
+    "fetched_exact": "46.46701111653009394752085066727099271592",
+    "fetched_source": "Explicit scenario",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2028,
+    "label": "bull discounted value",
+    "reported_value": 33.88,
+    "fetched_value": 33.87503833187148,
+    "fetched_exact": "33.87503833187147610426388227267553214823",
+    "fetched_source": "10% annual cash-flow discount, not liquidation value",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2029,
+    "label": "conditional value",
+    "reported_value": 31.2,
+    "fetched_value": 31.19927889252735,
+    "fetched_exact": "31.19927889252734879333542830516766653784",
+    "fetched_source": "A=150, core earnings=20, M=16; assumptions not proven",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2030,
+    "label": "conditional margin price",
+    "reported_value": 24.96,
+    "fetched_value": 24.959423114021877,
+    "fetched_exact": "24.95942311402187903466834264413413323027",
+    "fetched_source": "20% margin on conditional value",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  }
+]
