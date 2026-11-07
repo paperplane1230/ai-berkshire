@@ -1,0 +1,110 @@
+[
+  {
+    "id": 37,
+    "label": "其他流动资产 · 判断边界",
+    "reported_value": 3.0,
+    "unit": "",
+    "raw_text": "| 其他流动资产 | 212.9221 | Q3未细分定存、税项及受限部分，不能全当现金 |",
+    "line_number": 123,
+    "reason": "Q3 marker"
+  },
+  {
+    "id": 45,
+    "label": "Q1回款改善支持主动出清、后续恢复 · 本次证据",
+    "reported_value": 2.0,
+    "unit": "",
+    "raw_text": "| Q1回款改善支持主动出清、后续恢复 | Q2经营现金-16.02亿元；Q3收现同比-26.15%、经营现金-57.27% | 新事实削弱持续恢复论证，不能自动认定控货无害 |",
+    "line_number": 154,
+    "reason": "Q2 marker"
+  },
+  {
+    "id": 48,
+    "label": "每股6.56元仍是预案，可依赖约5.6%股息 · 本次证据",
+    "reported_value": 7.0,
+    "unit": "",
+    "raw_text": "| 每股6.56元仍是预案，可依赖约5.6%股息 | 7月31日已实施，规划为2025—2027年利润的至少65% | 更新实施状态；历史股息不是固定未来票息 |",
+    "line_number": 159,
+    "reason": "July month"
+  },
+  {
+    "id": 49,
+    "label": "华润持股10%，减持体现赋能退潮 · 本次证据",
+    "reported_value": 1.0,
+    "unit": "",
+    "raw_text": "| 华润持股10%，减持体现赋能退潮 | 华创鑫睿Q1即已持股9.17%，H1本期增减为0 | 旧比例滞后，不能写成7月之后的新减持或推断动机 |",
+    "line_number": 160,
+    "reason": "Q1 marker"
+  },
+  {
+    "id": 52,
+    "label": "2025—2027年每年分红至少65% · 本次观察",
+    "reported_value": 6.0,
+    "unit": "",
+    "raw_text": "| 2025—2027年每年分红至少65% | 6月16日股东会已通过，具体年度方案仍需审议 | 有限期比例承诺，不是永续固定金额 |",
+    "line_number": 188,
+    "reason": "June month"
+  },
+  {
+    "id": 55,
+    "label": "TTM营业收入 · 含义",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| TTM营业收入 | 341.7574亿元 | 低于2025全年，不是2026全年预测 |",
+    "line_number": 231,
+    "reason": "year label"
+  },
+  {
+    "id": 86,
+    "label": "研究日",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "研究日：2026年11月7日，Asia/Shanghai；财务截止2026年9月30日；研究日为周六，行情采用11月6日收盘价。金额除注明外均为人民币。",
+    "line_number": 3,
+    "reason": "research year"
+  },
+  {
+    "id": 87,
+    "label": "KXLB.pdf)",
+    "reported_value": 12.0,
+    "unit": "",
+    "raw_text": "- [S1] [2026年第三季度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672141)及[",
+    "line_number": 284,
+    "reason": "PDF page count"
+  },
+  {
+    "id": 89,
+    "label": "GB.pdf)",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "- [S8] [2025年度股东会决议](https://stockmc.xueqiu.com/202606/600809_20260617_84GB.pdf)：2026年6月16日通过利润分配及2025—2027规划。",
+    "line_number": 291,
+    "reason": "meeting year"
+  },
+  {
+    "id": 90,
+    "label": "hq.sinajs.cn/list=sh600809)",
+    "reported_value": 11.0,
+    "unit": "",
+    "raw_text": "- [S10] [腾讯行情](https://qt.gtimg.cn/q=sh600809)、[新浪行情](https://hq.sinajs.cn/list=sh600809)：11月6日均132元，时间戳分别16:14:49和15:34",
+    "line_number": 293,
+    "reason": "quote month"
+  },
+  {
+    "id": 91,
+    "label": "月6日均132元，时间戳分别16",
+    "reported_value": 14.0,
+    "unit": "",
+    "raw_text": "- [S10] [腾讯行情](https://qt.gtimg.cn/q=sh600809)、[新浪行情](https://hq.sinajs.cn/list=sh600809)：11月6日均132元，时间戳分别16:14:49和15:34",
+    "line_number": 293,
+    "reason": "quote minute"
+  },
+  {
+    "id": 92,
+    "label": "和15",
+    "reported_value": 34.0,
+    "unit": "",
+    "raw_text": "- [S10] [腾讯行情](https://qt.gtimg.cn/q=sh600809)、[新浪行情](https://hq.sinajs.cn/list=sh600809)：11月6日均132元，时间戳分别16:14:49和15:34",
+    "line_number": 293,
+    "reason": "quote minute"
+  }
+]

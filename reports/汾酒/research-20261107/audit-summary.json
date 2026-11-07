@@ -1,0 +1,30 @@
+{
+  "report_sha256": "bd8f178707db085f06f844812e5cd95a3ac8c002aba289d492ed211377fe98c9",
+  "extracted": 92,
+  "excluded": 12,
+  "supplemented": 34,
+  "effective_table_points": 114,
+  "seed": 20261107,
+  "random_count": 18,
+  "random_coverage_pct": 15.789473684210526,
+  "directed_count": 25,
+  "selected_verdict": {
+    "verdict": "PASS",
+    "pass_count": 43,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 43,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "full_table_verdict": {
+    "verdict": "PASS",
+    "pass_count": 114,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 114,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "limits": "Recognized tables plus explicit annual/quarter/operating supplements, not exhaustive prose numerals. Facts, policies and model assumptions separately tagged. PASS does not validate forecasts."
+}

@@ -1,0 +1,15 @@
+{
+  "source": "S9 issuer 2026 first-nine-month operating data; original table unit CNY ten thousand, below converted to CNY yuan",
+  "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672142",
+  "rows": {
+    "汾酒": {"revenue":"27816784700","prior":"32171158100","yoy":"-13.54"},
+    "其他酒类": {"revenue":"410233200","prior":"647355600","yoy":"-36.63"},
+    "代理": {"revenue":"26142567900","prior":"30776063100","yoy":"-15.06"},
+    "直销、电商": {"revenue":"2084450000","prior":"2042450600","yoy":"2.06"},
+    "省内": {"revenue":"10539023000","prior":"11005051800","yoy":"-4.23"},
+    "省外": {"revenue":"17687994900","prior":"21813461900","yoy":"-18.91"}
+  },
+  "total":"28227017900",
+  "dealer_rows":[[553,30,37],[257,93,79],[2898,243,271],[613,183,296]],
+  "limits":"Single issuer source. Rows are overlapping product/channel/geography categories, not additive. Dealer counts may overlap entities across categories."
+}
