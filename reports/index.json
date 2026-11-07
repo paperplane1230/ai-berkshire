@@ -1,6 +1,6 @@
 {
-  "count": 2510,
-  "published": 2296,
+  "count": 2511,
+  "published": 2297,
   "drafts": 214,
   "reports": [
     {
@@ -23,6 +23,17 @@
       "type": "研究",
       "date": "2026-11-12",
       "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "山西汾酒（600809.SH）研究报告",
+      "path": "reports/汾酒/山西汾酒研究报告-20261107.md",
+      "bucket": "公司",
+      "group": "汾酒",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-07",
+      "date_source": "文件名",
       "ticker": ""
     },
     {

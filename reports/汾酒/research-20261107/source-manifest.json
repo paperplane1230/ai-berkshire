@@ -1,0 +1,493 @@
+{
+  "cutoff": "2026-11-07",
+  "sources": {
+    "announcements": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/600809.phtml",
+      "retrieved_at": "2026-11-07T20:18:46.268324+08:00",
+      "bytes": 55252,
+      "links": [
+        {
+          "title": "山西汾酒：关于召开2026年第三季度业绩说明会的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672143"
+        },
+        {
+          "title": "山西汾酒：2026年前三季度经营数据公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672142"
+        },
+        {
+          "title": "山西汾酒：2026年第三季度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672141"
+        },
+        {
+          "title": "山西汾酒：2026年半年度经营数据公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574673"
+        },
+        {
+          "title": "山西汾酒：关于召开2026年半年度业绩说明会的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574672"
+        },
+        {
+          "title": "山西汾酒：董事会秘书工作制度(2026年8月)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574669"
+        },
+        {
+          "title": "山西汾酒：董事会审计委员会议事规则(2026年8月)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574667"
+        },
+        {
+          "title": "山西汾酒：董事会薪酬与考核委员会议事规则(2026年8月)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574666"
+        },
+        {
+          "title": "山西汾酒：董事会提名委员会议事规则(2026年8月)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574665"
+        },
+        {
+          "title": "山西汾酒：董事会战略委员会议事规则(2026年8月)",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574663"
+        },
+        {
+          "title": "山西汾酒：第九届董事会第十八次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574660"
+        },
+        {
+          "title": "山西汾酒：2026年半年度报告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574659"
+        },
+        {
+          "title": "山西汾酒：2026年半年度报告摘要",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574656"
+        },
+        {
+          "title": "山西汾酒：关于董事会秘书离任暨聘任董事会秘书的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12465408"
+        },
+        {
+          "title": "山西汾酒：关于公司高级管理人员离任暨聘任总会计师的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12465407"
+        },
+        {
+          "title": "山西汾酒：2025年年度权益分派实施公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12462881"
+        },
+        {
+          "title": "山西汾酒：第九届董事会第十三次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12397760"
+        },
+        {
+          "title": "山西汾酒：2025年度股东会决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12397759"
+        },
+        {
+          "title": "山西汾酒：2025年度股东会法律意见书",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12397758"
+        },
+        {
+          "title": "山西汾酒：2025年度股东会资料",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12379725"
+        },
+        {
+          "title": "山西汾酒：董事、高级管理人员持有本公司股份及其变动管理办法",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374760"
+        },
+        {
+          "title": "山西汾酒：控股股东、实际控制人行为规范",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374759"
+        },
+        {
+          "title": "山西汾酒：募集资金管理制度",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374758"
+        },
+        {
+          "title": "山西汾酒：投资者关系管理办法",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374757"
+        },
+        {
+          "title": "山西汾酒：信息披露管理办法",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374756"
+        },
+        {
+          "title": "山西汾酒：第九届董事会第十二次会议决议公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374755"
+        },
+        {
+          "title": "山西汾酒：关于控股股东与实际控制人之间产权层级减少事项完成工商变更登记的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374754"
+        },
+        {
+          "title": "山西汾酒：关于2025年年度股东会增加临时提案的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374753"
+        },
+        {
+          "title": "山西汾酒：关于增补非独立董事的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374752"
+        },
+        {
+          "title": "山西汾酒：关于续聘天衡会计师事务所的公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12374751"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "26b809c1ad329833b6a5edde99d026330be7d664499f28fd8adb8808daf87943",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/announcements.html",
+          "bytes": 58102,
+          "sha256": "c1268905d24af7d7e94cb8720db7a915aafde7b5892c0f7a41e8646bd35297ee"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/announcements.txt",
+          "bytes": 6360,
+          "sha256": "001422168f30af779325d2ddada0acc0d27991d0bde69af63fcb0012b0dc4f4d"
+        }
+      ]
+    },
+    "annual-pdf": {
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-23/12153884.PDF",
+      "retrieved_at": "2026-11-07T20:18:49.662031+08:00",
+      "bytes": 1170640,
+      "pages": 169,
+      "response_sha256_as_recorded_at_capture": "f824fbe77c0bf415d14b55fe951cc9fa27e326d700535d70e03a4ee009d47e6a",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/annual-pdf.pdf",
+          "bytes": 1170640,
+          "sha256": "f824fbe77c0bf415d14b55fe951cc9fa27e326d700535d70e03a4ee009d47e6a"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/annual-pdf.txt",
+          "bytes": 352842,
+          "sha256": "624972cf0b727cf7c155b073c74bd0437b00a916e8e22b95da957ea9d4c49c85"
+        }
+      ]
+    },
+    "annual": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12153884",
+      "retrieved_at": "2026-11-07T20:18:47.192073+08:00",
+      "bytes": 634844,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-23/12153884.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-23/12153884.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "b9feb55790a224041438b38e5e6345bb5dc1a87ccb51547619bcb3e5742b76cc",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/annual.html",
+          "bytes": 725284,
+          "sha256": "228c17bb0fcc3129ec7dcde4c39de0ecb12492472e41f7fc5c0a2a894c5b97b5"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/annual.txt",
+          "bytes": 364934,
+          "sha256": "a3b2a2ec164905eeb45b0856aeefb6154bb34b5c9cf4ee82f32de6d4e363d652"
+        }
+      ]
+    },
+    "dividend-pdf": {
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-7/2026-07-27/12462881.PDF",
+      "retrieved_at": "2026-11-07T20:18:52.963265+08:00",
+      "bytes": 144026,
+      "pages": 3,
+      "response_sha256_as_recorded_at_capture": "a317f4769e1003da488121ae0b1aa4b908e692d87f36b4ed6fe5188100fa5245",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/dividend-pdf.pdf",
+          "bytes": 144026,
+          "sha256": "a317f4769e1003da488121ae0b1aa4b908e692d87f36b4ed6fe5188100fa5245"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/dividend-pdf.txt",
+          "bytes": 4974,
+          "sha256": "728e0f980e3380794905f33a44d8cfcf29c4afba8327fcf8bddb92c5656cc5f9"
+        }
+      ]
+    },
+    "eastmoney": {
+      "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22600809.SH%22)&p=1&ps=24&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+      "retrieved_at": "2026-11-07T20:18:46.027312+08:00",
+      "bytes": 100799,
+      "response_sha256_as_recorded_at_capture": "21e8216491daa14ee9eefc78d4ba10250ee0f844f5fbb73b01eafb43fe377cdb",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/eastmoney.json",
+          "bytes": 144790,
+          "sha256": "93cdb5ea9449b2bc7f9287ca98cd1825d72184d2346775b05d090c9fdb627edb"
+        }
+      ]
+    },
+    "h1-pdf": {
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-31/12574659.PDF",
+      "retrieved_at": "2026-11-07T20:18:51.374813+08:00",
+      "bytes": 956803,
+      "pages": 132,
+      "response_sha256_as_recorded_at_capture": "37882889a80a9cbc09f5df575da4c7fe95f34b7876e77aea84fa22e18ed03f94",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/h1-pdf.pdf",
+          "bytes": 956803,
+          "sha256": "37882889a80a9cbc09f5df575da4c7fe95f34b7876e77aea84fa22e18ed03f94"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/h1-pdf.txt",
+          "bytes": 278650,
+          "sha256": "6226716cfc5c4273ab144416bb175522eea8c1e40f0e765d68e3ac5a8c78e7cc"
+        }
+      ]
+    },
+    "h1": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574659",
+      "retrieved_at": "2026-11-07T20:18:46.855739+08:00",
+      "bytes": 515257,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-31/12574659.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-31/12574659.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "f5988d34e5b938f708c81c4db2a4d51c70e484264d314deaa7a76089b542c3f9",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/h1.html",
+          "bytes": 586325,
+          "sha256": "414b1ef767488c3d839440984a9b241ee6023965ffa91d336b0cf55c4853aebd"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/h1.txt",
+          "bytes": 292662,
+          "sha256": "d5577ff5693fa5b7f55dea7bd546f483ef6cac1e596bab1c628f233b2de08b69"
+        }
+      ]
+    },
+    "operating": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672142",
+      "retrieved_at": "2026-11-07T20:18:47.418498+08:00",
+      "bytes": 29617,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-29/12672142.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-29/12672142.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "ec0b9de4198002d4612a58503d4cbf87ec2fbdd6ffebd546af29431d9eef81f4",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/operating.html",
+          "bytes": 31367,
+          "sha256": "58101d198eee65f57cecc7ea031f87096b2aa7e5855e1b681f0bb6c4b6471c6e"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/operating.txt",
+          "bytes": 3930,
+          "sha256": "78e874b83b50222a32d3336c2aaae70bf3ea830d5ee44e84415c57dcd670c6c0"
+        }
+      ]
+    },
+    "plan-pdf": {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225156711.PDF",
+      "retrieved_at": "2026-11-07T20:18:53.124872+08:00",
+      "bytes": 94314,
+      "pages": 2,
+      "response_sha256_as_recorded_at_capture": "67e8684b4ff3d00410af4f463d8cc7d80a7b4e1a80e06f8f48583311e1a1e02f",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/plan-pdf.pdf",
+          "bytes": 94314,
+          "sha256": "67e8684b4ff3d00410af4f463d8cc7d80a7b4e1a80e06f8f48583311e1a1e02f"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/plan-pdf.txt",
+          "bytes": 2842,
+          "sha256": "19de28d3b51247c2c25fba2c487113ca73931f50b5e3dccc8a15714380ae38c6"
+        }
+      ]
+    },
+    "q3-pdf": {
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-29/12672141.PDF",
+      "retrieved_at": "2026-11-07T20:18:47.656679+08:00",
+      "bytes": 184619,
+      "pages": 12,
+      "response_sha256_as_recorded_at_capture": "454832d0947468de7359a8fa5e27e60fbcfd5d0678e3e7341b4cfbdd952a295c",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/q3-pdf.pdf",
+          "bytes": 184619,
+          "sha256": "454832d0947468de7359a8fa5e27e60fbcfd5d0678e3e7341b4cfbdd952a295c"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/q3-pdf.txt",
+          "bytes": 20570,
+          "sha256": "d1e17c418858158ee05eef2052e455c5d8bc1c138ef5b9a519eaf22b11909515"
+        }
+      ]
+    },
+    "q3": {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672141",
+      "retrieved_at": "2026-11-07T20:18:46.504413+08:00",
+      "bytes": 73841,
+      "links": [
+        {
+          "title": "下载公告",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-29/12672141.PDF"
+        },
+        {
+          "title": "公告原文",
+          "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-29/12672141.PDF"
+        }
+      ],
+      "response_sha256_as_recorded_at_capture": "98968aff9f7af8ce1208e66bb9b3ff32807d077dc8ed3bde616d3dfe3ab98479",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/q3.html",
+          "bytes": 79631,
+          "sha256": "1d6a479934b89620d0f7414904fa1692a36aab78ceb5ccd2e6734227344913ec"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/q3.txt",
+          "bytes": 24089,
+          "sha256": "f0f085ec4d007450042ce48770d3a923009f211be9ec73c84215b0e130358dd8"
+        }
+      ]
+    },
+    "qq": {
+      "url": "https://qt.gtimg.cn/q=sh600809",
+      "retrieved_at": "2026-11-07T20:18:45.732104+08:00",
+      "bytes": 529,
+      "response_sha256_as_recorded_at_capture": "888a75632a9e8632c194a3c3001ef588983ff96422594de07d62ccaecee33380",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/qq.html",
+          "bytes": 534,
+          "sha256": "4423dd4c7c6add42ddc0730502cbc8e153661874ce719f9a7dac473aa8e6dee3"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/qq.txt",
+          "bytes": 530,
+          "sha256": "6a135f67510cad1d37ade4de7747e84da9f9f961cd57c866e9119021592ef613"
+        }
+      ]
+    },
+    "sina": {
+      "url": "https://hq.sinajs.cn/list=sh600809",
+      "retrieved_at": "2026-11-07T20:18:45.840862+08:00",
+      "bytes": 278,
+      "response_sha256_as_recorded_at_capture": "440ab0d551b4c68052e85917fcbe42d1b851dea3e7445121e61bdf253754dbf0",
+      "cached_artifacts": [
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/sina.html",
+          "bytes": 283,
+          "sha256": "9f32e0404324dead23d3487c0c40d039f8d2f3a045d20510549eb69821413986"
+        },
+        {
+          "path": "local/山西汾酒-20261107/fenjiu/sina.txt",
+          "bytes": 281,
+          "sha256": "ae9fde47ca9e3aa30ee3d03d64d340c787777633dc940c49041d44f5f56db5f6"
+        }
+      ]
+    },
+    "agm-tavily": {
+      "path": "local/山西汾酒-20261107/fenjiu/agm-tavily.md",
+      "sha256": "c0ee00e840432180e5c3080bbbac80a9d82e0cbd286dd28720b3480a0c157dab",
+      "retrieved_on": "2026-11-07",
+      "note": "Full issuer-announcement HTML mirror read through Tavily extract, original raw response timestamp not persisted."
+    },
+    "annual-tavily": {
+      "path": "local/山西汾酒-20261107/fenjiu/annual-tavily.md",
+      "sha256": "e0dc1ee64b352ca1eeedadbce7f2a1426e466d49da25c99b093ef7de4269ba35",
+      "retrieved_on": "2026-11-07",
+      "note": "Full issuer-announcement HTML mirror read through Tavily extract, original raw response timestamp not persisted."
+    },
+    "dividend-tavily": {
+      "path": "local/山西汾酒-20261107/fenjiu/dividend-tavily.md",
+      "sha256": "10725d273f8318795f8d37de96213b0566facbdd274cca4cdbfcb57165b92d44",
+      "retrieved_on": "2026-11-07",
+      "note": "Full issuer-announcement HTML mirror read through Tavily extract, original raw response timestamp not persisted."
+    },
+    "h1-tavily": {
+      "path": "local/山西汾酒-20261107/fenjiu/h1-tavily.md",
+      "sha256": "618548cd614e08a40af0767a2c6621988a97bac52ea78265998c35cb1f40d98f",
+      "retrieved_on": "2026-11-07",
+      "note": "Full issuer-announcement HTML mirror read through Tavily extract, original raw response timestamp not persisted."
+    },
+    "policy-tavily": {
+      "path": "local/山西汾酒-20261107/fenjiu/policy-tavily.md",
+      "sha256": "33e99d35de9bb0a46687bd13a88eacc969fa8dba22532917e8734e87ee4b03a2",
+      "retrieved_on": "2026-11-07",
+      "note": "Full issuer-announcement HTML mirror read through Tavily extract, original raw response timestamp not persisted."
+    },
+    "q1-tavily": {
+      "path": "local/山西汾酒-20261107/fenjiu/q1-tavily.md",
+      "sha256": "8bf14bf4d229cab39ee27b31e2217766c08d39ef039c01804b86ccaa43614fc1",
+      "retrieved_on": "2026-11-07",
+      "note": "Full issuer-announcement HTML mirror read through Tavily extract, original raw response timestamp not persisted."
+    },
+    "q3-tavily": {
+      "path": "local/山西汾酒-20261107/fenjiu/q3-tavily.md",
+      "sha256": "a5896117d30dfea3cae3a6acf207134e141fc4cdef1364c9a2cde3154fa3beca",
+      "retrieved_on": "2026-11-07",
+      "note": "Full issuer-announcement HTML mirror read through Tavily extract, original raw response timestamp not persisted."
+    }
+  },
+  "source_ids": {
+    "S1": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672141",
+    "S2": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574659",
+    "S3": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12153884",
+    "S4": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22600809.SH%22)&p=1&ps=24&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "S5": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12462881",
+    "S6": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12274258",
+    "S7": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12153871",
+    "S8": "https://stockmc.xueqiu.com/202606/600809_20260617_84GB.pdf",
+    "S9": "https://qt.gtimg.cn/q=sh600809",
+    "S10": "https://hq.sinajs.cn/list=sh600809"
+  },
+  "visual_review": {
+    "status": "passed",
+    "reviewed_on": "2026-11-07",
+    "q3_pdf_pages": [
+      1,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
+    "annual_pdf_pages": [
+      5,
+      6
+    ],
+    "h1_pdf_pages": [
+      5,
+      23,
+      70,
+      72,
+      79,
+      86
+    ],
+    "dividend_pdf_pages": [
+      1
+    ],
+    "result": "Rendered original PDF pages visually checked for numeric columns, units, negative signs, annual-versus-quarter columns, cash/deposit/pledge classification, debt/leases, inventory composition and dividend ownership/payment dates. All sampled entries agree with inputs. Images retained only in local cache.",
+    "artifact_pattern": "local/山西汾酒-20261107/fenjiu/*-p*-check.png"
+  },
+  "independence": "Issuer documents and Eastmoney are separate publishing channels, not independent audits. Quote providers are checked separately; exact shares from issuer statements and dividend notice.",
+  "portable_scope": "Offline inputs and vendor snapshot reproduce arithmetic and 28 cross-source checks without local cache.",
+  "gaps": [
+    "Q3 unaudited and lacks full footnotes.",
+    "Q3 term-deposit composition and encumbrances are not refreshed; other current assets not wholly cash.",
+    "No verified freely distributable excess cash balance; bills and inventory excluded.",
+    "Dealer sell-through/inventory unavailable from accounting inventory.",
+    "Maintenance versus expansion cash capex not separately disclosed; noncash lease additions excluded from simple FCF."
+  ]
+}

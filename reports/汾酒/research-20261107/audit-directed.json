@@ -1,0 +1,252 @@
+[
+  {
+    "id": 2001,
+    "label": "last trading day close",
+    "reported_value": 132.0,
+    "fetched_value": 132.0,
+    "fetched_exact": "132.00",
+    "fetched_source": "S10 two 2026-11-06 snapshots; research day is Saturday",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2002,
+    "label": "shares hundred million",
+    "reported_value": 12.19964222,
+    "fetched_value": 12.19964222,
+    "fetched_exact": "12.19964222",
+    "fetched_source": "S1 independent registered capital",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2003,
+    "label": "market cap",
+    "reported_value": 1610.35,
+    "fetched_value": 1610.35277304,
+    "fetched_exact": "1610.35277304",
+    "fetched_source": "Price times registered shares",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2004,
+    "label": "PB",
+    "reported_value": 4.03,
+    "fetched_value": 4.026505838016654,
+    "fetched_exact": "4.026505838016653769400690630250672111350",
+    "fetched_source": "S1 equity and S10 quote",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2005,
+    "label": "TTM core profit",
+    "reported_value": 91.7883,
+    "fetched_value": 91.7882919112,
+    "fetched_exact": "91.7882919112",
+    "fetched_source": "TTM reconstruction",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2006,
+    "label": "TTM core PE",
+    "reported_value": 17.54,
+    "fetched_value": 17.544206777460523,
+    "fetched_exact": "17.54420677746052363452295744587597970767",
+    "fetched_source": "TTM core reconstruction",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2007,
+    "label": "TTM FCF",
+    "reported_value": 71.6238,
+    "fetched_value": 71.6237691461,
+    "fetched_exact": "71.6237691461",
+    "fetched_source": "Cashflow less cash capital expenditure",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2008,
+    "label": "Q3 gross margin",
+    "reported_value": 70.04,
+    "fetched_value": 70.03867574579887,
+    "fetched_exact": "70.03867574579887594065526836721886021169",
+    "fetched_source": "Same-quarter difference formula",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2009,
+    "label": "Q3 sales fee ratio",
+    "reported_value": 13.64,
+    "fetched_value": 13.63578723294513,
+    "fetched_exact": "13.63578723294512977856489664719618492498",
+    "fetched_source": "Same-quarter difference formula",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2010,
+    "label": "Q3 cash/profit",
+    "reported_value": 67.56,
+    "fetched_value": 67.56409217402656,
+    "fetched_exact": "67.56409217402655475723135339960463517622",
+    "fetched_source": "CFO divided by parent profit",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2011,
+    "label": "YTD cash/profit",
+    "reported_value": 95.16,
+    "fetched_value": 95.15953671380993,
+    "fetched_exact": "95.15953671380992416068904031431506773695",
+    "fetched_source": "CFO divided by parent profit",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2012,
+    "label": "Q3 sales cash",
+    "reported_value": 61.617,
+    "fetched_value": 61.6170329995,
+    "fetched_exact": "61.6170329995",
+    "fetched_source": "S1-S2 sales cash",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2013,
+    "label": "DIO days",
+    "reported_value": 532.0,
+    "fetched_value": 532.1578199087003,
+    "fetched_exact": "532.1578199087002356344871362000910475746",
+    "fetched_source": "273 days and mean balance, NOT dealer inventory days",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2014,
+    "label": "narrow cash less obligations",
+    "reported_value": 46.3303,
+    "fetched_value": 46.3302690213,
+    "fetched_exact": "46.3302690213",
+    "fetched_source": "Scoped observation, NOT full net cash",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2015,
+    "label": "H1 term deposits",
+    "reported_value": 256.6969,
+    "fetched_value": 256.6969015824,
+    "fetched_exact": "256.6969015824",
+    "fetched_source": "S2 footnote; not Q3 amount",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2016,
+    "label": "H1 pledged term deposits",
+    "reported_value": 25.6907,
+    "fetched_value": 25.6907206675,
+    "fetched_exact": "25.6907206675",
+    "fetched_source": "S2 restriction detail",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2017,
+    "label": "2030 project budget",
+    "reported_value": 91.0182,
+    "fetched_value": 91.01815,
+    "fetched_exact": "91.01815000",
+    "fetched_source": "S2 project budget, not remaining irrevocable spend",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2018,
+    "label": "project paid percentage",
+    "reported_value": 31.72,
+    "fetched_value": 31.72,
+    "fetched_exact": "31.72",
+    "fetched_source": "S2 project table",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2019,
+    "label": "paid dividend total",
+    "reported_value": 80.0297,
+    "fetched_value": 80.0296529632,
+    "fetched_exact": "80.0296529632",
+    "fetched_source": "S5 implemented distribution",
+    "unit": "report units",
+    "verification_kind": "source_fact"
+  },
+  {
+    "id": 2020,
+    "label": "9m FCF/paid prior-year dividend",
+    "reported_value": 91.36,
+    "fetched_value": 91.35588709214942,
+    "fetched_exact": "91.35588709214941423013665251889857391604",
+    "fetched_source": "Period mismatch disclosed: not annual sustainability verdict",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  },
+  {
+    "id": 2021,
+    "label": "TTM 65% policy sensitivity",
+    "reported_value": 59.6681,
+    "fetched_value": 59.66811702696,
+    "fetched_exact": "59.668117026960",
+    "fetched_source": "Mechanical sensitivity, not declared dividend",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2022,
+    "label": "growth required for 10% return",
+    "reported_value": 7.83,
+    "fetched_value": 7.8282722004833705,
+    "fetched_exact": "7.828272200483370417317115304029931629050",
+    "fetched_source": "PE16/payout65%/5-year reverse model",
+    "unit": "report units",
+    "verification_kind": "model_arithmetic"
+  },
+  {
+    "id": 2023,
+    "label": "classified dealer count",
+    "reported_value": 4321.0,
+    "fetched_value": 4321.0,
+    "fetched_exact": "4321",
+    "fetched_source": "S9 category count, not deduplicated entities",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2024,
+    "label": "net dealer reduction",
+    "reported_value": 134.0,
+    "fetched_value": 134.0,
+    "fetched_exact": "134",
+    "fetched_source": "S9 category movement",
+    "unit": "report units",
+    "verification_kind": "single_primary"
+  },
+  {
+    "id": 2025,
+    "label": "online/direct share",
+    "reported_value": 7.38,
+    "fetched_value": 7.384591625599954,
+    "fetched_exact": "7.384591625599954007185434916240301813816",
+    "fetched_source": "S9 wine revenue denominator",
+    "unit": "report units",
+    "verification_kind": "arithmetic"
+  }
+]
