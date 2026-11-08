@@ -1,0 +1,1600 @@
+{
+  "seed": 20261108,
+  "ratio": 0.15,
+  "raw_count": 172,
+  "excluded_count": 18,
+  "eligible_count": 154,
+  "sample_count": 24,
+  "excluded": [
+    {
+      "id": 85,
+      "label": "经营现金流净额 · 解释",
+      "reported_value": 153.14,
+      "unit": "%",
+      "raw_text": "| 经营现金流净额 | 403.43 | 为归母利润的153.14%，含非现金折旧带来的转换差异 |",
+      "line_number": 114,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 91,
+      "label": "偿还债务现金 · 解释",
+      "reported_value": 12.71,
+      "unit": "亿元",
+      "raw_text": "| 偿还债务现金 | 1354.83 | 借还净流出仅12.71亿元，不是1354.83亿元净减债 |",
+      "line_number": 119,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 94,
+      "label": "期末现金及现金等价物 · 解释",
+      "reported_value": 94.54,
+      "unit": "亿元",
+      "raw_text": "| 期末现金及现金等价物 | 94.09 | 与货币资金94.54亿元有受限等口径差异 |",
+      "line_number": 121,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 103,
+      "label": "保持高比例分红 · 本期证据",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| 保持高比例分红 | 2025年度分红已实施，未来五年规划在年报复述 | 历史执行可核验，未来绝对金额随盈利变化 |",
+      "line_number": 192,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 104,
+      "label": "提升财务效率 · 本期证据",
+      "reported_value": 10.12,
+      "unit": "亿元",
+      "raw_text": "| 提升财务效率 | 前三季财务费用下降10.12亿元 | 兑现，但不能抵消所有经营波动 |",
+      "line_number": 193,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 105,
+      "label": "来水导致波动，但整体近似低波动类债 · 修订依据",
+      "reported_value": 3.0,
+      "unit": "",
+      "raw_text": "| 来水导致波动，但整体近似低波动类债 | 降低确定性 | Q3归母利润同比下降23.44%，权益没有固定票息 |",
+      "line_number": 209,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 106,
+      "label": "TTM EPS 1.4747、PE18.07倍 · 修订依据",
+      "reported_value": 1.33454,
+      "unit": "",
+      "raw_text": "| TTM EPS 1.4747、PE18.07倍 | 历史快照，不再沿用 | 新TTM EPS1.33454、PE22.41倍；采用最新可比报表 |",
+      "line_number": 210,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 107,
+      "label": "分红率不低于70%支持未来每股1元 · 修订依据",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 分红率不低于70%支持未来每股1元 | 只保留比例约束 | 未来分红随归母利润变动，1元属于2025年度事实 |",
+      "line_number": 213,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 108,
+      "label": "23-25元舒服建仓区、35元才减仓 · 修订依据",
+      "reported_value": 8.0,
+      "unit": "",
+      "raw_text": "| 23-25元舒服建仓区、35元才减仓 | 不机械继承 | 新五年基准PV8约25.04元、PV10约22.99元，动作以回报门槛重算 |",
+      "line_number": 215,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 158,
+      "label": "25元 · 研究动作",
+      "reported_value": 8.0,
+      "unit": "%",
+      "raw_text": "| 25元 | +8.03% | 接近本模型8%门槛，仍需接受枯水风险 |",
+      "line_number": 271,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 163,
+      "label": "当前估值 · 结论",
+      "reported_value": 4.0,
+      "unit": "%",
+      "raw_text": "| 当前估值 | 基准五年年回报约4%，不足以支持普遍加仓结论 |",
+      "line_number": 291,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 164,
+      "label": "已披露TTM归母利润",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "已披露TTM归母利润：2025全年345.02809176亿元，减2025前三季281.92874495亿元，加2026前三季263.43828523亿元，等于326.53763205亿元。除以244.68217716亿股，EPS为1.33",
+      "line_number": 226,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 165,
+      "label": "S1",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "- [S1：2026年第三季度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12684388)",
+      "line_number": 305,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 166,
+      "label": "S2",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "- [S2：2026年半年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12574728)，",
+      "line_number": 306,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 167,
+      "label": "S3",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "- [S3：2025年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12283277)，2",
+      "line_number": 307,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 168,
+      "label": "S4",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "- [S4：2026三季度发电量完成公告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=126368",
+      "line_number": 308,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 169,
+      "label": "S8",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "- [S8：2026-2030年分红规划](http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=11301071)，并",
+      "line_number": 312,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    },
+    {
+      "id": 170,
+      "label": "P1",
+      "reported_value": 6.0,
+      "unit": "",
+      "raw_text": "- 旧文：[P1：6月27日研究报告](长江电力研究报告-20260627.md)、[P2：6月27日投资研究报告](长江电力投资研究报告-20260627.md)、[P3：6月24日报告](Yangtze-Power-research-2",
+      "line_number": 314,
+      "exclusion_reason": "Text-column numeral, citation date, or year parsed instead of TTM amount"
+    }
+  ],
+  "eligible": [
+    {
+      "id": 1,
+      "label": "营业收入（亿元） · 2026年前三季",
+      "reported_value": 630.56,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 630.56 | 657.41 | -4.08% |",
+      "line_number": 27
+    },
+    {
+      "id": 2,
+      "label": "营业收入（亿元） · 2025年前三季可比口径",
+      "reported_value": 657.41,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 630.56 | 657.41 | -4.08% |",
+      "line_number": 27
+    },
+    {
+      "id": 3,
+      "label": "营业收入（亿元） · 同比变化",
+      "reported_value": -4.08,
+      "unit": "%",
+      "raw_text": "| 营业收入（亿元） | 630.56 | 657.41 | -4.08% |",
+      "line_number": 27
+    },
+    {
+      "id": 4,
+      "label": "归母净利润（亿元） · 2026年前三季",
+      "reported_value": 263.44,
+      "unit": "",
+      "raw_text": "| 归母净利润（亿元） | 263.44 | 281.93 | -6.56% |",
+      "line_number": 28
+    },
+    {
+      "id": 5,
+      "label": "归母净利润（亿元） · 2025年前三季可比口径",
+      "reported_value": 281.93,
+      "unit": "",
+      "raw_text": "| 归母净利润（亿元） | 263.44 | 281.93 | -6.56% |",
+      "line_number": 28
+    },
+    {
+      "id": 6,
+      "label": "归母净利润（亿元） · 同比变化",
+      "reported_value": -6.56,
+      "unit": "%",
+      "raw_text": "| 归母净利润（亿元） | 263.44 | 281.93 | -6.56% |",
+      "line_number": 28
+    },
+    {
+      "id": 7,
+      "label": "扣非归母利润（亿元） · 2026年前三季",
+      "reported_value": 263.63,
+      "unit": "",
+      "raw_text": "| 扣非归母利润（亿元） | 263.63 | 282.07 | -6.53% |",
+      "line_number": 29
+    },
+    {
+      "id": 8,
+      "label": "扣非归母利润（亿元） · 2025年前三季可比口径",
+      "reported_value": 282.07,
+      "unit": "",
+      "raw_text": "| 扣非归母利润（亿元） | 263.63 | 282.07 | -6.53% |",
+      "line_number": 29
+    },
+    {
+      "id": 9,
+      "label": "扣非归母利润（亿元） · 同比变化",
+      "reported_value": -6.53,
+      "unit": "%",
+      "raw_text": "| 扣非归母利润（亿元） | 263.63 | 282.07 | -6.53% |",
+      "line_number": 29
+    },
+    {
+      "id": 10,
+      "label": "毛利率 · 2026年前三季",
+      "reported_value": 61.25,
+      "unit": "%",
+      "raw_text": "| 毛利率 | 61.25% | 62.48% | -1.22个百分点 |",
+      "line_number": 30
+    },
+    {
+      "id": 11,
+      "label": "毛利率 · 2025年前三季可比口径",
+      "reported_value": 62.48,
+      "unit": "%",
+      "raw_text": "| 毛利率 | 61.25% | 62.48% | -1.22个百分点 |",
+      "line_number": 30
+    },
+    {
+      "id": 12,
+      "label": "毛利率 · 同比变化",
+      "reported_value": -1.22,
+      "unit": "",
+      "raw_text": "| 毛利率 | 61.25% | 62.48% | -1.22个百分点 |",
+      "line_number": 30
+    },
+    {
+      "id": 13,
+      "label": "经营现金流（亿元） · 2026年前三季",
+      "reported_value": 403.43,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 403.43 | 428.95 | -5.95% |",
+      "line_number": 31
+    },
+    {
+      "id": 14,
+      "label": "经营现金流（亿元） · 2025年前三季可比口径",
+      "reported_value": 428.95,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 403.43 | 428.95 | -5.95% |",
+      "line_number": 31
+    },
+    {
+      "id": 15,
+      "label": "经营现金流（亿元） · 同比变化",
+      "reported_value": -5.95,
+      "unit": "%",
+      "raw_text": "| 经营现金流（亿元） | 403.43 | 428.95 | -5.95% |",
+      "line_number": 31
+    },
+    {
+      "id": 16,
+      "label": "购建长期资产现金支出（亿元） · 2026年前三季",
+      "reported_value": 60.28,
+      "unit": "",
+      "raw_text": "| 购建长期资产现金支出（亿元） | 60.28 | 85.11 | -29.17% |",
+      "line_number": 32
+    },
+    {
+      "id": 17,
+      "label": "购建长期资产现金支出（亿元） · 2025年前三季可比口径",
+      "reported_value": 85.11,
+      "unit": "",
+      "raw_text": "| 购建长期资产现金支出（亿元） | 60.28 | 85.11 | -29.17% |",
+      "line_number": 32
+    },
+    {
+      "id": 18,
+      "label": "购建长期资产现金支出（亿元） · 同比变化",
+      "reported_value": -29.17,
+      "unit": "%",
+      "raw_text": "| 购建长期资产现金支出（亿元） | 60.28 | 85.11 | -29.17% |",
+      "line_number": 32
+    },
+    {
+      "id": 19,
+      "label": "基本／稀释EPS（元，两者相同） · 2026年前三季",
+      "reported_value": 1.0767,
+      "unit": "",
+      "raw_text": "| 基本／稀释EPS（元，两者相同） | 1.0767 | 1.1522 | -6.56% |",
+      "line_number": 33
+    },
+    {
+      "id": 20,
+      "label": "基本／稀释EPS（元，两者相同） · 2025年前三季可比口径",
+      "reported_value": 1.1522,
+      "unit": "",
+      "raw_text": "| 基本／稀释EPS（元，两者相同） | 1.0767 | 1.1522 | -6.56% |",
+      "line_number": 33
+    },
+    {
+      "id": 21,
+      "label": "基本／稀释EPS（元，两者相同） · 同比变化",
+      "reported_value": -6.56,
+      "unit": "%",
+      "raw_text": "| 基本／稀释EPS（元，两者相同） | 1.0767 | 1.1522 | -6.56% |",
+      "line_number": 33
+    },
+    {
+      "id": 22,
+      "label": "收入（亿元） · 2025Q4",
+      "reported_value": 205.01,
+      "unit": "",
+      "raw_text": "| 收入（亿元） | 205.01 | 181.12 | 198.18 | 251.27 |",
+      "line_number": 39
+    },
+    {
+      "id": 23,
+      "label": "收入（亿元） · 2026Q1",
+      "reported_value": 181.12,
+      "unit": "",
+      "raw_text": "| 收入（亿元） | 205.01 | 181.12 | 198.18 | 251.27 |",
+      "line_number": 39
+    },
+    {
+      "id": 24,
+      "label": "收入（亿元） · 2026Q2",
+      "reported_value": 198.18,
+      "unit": "",
+      "raw_text": "| 收入（亿元） | 205.01 | 181.12 | 198.18 | 251.27 |",
+      "line_number": 39
+    },
+    {
+      "id": 25,
+      "label": "收入（亿元） · 2026Q3",
+      "reported_value": 251.27,
+      "unit": "",
+      "raw_text": "| 收入（亿元） | 205.01 | 181.12 | 198.18 | 251.27 |",
+      "line_number": 39
+    },
+    {
+      "id": 26,
+      "label": "归母利润（亿元） · 2025Q4",
+      "reported_value": 63.1,
+      "unit": "",
+      "raw_text": "| 归母利润（亿元） | 63.10 | 67.61 | 79.95 | 115.88 |",
+      "line_number": 40
+    },
+    {
+      "id": 27,
+      "label": "归母利润（亿元） · 2026Q1",
+      "reported_value": 67.61,
+      "unit": "",
+      "raw_text": "| 归母利润（亿元） | 63.10 | 67.61 | 79.95 | 115.88 |",
+      "line_number": 40
+    },
+    {
+      "id": 28,
+      "label": "归母利润（亿元） · 2026Q2",
+      "reported_value": 79.95,
+      "unit": "",
+      "raw_text": "| 归母利润（亿元） | 63.10 | 67.61 | 79.95 | 115.88 |",
+      "line_number": 40
+    },
+    {
+      "id": 29,
+      "label": "归母利润（亿元） · 2026Q3",
+      "reported_value": 115.88,
+      "unit": "",
+      "raw_text": "| 归母利润（亿元） | 63.10 | 67.61 | 79.95 | 115.88 |",
+      "line_number": 40
+    },
+    {
+      "id": 30,
+      "label": "收入（亿元） · 2023年",
+      "reported_value": 781.44,
+      "unit": "",
+      "raw_text": "| 收入（亿元） | 781.44 | 844.92 | 862.42 |",
+      "line_number": 50
+    },
+    {
+      "id": 31,
+      "label": "收入（亿元） · 2024年",
+      "reported_value": 844.92,
+      "unit": "",
+      "raw_text": "| 收入（亿元） | 781.44 | 844.92 | 862.42 |",
+      "line_number": 50
+    },
+    {
+      "id": 32,
+      "label": "收入（亿元） · 2025年",
+      "reported_value": 862.42,
+      "unit": "",
+      "raw_text": "| 收入（亿元） | 781.44 | 844.92 | 862.42 |",
+      "line_number": 50
+    },
+    {
+      "id": 33,
+      "label": "归母利润（亿元） · 2023年",
+      "reported_value": 272.45,
+      "unit": "",
+      "raw_text": "| 归母利润（亿元） | 272.45 | 324.96 | 345.03 |",
+      "line_number": 51
+    },
+    {
+      "id": 34,
+      "label": "归母利润（亿元） · 2024年",
+      "reported_value": 324.96,
+      "unit": "",
+      "raw_text": "| 归母利润（亿元） | 272.45 | 324.96 | 345.03 |",
+      "line_number": 51
+    },
+    {
+      "id": 35,
+      "label": "归母利润（亿元） · 2025年",
+      "reported_value": 345.03,
+      "unit": "",
+      "raw_text": "| 归母利润（亿元） | 272.45 | 324.96 | 345.03 |",
+      "line_number": 51
+    },
+    {
+      "id": 36,
+      "label": "经营现金流（亿元） · 2023年",
+      "reported_value": 647.49,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 647.49 | 596.48 | 605.63 |",
+      "line_number": 52
+    },
+    {
+      "id": 37,
+      "label": "经营现金流（亿元） · 2024年",
+      "reported_value": 596.48,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 647.49 | 596.48 | 605.63 |",
+      "line_number": 52
+    },
+    {
+      "id": 38,
+      "label": "经营现金流（亿元） · 2025年",
+      "reported_value": 605.63,
+      "unit": "",
+      "raw_text": "| 经营现金流（亿元） | 647.49 | 596.48 | 605.63 |",
+      "line_number": 52
+    },
+    {
+      "id": 39,
+      "label": "基本EPS（元） · 2023年",
+      "reported_value": 1.1135,
+      "unit": "",
+      "raw_text": "| 基本EPS（元） | 1.1135 | 1.3281 | 1.4101 |",
+      "line_number": 53
+    },
+    {
+      "id": 40,
+      "label": "基本EPS（元） · 2024年",
+      "reported_value": 1.3281,
+      "unit": "",
+      "raw_text": "| 基本EPS（元） | 1.1135 | 1.3281 | 1.4101 |",
+      "line_number": 53
+    },
+    {
+      "id": 41,
+      "label": "基本EPS（元） · 2025年",
+      "reported_value": 1.4101,
+      "unit": "",
+      "raw_text": "| 基本EPS（元） | 1.1135 | 1.3281 | 1.4101 |",
+      "line_number": 53
+    },
+    {
+      "id": 42,
+      "label": "境内水电 · 收入（亿元）",
+      "reported_value": 756.62,
+      "unit": "",
+      "raw_text": "| 境内水电 | 756.62 | 65.79% | 核心盈利资产，约占总收入87.73% |",
+      "line_number": 61
+    },
+    {
+      "id": 43,
+      "label": "境内水电 · 毛利率",
+      "reported_value": 65.79,
+      "unit": "%",
+      "raw_text": "| 境内水电 | 756.62 | 65.79% | 核心盈利资产，约占总收入87.73% |",
+      "line_number": 61
+    },
+    {
+      "id": 44,
+      "label": "其他行业 · 收入（亿元）",
+      "reported_value": 103.23,
+      "unit": "",
+      "raw_text": "| 其他行业 | 103.23 | 31.54% | 包括海外配售电等，并不全是水电 |",
+      "line_number": 62
+    },
+    {
+      "id": 45,
+      "label": "其他行业 · 毛利率",
+      "reported_value": 31.54,
+      "unit": "%",
+      "raw_text": "| 其他行业 | 103.23 | 31.54% | 包括海外配售电等，并不全是水电 |",
+      "line_number": 62
+    },
+    {
+      "id": 46,
+      "label": "其他业务补差 · 收入（亿元）",
+      "reported_value": 2.57,
+      "unit": "",
+      "raw_text": "| 其他业务补差 | 2.57 | 不单独展开 | 前两项主营业务不等于全部营业收入 |",
+      "line_number": 63
+    },
+    {
+      "id": 47,
+      "label": "总收入 · 收入（亿元）",
+      "reported_value": 862.42,
+      "unit": "",
+      "raw_text": "| 总收入 | 862.42 | 61.67% | 合并营业收入 |",
+      "line_number": 64
+    },
+    {
+      "id": 48,
+      "label": "总收入 · 毛利率",
+      "reported_value": 61.67,
+      "unit": "%",
+      "raw_text": "| 总收入 | 862.42 | 61.67% | 合并营业收入 |",
+      "line_number": 64
+    },
+    {
+      "id": 49,
+      "label": "乌东德 · 2026Q3",
+      "reported_value": 131.521,
+      "unit": "",
+      "raw_text": "| 乌东德 | 131.5210 | -10.46% | 256.0291 | -13.64% |",
+      "line_number": 70
+    },
+    {
+      "id": 50,
+      "label": "乌东德 · Q3同比变化",
+      "reported_value": -10.46,
+      "unit": "%",
+      "raw_text": "| 乌东德 | 131.5210 | -10.46% | 256.0291 | -13.64% |",
+      "line_number": 70
+    },
+    {
+      "id": 51,
+      "label": "乌东德 · 2026前三季",
+      "reported_value": 256.0291,
+      "unit": "",
+      "raw_text": "| 乌东德 | 131.5210 | -10.46% | 256.0291 | -13.64% |",
+      "line_number": 70
+    },
+    {
+      "id": 52,
+      "label": "乌东德 · 前三季同比变化",
+      "reported_value": -13.64,
+      "unit": "%",
+      "raw_text": "| 乌东德 | 131.5210 | -10.46% | 256.0291 | -13.64% |",
+      "line_number": 70
+    },
+    {
+      "id": 53,
+      "label": "白鹤滩 · 2026Q3",
+      "reported_value": 194.2104,
+      "unit": "",
+      "raw_text": "| 白鹤滩 | 194.2104 | -8.45% | 438.1342 | -6.59% |",
+      "line_number": 71
+    },
+    {
+      "id": 54,
+      "label": "白鹤滩 · Q3同比变化",
+      "reported_value": -8.45,
+      "unit": "%",
+      "raw_text": "| 白鹤滩 | 194.2104 | -8.45% | 438.1342 | -6.59% |",
+      "line_number": 71
+    },
+    {
+      "id": 55,
+      "label": "白鹤滩 · 2026前三季",
+      "reported_value": 438.1342,
+      "unit": "",
+      "raw_text": "| 白鹤滩 | 194.2104 | -8.45% | 438.1342 | -6.59% |",
+      "line_number": 71
+    },
+    {
+      "id": 56,
+      "label": "白鹤滩 · 前三季同比变化",
+      "reported_value": -6.59,
+      "unit": "%",
+      "raw_text": "| 白鹤滩 | 194.2104 | -8.45% | 438.1342 | -6.59% |",
+      "line_number": 71
+    },
+    {
+      "id": 57,
+      "label": "溪洛渡 · 2026Q3",
+      "reported_value": 187.8558,
+      "unit": "",
+      "raw_text": "| 溪洛渡 | 187.8558 | -3.18% | 454.8948 | -3.96% |",
+      "line_number": 72
+    },
+    {
+      "id": 58,
+      "label": "溪洛渡 · Q3同比变化",
+      "reported_value": -3.18,
+      "unit": "%",
+      "raw_text": "| 溪洛渡 | 187.8558 | -3.18% | 454.8948 | -3.96% |",
+      "line_number": 72
+    },
+    {
+      "id": 59,
+      "label": "溪洛渡 · 2026前三季",
+      "reported_value": 454.8948,
+      "unit": "",
+      "raw_text": "| 溪洛渡 | 187.8558 | -3.18% | 454.8948 | -3.96% |",
+      "line_number": 72
+    },
+    {
+      "id": 60,
+      "label": "溪洛渡 · 前三季同比变化",
+      "reported_value": -3.96,
+      "unit": "%",
+      "raw_text": "| 溪洛渡 | 187.8558 | -3.18% | 454.8948 | -3.96% |",
+      "line_number": 72
+    },
+    {
+      "id": 61,
+      "label": "向家坝 · 2026Q3",
+      "reported_value": 102.8065,
+      "unit": "",
+      "raw_text": "| 向家坝 | 102.8065 | -5.97% | 252.8932 | -4.65% |",
+      "line_number": 73
+    },
+    {
+      "id": 62,
+      "label": "向家坝 · Q3同比变化",
+      "reported_value": -5.97,
+      "unit": "%",
+      "raw_text": "| 向家坝 | 102.8065 | -5.97% | 252.8932 | -4.65% |",
+      "line_number": 73
+    },
+    {
+      "id": 63,
+      "label": "向家坝 · 2026前三季",
+      "reported_value": 252.8932,
+      "unit": "",
+      "raw_text": "| 向家坝 | 102.8065 | -5.97% | 252.8932 | -4.65% |",
+      "line_number": 73
+    },
+    {
+      "id": 64,
+      "label": "向家坝 · 前三季同比变化",
+      "reported_value": -4.65,
+      "unit": "%",
+      "raw_text": "| 向家坝 | 102.8065 | -5.97% | 252.8932 | -4.65% |",
+      "line_number": 73
+    },
+    {
+      "id": 65,
+      "label": "三峡 · 2026Q3",
+      "reported_value": 253.1851,
+      "unit": "",
+      "raw_text": "| 三峡 | 253.1851 | -29.23% | 703.9167 | +0.53% |",
+      "line_number": 74
+    },
+    {
+      "id": 66,
+      "label": "三峡 · Q3同比变化",
+      "reported_value": -29.23,
+      "unit": "%",
+      "raw_text": "| 三峡 | 253.1851 | -29.23% | 703.9167 | +0.53% |",
+      "line_number": 74
+    },
+    {
+      "id": 67,
+      "label": "三峡 · 2026前三季",
+      "reported_value": 703.9167,
+      "unit": "",
+      "raw_text": "| 三峡 | 253.1851 | -29.23% | 703.9167 | +0.53% |",
+      "line_number": 74
+    },
+    {
+      "id": 68,
+      "label": "三峡 · 前三季同比变化",
+      "reported_value": 0.53,
+      "unit": "%",
+      "raw_text": "| 三峡 | 253.1851 | -29.23% | 703.9167 | +0.53% |",
+      "line_number": 74
+    },
+    {
+      "id": 69,
+      "label": "葛洲坝 · 2026Q3",
+      "reported_value": 53.5618,
+      "unit": "",
+      "raw_text": "| 葛洲坝 | 53.5618 | -17.04% | 144.7130 | -1.32% |",
+      "line_number": 75
+    },
+    {
+      "id": 70,
+      "label": "葛洲坝 · Q3同比变化",
+      "reported_value": -17.04,
+      "unit": "%",
+      "raw_text": "| 葛洲坝 | 53.5618 | -17.04% | 144.7130 | -1.32% |",
+      "line_number": 75
+    },
+    {
+      "id": 71,
+      "label": "葛洲坝 · 2026前三季",
+      "reported_value": 144.713,
+      "unit": "",
+      "raw_text": "| 葛洲坝 | 53.5618 | -17.04% | 144.7130 | -1.32% |",
+      "line_number": 75
+    },
+    {
+      "id": 72,
+      "label": "葛洲坝 · 前三季同比变化",
+      "reported_value": -1.32,
+      "unit": "%",
+      "raw_text": "| 葛洲坝 | 53.5618 | -17.04% | 144.7130 | -1.32% |",
+      "line_number": 75
+    },
+    {
+      "id": 73,
+      "label": "公告合计 · 2026Q3",
+      "reported_value": 923.1405,
+      "unit": "",
+      "raw_text": "| 公告合计 | 923.1405 | -14.89% | 2250.5811 | -4.28% |",
+      "line_number": 76
+    },
+    {
+      "id": 74,
+      "label": "公告合计 · Q3同比变化",
+      "reported_value": -14.89,
+      "unit": "%",
+      "raw_text": "| 公告合计 | 923.1405 | -14.89% | 2250.5811 | -4.28% |",
+      "line_number": 76
+    },
+    {
+      "id": 75,
+      "label": "公告合计 · 2026前三季",
+      "reported_value": 2250.5811,
+      "unit": "",
+      "raw_text": "| 公告合计 | 923.1405 | -14.89% | 2250.5811 | -4.28% |",
+      "line_number": 76
+    },
+    {
+      "id": 76,
+      "label": "公告合计 · 前三季同比变化",
+      "reported_value": -4.28,
+      "unit": "%",
+      "raw_text": "| 公告合计 | 923.1405 | -14.89% | 2250.5811 | -4.28% |",
+      "line_number": 76
+    },
+    {
+      "id": 77,
+      "label": "毛利减少 · 已验证变化",
+      "reported_value": 24.48,
+      "unit": "亿元",
+      "raw_text": "| 毛利减少 | 24.48亿元 | 收入下降而营业成本仅小幅下降，固定成本摊薄逆转 |",
+      "line_number": 92
+    },
+    {
+      "id": 78,
+      "label": "财务费用节约 · 已验证变化",
+      "reported_value": 10.12,
+      "unit": "亿元",
+      "raw_text": "| 财务费用节约 | 10.12亿元 | 融资优化缓冲下滑，不足以保证全年利润增长 |",
+      "line_number": 93
+    },
+    {
+      "id": 79,
+      "label": "投资收益减少 · 已验证变化",
+      "reported_value": 2.7,
+      "unit": "亿元",
+      "raw_text": "| 投资收益减少 | 2.70亿元 | 联营资产也有周期，并非无波动附加收益 |",
+      "line_number": 94
+    },
+    {
+      "id": 80,
+      "label": "利润总额减少 · 已验证变化",
+      "reported_value": 16.92,
+      "unit": "亿元",
+      "raw_text": "| 利润总额减少 | 16.92亿元 | 上述项目之外还含税金、研发等费用变化 |",
+      "line_number": 95
+    },
+    {
+      "id": 81,
+      "label": "所得税费用增加 · 已验证变化",
+      "reported_value": 1.2,
+      "unit": "亿元",
+      "raw_text": "| 所得税费用增加 | 1.20亿元 | 税前利润下降并没有带来税费同步下降 |",
+      "line_number": 96
+    },
+    {
+      "id": 82,
+      "label": "少数股东损益增加 · 已验证变化",
+      "reported_value": 0.38,
+      "unit": "亿元",
+      "raw_text": "| 少数股东损益增加 | 0.38亿元 | 归母口径进一步受影响 |",
+      "line_number": 97
+    },
+    {
+      "id": 83,
+      "label": "归母利润减少 · 已验证变化",
+      "reported_value": 18.49,
+      "unit": "亿元",
+      "raw_text": "| 归母利润减少 | 18.49亿元 | 税前下降减去税费与少数股东变化后的净结果 |",
+      "line_number": 98
+    },
+    {
+      "id": 84,
+      "label": "经营现金流净额 · 金额（亿元）",
+      "reported_value": 403.43,
+      "unit": "",
+      "raw_text": "| 经营现金流净额 | 403.43 | 为归母利润的153.14%，含非现金折旧带来的转换差异 |",
+      "line_number": 114
+    },
+    {
+      "id": 86,
+      "label": "减：购建长期资产现金支出 · 金额（亿元）",
+      "reported_value": 60.28,
+      "unit": "",
+      "raw_text": "| 减：购建长期资产现金支出 | 60.28 | 含维护、技改及扩建，未披露可靠现金拆分 |",
+      "line_number": 115
+    },
+    {
+      "id": 87,
+      "label": "简化经营现金余量 · 金额（亿元）",
+      "reported_value": 343.15,
+      "unit": "",
+      "raw_text": "| 简化经营现金余量 | 343.15 | CFO减资本开支，不是归母FCFE |",
+      "line_number": 116
+    },
+    {
+      "id": 88,
+      "label": "投资收益收现 · 金额（亿元）",
+      "reported_value": 28.2,
+      "unit": "",
+      "raw_text": "| 投资收益收现 | 28.20 | 列在投资活动，不在上述CFO中 |",
+      "line_number": 117
+    },
+    {
+      "id": 89,
+      "label": "新借款现金 · 金额（亿元）",
+      "reported_value": 1342.13,
+      "unit": "",
+      "raw_text": "| 新借款现金 | 1342.13 | 滚动融资规模很大 |",
+      "line_number": 118
+    },
+    {
+      "id": 90,
+      "label": "偿还债务现金 · 金额（亿元）",
+      "reported_value": 1354.83,
+      "unit": "",
+      "raw_text": "| 偿还债务现金 | 1354.83 | 借还净流出仅12.71亿元，不是1354.83亿元净减债 |",
+      "line_number": 119
+    },
+    {
+      "id": 92,
+      "label": "分红、利润分配和利息合计支出 · 金额（亿元）",
+      "reported_value": 308.0,
+      "unit": "",
+      "raw_text": "| 分红、利润分配和利息合计支出 | 308.00 | 必须进一步分拆，不能整项叫“股东分红” |",
+      "line_number": 120
+    },
+    {
+      "id": 93,
+      "label": "期末现金及现金等价物 · 金额（亿元）",
+      "reported_value": 94.09,
+      "unit": "",
+      "raw_text": "| 期末现金及现金等价物 | 94.09 | 与货币资金94.54亿元有受限等口径差异 |",
+      "line_number": 121
+    },
+    {
+      "id": 95,
+      "label": "短期借款 · 金额（亿元）",
+      "reported_value": 84.44,
+      "unit": "",
+      "raw_text": "| 短期借款 | 84.44 |",
+      "line_number": 137
+    },
+    {
+      "id": 96,
+      "label": "一年内到期非流动负债 · 金额（亿元）",
+      "reported_value": 564.97,
+      "unit": "",
+      "raw_text": "| 一年内到期非流动负债 | 564.97 |",
+      "line_number": 138
+    },
+    {
+      "id": 97,
+      "label": "长期借款 · 金额（亿元）",
+      "reported_value": 1798.44,
+      "unit": "",
+      "raw_text": "| 长期借款 | 1798.44 |",
+      "line_number": 139
+    },
+    {
+      "id": 98,
+      "label": "应付债券 · 金额（亿元）",
+      "reported_value": 379.1,
+      "unit": "",
+      "raw_text": "| 应付债券 | 379.10 |",
+      "line_number": 140
+    },
+    {
+      "id": 99,
+      "label": "租赁负债 · 金额（亿元）",
+      "reported_value": 5.29,
+      "unit": "",
+      "raw_text": "| 租赁负债 | 5.29 |",
+      "line_number": 141
+    },
+    {
+      "id": 100,
+      "label": "上述已识别五项合计 · 金额（亿元）",
+      "reported_value": 2832.24,
+      "unit": "",
+      "raw_text": "| 上述已识别五项合计 | 2832.24 |",
+      "line_number": 142
+    },
+    {
+      "id": 101,
+      "label": "其他流动负债 · 金额（亿元）",
+      "reported_value": 55.41,
+      "unit": "",
+      "raw_text": "| 其他流动负债 | 55.41 |",
+      "line_number": 143
+    },
+    {
+      "id": 102,
+      "label": "货币资金 · 金额（亿元）",
+      "reported_value": 94.54,
+      "unit": "",
+      "raw_text": "| 货币资金 | 94.54 |",
+      "line_number": 144
+    },
+    {
+      "id": 109,
+      "label": "第一年EPS（元） · 悲观",
+      "reported_value": 1.25,
+      "unit": "",
+      "raw_text": "| 第一年EPS（元） | 1.25 | 1.43 | 1.55 |",
+      "line_number": 236
+    },
+    {
+      "id": 110,
+      "label": "第一年EPS（元） · 基准",
+      "reported_value": 1.43,
+      "unit": "",
+      "raw_text": "| 第一年EPS（元） | 1.25 | 1.43 | 1.55 |",
+      "line_number": 236
+    },
+    {
+      "id": 111,
+      "label": "第一年EPS（元） · 乐观",
+      "reported_value": 1.55,
+      "unit": "",
+      "raw_text": "| 第一年EPS（元） | 1.25 | 1.43 | 1.55 |",
+      "line_number": 236
+    },
+    {
+      "id": 112,
+      "label": "后四年EPS年增长 · 基准",
+      "reported_value": 3.0,
+      "unit": "%",
+      "raw_text": "| 后四年EPS年增长 | 0% | +3% | +5% |",
+      "line_number": 237
+    },
+    {
+      "id": 113,
+      "label": "后四年EPS年增长 · 乐观",
+      "reported_value": 5.0,
+      "unit": "%",
+      "raw_text": "| 后四年EPS年增长 | 0% | +3% | +5% |",
+      "line_number": 237
+    },
+    {
+      "id": 114,
+      "label": "每年分红率 · 悲观",
+      "reported_value": 70.0,
+      "unit": "%",
+      "raw_text": "| 每年分红率 | 70% | 70% | 70% |",
+      "line_number": 238
+    },
+    {
+      "id": 115,
+      "label": "每年分红率 · 基准",
+      "reported_value": 70.0,
+      "unit": "%",
+      "raw_text": "| 每年分红率 | 70% | 70% | 70% |",
+      "line_number": 238
+    },
+    {
+      "id": 116,
+      "label": "每年分红率 · 乐观",
+      "reported_value": 70.0,
+      "unit": "%",
+      "raw_text": "| 每年分红率 | 70% | 70% | 70% |",
+      "line_number": 238
+    },
+    {
+      "id": 117,
+      "label": "第五年退出PE · 悲观",
+      "reported_value": 16.0,
+      "unit": "x",
+      "raw_text": "| 第五年退出PE | 16x | 19x | 22x |",
+      "line_number": 239
+    },
+    {
+      "id": 118,
+      "label": "第五年退出PE · 基准",
+      "reported_value": 19.0,
+      "unit": "x",
+      "raw_text": "| 第五年退出PE | 16x | 19x | 22x |",
+      "line_number": 239
+    },
+    {
+      "id": 119,
+      "label": "第五年退出PE · 乐观",
+      "reported_value": 22.0,
+      "unit": "x",
+      "raw_text": "| 第五年退出PE | 16x | 19x | 22x |",
+      "line_number": 239
+    },
+    {
+      "id": 120,
+      "label": "水文／价格背景 · 悲观",
+      "reported_value": -3.0,
+      "unit": "%",
+      "raw_text": "| 水文／价格背景 | 再偏枯、售电价约-3%压力 | 来水常态化、售电价平稳 | 来水偏丰、售电价约+2% |",
+      "line_number": 240
+    },
+    {
+      "id": 121,
+      "label": "水文／价格背景 · 乐观",
+      "reported_value": 2.0,
+      "unit": "%",
+      "raw_text": "| 水文／价格背景 | 再偏枯、售电价约-3%压力 | 来水常态化、售电价平稳 | 来水偏丰、售电价约+2% |",
+      "line_number": 240
+    },
+    {
+      "id": 122,
+      "label": "第一年末 · 悲观",
+      "reported_value": 0.875,
+      "unit": "",
+      "raw_text": "| 第一年末 | 0.8750 | 1.0010 | 1.0850 |",
+      "line_number": 246
+    },
+    {
+      "id": 123,
+      "label": "第一年末 · 基准",
+      "reported_value": 1.001,
+      "unit": "",
+      "raw_text": "| 第一年末 | 0.8750 | 1.0010 | 1.0850 |",
+      "line_number": 246
+    },
+    {
+      "id": 124,
+      "label": "第一年末 · 乐观",
+      "reported_value": 1.085,
+      "unit": "",
+      "raw_text": "| 第一年末 | 0.8750 | 1.0010 | 1.0850 |",
+      "line_number": 246
+    },
+    {
+      "id": 125,
+      "label": "第二年末 · 悲观",
+      "reported_value": 0.875,
+      "unit": "",
+      "raw_text": "| 第二年末 | 0.8750 | 1.0310 | 1.1393 |",
+      "line_number": 247
+    },
+    {
+      "id": 126,
+      "label": "第二年末 · 基准",
+      "reported_value": 1.031,
+      "unit": "",
+      "raw_text": "| 第二年末 | 0.8750 | 1.0310 | 1.1393 |",
+      "line_number": 247
+    },
+    {
+      "id": 127,
+      "label": "第二年末 · 乐观",
+      "reported_value": 1.1393,
+      "unit": "",
+      "raw_text": "| 第二年末 | 0.8750 | 1.0310 | 1.1393 |",
+      "line_number": 247
+    },
+    {
+      "id": 128,
+      "label": "第三年末 · 悲观",
+      "reported_value": 0.875,
+      "unit": "",
+      "raw_text": "| 第三年末 | 0.8750 | 1.0620 | 1.1962 |",
+      "line_number": 248
+    },
+    {
+      "id": 129,
+      "label": "第三年末 · 基准",
+      "reported_value": 1.062,
+      "unit": "",
+      "raw_text": "| 第三年末 | 0.8750 | 1.0620 | 1.1962 |",
+      "line_number": 248
+    },
+    {
+      "id": 130,
+      "label": "第三年末 · 乐观",
+      "reported_value": 1.1962,
+      "unit": "",
+      "raw_text": "| 第三年末 | 0.8750 | 1.0620 | 1.1962 |",
+      "line_number": 248
+    },
+    {
+      "id": 131,
+      "label": "第四年末 · 悲观",
+      "reported_value": 0.875,
+      "unit": "",
+      "raw_text": "| 第四年末 | 0.8750 | 1.0938 | 1.2560 |",
+      "line_number": 249
+    },
+    {
+      "id": 132,
+      "label": "第四年末 · 基准",
+      "reported_value": 1.0938,
+      "unit": "",
+      "raw_text": "| 第四年末 | 0.8750 | 1.0938 | 1.2560 |",
+      "line_number": 249
+    },
+    {
+      "id": 133,
+      "label": "第四年末 · 乐观",
+      "reported_value": 1.256,
+      "unit": "",
+      "raw_text": "| 第四年末 | 0.8750 | 1.0938 | 1.2560 |",
+      "line_number": 249
+    },
+    {
+      "id": 134,
+      "label": "第五年末 · 悲观",
+      "reported_value": 0.875,
+      "unit": "",
+      "raw_text": "| 第五年末 | 0.8750 | 1.1266 | 1.3188 |",
+      "line_number": 250
+    },
+    {
+      "id": 135,
+      "label": "第五年末 · 基准",
+      "reported_value": 1.1266,
+      "unit": "",
+      "raw_text": "| 第五年末 | 0.8750 | 1.1266 | 1.3188 |",
+      "line_number": 250
+    },
+    {
+      "id": 136,
+      "label": "第五年末 · 乐观",
+      "reported_value": 1.3188,
+      "unit": "",
+      "raw_text": "| 第五年末 | 0.8750 | 1.1266 | 1.3188 |",
+      "line_number": 250
+    },
+    {
+      "id": 137,
+      "label": "第五年EPS（元） · 悲观",
+      "reported_value": 1.25,
+      "unit": "",
+      "raw_text": "| 第五年EPS（元） | 1.2500 | 1.6095 | 1.8840 |",
+      "line_number": 254
+    },
+    {
+      "id": 138,
+      "label": "第五年EPS（元） · 基准",
+      "reported_value": 1.6095,
+      "unit": "",
+      "raw_text": "| 第五年EPS（元） | 1.2500 | 1.6095 | 1.8840 |",
+      "line_number": 254
+    },
+    {
+      "id": 139,
+      "label": "第五年EPS（元） · 乐观",
+      "reported_value": 1.884,
+      "unit": "",
+      "raw_text": "| 第五年EPS（元） | 1.2500 | 1.6095 | 1.8840 |",
+      "line_number": 254
+    },
+    {
+      "id": 140,
+      "label": "第五年除息后退出价（元） · 悲观",
+      "reported_value": 20.0,
+      "unit": "",
+      "raw_text": "| 第五年除息后退出价（元） | 20.00 | 30.58 | 41.45 |",
+      "line_number": 255
+    },
+    {
+      "id": 141,
+      "label": "第五年除息后退出价（元） · 基准",
+      "reported_value": 30.58,
+      "unit": "",
+      "raw_text": "| 第五年除息后退出价（元） | 20.00 | 30.58 | 41.45 |",
+      "line_number": 255
+    },
+    {
+      "id": 142,
+      "label": "第五年除息后退出价（元） · 乐观",
+      "reported_value": 41.45,
+      "unit": "",
+      "raw_text": "| 第五年除息后退出价（元） | 20.00 | 30.58 | 41.45 |",
+      "line_number": 255
+    },
+    {
+      "id": 143,
+      "label": "五年累计股息（元） · 悲观",
+      "reported_value": 4.375,
+      "unit": "",
+      "raw_text": "| 五年累计股息（元） | 4.3750 | 5.3144 | 5.9953 |",
+      "line_number": 256
+    },
+    {
+      "id": 144,
+      "label": "五年累计股息（元） · 基准",
+      "reported_value": 5.3144,
+      "unit": "",
+      "raw_text": "| 五年累计股息（元） | 4.3750 | 5.3144 | 5.9953 |",
+      "line_number": 256
+    },
+    {
+      "id": 145,
+      "label": "五年累计股息（元） · 乐观",
+      "reported_value": 5.9953,
+      "unit": "",
+      "raw_text": "| 五年累计股息（元） | 4.3750 | 5.3144 | 5.9953 |",
+      "line_number": 256
+    },
+    {
+      "id": 146,
+      "label": "现价买入、含逐年股息IRR · 悲观",
+      "reported_value": -4.3,
+      "unit": "%",
+      "raw_text": "| 现价买入、含逐年股息IRR | -4.30% | +3.96% | +10.26% |",
+      "line_number": 257
+    },
+    {
+      "id": 147,
+      "label": "现价买入、含逐年股息IRR · 基准",
+      "reported_value": 3.96,
+      "unit": "%",
+      "raw_text": "| 现价买入、含逐年股息IRR | -4.30% | +3.96% | +10.26% |",
+      "line_number": 257
+    },
+    {
+      "id": 148,
+      "label": "现价买入、含逐年股息IRR · 乐观",
+      "reported_value": 10.26,
+      "unit": "%",
+      "raw_text": "| 现价买入、含逐年股息IRR | -4.30% | +3.96% | +10.26% |",
+      "line_number": 257
+    },
+    {
+      "id": 149,
+      "label": "要求8%回报的最高入价（元） · 悲观",
+      "reported_value": 17.11,
+      "unit": "",
+      "raw_text": "| 要求8%回报的最高入价（元） | 17.11 | 25.04 | 32.96 |",
+      "line_number": 258
+    },
+    {
+      "id": 150,
+      "label": "要求8%回报的最高入价（元） · 基准",
+      "reported_value": 25.04,
+      "unit": "",
+      "raw_text": "| 要求8%回报的最高入价（元） | 17.11 | 25.04 | 32.96 |",
+      "line_number": 258
+    },
+    {
+      "id": 151,
+      "label": "要求8%回报的最高入价（元） · 乐观",
+      "reported_value": 32.96,
+      "unit": "",
+      "raw_text": "| 要求8%回报的最高入价（元） | 17.11 | 25.04 | 32.96 |",
+      "line_number": 258
+    },
+    {
+      "id": 152,
+      "label": "要求10%回报的最高入价（元） · 悲观",
+      "reported_value": 15.74,
+      "unit": "",
+      "raw_text": "| 要求10%回报的最高入价（元） | 15.74 | 22.99 | 30.24 |",
+      "line_number": 259
+    },
+    {
+      "id": 153,
+      "label": "要求10%回报的最高入价（元） · 基准",
+      "reported_value": 22.99,
+      "unit": "",
+      "raw_text": "| 要求10%回报的最高入价（元） | 15.74 | 22.99 | 30.24 |",
+      "line_number": 259
+    },
+    {
+      "id": 154,
+      "label": "要求10%回报的最高入价（元） · 乐观",
+      "reported_value": 30.24,
+      "unit": "",
+      "raw_text": "| 要求10%回报的最高入价（元） | 15.74 | 22.99 | 30.24 |",
+      "line_number": 259
+    },
+    {
+      "id": 155,
+      "label": "22元 · 基准情景年化IRR",
+      "reported_value": 11.06,
+      "unit": "%",
+      "raw_text": "| 22元 | +11.06% | 基本面与分红纪律未破坏时，具有较明显缓冲 |",
+      "line_number": 269
+    },
+    {
+      "id": 156,
+      "label": "24元 · 基准情景年化IRR",
+      "reported_value": 8.99,
+      "unit": "%",
+      "raw_text": "| 24元 | +8.99% | 可开始按目标回报评估分批建立配置 |",
+      "line_number": 270
+    },
+    {
+      "id": 157,
+      "label": "25元 · 基准情景年化IRR",
+      "reported_value": 8.03,
+      "unit": "%",
+      "raw_text": "| 25元 | +8.03% | 接近本模型8%门槛，仍需接受枯水风险 |",
+      "line_number": 271
+    },
+    {
+      "id": 159,
+      "label": "26元 · 基准情景年化IRR",
+      "reported_value": 7.13,
+      "unit": "%",
+      "raw_text": "| 26元 | +7.13% | 回报要求较低者可评估，不称深度低估 |",
+      "line_number": 272
+    },
+    {
+      "id": 160,
+      "label": "28元 · 基准情景年化IRR",
+      "reported_value": 5.44,
+      "unit": "%",
+      "raw_text": "| 28元 | +5.44% | 新资金吸引力有限 |",
+      "line_number": 273
+    },
+    {
+      "id": 161,
+      "label": "30元 · 基准情景年化IRR",
+      "reported_value": 3.89,
+      "unit": "%",
+      "raw_text": "| 30元 | +3.89% | 低回报区，需要更乐观的基本面才能提高吸引力 |",
+      "line_number": 274
+    },
+    {
+      "id": 162,
+      "label": "32元 · 基准情景年化IRR",
+      "reported_value": 2.47,
+      "unit": "%",
+      "raw_text": "| 32元 | +2.47% | 若盈利假设不升，应重新比较其他资产 |",
+      "line_number": 275
+    },
+    {
+      "id": 171,
+      "label": "研究报告](长江电力研究报告-20260627.md)、[P2",
+      "reported_value": 6.0,
+      "unit": "",
+      "raw_text": "- 旧文：[P1：6月27日研究报告](长江电力研究报告-20260627.md)、[P2：6月27日投资研究报告](长江电力投资研究报告-20260627.md)、[P3：6月24日报告](Yangtze-Power-research-2",
+      "line_number": 314
+    },
+    {
+      "id": 172,
+      "label": "报告](长江电力投资研究报告-20260627.md)、[P3",
+      "reported_value": 6.0,
+      "unit": "",
+      "raw_text": "- 旧文：[P1：6月27日研究报告](长江电力研究报告-20260627.md)、[P2：6月27日投资研究报告](长江电力投资研究报告-20260627.md)、[P3：6月24日报告](Yangtze-Power-research-2",
+      "line_number": 314
+    }
+  ],
+  "sample": [
+    {
+      "id": 1,
+      "label": "营业收入（亿元） · 2026年前三季",
+      "reported_value": 630.56,
+      "unit": "",
+      "raw_text": "| 营业收入（亿元） | 630.56 | 657.41 | -4.08% |",
+      "line_number": 27
+    },
+    {
+      "id": 4,
+      "label": "归母净利润（亿元） · 2026年前三季",
+      "reported_value": 263.44,
+      "unit": "",
+      "raw_text": "| 归母净利润（亿元） | 263.44 | 281.93 | -6.56% |",
+      "line_number": 28
+    },
+    {
+      "id": 21,
+      "label": "基本／稀释EPS（元，两者相同） · 同比变化",
+      "reported_value": -6.56,
+      "unit": "%",
+      "raw_text": "| 基本／稀释EPS（元，两者相同） | 1.0767 | 1.1522 | -6.56% |",
+      "line_number": 33
+    },
+    {
+      "id": 22,
+      "label": "收入（亿元） · 2025Q4",
+      "reported_value": 205.01,
+      "unit": "",
+      "raw_text": "| 收入（亿元） | 205.01 | 181.12 | 198.18 | 251.27 |",
+      "line_number": 39
+    },
+    {
+      "id": 28,
+      "label": "归母利润（亿元） · 2026Q2",
+      "reported_value": 79.95,
+      "unit": "",
+      "raw_text": "| 归母利润（亿元） | 63.10 | 67.61 | 79.95 | 115.88 |",
+      "line_number": 40
+    },
+    {
+      "id": 58,
+      "label": "溪洛渡 · Q3同比变化",
+      "reported_value": -3.18,
+      "unit": "%",
+      "raw_text": "| 溪洛渡 | 187.8558 | -3.18% | 454.8948 | -3.96% |",
+      "line_number": 72
+    },
+    {
+      "id": 68,
+      "label": "三峡 · 前三季同比变化",
+      "reported_value": 0.53,
+      "unit": "%",
+      "raw_text": "| 三峡 | 253.1851 | -29.23% | 703.9167 | +0.53% |",
+      "line_number": 74
+    },
+    {
+      "id": 77,
+      "label": "毛利减少 · 已验证变化",
+      "reported_value": 24.48,
+      "unit": "亿元",
+      "raw_text": "| 毛利减少 | 24.48亿元 | 收入下降而营业成本仅小幅下降，固定成本摊薄逆转 |",
+      "line_number": 92
+    },
+    {
+      "id": 84,
+      "label": "经营现金流净额 · 金额（亿元）",
+      "reported_value": 403.43,
+      "unit": "",
+      "raw_text": "| 经营现金流净额 | 403.43 | 为归母利润的153.14%，含非现金折旧带来的转换差异 |",
+      "line_number": 114
+    },
+    {
+      "id": 87,
+      "label": "简化经营现金余量 · 金额（亿元）",
+      "reported_value": 343.15,
+      "unit": "",
+      "raw_text": "| 简化经营现金余量 | 343.15 | CFO减资本开支，不是归母FCFE |",
+      "line_number": 116
+    },
+    {
+      "id": 99,
+      "label": "租赁负债 · 金额（亿元）",
+      "reported_value": 5.29,
+      "unit": "",
+      "raw_text": "| 租赁负债 | 5.29 |",
+      "line_number": 141
+    },
+    {
+      "id": 102,
+      "label": "货币资金 · 金额（亿元）",
+      "reported_value": 94.54,
+      "unit": "",
+      "raw_text": "| 货币资金 | 94.54 |",
+      "line_number": 144
+    },
+    {
+      "id": 113,
+      "label": "后四年EPS年增长 · 乐观",
+      "reported_value": 5.0,
+      "unit": "%",
+      "raw_text": "| 后四年EPS年增长 | 0% | +3% | +5% |",
+      "line_number": 237
+    },
+    {
+      "id": 118,
+      "label": "第五年退出PE · 基准",
+      "reported_value": 19.0,
+      "unit": "x",
+      "raw_text": "| 第五年退出PE | 16x | 19x | 22x |",
+      "line_number": 239
+    },
+    {
+      "id": 125,
+      "label": "第二年末 · 悲观",
+      "reported_value": 0.875,
+      "unit": "",
+      "raw_text": "| 第二年末 | 0.8750 | 1.0310 | 1.1393 |",
+      "line_number": 247
+    },
+    {
+      "id": 129,
+      "label": "第三年末 · 基准",
+      "reported_value": 1.062,
+      "unit": "",
+      "raw_text": "| 第三年末 | 0.8750 | 1.0620 | 1.1962 |",
+      "line_number": 248
+    },
+    {
+      "id": 143,
+      "label": "五年累计股息（元） · 悲观",
+      "reported_value": 4.375,
+      "unit": "",
+      "raw_text": "| 五年累计股息（元） | 4.3750 | 5.3144 | 5.9953 |",
+      "line_number": 256
+    },
+    {
+      "id": 151,
+      "label": "要求8%回报的最高入价（元） · 乐观",
+      "reported_value": 32.96,
+      "unit": "",
+      "raw_text": "| 要求8%回报的最高入价（元） | 17.11 | 25.04 | 32.96 |",
+      "line_number": 258
+    },
+    {
+      "id": 150,
+      "label": "要求8%回报的最高入价（元） · 基准",
+      "reported_value": 25.04,
+      "unit": "",
+      "raw_text": "| 要求8%回报的最高入价（元） | 17.11 | 25.04 | 32.96 |",
+      "line_number": 258
+    },
+    {
+      "id": 153,
+      "label": "要求10%回报的最高入价（元） · 基准",
+      "reported_value": 22.99,
+      "unit": "",
+      "raw_text": "| 要求10%回报的最高入价（元） | 15.74 | 22.99 | 30.24 |",
+      "line_number": 259
+    },
+    {
+      "id": 155,
+      "label": "22元 · 基准情景年化IRR",
+      "reported_value": 11.06,
+      "unit": "%",
+      "raw_text": "| 22元 | +11.06% | 基本面与分红纪律未破坏时，具有较明显缓冲 |",
+      "line_number": 269
+    },
+    {
+      "id": 156,
+      "label": "24元 · 基准情景年化IRR",
+      "reported_value": 8.99,
+      "unit": "%",
+      "raw_text": "| 24元 | +8.99% | 可开始按目标回报评估分批建立配置 |",
+      "line_number": 270
+    },
+    {
+      "id": 159,
+      "label": "26元 · 基准情景年化IRR",
+      "reported_value": 7.13,
+      "unit": "%",
+      "raw_text": "| 26元 | +7.13% | 回报要求较低者可评估，不称深度低估 |",
+      "line_number": 272
+    },
+    {
+      "id": 161,
+      "label": "30元 · 基准情景年化IRR",
+      "reported_value": 3.89,
+      "unit": "%",
+      "raw_text": "| 30元 | +3.89% | 低回报区，需要更乐观的基本面才能提高吸引力 |",
+      "line_number": 274
+    }
+  ]
+}

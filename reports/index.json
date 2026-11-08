@@ -1,7 +1,7 @@
 {
-  "count": 2511,
-  "published": 2297,
-  "drafts": 214,
+  "count": 2514,
+  "published": 2299,
+  "drafts": 215,
   "reports": [
     {
       "title": "抽检判决与范围",
@@ -23,6 +23,39 @@
       "type": "研究",
       "date": "2026-11-12",
       "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "中国平安（601318.SH / 02318.HK）研究报告",
+      "path": "reports/平安集团/中国平安研究报告-20261108.md",
+      "bucket": "公司",
+      "group": "平安集团",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "长江电力（600900.SH）研究报告",
+      "path": "reports/Yangtze-Power/长江电力研究报告-20261108.md",
+      "bucket": "公司",
+      "group": "长江电力",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "来源、口径与证据缺口",
+      "path": "reports/Yangtze-Power/research-20261108/source-ledger.md",
+      "bucket": "公司",
+      "group": "长江电力",
+      "series": "research-20261108",
+      "type": "底稿",
+      "date": "2026-11-08",
+      "date_source": "文件名",
       "ticker": ""
     },
     {
