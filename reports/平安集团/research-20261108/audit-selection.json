@@ -1,0 +1,10 @@
+{
+  "seed": 20261108,
+  "ratio": 0.15,
+  "raw": 143,
+  "excluded": 10,
+  "eligible_with_supplements": 142,
+  "sample": 22,
+  "coverage": 0.15492957746478872,
+  "sha256": "07a74ae5924a83533823a0968625129be5aadaf670e624d6695f9de62e1999ae"
+}

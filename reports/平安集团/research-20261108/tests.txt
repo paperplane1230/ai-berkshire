@@ -1,0 +1,18 @@
+test_both_quote_channels (__main__.ResearchChecks.test_both_quote_channels) ... ok
+test_class_market_cap_currency (__main__.ResearchChecks.test_class_market_cap_currency) ... ok
+test_csm_rollforward (__main__.ResearchChecks.test_csm_rollforward) ... ok
+test_ddm_and_reverse_growth (__main__.ResearchChecks.test_ddm_and_reverse_growth) ... ok
+test_ev_no_double_count (__main__.ResearchChecks.test_ev_no_double_count) ... ok
+test_ex_asset_management_growth (__main__.ResearchChecks.test_ex_asset_management_growth) ... ok
+test_immediate_scenarios (__main__.ResearchChecks.test_immediate_scenarios) ... ok
+test_opat_and_minority_bridge (__main__.ResearchChecks.test_opat_and_minority_bridge) ... ok
+test_parent_cash_scope (__main__.ResearchChecks.test_parent_cash_scope) ... ok
+test_portal_filing_numbers (__main__.ResearchChecks.test_portal_filing_numbers) ... ok
+test_quarterly_difference (__main__.ResearchChecks.test_quarterly_difference) ... ok
+test_share_partition (__main__.ResearchChecks.test_share_partition) ... ok
+test_ttm_not_nine_month_annualization (__main__.ResearchChecks.test_ttm_not_nine_month_annualization) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.007s
+
+OK

@@ -1,0 +1,62 @@
+[
+  {
+    "test": "Q3 income reconciles to YTD minus H1",
+    "pass": true
+  },
+  {
+    "test": "Q3 profit reconciles to YTD minus H1",
+    "pass": true
+  },
+  {
+    "test": "Six plants YTD generation sum rounding",
+    "pass": true
+  },
+  {
+    "test": "Six plants Q3 generation sum rounding",
+    "pass": true
+  },
+  {
+    "test": "Quarter sum reconciles TTM profit",
+    "pass": true
+  },
+  {
+    "test": "TTM EPS matches independent Eastmoney data",
+    "pass": true
+  },
+  {
+    "test": "Market cap agrees Tencent within rounding",
+    "pass": true
+  },
+  {
+    "test": "Net profit bridge pretax-tax-minorities",
+    "pass": true
+  },
+  {
+    "test": "Debt definition excludes ordinary liabilities",
+    "pass": true
+  },
+  {
+    "test": "Every dividend uses 70%, not all earnings",
+    "pass": true
+  },
+  {
+    "test": "IRR discounted NPV residual tiny",
+    "pass": true
+  },
+  {
+    "test": "PV8 entry gives 8% IRR",
+    "pass": true
+  },
+  {
+    "test": "Scenario ordered and payout not extra terminal cash",
+    "pass": true
+  },
+  {
+    "test": "Independent quote date and close agree",
+    "pass": true
+  },
+  {
+    "test": "Q3 income and profit equal independent source",
+    "pass": true
+  }
+]

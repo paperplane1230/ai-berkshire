@@ -1,0 +1,295 @@
+{
+  "cutoff": "2026-11-08",
+  "quote_date": "2026-11-06",
+  "raw_public_sources": [
+    {
+      "path": "local/三季报-20261108/yangtze/announcements.meta.json",
+      "bytes": 6920,
+      "sha256": "779fcdb378f1ed549021b1c2abb927462440f4a0ee88158041c4ea7c9b4a6e92",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/600900.phtml",
+      "retrieved_at": "2026-11-08T11:59:27.121459+08:00",
+      "original_response_sha256": "fdd9334a0ae43c0f04dd3d22a4fede4ba54d068c90590e9b3947f6efd029e8d3"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/announcements.txt",
+      "bytes": 6674,
+      "sha256": "b509bee3e8e60c1a7018c5eb2d3df333b5610ba47aa5d64dcc3fc6ab3d34b106"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/annual-list.meta.json",
+      "bytes": 2154,
+      "sha256": "f1661e982996601aff85441057726638ea779302ae28a6cb304e11ed726d6e3b",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/600900/page_type/ndbg.phtml",
+      "retrieved_at": "2026-11-08T11:59:27.328241+08:00",
+      "original_response_sha256": "79d0ae093fcf6195104e0ad3a85fd8c79377a31b427f98114aa1fa95a4a89f75"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/annual-list.txt",
+      "bytes": 4615,
+      "sha256": "c73be7c59ff58ff3bb85716dc9a5b957241f546369538405cf441881a8193399"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/annual-tavily.md",
+      "bytes": 1135846,
+      "sha256": "6394a99eceea433ab90284bc6a1633be1dec86da889f177734fa12e0f50db206"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/annual.meta.json",
+      "bytes": 631,
+      "sha256": "2a573eb99d0281cad6c0427adb9a16169674977ed241f1f2b1b9acf60db5fd68",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12283277",
+      "retrieved_at": "2026-11-08T12:12:25.861329+08:00",
+      "original_response_sha256": "2162cd72cf678ff4be8134325c5bab1b6b3ccf8c992de96d04a375ec093c4c93"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/annual.txt",
+      "bytes": 582842,
+      "sha256": "ac30a6cac52ea3798ff7a863a85d00f94d655e721e8af4b6a4a3074e8bbbcc95"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/dividend-policy-tavily.md",
+      "bytes": 9817,
+      "sha256": "af1a038546b75a6b50a671365758883c71238a7dc26dc22962f584fe3d0eef17"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/dividend.meta.json",
+      "bytes": 629,
+      "sha256": "16530f3f4ce70463455f119b3da85c782f6c9cd1b69bd4073d0c3bc038fbacec",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12437930",
+      "retrieved_at": "2026-11-08T12:12:26.432043+08:00",
+      "original_response_sha256": "653a7855bea029febf4b82ed7d600ed6d21850dd7b4dae0b8150f86194ebc829"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/dividend.txt",
+      "bytes": 8837,
+      "sha256": "7d41e00a06aa76714392fda5997352005a68a26cbee7177e2d46c071b3518513"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/eastmoney.json",
+      "bytes": 144938,
+      "sha256": "18654381cc8980edb068414d60639b34d2d4be3fe0f4e90f2b211accd71ef837"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/eastmoney.meta.json",
+      "bytes": 361,
+      "sha256": "55b903e9bcb849ed9869db20be452a5faaf3d5d99480548ef287d343c5e5c386",
+      "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22600900.SH%22)&p=1&ps=24&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+      "retrieved_at": "2026-11-08T11:59:26.881320+08:00",
+      "original_response_sha256": "282f3a416167f282d2b3c4966555af1353a68fbf45a38d7f9e3ca7502f05e043"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/generation-tavily.md",
+      "bytes": 3284,
+      "sha256": "0df041951567ce0b61362f8f75c776a6f9f62d80c118cfa23f477ae2a73e0021"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/generation.meta.json",
+      "bytes": 631,
+      "sha256": "1573bab4737d283fc6dcf5b897aa630b38efe543af44f339165f54c4cac6a9b8",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12636814",
+      "retrieved_at": "2026-11-08T11:59:33.441511+08:00",
+      "original_response_sha256": "4b8e5a4236692bb89d36c77ccd7909d90bcf16f22406034f1290195dad775a8c"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/generation.txt",
+      "bytes": 3311,
+      "sha256": "156113360c70d1a3336c51f4cf54c23b3adce9eca68d3f48ca5f8dc1f35d7311"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1-pdf-extracted.txt",
+      "bytes": 443329,
+      "sha256": "53281f1c46662350b9c87cee32893abb43c470a502056ab50beee8b8cd3eacda"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1-pdf-p10-check.png",
+      "bytes": 163170,
+      "sha256": "b3d7f27c704eb17bae9c944391f34cc54a19306a098118e7c369d1726742df3b"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1-pdf-p8-check.png",
+      "bytes": 333075,
+      "sha256": "223bf39489fc27ac2086760d1eef615d7eaf109eefa2d1d70fcbcca9d0d7f9de"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1-pdf-p99-check.png",
+      "bytes": 269479,
+      "sha256": "7f6429a78d7e871f2c59ef02f8df152bed661d3f96b6d47f57e48f78b89f0c81"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1-pdf.meta.json",
+      "bytes": 249,
+      "sha256": "6d09c5ef6cf2ba157b7c5be4f32c684d44c77bbbb8382b8223bd0ce9e6c8882b",
+      "url": "https://stockmc.xueqiu.com/202608/600900_20260831_5L5A.pdf",
+      "retrieved_at": "2026-11-08T12:12:27.739285+08:00",
+      "original_response_sha256": "738de3b36a31646f344cefaf90b4f149d653c3f68e89f4f8d14bdf02fc9c65a2"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1-pdf.pdf",
+      "bytes": 1296750,
+      "sha256": "738de3b36a31646f344cefaf90b4f149d653c3f68e89f4f8d14bdf02fc9c65a2"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1-pdf.txt",
+      "bytes": 441189,
+      "sha256": "a12bca09da4acda29c46e54e322ea213f07efa725e3ed940231c7d7a94c1b6fa"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1-tavily.md",
+      "bytes": 901534,
+      "sha256": "031658c911a13bc01748da3c382587b8d4d474ebbc929215add499d828f48017"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1.meta.json",
+      "bytes": 630,
+      "sha256": "94d8d20d86435526c6313e7c47592d38ba62cfeb5e65da7a420c6c27f443acc4",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12574728",
+      "retrieved_at": "2026-11-08T12:12:25.353399+08:00",
+      "original_response_sha256": "5869c9f5b560aafbb383ad83f62f2e89098eb62e12ec34a5634dbb092b32475f"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/h1.txt",
+      "bytes": 464702,
+      "sha256": "35ef82c005085201799eff972777cfb8bde0819c631179f18b8e39659bc0f8f1"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/half-list.meta.json",
+      "bytes": 2177,
+      "sha256": "ed22dd49c783d023fcfbe64e73b8ffc4d8c879a6a8238517db1a1ada971168cd",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_BulletinZhong/stockid/600900/page_type/zqbg.phtml",
+      "retrieved_at": "2026-11-08T11:59:27.533143+08:00",
+      "original_response_sha256": "bcde685e784720d2c2d412e01e3f1e902a3f82016a68e3b56dc5e5fab17f1131"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/half-list.txt",
+      "bytes": 4633,
+      "sha256": "3b523f09ee8da879e99ebb78bff4275b5ccb2b60b9d4b3b5419a002542eee480"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/ir-meeting-tavily.md",
+      "bytes": 6362,
+      "sha256": "e3edfb1a31d541f910981a9fb0897df88dd91f9c616a7a9df3b453dd0955d06b"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/pdf-check-pages.json",
+      "bytes": 392,
+      "sha256": "f2de95d57ab1157544952ff0b3eeb8577daf171c01dadc730d667565c56e8726"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-pdf-extracted.txt",
+      "bytes": 33055,
+      "sha256": "7ad4e477d04556d623de4de1a5910f9cfd1037cd4e7ea8714adbf94684cb326f"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-pdf-p1-check.png",
+      "bytes": 162827,
+      "sha256": "5dc09fa50c0262833de9b402512d0e69a830908b4652a42832cf044e34409b94"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-pdf-p12-check.png",
+      "bytes": 256823,
+      "sha256": "75f661170210b97461d89318a31b9f9819c4a093420d35f99273bbe047fca579"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-pdf-p7-check.png",
+      "bytes": 179286,
+      "sha256": "7fa309c47c6727de9ecb22cc67922ddedb9047f4093d343343baa0051aabf713"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-pdf-p9-check.png",
+      "bytes": 171176,
+      "sha256": "75202ed0f6e045b245e46bb073b6847ab1fd0dd0dd338c8836318de3ae396675"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-pdf.meta.json",
+      "bytes": 296,
+      "sha256": "19b962fdacc5660d0b00d34af59ede081246df78fc61bf27a402c69b12abf515",
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-10/2026-10-31/12684388.PDF",
+      "retrieved_at": "2026-11-08T12:12:26.806200+08:00",
+      "original_response_sha256": "ba9cad3b152085beb53f5753982e76002c607291738839c42d5dae150a9e179e"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-pdf.pdf",
+      "bytes": 190821,
+      "sha256": "ba9cad3b152085beb53f5753982e76002c607291738839c42d5dae150a9e179e"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-pdf.txt",
+      "bytes": 32875,
+      "sha256": "41d6b2be8d2f3f529775d6d0c90998f760f14a748af1b5464848455a795900bf"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3-tavily.md",
+      "bytes": 69330,
+      "sha256": "dc11ad5e559c4a4344d85724a95850781f161f00863216234afbe6e585e7ef71"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3.meta.json",
+      "bytes": 632,
+      "sha256": "fa3d8859ba376c649ea2939bc5b0c1b9c534dd98e916899659474a79c7ec3551",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12684388",
+      "retrieved_at": "2026-11-08T11:59:33.257163+08:00",
+      "original_response_sha256": "cec7daecc4cac03669a2b6e0199891ac71543be72096b348e9257f8c1c9d264e"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/q3.txt",
+      "bytes": 37698,
+      "sha256": "cef65c52b5fb9d9b20e6302bf6ffdb4c1cc79e61e67d26b40968ca464677bfa0"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/qq.meta.json",
+      "bytes": 200,
+      "sha256": "14e4b0dd433ed3b4582a834acd0259d29ce53bbb7832d5ebbc4339057e5fc49c",
+      "url": "https://qt.gtimg.cn/q=sh600900",
+      "retrieved_at": "2026-11-08T11:59:26.618249+08:00",
+      "original_response_sha256": "0e78610a3253632381aa401241b8debd15968a5830829c41d905a337f2f85ae1"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/qq.txt",
+      "bytes": 537,
+      "sha256": "46c3eb9787349c8bf6ad296738a9fffad03dfef0b2c2befa076b3510f98f5fe3"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/related-investment.meta.json",
+      "bytes": 631,
+      "sha256": "08819c4d56508906c864ccdefca26e1d03a57483fc0776637206b9449d9139cf",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600900&id=12684386",
+      "retrieved_at": "2026-11-08T11:59:33.610830+08:00",
+      "original_response_sha256": "4ca2bef2bbfe07eeb46f62d3cac5305fef11cbfe36dd76f79b94409803371283"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/related-investment.txt",
+      "bytes": 19954,
+      "sha256": "2c7d4dfa1230b351bd0a9fda1123049414b7f59305101207e2a5f5865ad74b63"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/related-tavily.md",
+      "bytes": 36313,
+      "sha256": "20642dc71dc93bddd06df8a096bbb386e84615151307bf6dbda2bfbf12f587c8"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/sina.meta.json",
+      "bytes": 204,
+      "sha256": "fac0f9174ff151f4e943d24b6d84cdc9c79bd93f3b18db1b59abff336af335b0",
+      "url": "https://hq.sinajs.cn/list=sh600900",
+      "retrieved_at": "2026-11-08T11:59:26.719473+08:00",
+      "original_response_sha256": "585b97bd1428e111f9e4192bac127c1ce3710a519ddc91f848b5e2f4d6668bc3"
+    },
+    {
+      "path": "local/三季报-20261108/yangtze/sina.txt",
+      "bytes": 285,
+      "sha256": "49fd1339151868256ea53f2c38a14410f035f48e385ec6292591d48286d0572f"
+    }
+  ],
+  "visual_review": {
+    "q3-pdf.pdf": [
+      1,
+      7,
+      9,
+      12
+    ],
+    "h1-pdf.pdf": [
+      99
+    ]
+  },
+  "visual_findings": "Inspected rendered table headers, periods, units and figures. No mismatch between PDF figures and extracted report inputs on these pages. Other pages used as text, not claimed visually audited."
+}
