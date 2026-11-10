@@ -1,0 +1,1024 @@
+{
+  "cutoff": "2026-11-10",
+  "financial_cutoff": "2026-09-30",
+  "money_unit": "CNY yuan unless key ends _yi",
+  "quote": {
+    "price": "37.24",
+    "sina_price": "37.240",
+    "date": "2026-11-10",
+    "tencent_timestamp": "20261110161433",
+    "sina_timestamp": "2026-11-10 15:35:00",
+    "reported_market_cap_yi": "561.00"
+  },
+  "shares": "1506445074",
+  "financial": {
+    "2023": {
+      "revenue": "33126277551.51",
+      "profit": "10015930040.27",
+      "core": "9842844980.49",
+      "cfo": "6130220867.96"
+    },
+    "2024": {
+      "revenue": "28876296993.56",
+      "profit": "6673388602.12",
+      "core": "6835235643.35",
+      "cfo": "4628711237.28",
+      "cost": "7751218356.66",
+      "capex": "1454019811.57"
+    },
+    "2025": {
+      "revenue": "19211057613.05",
+      "profit": "2206058926.68",
+      "core": "2134729412.30",
+      "cfo": "-763040326.79",
+      "cost": "5455522936.43",
+      "capex": "678481688.46",
+      "sales_expense": "5205631990.16",
+      "admin_expense": "1789690987.76",
+      "rd_expense": "144986992.32",
+      "finance_expense": "-284050446.25",
+      "tax_surcharges": "3417617382.91",
+      "interest_income": "297928105.08",
+      "investment_income": "357822739.44",
+      "fair_value_income": "-288294721.85",
+      "asset_impairment": "-128361162.93"
+    },
+    "2025H1": {
+      "revenue": "14795651340.14",
+      "profit": "4343649032.11",
+      "core": "4231577767.24",
+      "cfo": "616044153.37",
+      "cost": "3695873482.61",
+      "capex": "442545979.57",
+      "sale_cash": "12378354419.11",
+      "sales_expense": "2148689371.62",
+      "admin_expense": "864829531.83",
+      "rd_expense": "73202728.80",
+      "finance_expense": "-147951062.18",
+      "tax_surcharges": "2415489775.36",
+      "operating_profit": "5922237665.14",
+      "pbt": "5928199660.17",
+      "income_tax": "1592767634.72",
+      "net_profit": "4335432025.45",
+      "interest_income": "155671274.43",
+      "investment_income": "84911756.10",
+      "fair_value_income": "63477276.31",
+      "asset_impairment": "-3912847.32",
+      "credit_impairment": "105427.29"
+    },
+    "2026H1": {
+      "revenue": "10540431576.04",
+      "profit": "2601710694.52",
+      "core": "2449044826.83",
+      "cfo": "334794835.22",
+      "cost": "2808560847.32",
+      "capex": "304949619.46",
+      "sale_cash": "8738085402.02",
+      "sales_expense": "1659452320.75",
+      "admin_expense": "904567754.19",
+      "rd_expense": "77660003.11",
+      "finance_expense": "-60010790.73",
+      "tax_surcharges": "1840555641.26",
+      "operating_profit": "3529035265.44",
+      "pbt": "3532080786.19",
+      "income_tax": "936652913.11",
+      "net_profit": "2595427873.08",
+      "interest_income": "64239530.93",
+      "investment_income": "149615117.30",
+      "fair_value_income": "60521382.46",
+      "asset_impairment": "-2759928.72",
+      "credit_impairment": "63630.13"
+    },
+    "2025YTD": {
+      "revenue": "18090155654.57",
+      "profit": "3975002897.08",
+      "core": "3756884161.73",
+      "cfo": "966239537.43",
+      "cost": "5227199874.77",
+      "capex": "554135554.10",
+      "sale_cash": "17038327616.14",
+      "sales_expense": "3400136973.29",
+      "admin_expense": "1293915398.51",
+      "rd_expense": "100488857.49",
+      "finance_expense": "-195344193.99",
+      "tax_surcharges": "3067094795.05",
+      "operating_profit": "5508445757.49",
+      "pbt": "5499527040.90",
+      "income_tax": "1537016472.65",
+      "net_profit": "3962510568.25",
+      "interest_income": "205172129.24",
+      "investment_income": "246754312.93",
+      "fair_value_income": "18624626.60",
+      "asset_impairment": "-748424.26",
+      "credit_impairment": "-108123.78"
+    },
+    "2026YTD": {
+      "revenue": "11821851942.02",
+      "profit": "1830804016.17",
+      "core": "1797590974.89",
+      "cfo": "115601710.47",
+      "cost": "3378985208.80",
+      "capex": "375092356.99",
+      "sale_cash": "10707454593.39",
+      "sales_expense": "2393509981.74",
+      "admin_expense": "1339730016.34",
+      "rd_expense": "87124525.25",
+      "finance_expense": "-85257958.30",
+      "tax_surcharges": "2237191529.35",
+      "operating_profit": "2587238287.19",
+      "pbt": "2579158085.17",
+      "income_tax": "757203385.15",
+      "net_profit": "1821954700.02",
+      "interest_income": "88566416.36",
+      "investment_income": "241114918.44",
+      "fair_value_income": "-132231184.57",
+      "asset_impairment": "-3611172.30",
+      "credit_impairment": "-1080702.24",
+      "dividend_interest_cash": "2216208273.56",
+      "investment_paid": "21310318182.00",
+      "investment_recovered": "20184275098.95"
+    }
+  },
+  "balance": {
+    "2026H1": {
+      "cash": "11164660745.69",
+      "cash_equivalents": "11095556115.46",
+      "trading_financial_assets": "7571836349.30",
+      "noncurrent_financial_assets": "3542746696.74",
+      "long_equity_investments": "1261646701.51",
+      "receivables": "8128299.93",
+      "notes_receivable": "218591579.90",
+      "bills_financing": "21707281.42",
+      "inventory": "19857068638.09",
+      "contract_liabilities": "4303837980.45",
+      "other_current_liabilities": "512854898.39",
+      "short_debt": "0",
+      "long_debt": "140750000.00",
+      "current_noncurrent_debt": "35355969.92",
+      "lease_liability": "39436060.66",
+      "parent_equity": "47181280904.53",
+      "assets": "55975821395.35",
+      "liabilities": "8704615635.92"
+    },
+    "2025end": {
+      "cash": "13263361737.62",
+      "cash_equivalents": "13155027495.11",
+      "trading_financial_assets": "7293889826.00",
+      "noncurrent_financial_assets": "3709534982.94",
+      "long_equity_investments": "1246705850.94",
+      "receivables": "8621900.10",
+      "notes_receivable": "28125000.00",
+      "bills_financing": "153428294.90",
+      "inventory": "20375489436.78",
+      "contract_liabilities": "7529047335.12",
+      "other_current_liabilities": "89685837.90",
+      "short_debt": "10010849.32",
+      "long_debt": "81000000.00",
+      "current_noncurrent_debt": "37949298.59",
+      "lease_liability": "44423460.58",
+      "parent_equity": "46797173513.37",
+      "assets": "58595944446.80",
+      "liabilities": "11702548968.64"
+    },
+    "2026Q3": {
+      "cash": "9839808008.25",
+      "cash_equivalents": "9787460359.15",
+      "trading_financial_assets": "8663041300.53",
+      "noncurrent_financial_assets": "3333604368.59",
+      "long_equity_investments": "1309324377.70",
+      "receivables": "11298801.35",
+      "notes_receivable": "3466260.00",
+      "bills_financing": "59749367.68",
+      "inventory": "19997333687.94",
+      "contract_liabilities": "4896460324.23",
+      "other_current_liabilities": "237211965.91",
+      "short_debt": "4904030.71",
+      "long_debt": "145750000.00",
+      "current_noncurrent_debt": "27749198.41",
+      "lease_liability": "23256355.60",
+      "parent_equity": "46408381698.81",
+      "assets": "55582275726.54",
+      "liabilities": "9087456823.36",
+      "goodwill": "150886645.81",
+      "intangibles": "1719328930.02"
+    }
+  },
+  "notes": {
+    "prepayment_2026H1": "775673065.92",
+    "unsettled_rebates_2026H1": "3528164914.53",
+    "finished_goods_2026H1": "715802915.32",
+    "semi_finished_2026H1": "18266458346.21",
+    "frozen_cash_2026H1": "2588608.00",
+    "deposit_interest_receivable_2026H1": "66516022.23",
+    "h1_trading_assets_nature": "Mainly bank structured deposits maturing within one year; H1 note 2. Q3 has no new composition footnote.",
+    "h1_noncurrent_financial_assets_nature": "Equity instruments; H1 note 11. Not cash equivalents.",
+    "prepayment_2025end": "3063977585.29",
+    "unsettled_rebates_2025end": "4465069749.83",
+    "finished_goods_2025end": "1860078985.91",
+    "semi_finished_2025end": "17558858679.33",
+    "dividend_paid_2026_per_share": "1.47",
+    "dividend_paid_2026_total": "2214474258.78",
+    "quarter_contract_split": "Q3 only discloses total and attribution to both prepayments and unsettled discounts; no Q3 split may be inferred from H1.",
+    "dividend_policy": "2025-2027 plan: not less than 100% of each year's parent-attributable profit, subject to charter and annual board/shareholder approval. The previous CNY7bn floor is not retained. No guaranteed future DPS."
+  },
+  "products_h1": {
+    "mid_high_liquor": {
+      "revenue": "9078099306.94",
+      "cost": "1867096382.76",
+      "yoy_revenue_pct": "-28.36"
+    },
+    "ordinary_liquor": {
+      "revenue": "1247325454.40",
+      "cost": "787563752.19",
+      "yoy_revenue_pct": "-32.24"
+    },
+    "dealer": {
+      "revenue": "10118136321.32",
+      "cost": "2603833009.46",
+      "yoy_revenue_pct": "-29.21"
+    },
+    "online_direct": {
+      "revenue": "207288440.02",
+      "cost": "50827125.49",
+      "yoy_revenue_pct": "-6.01"
+    },
+    "liquor_in_province": {
+      "revenue": "4390984017.05",
+      "cost": "1133163723.40",
+      "yoy_revenue_pct": "-38.34"
+    },
+    "liquor_out_province": {
+      "revenue": "5934440744.29",
+      "cost": "1521496411.55",
+      "yoy_revenue_pct": "-19.72"
+    },
+    "all_in_province": {
+      "revenue": "4482417687.69",
+      "prior_revenue": "7259534910.18"
+    },
+    "all_out_province": {
+      "revenue": "6058013888.35",
+      "prior_revenue": "7536116429.96"
+    }
+  },
+  "primary_quarter_checks": {
+    "2025Q3": {
+      "revenue": "3294504314.43",
+      "profit": "-368646135.03",
+      "core": "-474693605.51",
+      "cfo": "350195384.06"
+    },
+    "2025Q4": {
+      "revenue": "1120901958.48",
+      "profit": "-1768943970.40",
+      "core": "-1622154749.43",
+      "cfo": "-1729279864.22"
+    },
+    "2026Q3": {
+      "revenue": "1281420365.98",
+      "profit": "-770906678.35",
+      "core": "-651453851.94"
+    }
+  },
+  "annual": {
+    "2021": {
+      "revenue": "25350178204.45",
+      "profit": "7507741599.03",
+      "profit_original": "7507682797.40",
+      "deducted_profit": "7372817058.92",
+      "cfo": "15318165480.53",
+      "capex": "423524255.39",
+      "cost": "6255397564.10",
+      "selling_expense": "3544364889.54",
+      "admin_expense": "1830080139.18",
+      "weighted_roe_pct": "18.55",
+      "cash_bank": "20955831010.12",
+      "trading_assets": "10953894328.01",
+      "inventory": "16803093441.81",
+      "contract_liabilities": "15804521430.17",
+      "high_mid_alcohol_revenue": "21520732572.97",
+      "ordinary_alcohol_revenue": "3117941516.60",
+      "alcohol_revenue": "24638674089.57",
+      "jiangsu_alcohol_revenue": "11555538148.01",
+      "outside_jiangsu_alcohol_revenue": "13083135941.56",
+      "online_alcohol_revenue": "364634097.30",
+      "dealers": 8142,
+      "finished_alcohol_tonnes": "44857.61",
+      "semifinished_including_base_tonnes": "619449.64",
+      "baijiu_sales_tonnes": "184001.07",
+      "baijiu_production_tonnes": "204331.95",
+      "fiscal_dividend_per_share": "3.00"
+    },
+    "2022": {
+      "revenue": "30104896186.70",
+      "profit": "9377865479.41",
+      "profit_original": "9377832429.08",
+      "deducted_profit": "9276677881.62",
+      "cfo": "3647623952.19",
+      "capex": "539153153.61",
+      "cost": "7645533264.72",
+      "selling_expense": "4179140807.85",
+      "admin_expense": "1935673295.75",
+      "weighted_roe_pct": "21.03",
+      "cash_bank": "24375449432.33",
+      "trading_assets": "7998150119.16",
+      "inventory": "17729258966.54",
+      "contract_liabilities": "13741547677.99",
+      "high_mid_alcohol_revenue": "26226828574.84",
+      "ordinary_alcohol_revenue": "3273034492.80",
+      "alcohol_revenue": "29499863067.64",
+      "jiangsu_alcohol_revenue": "13321057010.40",
+      "outside_jiangsu_alcohol_revenue": "16178806057.24",
+      "online_alcohol_revenue": "392624307.67",
+      "dealers": 8238,
+      "finished_alcohol_tonnes": "47335.63",
+      "semifinished_including_base_tonnes": "623356.32",
+      "baijiu_sales_tonnes": "195322.68",
+      "baijiu_production_tonnes": "197590.68",
+      "fiscal_dividend_per_share": "3.74"
+    },
+    "2023": {
+      "revenue": "33126277551.51",
+      "profit": "10015930040.27",
+      "profit_original": "10015930040.27",
+      "deducted_profit": "9842844980.49",
+      "cfo": "6130220867.96",
+      "capex": "1111629485.17",
+      "cost": "8200245255.42",
+      "selling_expense": "5386953700.62",
+      "admin_expense": "1764423149.06",
+      "weighted_roe_pct": "20.34",
+      "cash_bank": "25812787646.86",
+      "trading_assets": "5851217684.93",
+      "inventory": "18954235402.25",
+      "high_mid_alcohol_revenue": "28538963867.14",
+      "ordinary_alcohol_revenue": "3950472828.91",
+      "alcohol_revenue": "32489436696.05",
+      "jiangsu_alcohol_revenue": "14393063137.67",
+      "outside_jiangsu_alcohol_revenue": "18096373558.38",
+      "online_alcohol_revenue": "436807935.79",
+      "dealers": 8789,
+      "finished_alcohol_tonnes": "39875.47",
+      "semifinished_including_base_tonnes": "650766.36",
+      "baijiu_sales_tonnes": "166154.73",
+      "baijiu_production_tonnes": "158834.29",
+      "fiscal_dividend_per_share": "4.66"
+    },
+    "2024": {
+      "revenue": "28876296993.56",
+      "profit": "6673388602.12",
+      "profit_original": "6673388602.12",
+      "deducted_profit": "6835235643.35",
+      "cfo": "4628711237.28",
+      "capex": "1454019811.57",
+      "cost": "7751218356.66",
+      "selling_expense": "5516238544.79",
+      "admin_expense": "1924730302.35",
+      "weighted_roe_pct": "12.07",
+      "cash_bank": "21748297978.37",
+      "trading_assets": "6380145437.14",
+      "inventory": "19732881051.73",
+      "high_mid_alcohol_revenue": "24317191550.05",
+      "ordinary_alcohol_revenue": "3931104279.57",
+      "alcohol_revenue": "28248295829.62",
+      "jiangsu_alcohol_revenue": "12748484435.48",
+      "outside_jiangsu_alcohol_revenue": "15499811394.14",
+      "online_alcohol_revenue": "394128422.17",
+      "dealers": 8866,
+      "finished_alcohol_tonnes": "46169.17",
+      "semifinished_including_base_tonnes": "697082.59",
+      "baijiu_sales_tonnes": "139076.05",
+      "baijiu_production_tonnes": "145494.73",
+      "fiscal_dividend_per_share": "4.647",
+      "dividend_detail": "2.330 interim + 2.317 final; not 2.317 alone"
+    },
+    "2025": {
+      "revenue": "19211057613.05",
+      "profit": "2206058926.68",
+      "profit_original": "2206058926.68",
+      "deducted_profit": "2134729412.30",
+      "cfo": "-763040326.79",
+      "capex": "678481688.46",
+      "cost": "5455522936.43",
+      "selling_expense": "5205631990.16",
+      "admin_expense": "1789690987.76",
+      "weighted_roe_pct": "4.62",
+      "cash_bank": "13263361737.62",
+      "trading_assets": "7293889826.00",
+      "inventory": "20375489436.78",
+      "contract_liabilities": "7529047335.12",
+      "high_mid_alcohol_revenue": "16542264054.04",
+      "ordinary_alcohol_revenue": "2234062206.88",
+      "alcohol_revenue": "18776326260.92",
+      "jiangsu_alcohol_revenue": "8618908443.56",
+      "outside_jiangsu_alcohol_revenue": "10157417817.36",
+      "online_alcohol_revenue": "317762779.78",
+      "dealers": 8371,
+      "finished_alcohol_tonnes": "31508.18",
+      "semifinished_including_base_tonnes": "740550.68",
+      "baijiu_sales_tonnes": "102931.09",
+      "baijiu_production_tonnes": "88458.93",
+      "fiscal_dividend_per_share": "1.47",
+      "dividend_detail": "Annual report proposal; actual implementation separately checked by 2026-11-06 research using 2026-06-30 implementation notice"
+    }
+  },
+  "annual_comparability": "2023 annual report adopts Accounting Interpretation 16 and restates 2021/2022 deferred-tax figures. Selected net profit and deducted profit use restated values; original values retained. EM 2021 PARENTNETPROFIT remains original while KCFJCXSYJLR is restated.",
+  "vendor": [
+    {
+      "REPORT_DATE": "2026-09-30 00:00:00",
+      "TOTALOPERATEREVE": "11821851942.02",
+      "PARENTNETPROFIT": "1830804016.17",
+      "KCFJCXSYJLR": "1797590974.89",
+      "NETCASH_OPERATE_PK": "115601710.47",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "3.9",
+      "XSMLL": "71.4174629714"
+    },
+    {
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "TOTALOPERATEREVE": "10540431576.04",
+      "PARENTNETPROFIT": "2601710694.52",
+      "KCFJCXSYJLR": "2449044826.83",
+      "NETCASH_OPERATE_PK": "334794835.22",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "5.41",
+      "XSMLL": "73.3544036878"
+    },
+    {
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "TOTALOPERATEREVE": "8185736912.16",
+      "PARENTNETPROFIT": "2446551121.2",
+      "KCFJCXSYJLR": "2427861532.48",
+      "NETCASH_OPERATE_PK": "1938711723.9",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "5.09",
+      "XSMLL": "75.4161942784"
+    },
+    {
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "TOTALOPERATEREVE": "19211057613.05",
+      "PARENTNETPROFIT": "2206058926.68",
+      "KCFJCXSYJLR": "2134729412.3",
+      "NETCASH_OPERATE_PK": "-763040326.79",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "4.62",
+      "XSMLL": "71.6021728407"
+    },
+    {
+      "REPORT_DATE": "2025-09-30 00:00:00",
+      "TOTALOPERATEREVE": "18090155654.57",
+      "PARENTNETPROFIT": "3975002897.08",
+      "KCFJCXSYJLR": "3756884161.73",
+      "NETCASH_OPERATE_PK": "966239537.43",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "8.06",
+      "XSMLL": "71.1047269322"
+    },
+    {
+      "REPORT_DATE": "2025-06-30 00:00:00",
+      "TOTALOPERATEREVE": "14795651340.14",
+      "PARENTNETPROFIT": "4343649032.11",
+      "KCFJCXSYJLR": "4231577767.24",
+      "NETCASH_OPERATE_PK": "616044153.37",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "8.54",
+      "XSMLL": "75.0205422009"
+    },
+    {
+      "REPORT_DATE": "2025-03-31 00:00:00",
+      "TOTALOPERATEREVE": "11066201907.73",
+      "PARENTNETPROFIT": "3637099588.91",
+      "KCFJCXSYJLR": "3617409619.86",
+      "NETCASH_OPERATE_PK": "2535741055.56",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "6.81",
+      "XSMLL": "75.5944168128"
+    },
+    {
+      "REPORT_DATE": "2024-12-31 00:00:00",
+      "TOTALOPERATEREVE": "28876296993.56",
+      "PARENTNETPROFIT": "6673388602.12",
+      "KCFJCXSYJLR": "6835235643.35",
+      "NETCASH_OPERATE_PK": "4628711237.28",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "12.07",
+      "XSMLL": "73.1571594572"
+    },
+    {
+      "REPORT_DATE": "2024-09-30 00:00:00",
+      "TOTALOPERATEREVE": "27516482442.02",
+      "PARENTNETPROFIT": "8578711547.57",
+      "KCFJCXSYJLR": "8397079254.87",
+      "NETCASH_OPERATE_PK": "3458308342.4",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "15.26",
+      "XSMLL": "73.8138602022"
+    },
+    {
+      "REPORT_DATE": "2024-06-30 00:00:00",
+      "TOTALOPERATEREVE": "22875748893.57",
+      "PARENTNETPROFIT": "7947245427.18",
+      "KCFJCXSYJLR": "7941186666.06",
+      "NETCASH_OPERATE_PK": "2043328628.29",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "14.21",
+      "XSMLL": "75.3506722068"
+    },
+    {
+      "REPORT_DATE": "2024-03-31 00:00:00",
+      "TOTALOPERATEREVE": "16254884718.38",
+      "PARENTNETPROFIT": "6055230532.04",
+      "KCFJCXSYJLR": "6050415450.86",
+      "NETCASH_OPERATE_PK": "4850465091.64",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "11.02",
+      "XSMLL": "76.0349114058"
+    },
+    {
+      "REPORT_DATE": "2023-12-31 00:00:00",
+      "TOTALOPERATEREVE": "33126277551.51",
+      "PARENTNETPROFIT": "10015930040.27",
+      "KCFJCXSYJLR": "9842844980.49",
+      "NETCASH_OPERATE_PK": "6130220867.96",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "20.34",
+      "XSMLL": "75.2454973467"
+    },
+    {
+      "REPORT_DATE": "2023-09-30 00:00:00",
+      "TOTALOPERATEREVE": "30283094805.01",
+      "PARENTNETPROFIT": "10203469152.39",
+      "KCFJCXSYJLR": "10164976052.14",
+      "NETCASH_OPERATE_PK": "4343467376.93",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "20.36",
+      "XSMLL": "75.7733260379"
+    },
+    {
+      "REPORT_DATE": "2023-06-30 00:00:00",
+      "TOTALOPERATEREVE": "21872929852.09",
+      "PARENTNETPROFIT": "7862381306.21",
+      "KCFJCXSYJLR": "7712986362.94",
+      "NETCASH_OPERATE_PK": "265032390.62",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "15.29",
+      "XSMLL": "76.1218383271"
+    },
+    {
+      "REPORT_DATE": "2023-03-31 00:00:00",
+      "TOTALOPERATEREVE": "15046180974.5",
+      "PARENTNETPROFIT": "5766047982.64",
+      "KCFJCXSYJLR": "5665647207.53",
+      "NETCASH_OPERATE_PK": "1402723384.09",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "11.45",
+      "XSMLL": "76.5967481464"
+    },
+    {
+      "REPORT_DATE": "2022-12-31 00:00:00",
+      "TOTALOPERATEREVE": "30104896186.7",
+      "PARENTNETPROFIT": "9377865479.41",
+      "KCFJCXSYJLR": "9276677881.62",
+      "NETCASH_OPERATE_PK": "3647623952.19",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "21.03",
+      "XSMLL": "74.603688326"
+    },
+    {
+      "REPORT_DATE": "2022-09-30 00:00:00",
+      "TOTALOPERATEREVE": "26482625128.85",
+      "PARENTNETPROFIT": "9071843201.44",
+      "KCFJCXSYJLR": "8843227057.68",
+      "NETCASH_OPERATE_PK": "-956000212.77",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "20.14",
+      "XSMLL": "74.5385228715"
+    },
+    {
+      "REPORT_DATE": "2022-06-30 00:00:00",
+      "TOTALOPERATEREVE": "18907998842.4",
+      "PARENTNETPROFIT": "6893372221.12",
+      "KCFJCXSYJLR": "6642672871.26",
+      "NETCASH_OPERATE_PK": "-4453755057.99",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "15.25",
+      "XSMLL": "73.9423273075"
+    },
+    {
+      "REPORT_DATE": "2022-03-31 00:00:00",
+      "TOTALOPERATEREVE": "13026004652.73",
+      "PARENTNETPROFIT": "4985243733.48",
+      "KCFJCXSYJLR": "4897883633.65",
+      "NETCASH_OPERATE_PK": "-3061792273.86",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "11.08",
+      "XSMLL": "77.2978296664"
+    },
+    {
+      "REPORT_DATE": "2021-12-31 00:00:00",
+      "TOTALOPERATEREVE": "25350178204.45",
+      "PARENTNETPROFIT": "7507682797.4",
+      "KCFJCXSYJLR": "7372817058.92",
+      "NETCASH_OPERATE_PK": "15318165480.53",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "18.55",
+      "XSMLL": "75.3240489528"
+    },
+    {
+      "REPORT_DATE": "2021-09-30 00:00:00",
+      "TOTALOPERATEREVE": "21942196247.29",
+      "PARENTNETPROFIT": "7212523604.98",
+      "KCFJCXSYJLR": "6849910142.04",
+      "NETCASH_OPERATE_PK": "5474055109.66",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "17.77",
+      "XSMLL": "74.9324522101"
+    },
+    {
+      "REPORT_DATE": "2021-06-30 00:00:00",
+      "TOTALOPERATEREVE": "15543264905.54",
+      "PARENTNETPROFIT": "5661445812.02",
+      "KCFJCXSYJLR": "5167883253.59",
+      "NETCASH_OPERATE_PK": "2093245134.59",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "13.96",
+      "XSMLL": "74.4328280552"
+    },
+    {
+      "REPORT_DATE": "2021-03-31 00:00:00",
+      "TOTALOPERATEREVE": "10520001017.41",
+      "PARENTNETPROFIT": "3862525751.53",
+      "KCFJCXSYJLR": "3810668717.54",
+      "NETCASH_OPERATE_PK": "2919559010.6",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "9.56",
+      "XSMLL": "76.1562000708"
+    },
+    {
+      "REPORT_DATE": "2020-12-31 00:00:00",
+      "TOTALOPERATEREVE": "21101051131.79",
+      "PARENTNETPROFIT": "7482228633.63",
+      "KCFJCXSYJLR": "5652068941.98",
+      "NETCASH_OPERATE_PK": "3978790835.8",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "20.2",
+      "XSMLL": "72.2672365459"
+    },
+    {
+      "REPORT_DATE": "2020-09-30 00:00:00",
+      "TOTALOPERATEREVE": "18913631468.62",
+      "PARENTNETPROFIT": "7185703291.18",
+      "KCFJCXSYJLR": "5634406138.59",
+      "NETCASH_OPERATE_PK": "-444052491.13",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "19.08",
+      "XSMLL": "73.2008406388"
+    },
+    {
+      "REPORT_DATE": "2020-06-30 00:00:00",
+      "TOTALOPERATEREVE": "13428505838.73",
+      "PARENTNETPROFIT": "5400864286.17",
+      "KCFJCXSYJLR": "4266298250.26",
+      "NETCASH_OPERATE_PK": "-2733382899.34",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "14.15",
+      "XSMLL": "73.2166595114"
+    },
+    {
+      "REPORT_DATE": "2020-03-31 00:00:00",
+      "TOTALOPERATEREVE": "9268167143.4",
+      "PARENTNETPROFIT": "4002168546.84",
+      "KCFJCXSYJLR": "3201845555.14",
+      "NETCASH_OPERATE_PK": "-328870647.68",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "11.15",
+      "XSMLL": "73.739576089"
+    },
+    {
+      "REPORT_DATE": "2019-12-31 00:00:00",
+      "TOTALOPERATEREVE": "23126476885.07",
+      "PARENTNETPROFIT": "7382822726.87",
+      "KCFJCXSYJLR": "6555890029.81",
+      "NETCASH_OPERATE_PK": "6797891871.41",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "21.21",
+      "XSMLL": "71.3472904491"
+    },
+    {
+      "REPORT_DATE": "2019-09-30 00:00:00",
+      "TOTALOPERATEREVE": "21097732292.7",
+      "PARENTNETPROFIT": "7146332278.35",
+      "KCFJCXSYJLR": "6547001314.75",
+      "NETCASH_OPERATE_PK": "1719384683.69",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "20.2",
+      "XSMLL": "71.6702053941"
+    },
+    {
+      "REPORT_DATE": "2019-06-30 00:00:00",
+      "TOTALOPERATEREVE": "15998582862.74",
+      "PARENTNETPROFIT": "5581705663.68",
+      "KCFJCXSYJLR": "5208985988.23",
+      "NETCASH_OPERATE_PK": "-510063762.35",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "15.53",
+      "XSMLL": "70.9467572837"
+    },
+    {
+      "REPORT_DATE": "2019-03-31 00:00:00",
+      "TOTALOPERATEREVE": "10889633584.07",
+      "PARENTNETPROFIT": "4020764957.82",
+      "KCFJCXSYJLR": "3809771428.82",
+      "NETCASH_OPERATE_PK": "122965637.48",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "11.28",
+      "XSMLL": "72.2905693495"
+    },
+    {
+      "REPORT_DATE": "2018-12-31 00:00:00",
+      "TOTALOPERATEREVE": "24159801994.68",
+      "PARENTNETPROFIT": "8115189794.69",
+      "KCFJCXSYJLR": "7369331605.77",
+      "NETCASH_OPERATE_PK": "9056748816.28",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "25.95",
+      "XSMLL": "73.7032522052"
+    },
+    {
+      "REPORT_DATE": "2018-09-30 00:00:00",
+      "TOTALOPERATEREVE": "20965660630.72",
+      "PARENTNETPROFIT": "7038754909.89",
+      "KCFJCXSYJLR": "6538773242.37",
+      "NETCASH_OPERATE_PK": "5874472624.63",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "22.5",
+      "XSMLL": "73.0349405509"
+    },
+    {
+      "REPORT_DATE": "2018-06-30 00:00:00",
+      "TOTALOPERATEREVE": "14542579775.61",
+      "PARENTNETPROFIT": "5004991771.22",
+      "KCFJCXSYJLR": "4685619293.86",
+      "NETCASH_OPERATE_PK": "1658765767.11",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "15.95",
+      "XSMLL": "71.5006330601"
+    },
+    {
+      "REPORT_DATE": "2018-03-31 00:00:00",
+      "TOTALOPERATEREVE": "9537587047.1",
+      "PARENTNETPROFIT": "3475147603.5",
+      "KCFJCXSYJLR": "3333849279.9",
+      "NETCASH_OPERATE_PK": "1891759702.63",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "11.12",
+      "XSMLL": "74.7851817108"
+    },
+    {
+      "REPORT_DATE": "2017-12-31 00:00:00",
+      "TOTALOPERATEREVE": "19917942238.16",
+      "PARENTNETPROFIT": "6627169959.16",
+      "KCFJCXSYJLR": "6136386923.71",
+      "NETCASH_OPERATE_PK": "6883169799.31",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "24.08",
+      "XSMLL": "66.4566325061"
+    },
+    {
+      "REPORT_DATE": "2017-09-30 00:00:00",
+      "TOTALOPERATEREVE": "16878326032.28",
+      "PARENTNETPROFIT": "5581662088.05",
+      "KCFJCXSYJLR": "5305400971.85",
+      "NETCASH_OPERATE_PK": "4289386144.01",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "20.34",
+      "XSMLL": "62.2529135551"
+    },
+    {
+      "REPORT_DATE": "2017-06-30 00:00:00",
+      "TOTALOPERATEREVE": "11530491074.18",
+      "PARENTNETPROFIT": "3908260474.95",
+      "KCFJCXSYJLR": "3714783323.02",
+      "NETCASH_OPERATE_PK": "876333467.91",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "14.22",
+      "XSMLL": "59.8993532528"
+    },
+    {
+      "REPORT_DATE": "2017-03-31 00:00:00",
+      "TOTALOPERATEREVE": "7588577705.68",
+      "PARENTNETPROFIT": "2742957007.05",
+      "KCFJCXSYJLR": "2659071451.71",
+      "NETCASH_OPERATE_PK": "1170374437",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "10",
+      "XSMLL": "61.2323732756"
+    },
+    {
+      "REPORT_DATE": "2016-12-31 00:00:00",
+      "TOTALOPERATEREVE": "17183109620.08",
+      "PARENTNETPROFIT": "5827168870.88",
+      "KCFJCXSYJLR": "5406580095.74",
+      "NETCASH_OPERATE_PK": "7405044600.62",
+      "TOTAL_SHARE": "1506445074",
+      "ROEJQ": "24.01",
+      "XSMLL": "63.9007201506"
+    }
+  ],
+  "vendor_balance": {
+    "REPORT_DATE": "2026-09-30 00:00:00",
+    "CONTRACT_LIAB": "4896460324.23",
+    "INVENTORY": "19997333687.94",
+    "LEASE_LIAB": "23256355.6",
+    "LONG_EQUITY_INVEST": "1309324377.7",
+    "LONG_LOAN": "145750000",
+    "MONETARYFUNDS": "9839808008.25",
+    "NONCURRENT_LIAB_1YEAR": "27749198.41",
+    "OTHER_NONCURRENT_FINASSET": "3333604368.59",
+    "SHORT_LOAN": "4904030.71",
+    "TOTAL_PARENT_EQUITY": "46408381698.81",
+    "TRADE_FINASSET_NOTFVTPL": "8663041300.53"
+  },
+  "broker_views": {
+    "cutoff": "2026-11-09",
+    "access_method": "Tavily Extract fetched the original PDF URLs and returned full extracted text including research sections, forecast tables and disclaimers. Direct HTTP downloads after network approval returned 567; no local PDF binary or visual review is claimed.",
+    "sources": [
+      {
+        "id": "B1",
+        "institution": "国信证券",
+        "date_on_cover": "2026-04-28",
+        "date_caveat": "An interior line also says 2026-04-29",
+        "authors": [
+          "张向伟",
+          "张未艾"
+        ],
+        "title": "2025年深度调整，2026Q1进一步去化经营包袱",
+        "url": "https://pdf.dfcfw.com/pdf/H3_AP202604291821773056_1.pdf",
+        "extracted_characters": 8452,
+        "focus_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "rating": "中性",
+        "forecast_profit_unit": "CNY million",
+        "forecast_profit_2026": 3094,
+        "forecast_profit_2027": 3490,
+        "forecast_profit_2028": 3771
+      },
+      {
+        "id": "B2",
+        "institution": "国金证券",
+        "date_on_cover": "2026-04-28",
+        "authors": [
+          "刘宸倩",
+          "叶韬"
+        ],
+        "title": "表观延续出清，关注渠道改革成效",
+        "url": "https://pdf.dfcfw.com/pdf/H3_AP202604281821652416_1.pdf",
+        "extracted_characters": 8059,
+        "focus_pages": [
+          1,
+          2,
+          3
+        ],
+        "rating": "买入",
+        "forecast_profit_unit": "CNY million",
+        "forecast_profit_2026": 1845,
+        "forecast_profit_2027": 2245,
+        "forecast_profit_2028": 2976
+      },
+      {
+        "id": "B3",
+        "institution": "海通国际",
+        "date_on_cover": "2025-11-02",
+        "authors": [
+          "吴岱禹",
+          "闻宏伟"
+        ],
+        "title": "洋河股份2025年三季报点评：深度调整，静待破局",
+        "url": "https://pdf.dfcfw.com/pdf/H3_AP202511031774468257_1.pdf",
+        "extracted_characters": 44496,
+        "focus_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "rating": "优于大市",
+        "target_price_then_CNY": 81,
+        "target_multiple_then_2026_PE": 26,
+        "forecast_profit_unit": "CNY million",
+        "forecast_profit_2025": 3784,
+        "forecast_profit_2026": 4707,
+        "forecast_profit_2027": 5450
+      }
+    ],
+    "limits": [
+      "These are not current post-Q3-2026 consensus forecasts",
+      "No complete independently sampled terminal-channel inventory data obtained",
+      "Broker accounting appendix discrepancy awaits original PDF visual inspection",
+      "The latest Huachuang Q3 title and syndicated article are leads, not counted among the three fully extracted reports"
+    ]
+  },
+  "source_scope": "Issuer tables and a separately collected portal snapshot; not independent audits. Broker forecasts are historical, not current consensus. Balance-note items remain primary-only unless separately checked.",
+  "whole_equity_scenarios": {
+    "stress": {
+      "first5_profit_yi": [
+        "5",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "after5_growth": "0",
+      "g": "0",
+      "roic": ".15",
+      "pe3": "12"
+    },
+    "recovery": {
+      "first5_profit_yi": [
+        "10",
+        "13",
+        "16",
+        "18",
+        "20"
+      ],
+      "after5_growth": ".02",
+      "g": ".01",
+      "roic": ".15",
+      "pe3": "16"
+    },
+    "strong": {
+      "first5_profit_yi": [
+        "15",
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "after5_growth": ".04",
+      "g": ".02",
+      "roic": ".15",
+      "pe3": "20"
+    }
+  },
+  "core_dcf_scenarios": {
+    "stress": {
+      "first5_profit_yi": [
+        "-3",
+        "0",
+        "2",
+        "4",
+        "6"
+      ],
+      "after5_growth": "0",
+      "g": "0",
+      "roic": ".15",
+      "cash_conversion": ".70",
+      "net_financial_asset_yi": "100"
+    },
+    "recovery": {
+      "first5_profit_yi": [
+        "8",
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "after5_growth": ".02",
+      "g": ".01",
+      "roic": ".15",
+      "cash_conversion": ".80",
+      "net_financial_asset_yi": "150"
+    },
+    "strong": {
+      "first5_profit_yi": [
+        "15",
+        "20",
+        "26",
+        "32",
+        "38"
+      ],
+      "after5_growth": ".04",
+      "g": ".02",
+      "roic": ".15",
+      "cash_conversion": ".85",
+      "net_financial_asset_yi": "180"
+    }
+  },
+  "model_boundaries": [
+    "No subjective probabilities or scenario-weighted expected returns.",
+    "Whole-equity profits include financial income: never add cash/assets to that model.",
+    "Core DCF profits exclude income from the separately valued financial asset pool and add back after-tax debt interest; debt and other financial-asset adjustments belong in net A only.",
+    "A is an assumed net realizable present value after obligations, reserves, restrictions and discounts; not asserted free cash. No inventory or consolidated-subsidiary value is added separately.",
+    "Core cash-conversion ratios cover assumed net reinvestment/working-capital needs; no independently verified maintenance-capex split exists.",
+    "Negative core-profit years use the full loss as a cash outflow rather than multiplying by a ratio below 100%; no assumed working-capital release reduces the loss.",
+    "First model year is a future full holding year, not undisclosed Q4. Whole-equity payout1=100%, payout2..10=80% are assumptions, not a renewed distribution policy.",
+    "CNY r8 is a research hurdle, not a measured WACC. Debt is small; operating-asset discounting is a simplified low-leverage approximation.",
+    "Terminal uses year11 earnings and forward multiple (1-g/ROIC)/(r-g). Terminal cash conversion differs when steady-state reinvestment changes.",
+    "Terminal toolkit historical rf1.7% is not a current bond quote. r10 is outside the standard CNY band; any spread below5pp is reference only.",
+    "Regulatory shocks and sudden permanent brand impairment are not exhaustively modeled. This is not a liquidation floor."
+  ]
+}

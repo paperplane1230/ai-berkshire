@@ -1,0 +1,2584 @@
+{
+  "seed": 20261110,
+  "ratio": 0.15,
+  "reports": [
+    {
+      "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+      "sha256": "9cbb686e4a166b1f713feb9f0a8f24eb516c0aa44e7d25cea2aa2bb714491f6f",
+      "raw_count": 16,
+      "supplement_count": 25,
+      "excluded": [
+        {
+          "id": 10,
+          "label": "资产与现金 · 对应篇目",
+          "reported_value": 2.0,
+          "unit": "",
+          "raw_text": "| 资产与现金 | 现金、金融投资、基酒、分红分别能提供什么保护？ | [第02篇：账上的现金和老酒，能给股东多少保护？](02-账上的现金和老酒，能给股东多少保护.md) |",
+          "line_number": 212,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#10",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 11,
+          "label": "价值与证据 · 对应篇目",
+          "reported_value": 3.0,
+          "unit": "",
+          "raw_text": "| 价值与证据 | 哪些条件构成修复，什么价格对应什么回报要求？ | [第03篇：何时才算修复，什么价格值得承担不确定性？](03-何时才算修复，什么价格值得承担不确定性.md) |",
+          "line_number": 213,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#11",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 12,
+          "label": "IR6",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [IR6：2026年6月3日股东会投资者交流记录](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=",
+          "line_number": 240,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#12",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 13,
+          "label": "H21",
+          "reported_value": 2021.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=8142745)。P",
+          "line_number": 241,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#13",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 14,
+          "label": "H22",
+          "reported_value": 2022.0,
+          "unit": "",
+          "raw_text": "- [H22：2022年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=9088002)。P",
+          "line_number": 242,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#14",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 15,
+          "label": "H23",
+          "reported_value": 2023.0,
+          "unit": "",
+          "raw_text": "- [H23：2023年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=10132680)。",
+          "line_number": 243,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#15",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 16,
+          "label": "H24",
+          "reported_value": 2024.0,
+          "unit": "",
+          "raw_text": "- [H24：2024年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=11045666)。",
+          "line_number": 244,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#16",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        }
+      ],
+      "eligible": [
+        {
+          "id": 1,
+          "label": "毛利额（亿元） · 2023年",
+          "reported_value": 249.26,
+          "unit": "",
+          "raw_text": "| 毛利额（亿元） | 249.26 | 211.25 | 137.56 |",
+          "line_number": 115,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#1"
+        },
+        {
+          "id": 2,
+          "label": "毛利额（亿元） · 2024年",
+          "reported_value": 211.25,
+          "unit": "",
+          "raw_text": "| 毛利额（亿元） | 249.26 | 211.25 | 137.56 |",
+          "line_number": 115,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#2"
+        },
+        {
+          "id": 3,
+          "label": "毛利额（亿元） · 2025年",
+          "reported_value": 137.56,
+          "unit": "",
+          "raw_text": "| 毛利额（亿元） | 249.26 | 211.25 | 137.56 |",
+          "line_number": 115,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#3"
+        },
+        {
+          "id": 4,
+          "label": "销售费用（亿元） · 2023年",
+          "reported_value": 53.87,
+          "unit": "",
+          "raw_text": "| 销售费用（亿元） | 53.87 | 55.16 | 52.06 |",
+          "line_number": 116,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#4"
+        },
+        {
+          "id": 5,
+          "label": "销售费用（亿元） · 2024年",
+          "reported_value": 55.16,
+          "unit": "",
+          "raw_text": "| 销售费用（亿元） | 53.87 | 55.16 | 52.06 |",
+          "line_number": 116,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#5"
+        },
+        {
+          "id": 6,
+          "label": "销售费用（亿元） · 2025年",
+          "reported_value": 52.06,
+          "unit": "",
+          "raw_text": "| 销售费用（亿元） | 53.87 | 55.16 | 52.06 |",
+          "line_number": 116,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#6"
+        },
+        {
+          "id": 7,
+          "label": "管理费用（亿元） · 2023年",
+          "reported_value": 17.64,
+          "unit": "",
+          "raw_text": "| 管理费用（亿元） | 17.64 | 19.25 | 17.90 |",
+          "line_number": 117,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#7"
+        },
+        {
+          "id": 8,
+          "label": "管理费用（亿元） · 2024年",
+          "reported_value": 19.25,
+          "unit": "",
+          "raw_text": "| 管理费用（亿元） | 17.64 | 19.25 | 17.90 |",
+          "line_number": 117,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#8"
+        },
+        {
+          "id": 9,
+          "label": "管理费用（亿元） · 2025年",
+          "reported_value": 17.9,
+          "unit": "",
+          "raw_text": "| 管理费用（亿元） | 17.64 | 19.25 | 17.90 |",
+          "line_number": 117,
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#9"
+        },
+        {
+          "id": 17,
+          "label": "2021 · 营业收入（亿元）",
+          "reported_value": 253.5,
+          "unit": "",
+          "line_number": 93,
+          "raw_text": "| 2021 | 253.50 | 75.08 | 153.18 | 75.32% | 13.98% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#17"
+        },
+        {
+          "id": 18,
+          "label": "2021 · 归母利润（亿元）",
+          "reported_value": 75.08,
+          "unit": "",
+          "line_number": 93,
+          "raw_text": "| 2021 | 253.50 | 75.08 | 153.18 | 75.32% | 13.98% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#18"
+        },
+        {
+          "id": 19,
+          "label": "2021 · 经营现金流（亿元）",
+          "reported_value": 153.18,
+          "unit": "",
+          "line_number": 93,
+          "raw_text": "| 2021 | 253.50 | 75.08 | 153.18 | 75.32% | 13.98% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#19"
+        },
+        {
+          "id": 20,
+          "label": "2021 · 合并毛利率",
+          "reported_value": 75.32,
+          "unit": "%",
+          "line_number": 93,
+          "raw_text": "| 2021 | 253.50 | 75.08 | 153.18 | 75.32% | 13.98% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#20"
+        },
+        {
+          "id": 21,
+          "label": "2021 · 销售费率",
+          "reported_value": 13.98,
+          "unit": "%",
+          "line_number": 93,
+          "raw_text": "| 2021 | 253.50 | 75.08 | 153.18 | 75.32% | 13.98% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#21"
+        },
+        {
+          "id": 22,
+          "label": "2022 · 营业收入（亿元）",
+          "reported_value": 301.05,
+          "unit": "",
+          "line_number": 94,
+          "raw_text": "| 2022 | 301.05 | 93.78 | 36.48 | 74.60% | 13.88% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#22"
+        },
+        {
+          "id": 23,
+          "label": "2022 · 归母利润（亿元）",
+          "reported_value": 93.78,
+          "unit": "",
+          "line_number": 94,
+          "raw_text": "| 2022 | 301.05 | 93.78 | 36.48 | 74.60% | 13.88% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#23"
+        },
+        {
+          "id": 24,
+          "label": "2022 · 经营现金流（亿元）",
+          "reported_value": 36.48,
+          "unit": "",
+          "line_number": 94,
+          "raw_text": "| 2022 | 301.05 | 93.78 | 36.48 | 74.60% | 13.88% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#24"
+        },
+        {
+          "id": 25,
+          "label": "2022 · 合并毛利率",
+          "reported_value": 74.6,
+          "unit": "%",
+          "line_number": 94,
+          "raw_text": "| 2022 | 301.05 | 93.78 | 36.48 | 74.60% | 13.88% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#25"
+        },
+        {
+          "id": 26,
+          "label": "2022 · 销售费率",
+          "reported_value": 13.88,
+          "unit": "%",
+          "line_number": 94,
+          "raw_text": "| 2022 | 301.05 | 93.78 | 36.48 | 74.60% | 13.88% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#26"
+        },
+        {
+          "id": 27,
+          "label": "2023 · 营业收入（亿元）",
+          "reported_value": 331.26,
+          "unit": "",
+          "line_number": 95,
+          "raw_text": "| 2023 | 331.26 | 100.16 | 61.30 | 75.25% | 16.26% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#27"
+        },
+        {
+          "id": 28,
+          "label": "2023 · 归母利润（亿元）",
+          "reported_value": 100.16,
+          "unit": "",
+          "line_number": 95,
+          "raw_text": "| 2023 | 331.26 | 100.16 | 61.30 | 75.25% | 16.26% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#28"
+        },
+        {
+          "id": 29,
+          "label": "2023 · 经营现金流（亿元）",
+          "reported_value": 61.3,
+          "unit": "",
+          "line_number": 95,
+          "raw_text": "| 2023 | 331.26 | 100.16 | 61.30 | 75.25% | 16.26% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#29"
+        },
+        {
+          "id": 30,
+          "label": "2023 · 合并毛利率",
+          "reported_value": 75.25,
+          "unit": "%",
+          "line_number": 95,
+          "raw_text": "| 2023 | 331.26 | 100.16 | 61.30 | 75.25% | 16.26% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#30"
+        },
+        {
+          "id": 31,
+          "label": "2023 · 销售费率",
+          "reported_value": 16.26,
+          "unit": "%",
+          "line_number": 95,
+          "raw_text": "| 2023 | 331.26 | 100.16 | 61.30 | 75.25% | 16.26% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#31"
+        },
+        {
+          "id": 32,
+          "label": "2024 · 营业收入（亿元）",
+          "reported_value": 288.76,
+          "unit": "",
+          "line_number": 96,
+          "raw_text": "| 2024 | 288.76 | 66.73 | 46.29 | 73.16% | 19.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#32"
+        },
+        {
+          "id": 33,
+          "label": "2024 · 归母利润（亿元）",
+          "reported_value": 66.73,
+          "unit": "",
+          "line_number": 96,
+          "raw_text": "| 2024 | 288.76 | 66.73 | 46.29 | 73.16% | 19.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#33"
+        },
+        {
+          "id": 34,
+          "label": "2024 · 经营现金流（亿元）",
+          "reported_value": 46.29,
+          "unit": "",
+          "line_number": 96,
+          "raw_text": "| 2024 | 288.76 | 66.73 | 46.29 | 73.16% | 19.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#34"
+        },
+        {
+          "id": 35,
+          "label": "2024 · 合并毛利率",
+          "reported_value": 73.16,
+          "unit": "%",
+          "line_number": 96,
+          "raw_text": "| 2024 | 288.76 | 66.73 | 46.29 | 73.16% | 19.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#35"
+        },
+        {
+          "id": 36,
+          "label": "2024 · 销售费率",
+          "reported_value": 19.1,
+          "unit": "%",
+          "line_number": 96,
+          "raw_text": "| 2024 | 288.76 | 66.73 | 46.29 | 73.16% | 19.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#36"
+        },
+        {
+          "id": 37,
+          "label": "2025 · 营业收入（亿元）",
+          "reported_value": 192.11,
+          "unit": "",
+          "line_number": 97,
+          "raw_text": "| 2025 | 192.11 | 22.06 | -7.63 | 71.60% | 27.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#37"
+        },
+        {
+          "id": 38,
+          "label": "2025 · 归母利润（亿元）",
+          "reported_value": 22.06,
+          "unit": "",
+          "line_number": 97,
+          "raw_text": "| 2025 | 192.11 | 22.06 | -7.63 | 71.60% | 27.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#38"
+        },
+        {
+          "id": 39,
+          "label": "2025 · 经营现金流（亿元）",
+          "reported_value": -7.63,
+          "unit": "",
+          "line_number": 97,
+          "raw_text": "| 2025 | 192.11 | 22.06 | -7.63 | 71.60% | 27.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#39"
+        },
+        {
+          "id": 40,
+          "label": "2025 · 合并毛利率",
+          "reported_value": 71.6,
+          "unit": "%",
+          "line_number": 97,
+          "raw_text": "| 2025 | 192.11 | 22.06 | -7.63 | 71.60% | 27.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#40"
+        },
+        {
+          "id": 41,
+          "label": "2025 · 销售费率",
+          "reported_value": 27.1,
+          "unit": "%",
+          "line_number": 97,
+          "raw_text": "| 2025 | 192.11 | 22.06 | -7.63 | 71.60% | 27.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#41"
+        }
+      ],
+      "sample": [
+        {
+          "id": 19,
+          "label": "2021 · 经营现金流（亿元）",
+          "reported_value": 153.18,
+          "unit": "",
+          "line_number": 93,
+          "raw_text": "| 2021 | 253.50 | 75.08 | 153.18 | 75.32% | 13.98% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#19"
+        },
+        {
+          "id": 27,
+          "label": "2023 · 营业收入（亿元）",
+          "reported_value": 331.26,
+          "unit": "",
+          "line_number": 95,
+          "raw_text": "| 2023 | 331.26 | 100.16 | 61.30 | 75.25% | 16.26% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#27"
+        },
+        {
+          "id": 29,
+          "label": "2023 · 经营现金流（亿元）",
+          "reported_value": 61.3,
+          "unit": "",
+          "line_number": 95,
+          "raw_text": "| 2023 | 331.26 | 100.16 | 61.30 | 75.25% | 16.26% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#29"
+        },
+        {
+          "id": 31,
+          "label": "2023 · 销售费率",
+          "reported_value": 16.26,
+          "unit": "%",
+          "line_number": 95,
+          "raw_text": "| 2023 | 331.26 | 100.16 | 61.30 | 75.25% | 16.26% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#31"
+        },
+        {
+          "id": 38,
+          "label": "2025 · 归母利润（亿元）",
+          "reported_value": 22.06,
+          "unit": "",
+          "line_number": 97,
+          "raw_text": "| 2025 | 192.11 | 22.06 | -7.63 | 71.60% | 27.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#38"
+        },
+        {
+          "id": 40,
+          "label": "2025 · 合并毛利率",
+          "reported_value": 71.6,
+          "unit": "%",
+          "line_number": 97,
+          "raw_text": "| 2025 | 192.11 | 22.06 | -7.63 | 71.60% | 27.10% |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+          "key": "01-一年赚过百亿，为什么还要重新认识洋河.md#40"
+        }
+      ]
+    },
+    {
+      "report": "02-账上的现金和老酒，能给股东多少保护.md",
+      "sha256": "dd61dc92d8f3acf0cd5fba53402f90d51cb9105147fc7b19dc70910f3fc5739d",
+      "raw_count": 26,
+      "supplement_count": 42,
+      "excluded": [
+        {
+          "id": 14,
+          "label": "S1",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S1：2026年第三季度报告](https://static.cninfo.com.cn/finalpage/2026-10-30/1225641440.PDF)。第2—10页主要指标、股东表与合并三表；季度报告未经审计。资产余额与现",
+          "line_number": 261,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#14",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 15,
+          "label": "S2",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S2：2026年半年度报告完整公告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=125468",
+          "line_number": 262,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#15",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 16,
+          "label": "S3",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [S3：2025年年度报告](https://static.cninfo.com.cn/finalpage/2026-04-28/1225219764.PDF)。第8—9页主要及季度指标，第11—14页经营与库存，第20—22页现金和资",
+          "line_number": 263,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#16",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 17,
+          "label": "H21",
+          "reported_value": 2021.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年报](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=8142745)、[H22",
+          "line_number": 264,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#17",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 21,
+          "label": "D0",
+          "reported_value": 2024.0,
+          "unit": "",
+          "raw_text": "- [D0：2024—2026现金分红规划](https://static.cninfo.com.cn/finalpage/2024-08-30/1221057776.PDF)、[D1：2025—2027现金分红规划](https://st",
+          "line_number": 265,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#21",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 23,
+          "label": "D2",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [D2：2025年度分红实施公告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12404768",
+          "line_number": 266,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#23",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 24,
+          "label": "IR6",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [IR6：2026年6月股东会投资者交流](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=1238",
+          "line_number": 267,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#24",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 25,
+          "label": "G1",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [G1：2026年7月总裁分工变动](https://static.cninfo.com.cn/finalpage/2026-07-02/1225402686.PDF)、[G2：骨干持股计划展期](https://vip.stock.f",
+          "line_number": 268,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#25",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        }
+      ],
+      "eligible": [
+        {
+          "id": 1,
+          "label": "货币资金 · 2026年9月末余额（亿元）",
+          "reported_value": 98.4,
+          "unit": "",
+          "raw_text": "| 货币资金 | 98.40 | 是否受限，是否还包括不属于现金等价物的项目？ |",
+          "line_number": 25,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#1"
+        },
+        {
+          "id": 2,
+          "label": "现金及现金等价物 · 2026年9月末余额（亿元）",
+          "reported_value": 97.87,
+          "unit": "",
+          "raw_text": "| 现金及现金等价物 | 97.87 | 企业维持经营、税费与结算需要留下多少？ |",
+          "line_number": 26,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#2"
+        },
+        {
+          "id": 3,
+          "label": "交易性金融资产 · 2026年9月末余额（亿元）",
+          "reported_value": 86.63,
+          "unit": "",
+          "raw_text": "| 交易性金融资产 | 86.63 | 到期日、兑付条件、收益结构及实际回收如何？ |",
+          "line_number": 27,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#3"
+        },
+        {
+          "id": 4,
+          "label": "其他非流动金融资产 · 2026年9月末余额（亿元）",
+          "reported_value": 33.34,
+          "unit": "",
+          "raw_text": "| 其他非流动金融资产 | 33.34 | 估值是否依赖非活跃市场假设，退出路径是什么？ |",
+          "line_number": 28,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#4"
+        },
+        {
+          "id": 5,
+          "label": "长期股权投资 · 2026年9月末余额（亿元）",
+          "reported_value": 13.09,
+          "unit": "",
+          "raw_text": "| 长期股权投资 | 13.09 | 被投资方盈利能否变成现金分红，退出有何约束？ |",
+          "line_number": 29,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#5"
+        },
+        {
+          "id": 6,
+          "label": "五年合计 · 归母利润（亿元）",
+          "reported_value": 357.81,
+          "unit": "",
+          "raw_text": "| 五年合计 | 357.81 | 289.62 | 42.07 | 247.55 |",
+          "line_number": 68,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#6"
+        },
+        {
+          "id": 7,
+          "label": "五年合计 · 经营现金流（亿元）",
+          "reported_value": 289.62,
+          "unit": "",
+          "raw_text": "| 五年合计 | 357.81 | 289.62 | 42.07 | 247.55 |",
+          "line_number": 68,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#7"
+        },
+        {
+          "id": 8,
+          "label": "五年合计 · 购建长期资产支出（亿元）",
+          "reported_value": 42.07,
+          "unit": "",
+          "raw_text": "| 五年合计 | 357.81 | 289.62 | 42.07 | 247.55 |",
+          "line_number": 68,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#8"
+        },
+        {
+          "id": 9,
+          "label": "五年合计 · 简化现金余量（亿元）",
+          "reported_value": 247.55,
+          "unit": "",
+          "raw_text": "| 五年合计 | 357.81 | 289.62 | 42.07 | 247.55 |",
+          "line_number": 68,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#9"
+        },
+        {
+          "id": 10,
+          "label": "旧规划D0 · 盈利年度范围",
+          "reported_value": 2024.0,
+          "unit": "",
+          "raw_text": "| 旧规划D0 | 2024—2026年度 | 满足章程条件下，每年现金分红不低于归母利润70%，且不低于70亿元 | 并非完全不可调整，原文列有调整与审议程序 |",
+          "line_number": 142,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#10"
+        },
+        {
+          "id": 11,
+          "label": "新规划D1 · 盈利年度范围",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "| 新规划D1 | 2025—2027年度 | 满足章程条件下，每年现金分红不低于归母利润100%；具体方案仍需审议 | 没有继续列出70亿元绝对金额下限，不能按旧下限估未来股息 |",
+          "line_number": 143,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#11"
+        },
+        {
+          "id": 12,
+          "label": "新规划D1 · 不能推出什么",
+          "reported_value": 70.0,
+          "unit": "亿元",
+          "raw_text": "| 新规划D1 | 2025—2027年度 | 满足章程条件下，每年现金分红不低于归母利润100%；具体方案仍需审议 | 没有继续列出70亿元绝对金额下限，不能按旧下限估未来股息 |",
+          "line_number": 143,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#12"
+        },
+        {
+          "id": 13,
+          "label": "这张表展示了一个不能被“正在去库存”概括完的变化",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "这张表展示了一个不能被“正在去库存”概括完的变化：2025年成品酒数量下降，半成品储备却继续增加，合并存货账面金额也增加。不同类别可以朝不同方向变化。成品减少有助于缓解某一环节的占用，却不证明整个生产销售链条的资金已经释放。[H21-H24",
+          "line_number": 114,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#13"
+        },
+        {
+          "id": 18,
+          "label": "stockid=002304&id=8142745)、[H22",
+          "reported_value": 2022.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年报](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=8142745)、[H22",
+          "line_number": 264,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#18"
+        },
+        {
+          "id": 19,
+          "label": "stockid=002304&id=9088002)、[H23",
+          "reported_value": 2023.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年报](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=8142745)、[H22",
+          "line_number": 264,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#19"
+        },
+        {
+          "id": 20,
+          "label": "tockid=002304&id=10132680)、[H24",
+          "reported_value": 2024.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年报](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=8142745)、[H22",
+          "line_number": 264,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#20"
+        },
+        {
+          "id": 22,
+          "label": "PDF)、[D1",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [D0：2024—2026现金分红规划](https://static.cninfo.com.cn/finalpage/2024-08-30/1221057776.PDF)、[D1：2025—2027现金分红规划](https://st",
+          "line_number": 265,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#22"
+        },
+        {
+          "id": 26,
+          "label": "stockid=002304&id=12482999)、[G3",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [G1：2026年7月总裁分工变动](https://static.cninfo.com.cn/finalpage/2026-07-02/1225402686.PDF)、[G2：骨干持股计划展期](https://vip.stock.f",
+          "line_number": 268,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#26"
+        },
+        {
+          "id": 27,
+          "label": "2021 · 归母利润（亿元）",
+          "reported_value": 75.08,
+          "unit": "",
+          "line_number": 63,
+          "raw_text": "| 2021 | 75.08 | 153.18 | 4.24 | 148.95 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#27"
+        },
+        {
+          "id": 28,
+          "label": "2021 · 经营现金流（亿元）",
+          "reported_value": 153.18,
+          "unit": "",
+          "line_number": 63,
+          "raw_text": "| 2021 | 75.08 | 153.18 | 4.24 | 148.95 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#28"
+        },
+        {
+          "id": 29,
+          "label": "2021 · 购建长期资产支出（亿元）",
+          "reported_value": 4.24,
+          "unit": "",
+          "line_number": 63,
+          "raw_text": "| 2021 | 75.08 | 153.18 | 4.24 | 148.95 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#29"
+        },
+        {
+          "id": 30,
+          "label": "2021 · 简化现金余量（亿元）",
+          "reported_value": 148.95,
+          "unit": "",
+          "line_number": 63,
+          "raw_text": "| 2021 | 75.08 | 153.18 | 4.24 | 148.95 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#30"
+        },
+        {
+          "id": 31,
+          "label": "2022 · 归母利润（亿元）",
+          "reported_value": 93.78,
+          "unit": "",
+          "line_number": 64,
+          "raw_text": "| 2022 | 93.78 | 36.48 | 5.39 | 31.08 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#31"
+        },
+        {
+          "id": 32,
+          "label": "2022 · 经营现金流（亿元）",
+          "reported_value": 36.48,
+          "unit": "",
+          "line_number": 64,
+          "raw_text": "| 2022 | 93.78 | 36.48 | 5.39 | 31.08 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#32"
+        },
+        {
+          "id": 33,
+          "label": "2022 · 购建长期资产支出（亿元）",
+          "reported_value": 5.39,
+          "unit": "",
+          "line_number": 64,
+          "raw_text": "| 2022 | 93.78 | 36.48 | 5.39 | 31.08 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#33"
+        },
+        {
+          "id": 34,
+          "label": "2022 · 简化现金余量（亿元）",
+          "reported_value": 31.08,
+          "unit": "",
+          "line_number": 64,
+          "raw_text": "| 2022 | 93.78 | 36.48 | 5.39 | 31.08 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#34"
+        },
+        {
+          "id": 35,
+          "label": "2023 · 归母利润（亿元）",
+          "reported_value": 100.16,
+          "unit": "",
+          "line_number": 65,
+          "raw_text": "| 2023 | 100.16 | 61.30 | 11.12 | 50.19 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#35"
+        },
+        {
+          "id": 36,
+          "label": "2023 · 经营现金流（亿元）",
+          "reported_value": 61.3,
+          "unit": "",
+          "line_number": 65,
+          "raw_text": "| 2023 | 100.16 | 61.30 | 11.12 | 50.19 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#36"
+        },
+        {
+          "id": 37,
+          "label": "2023 · 购建长期资产支出（亿元）",
+          "reported_value": 11.12,
+          "unit": "",
+          "line_number": 65,
+          "raw_text": "| 2023 | 100.16 | 61.30 | 11.12 | 50.19 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#37"
+        },
+        {
+          "id": 38,
+          "label": "2023 · 简化现金余量（亿元）",
+          "reported_value": 50.19,
+          "unit": "",
+          "line_number": 65,
+          "raw_text": "| 2023 | 100.16 | 61.30 | 11.12 | 50.19 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#38"
+        },
+        {
+          "id": 39,
+          "label": "2024 · 归母利润（亿元）",
+          "reported_value": 66.73,
+          "unit": "",
+          "line_number": 66,
+          "raw_text": "| 2024 | 66.73 | 46.29 | 14.54 | 31.75 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#39"
+        },
+        {
+          "id": 40,
+          "label": "2024 · 经营现金流（亿元）",
+          "reported_value": 46.29,
+          "unit": "",
+          "line_number": 66,
+          "raw_text": "| 2024 | 66.73 | 46.29 | 14.54 | 31.75 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#40"
+        },
+        {
+          "id": 41,
+          "label": "2024 · 购建长期资产支出（亿元）",
+          "reported_value": 14.54,
+          "unit": "",
+          "line_number": 66,
+          "raw_text": "| 2024 | 66.73 | 46.29 | 14.54 | 31.75 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#41"
+        },
+        {
+          "id": 42,
+          "label": "2024 · 简化现金余量（亿元）",
+          "reported_value": 31.75,
+          "unit": "",
+          "line_number": 66,
+          "raw_text": "| 2024 | 66.73 | 46.29 | 14.54 | 31.75 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#42"
+        },
+        {
+          "id": 43,
+          "label": "2025 · 归母利润（亿元）",
+          "reported_value": 22.06,
+          "unit": "",
+          "line_number": 67,
+          "raw_text": "| 2025 | 22.06 | -7.63 | 6.78 | -14.42 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#43"
+        },
+        {
+          "id": 44,
+          "label": "2025 · 经营现金流（亿元）",
+          "reported_value": -7.63,
+          "unit": "",
+          "line_number": 67,
+          "raw_text": "| 2025 | 22.06 | -7.63 | 6.78 | -14.42 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#44"
+        },
+        {
+          "id": 45,
+          "label": "2025 · 购建长期资产支出（亿元）",
+          "reported_value": 6.78,
+          "unit": "",
+          "line_number": 67,
+          "raw_text": "| 2025 | 22.06 | -7.63 | 6.78 | -14.42 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#45"
+        },
+        {
+          "id": 46,
+          "label": "2025 · 简化现金余量（亿元）",
+          "reported_value": -14.42,
+          "unit": "",
+          "line_number": 67,
+          "raw_text": "| 2025 | 22.06 | -7.63 | 6.78 | -14.42 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#46"
+        },
+        {
+          "id": 47,
+          "label": "2021 · 合并存货账面值（亿元）",
+          "reported_value": 168.03,
+          "unit": "",
+          "line_number": 108,
+          "raw_text": "| 2021 | 168.03 | 44,857.61 | 619,449.64 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#47"
+        },
+        {
+          "id": 48,
+          "label": "2021 · 成品酒库存（吨，含红酒）",
+          "reported_value": 44857.61,
+          "unit": "",
+          "line_number": 108,
+          "raw_text": "| 2021 | 168.03 | 44,857.61 | 619,449.64 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#48"
+        },
+        {
+          "id": 49,
+          "label": "2021 · 半成品酒（吨，含基础酒）",
+          "reported_value": 619449.64,
+          "unit": "",
+          "line_number": 108,
+          "raw_text": "| 2021 | 168.03 | 44,857.61 | 619,449.64 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#49"
+        },
+        {
+          "id": 50,
+          "label": "2022 · 合并存货账面值（亿元）",
+          "reported_value": 177.29,
+          "unit": "",
+          "line_number": 109,
+          "raw_text": "| 2022 | 177.29 | 47,335.63 | 623,356.32 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#50"
+        },
+        {
+          "id": 51,
+          "label": "2022 · 成品酒库存（吨，含红酒）",
+          "reported_value": 47335.63,
+          "unit": "",
+          "line_number": 109,
+          "raw_text": "| 2022 | 177.29 | 47,335.63 | 623,356.32 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#51"
+        },
+        {
+          "id": 52,
+          "label": "2022 · 半成品酒（吨，含基础酒）",
+          "reported_value": 623356.32,
+          "unit": "",
+          "line_number": 109,
+          "raw_text": "| 2022 | 177.29 | 47,335.63 | 623,356.32 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#52"
+        },
+        {
+          "id": 53,
+          "label": "2023 · 合并存货账面值（亿元）",
+          "reported_value": 189.54,
+          "unit": "",
+          "line_number": 110,
+          "raw_text": "| 2023 | 189.54 | 39,875.47 | 650,766.36 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#53"
+        },
+        {
+          "id": 54,
+          "label": "2023 · 成品酒库存（吨，含红酒）",
+          "reported_value": 39875.47,
+          "unit": "",
+          "line_number": 110,
+          "raw_text": "| 2023 | 189.54 | 39,875.47 | 650,766.36 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#54"
+        },
+        {
+          "id": 55,
+          "label": "2023 · 半成品酒（吨，含基础酒）",
+          "reported_value": 650766.36,
+          "unit": "",
+          "line_number": 110,
+          "raw_text": "| 2023 | 189.54 | 39,875.47 | 650,766.36 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#55"
+        },
+        {
+          "id": 56,
+          "label": "2024 · 合并存货账面值（亿元）",
+          "reported_value": 197.33,
+          "unit": "",
+          "line_number": 111,
+          "raw_text": "| 2024 | 197.33 | 46,169.17 | 697,082.59 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#56"
+        },
+        {
+          "id": 57,
+          "label": "2024 · 成品酒库存（吨，含红酒）",
+          "reported_value": 46169.17,
+          "unit": "",
+          "line_number": 111,
+          "raw_text": "| 2024 | 197.33 | 46,169.17 | 697,082.59 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#57"
+        },
+        {
+          "id": 58,
+          "label": "2024 · 半成品酒（吨，含基础酒）",
+          "reported_value": 697082.59,
+          "unit": "",
+          "line_number": 111,
+          "raw_text": "| 2024 | 197.33 | 46,169.17 | 697,082.59 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#58"
+        },
+        {
+          "id": 59,
+          "label": "2025 · 合并存货账面值（亿元）",
+          "reported_value": 203.75,
+          "unit": "",
+          "line_number": 112,
+          "raw_text": "| 2025 | 203.75 | 31,508.18 | 740,550.68 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#59"
+        },
+        {
+          "id": 60,
+          "label": "2025 · 成品酒库存（吨，含红酒）",
+          "reported_value": 31508.18,
+          "unit": "",
+          "line_number": 112,
+          "raw_text": "| 2025 | 203.75 | 31,508.18 | 740,550.68 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#60"
+        },
+        {
+          "id": 61,
+          "label": "2025 · 半成品酒（吨，含基础酒）",
+          "reported_value": 740550.68,
+          "unit": "",
+          "line_number": 112,
+          "raw_text": "| 2025 | 203.75 | 31,508.18 | 740,550.68 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#61"
+        },
+        {
+          "id": 62,
+          "label": "2021 · 每股税前分红",
+          "reported_value": 3.0,
+          "unit": "",
+          "line_number": 155,
+          "raw_text": "| 2021 | 3.00元 | 属于该盈利年度的分配，不能据支付日另算一遍 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#62"
+        },
+        {
+          "id": 63,
+          "label": "2022 · 每股税前分红",
+          "reported_value": 3.74,
+          "unit": "",
+          "line_number": 156,
+          "raw_text": "| 2022 | 3.74元 | 同上 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#63"
+        },
+        {
+          "id": 64,
+          "label": "2023 · 每股税前分红",
+          "reported_value": 4.66,
+          "unit": "",
+          "line_number": 157,
+          "raw_text": "| 2023 | 4.66元 | 同上 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#64"
+        },
+        {
+          "id": 65,
+          "label": "2024 · 每股税前分红",
+          "reported_value": 4.647,
+          "unit": "",
+          "line_number": 158,
+          "raw_text": "| 2024 | 4.647元 | 已含中期2.330元与末期2.317元 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#65"
+        },
+        {
+          "id": 66,
+          "label": "2024 · 阅读时的关键区别",
+          "reported_value": 2.33,
+          "unit": "",
+          "line_number": 158,
+          "raw_text": "| 2024 | 4.647元 | 已含中期2.330元与末期2.317元 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#66"
+        },
+        {
+          "id": 67,
+          "label": "2025 · 每股税前分红",
+          "reported_value": 1.47,
+          "unit": "",
+          "line_number": 159,
+          "raw_text": "| 2025 | 1.47元 | 2026年6月30日实施对应派发 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#67"
+        },
+        {
+          "id": 68,
+          "label": "2025 · 阅读时的关键区别",
+          "reported_value": 2026.0,
+          "unit": "",
+          "line_number": 159,
+          "raw_text": "| 2025 | 1.47元 | 2026年6月30日实施对应派发 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#68"
+        }
+      ],
+      "sample": [
+        {
+          "id": 28,
+          "label": "2021 · 经营现金流（亿元）",
+          "reported_value": 153.18,
+          "unit": "",
+          "line_number": 63,
+          "raw_text": "| 2021 | 75.08 | 153.18 | 4.24 | 148.95 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#28"
+        },
+        {
+          "id": 39,
+          "label": "2024 · 归母利润（亿元）",
+          "reported_value": 66.73,
+          "unit": "",
+          "line_number": 66,
+          "raw_text": "| 2024 | 66.73 | 46.29 | 14.54 | 31.75 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#39"
+        },
+        {
+          "id": 45,
+          "label": "2025 · 购建长期资产支出（亿元）",
+          "reported_value": 6.78,
+          "unit": "",
+          "line_number": 67,
+          "raw_text": "| 2025 | 22.06 | -7.63 | 6.78 | -14.42 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#45"
+        },
+        {
+          "id": 50,
+          "label": "2022 · 合并存货账面值（亿元）",
+          "reported_value": 177.29,
+          "unit": "",
+          "line_number": 109,
+          "raw_text": "| 2022 | 177.29 | 47,335.63 | 623,356.32 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#50"
+        },
+        {
+          "id": 54,
+          "label": "2023 · 成品酒库存（吨，含红酒）",
+          "reported_value": 39875.47,
+          "unit": "",
+          "line_number": 110,
+          "raw_text": "| 2023 | 189.54 | 39,875.47 | 650,766.36 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#54"
+        },
+        {
+          "id": 55,
+          "label": "2023 · 半成品酒（吨，含基础酒）",
+          "reported_value": 650766.36,
+          "unit": "",
+          "line_number": 110,
+          "raw_text": "| 2023 | 189.54 | 39,875.47 | 650,766.36 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#55"
+        },
+        {
+          "id": 12,
+          "label": "新规划D1 · 不能推出什么",
+          "reported_value": 70.0,
+          "unit": "亿元",
+          "raw_text": "| 新规划D1 | 2025—2027年度 | 满足章程条件下，每年现金分红不低于归母利润100%；具体方案仍需审议 | 没有继续列出70亿元绝对金额下限，不能按旧下限估未来股息 |",
+          "line_number": 143,
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#12"
+        },
+        {
+          "id": 62,
+          "label": "2021 · 每股税前分红",
+          "reported_value": 3.0,
+          "unit": "",
+          "line_number": 155,
+          "raw_text": "| 2021 | 3.00元 | 属于该盈利年度的分配，不能据支付日另算一遍 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#62"
+        },
+        {
+          "id": 64,
+          "label": "2023 · 每股税前分红",
+          "reported_value": 4.66,
+          "unit": "",
+          "line_number": 157,
+          "raw_text": "| 2023 | 4.66元 | 同上 |",
+          "supplement_reason": "Year-first numeric table row omitted by shared extractor",
+          "report": "02-账上的现金和老酒，能给股东多少保护.md",
+          "key": "02-账上的现金和老酒，能给股东多少保护.md#64"
+        }
+      ]
+    },
+    {
+      "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+      "sha256": "7ed3d26b4b7a65cf2d1a6dd462de641717bb313fb692b6c3fc0eeb42e015f59b",
+      "raw_count": 105,
+      "supplement_count": 0,
+      "excluded": [
+        {
+          "id": 97,
+          "label": "国信证券 · 日期边界",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "| 国信证券 | 30.94亿元 | 中性 | 2026年4月材料 |",
+          "line_number": 235,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#97",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 99,
+          "label": "国金证券 · 日期边界",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "| 国金证券 | 18.45亿元 | 买入 | 2026年4月材料 |",
+          "line_number": 236,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#99",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 101,
+          "label": "海通国际 · 日期边界",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "| 海通国际 | 47.07亿元 | 优于大市 | 2025年11月材料 |",
+          "line_number": 237,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#101",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 103,
+          "label": "S1",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S1：2026年第三季度报告](https://static.cninfo.com.cn/finalpage/2026-10-30/1225641440.PDF)，主要指标、合并三表与股本；季度报告未经审计。",
+          "line_number": 331,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#103",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 104,
+          "label": "S3",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [S3：2025年年度报告](https://static.cninfo.com.cn/finalpage/2026-04-28/1225219764.PDF)，年度/季度对照及附注。TTM使用全年加本期累计减上年同累计。",
+          "line_number": 332,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#104",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        },
+        {
+          "id": 105,
+          "label": "D2",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [D2：2025年度分红实施公告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002304&id=12404768",
+          "line_number": 333,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#105",
+          "reason": "Citation/date/cross-reference numeral, not a financial observation"
+        }
+      ],
+      "eligible": [
+        {
+          "id": 1,
+          "label": "不复权收盘价 · 数值",
+          "reported_value": 37.24,
+          "unit": "",
+          "raw_text": "| 不复权收盘价 | 37.24元 | 不是价值锚，也不是支撑位 |",
+          "line_number": 27,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#1"
+        },
+        {
+          "id": 2,
+          "label": "全部发行股本 · 数值",
+          "reported_value": 15.06445074,
+          "unit": "亿",
+          "raw_text": "| 全部发行股本 | 15.06445074亿股 | 不用较少的流通股代替全部权益分母 |",
+          "line_number": 28,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#2"
+        },
+        {
+          "id": 3,
+          "label": "总市值 · 数值",
+          "reported_value": 561.0,
+          "unit": "亿元",
+          "raw_text": "| 总市值 | 561.00亿元 | 不是经营资产和金融资产各自的价值 |",
+          "line_number": 29,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#3"
+        },
+        {
+          "id": 4,
+          "label": "每股归母净资产 · 数值",
+          "reported_value": 30.8066,
+          "unit": "",
+          "raw_text": "| 每股归母净资产 | 30.8066元 | 不是每股可收到的清算款 |",
+          "line_number": 30,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#4"
+        },
+        {
+          "id": 5,
+          "label": "TTM归母利润 · 数值",
+          "reported_value": 0.6186,
+          "unit": "亿元",
+          "raw_text": "| TTM归母利润 | 0.6186亿元 | 不是已证明的长期正常利润 |",
+          "line_number": 31,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#5"
+        },
+        {
+          "id": 6,
+          "label": "TTM经营现金流 · 数值",
+          "reported_value": -16.1368,
+          "unit": "亿元",
+          "raw_text": "| TTM经营现金流 | -16.1368亿元 | 需要拆营运资金与经营压力，不能仅按正负定性 |",
+          "line_number": 32,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#6"
+        },
+        {
+          "id": 7,
+          "label": "TTM简化自由现金流 · 数值",
+          "reported_value": -21.1312,
+          "unit": "亿元",
+          "raw_text": "| TTM简化自由现金流 | -21.1312亿元 | 不支持把当前经营现金描述为稳定覆盖历史分红 |",
+          "line_number": 33,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#7"
+        },
+        {
+          "id": 8,
+          "label": "历史每股现金股息 · 数值",
+          "reported_value": 1.47,
+          "unit": "",
+          "raw_text": "| 历史每股现金股息 | 1.47元 | 属于已经实施的2025年度分配，不保证下一次金额 |",
+          "line_number": 34,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#8"
+        },
+        {
+          "id": 9,
+          "label": "历史每股现金股息 · 不能据此直接推出什么",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "| 历史每股现金股息 | 1.47元 | 属于已经实施的2025年度分配，不保证下一次金额 |",
+          "line_number": 34,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#9"
+        },
+        {
+          "id": 10,
+          "label": "历史税前股息率 · 数值",
+          "reported_value": 3.95,
+          "unit": "%",
+          "raw_text": "| 历史税前股息率 | 3.95% | 不是新买入者已经锁定的未来收益 |",
+          "line_number": 35,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#10"
+        },
+        {
+          "id": 11,
+          "label": "A=0亿元 · 12倍经营盈利要求",
+          "reported_value": 46.75,
+          "unit": "亿元",
+          "raw_text": "| A=0亿元 | 46.75亿元 | 35.06亿元 | 28.05亿元 |",
+          "line_number": 87,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#11"
+        },
+        {
+          "id": 12,
+          "label": "A=0亿元 · 16倍经营盈利要求",
+          "reported_value": 35.06,
+          "unit": "亿元",
+          "raw_text": "| A=0亿元 | 46.75亿元 | 35.06亿元 | 28.05亿元 |",
+          "line_number": 87,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#12"
+        },
+        {
+          "id": 13,
+          "label": "A=0亿元 · 20倍经营盈利要求",
+          "reported_value": 28.05,
+          "unit": "亿元",
+          "raw_text": "| A=0亿元 | 46.75亿元 | 35.06亿元 | 28.05亿元 |",
+          "line_number": 87,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#13"
+        },
+        {
+          "id": 14,
+          "label": "A=100亿元 · 12倍经营盈利要求",
+          "reported_value": 38.42,
+          "unit": "亿元",
+          "raw_text": "| A=100亿元 | 38.42亿元 | 28.81亿元 | 23.05亿元 |",
+          "line_number": 88,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#14"
+        },
+        {
+          "id": 15,
+          "label": "A=100亿元 · 16倍经营盈利要求",
+          "reported_value": 28.81,
+          "unit": "亿元",
+          "raw_text": "| A=100亿元 | 38.42亿元 | 28.81亿元 | 23.05亿元 |",
+          "line_number": 88,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#15"
+        },
+        {
+          "id": 16,
+          "label": "A=100亿元 · 20倍经营盈利要求",
+          "reported_value": 23.05,
+          "unit": "亿元",
+          "raw_text": "| A=100亿元 | 38.42亿元 | 28.81亿元 | 23.05亿元 |",
+          "line_number": 88,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#16"
+        },
+        {
+          "id": 17,
+          "label": "A=150亿元 · 12倍经营盈利要求",
+          "reported_value": 34.25,
+          "unit": "亿元",
+          "raw_text": "| A=150亿元 | 34.25亿元 | 25.69亿元 | 20.55亿元 |",
+          "line_number": 89,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#17"
+        },
+        {
+          "id": 18,
+          "label": "A=150亿元 · 16倍经营盈利要求",
+          "reported_value": 25.69,
+          "unit": "亿元",
+          "raw_text": "| A=150亿元 | 34.25亿元 | 25.69亿元 | 20.55亿元 |",
+          "line_number": 89,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#18"
+        },
+        {
+          "id": 19,
+          "label": "A=150亿元 · 20倍经营盈利要求",
+          "reported_value": 20.55,
+          "unit": "亿元",
+          "raw_text": "| A=150亿元 | 34.25亿元 | 25.69亿元 | 20.55亿元 |",
+          "line_number": 89,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#19"
+        },
+        {
+          "id": 20,
+          "label": "A=180亿元 · 12倍经营盈利要求",
+          "reported_value": 31.75,
+          "unit": "亿元",
+          "raw_text": "| A=180亿元 | 31.75亿元 | 23.81亿元 | 19.05亿元 |",
+          "line_number": 90,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#20"
+        },
+        {
+          "id": 21,
+          "label": "A=180亿元 · 16倍经营盈利要求",
+          "reported_value": 23.81,
+          "unit": "亿元",
+          "raw_text": "| A=180亿元 | 31.75亿元 | 23.81亿元 | 19.05亿元 |",
+          "line_number": 90,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#21"
+        },
+        {
+          "id": 22,
+          "label": "A=180亿元 · 20倍经营盈利要求",
+          "reported_value": 19.05,
+          "unit": "亿元",
+          "raw_text": "| A=180亿元 | 31.75亿元 | 23.81亿元 | 19.05亿元 |",
+          "line_number": 90,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#22"
+        },
+        {
+          "id": 23,
+          "label": "压力 · 第1年",
+          "reported_value": -3.0,
+          "unit": "",
+          "raw_text": "| 压力 | -3 | 0 | 2 | 4 | 6 |",
+          "line_number": 108,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#23"
+        },
+        {
+          "id": 24,
+          "label": "压力 · 第3年",
+          "reported_value": 2.0,
+          "unit": "",
+          "raw_text": "| 压力 | -3 | 0 | 2 | 4 | 6 |",
+          "line_number": 108,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#24"
+        },
+        {
+          "id": 25,
+          "label": "压力 · 第4年",
+          "reported_value": 4.0,
+          "unit": "",
+          "raw_text": "| 压力 | -3 | 0 | 2 | 4 | 6 |",
+          "line_number": 108,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#25"
+        },
+        {
+          "id": 26,
+          "label": "压力 · 第5年",
+          "reported_value": 6.0,
+          "unit": "",
+          "raw_text": "| 压力 | -3 | 0 | 2 | 4 | 6 |",
+          "line_number": 108,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#26"
+        },
+        {
+          "id": 27,
+          "label": "恢复 · 第1年",
+          "reported_value": 8.0,
+          "unit": "",
+          "raw_text": "| 恢复 | 8 | 12 | 16 | 20 | 24 |",
+          "line_number": 109,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#27"
+        },
+        {
+          "id": 28,
+          "label": "恢复 · 第2年",
+          "reported_value": 12.0,
+          "unit": "",
+          "raw_text": "| 恢复 | 8 | 12 | 16 | 20 | 24 |",
+          "line_number": 109,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#28"
+        },
+        {
+          "id": 29,
+          "label": "恢复 · 第3年",
+          "reported_value": 16.0,
+          "unit": "",
+          "raw_text": "| 恢复 | 8 | 12 | 16 | 20 | 24 |",
+          "line_number": 109,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#29"
+        },
+        {
+          "id": 30,
+          "label": "恢复 · 第4年",
+          "reported_value": 20.0,
+          "unit": "",
+          "raw_text": "| 恢复 | 8 | 12 | 16 | 20 | 24 |",
+          "line_number": 109,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#30"
+        },
+        {
+          "id": 31,
+          "label": "恢复 · 第5年",
+          "reported_value": 24.0,
+          "unit": "",
+          "raw_text": "| 恢复 | 8 | 12 | 16 | 20 | 24 |",
+          "line_number": 109,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#31"
+        },
+        {
+          "id": 32,
+          "label": "较强恢复 · 第1年",
+          "reported_value": 15.0,
+          "unit": "",
+          "raw_text": "| 较强恢复 | 15 | 20 | 26 | 32 | 38 |",
+          "line_number": 110,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#32"
+        },
+        {
+          "id": 33,
+          "label": "较强恢复 · 第2年",
+          "reported_value": 20.0,
+          "unit": "",
+          "raw_text": "| 较强恢复 | 15 | 20 | 26 | 32 | 38 |",
+          "line_number": 110,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#33"
+        },
+        {
+          "id": 34,
+          "label": "较强恢复 · 第3年",
+          "reported_value": 26.0,
+          "unit": "",
+          "raw_text": "| 较强恢复 | 15 | 20 | 26 | 32 | 38 |",
+          "line_number": 110,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#34"
+        },
+        {
+          "id": 35,
+          "label": "较强恢复 · 第4年",
+          "reported_value": 32.0,
+          "unit": "",
+          "raw_text": "| 较强恢复 | 15 | 20 | 26 | 32 | 38 |",
+          "line_number": 110,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#35"
+        },
+        {
+          "id": 36,
+          "label": "较强恢复 · 第5年",
+          "reported_value": 38.0,
+          "unit": "",
+          "raw_text": "| 较强恢复 | 15 | 20 | 26 | 32 | 38 |",
+          "line_number": 110,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#36"
+        },
+        {
+          "id": 37,
+          "label": "第6—10年盈利年增长 · 恢复",
+          "reported_value": 2.0,
+          "unit": "%",
+          "raw_text": "| 第6—10年盈利年增长 | 0% | 2% | 4% |",
+          "line_number": 114,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#37"
+        },
+        {
+          "id": 38,
+          "label": "第6—10年盈利年增长 · 较强恢复",
+          "reported_value": 4.0,
+          "unit": "%",
+          "raw_text": "| 第6—10年盈利年增长 | 0% | 2% | 4% |",
+          "line_number": 114,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#38"
+        },
+        {
+          "id": 39,
+          "label": "前十年经营自由现金流转换率 · 压力",
+          "reported_value": 70.0,
+          "unit": "%",
+          "raw_text": "| 前十年经营自由现金流转换率 | 70% | 80% | 85% |",
+          "line_number": 115,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#39"
+        },
+        {
+          "id": 40,
+          "label": "前十年经营自由现金流转换率 · 恢复",
+          "reported_value": 80.0,
+          "unit": "%",
+          "raw_text": "| 前十年经营自由现金流转换率 | 70% | 80% | 85% |",
+          "line_number": 115,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#40"
+        },
+        {
+          "id": 41,
+          "label": "前十年经营自由现金流转换率 · 较强恢复",
+          "reported_value": 85.0,
+          "unit": "%",
+          "raw_text": "| 前十年经营自由现金流转换率 | 70% | 80% | 85% |",
+          "line_number": 115,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#41"
+        },
+        {
+          "id": 42,
+          "label": "第十年之后永续增长 · 恢复",
+          "reported_value": 1.0,
+          "unit": "%",
+          "raw_text": "| 第十年之后永续增长 | 0% | 1% | 2% |",
+          "line_number": 116,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#42"
+        },
+        {
+          "id": 43,
+          "label": "第十年之后永续增长 · 较强恢复",
+          "reported_value": 2.0,
+          "unit": "%",
+          "raw_text": "| 第十年之后永续增长 | 0% | 1% | 2% |",
+          "line_number": 116,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#43"
+        },
+        {
+          "id": 44,
+          "label": "稳态新增投入资本回报 · 压力",
+          "reported_value": 15.0,
+          "unit": "%",
+          "raw_text": "| 稳态新增投入资本回报 | 15% | 15% | 15% |",
+          "line_number": 117,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#44"
+        },
+        {
+          "id": 45,
+          "label": "稳态新增投入资本回报 · 恢复",
+          "reported_value": 15.0,
+          "unit": "%",
+          "raw_text": "| 稳态新增投入资本回报 | 15% | 15% | 15% |",
+          "line_number": 117,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#45"
+        },
+        {
+          "id": 46,
+          "label": "稳态新增投入资本回报 · 较强恢复",
+          "reported_value": 15.0,
+          "unit": "%",
+          "raw_text": "| 稳态新增投入资本回报 | 15% | 15% | 15% |",
+          "line_number": 117,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#46"
+        },
+        {
+          "id": 47,
+          "label": "净财务资产现值A · 压力",
+          "reported_value": 100.0,
+          "unit": "亿元",
+          "raw_text": "| 净财务资产现值A | 100亿元 | 150亿元 | 180亿元 |",
+          "line_number": 118,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#47"
+        },
+        {
+          "id": 48,
+          "label": "净财务资产现值A · 恢复",
+          "reported_value": 150.0,
+          "unit": "亿元",
+          "raw_text": "| 净财务资产现值A | 100亿元 | 150亿元 | 180亿元 |",
+          "line_number": 118,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#48"
+        },
+        {
+          "id": 49,
+          "label": "净财务资产现值A · 较强恢复",
+          "reported_value": 180.0,
+          "unit": "亿元",
+          "raw_text": "| 净财务资产现值A | 100亿元 | 150亿元 | 180亿元 |",
+          "line_number": 118,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#49"
+        },
+        {
+          "id": 50,
+          "label": "经营价值现值 · 压力",
+          "reported_value": 49.4,
+          "unit": "亿元",
+          "raw_text": "| 经营价值现值 | 49.40亿元 | 269.65亿元 | 499.70亿元 |",
+          "line_number": 150,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#50"
+        },
+        {
+          "id": 51,
+          "label": "经营价值现值 · 恢复",
+          "reported_value": 269.65,
+          "unit": "亿元",
+          "raw_text": "| 经营价值现值 | 49.40亿元 | 269.65亿元 | 499.70亿元 |",
+          "line_number": 150,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#51"
+        },
+        {
+          "id": 52,
+          "label": "经营价值现值 · 较强恢复",
+          "reported_value": 499.7,
+          "unit": "亿元",
+          "raw_text": "| 经营价值现值 | 49.40亿元 | 269.65亿元 | 499.70亿元 |",
+          "line_number": 150,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#52"
+        },
+        {
+          "id": 53,
+          "label": "全部权益条件价值 · 压力",
+          "reported_value": 149.4,
+          "unit": "亿元",
+          "raw_text": "| 全部权益条件价值 | 149.40亿元 | 419.65亿元 | 679.70亿元 |",
+          "line_number": 152,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#53"
+        },
+        {
+          "id": 54,
+          "label": "全部权益条件价值 · 恢复",
+          "reported_value": 419.65,
+          "unit": "亿元",
+          "raw_text": "| 全部权益条件价值 | 149.40亿元 | 419.65亿元 | 679.70亿元 |",
+          "line_number": 152,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#54"
+        },
+        {
+          "id": 55,
+          "label": "全部权益条件价值 · 较强恢复",
+          "reported_value": 679.7,
+          "unit": "亿元",
+          "raw_text": "| 全部权益条件价值 | 149.40亿元 | 419.65亿元 | 679.70亿元 |",
+          "line_number": 152,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#55"
+        },
+        {
+          "id": 56,
+          "label": "每股条件价值 · 压力",
+          "reported_value": 9.92,
+          "unit": "",
+          "raw_text": "| 每股条件价值 | 9.92元 | 27.86元 | 45.12元 |",
+          "line_number": 153,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#56"
+        },
+        {
+          "id": 57,
+          "label": "每股条件价值 · 恢复",
+          "reported_value": 27.86,
+          "unit": "",
+          "raw_text": "| 每股条件价值 | 9.92元 | 27.86元 | 45.12元 |",
+          "line_number": 153,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#57"
+        },
+        {
+          "id": 58,
+          "label": "每股条件价值 · 较强恢复",
+          "reported_value": 45.12,
+          "unit": "",
+          "raw_text": "| 每股条件价值 | 9.92元 | 27.86元 | 45.12元 |",
+          "line_number": 153,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#58"
+        },
+        {
+          "id": 59,
+          "label": "终值占经营价值比重 · 压力",
+          "reported_value": 70.32,
+          "unit": "%",
+          "raw_text": "| 终值占经营价值比重 | 70.32% | 61.30% | 63.14% |",
+          "line_number": 154,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#59"
+        },
+        {
+          "id": 60,
+          "label": "终值占经营价值比重 · 恢复",
+          "reported_value": 61.3,
+          "unit": "%",
+          "raw_text": "| 终值占经营价值比重 | 70.32% | 61.30% | 63.14% |",
+          "line_number": 154,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#60"
+        },
+        {
+          "id": 61,
+          "label": "终值占经营价值比重 · 较强恢复",
+          "reported_value": 63.14,
+          "unit": "%",
+          "raw_text": "| 终值占经营价值比重 | 70.32% | 61.30% | 63.14% |",
+          "line_number": 154,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#61"
+        },
+        {
+          "id": 62,
+          "label": "终值现金转换率不提高时 · 压力",
+          "reported_value": 9.23,
+          "unit": "",
+          "raw_text": "| 终值现金转换率不提高时 | 9.23元 | 26.29元 | 44.72元 |",
+          "line_number": 155,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#62"
+        },
+        {
+          "id": 63,
+          "label": "终值现金转换率不提高时 · 恢复",
+          "reported_value": 26.29,
+          "unit": "",
+          "raw_text": "| 终值现金转换率不提高时 | 9.23元 | 26.29元 | 44.72元 |",
+          "line_number": 155,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#63"
+        },
+        {
+          "id": 64,
+          "label": "终值现金转换率不提高时 · 较强恢复",
+          "reported_value": 44.72,
+          "unit": "",
+          "raw_text": "| 终值现金转换率不提高时 | 9.23元 | 26.29元 | 44.72元 |",
+          "line_number": 155,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#64"
+        },
+        {
+          "id": 65,
+          "label": "r=6% · 压力情景每股值",
+          "reported_value": 11.47,
+          "unit": "",
+          "raw_text": "| r=6% | 11.47元 | 36.20元 | 63.46元 | 较强恢复的分母仅4个百分点，不作合格基准估值 |",
+          "line_number": 177,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#65"
+        },
+        {
+          "id": 66,
+          "label": "r=6% · 恢复情景每股值",
+          "reported_value": 36.2,
+          "unit": "",
+          "raw_text": "| r=6% | 11.47元 | 36.20元 | 63.46元 | 较强恢复的分母仅4个百分点，不作合格基准估值 |",
+          "line_number": 177,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#66"
+        },
+        {
+          "id": 67,
+          "label": "r=6% · 较强恢复每股值",
+          "reported_value": 63.46,
+          "unit": "",
+          "raw_text": "| r=6% | 11.47元 | 36.20元 | 63.46元 | 较强恢复的分母仅4个百分点，不作合格基准估值 |",
+          "line_number": 177,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#67"
+        },
+        {
+          "id": 68,
+          "label": "r=6% · 使用边界",
+          "reported_value": 4.0,
+          "unit": "",
+          "raw_text": "| r=6% | 11.47元 | 36.20元 | 63.46元 | 较强恢复的分母仅4个百分点，不作合格基准估值 |",
+          "line_number": 177,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#68"
+        },
+        {
+          "id": 69,
+          "label": "r=7% · 压力情景每股值",
+          "reported_value": 10.58,
+          "unit": "",
+          "raw_text": "| r=7% | 10.58元 | 31.32元 | 52.44元 | 在本系列人民币标准区间内，分母约束满足 |",
+          "line_number": 178,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#69"
+        },
+        {
+          "id": 70,
+          "label": "r=7% · 恢复情景每股值",
+          "reported_value": 31.32,
+          "unit": "",
+          "raw_text": "| r=7% | 10.58元 | 31.32元 | 52.44元 | 在本系列人民币标准区间内，分母约束满足 |",
+          "line_number": 178,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#70"
+        },
+        {
+          "id": 71,
+          "label": "r=7% · 较强恢复每股值",
+          "reported_value": 52.44,
+          "unit": "",
+          "raw_text": "| r=7% | 10.58元 | 31.32元 | 52.44元 | 在本系列人民币标准区间内，分母约束满足 |",
+          "line_number": 178,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#71"
+        },
+        {
+          "id": 72,
+          "label": "r=8% · 压力情景每股值",
+          "reported_value": 9.92,
+          "unit": "",
+          "raw_text": "| r=8% | 9.92元 | 27.86元 | 45.12元 | 本系列主参数 |",
+          "line_number": 179,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#72"
+        },
+        {
+          "id": 73,
+          "label": "r=8% · 恢复情景每股值",
+          "reported_value": 27.86,
+          "unit": "",
+          "raw_text": "| r=8% | 9.92元 | 27.86元 | 45.12元 | 本系列主参数 |",
+          "line_number": 179,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#73"
+        },
+        {
+          "id": 74,
+          "label": "r=8% · 较强恢复每股值",
+          "reported_value": 45.12,
+          "unit": "",
+          "raw_text": "| r=8% | 9.92元 | 27.86元 | 45.12元 | 本系列主参数 |",
+          "line_number": 179,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#74"
+        },
+        {
+          "id": 75,
+          "label": "r=9% · 压力情景每股值",
+          "reported_value": 9.41,
+          "unit": "",
+          "raw_text": "| r=9% | 9.41元 | 25.28元 | 39.92元 | 在标准区间内，需接受更高回报要求 |",
+          "line_number": 180,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#75"
+        },
+        {
+          "id": 76,
+          "label": "r=9% · 恢复情景每股值",
+          "reported_value": 25.28,
+          "unit": "",
+          "raw_text": "| r=9% | 9.41元 | 25.28元 | 39.92元 | 在标准区间内，需接受更高回报要求 |",
+          "line_number": 180,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#76"
+        },
+        {
+          "id": 77,
+          "label": "r=9% · 较强恢复每股值",
+          "reported_value": 39.92,
+          "unit": "",
+          "raw_text": "| r=9% | 9.41元 | 25.28元 | 39.92元 | 在标准区间内，需接受更高回报要求 |",
+          "line_number": 180,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#77"
+        },
+        {
+          "id": 78,
+          "label": "r=10% · 压力情景每股值",
+          "reported_value": 9.02,
+          "unit": "",
+          "raw_text": "| r=10% | 9.02元 | 23.30元 | 36.04元 | 超出项目人民币标准区间，仅作参考 |",
+          "line_number": 181,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#78"
+        },
+        {
+          "id": 79,
+          "label": "r=10% · 恢复情景每股值",
+          "reported_value": 23.3,
+          "unit": "",
+          "raw_text": "| r=10% | 9.02元 | 23.30元 | 36.04元 | 超出项目人民币标准区间，仅作参考 |",
+          "line_number": 181,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#79"
+        },
+        {
+          "id": 80,
+          "label": "r=10% · 较强恢复每股值",
+          "reported_value": 36.04,
+          "unit": "",
+          "raw_text": "| r=10% | 9.02元 | 23.30元 | 36.04元 | 超出项目人民币标准区间，仅作参考 |",
+          "line_number": 181,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#80"
+        },
+        {
+          "id": 81,
+          "label": "现在 · 今天的金额现值",
+          "reported_value": 150.0,
+          "unit": "亿元",
+          "raw_text": "| 现在 | 150.00亿元 | 9.96元 |",
+          "line_number": 195,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#81"
+        },
+        {
+          "id": 82,
+          "label": "现在 · 对应每股现值",
+          "reported_value": 9.96,
+          "unit": "",
+          "raw_text": "| 现在 | 150.00亿元 | 9.96元 |",
+          "line_number": 195,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#82"
+        },
+        {
+          "id": 83,
+          "label": "第5年末 · 今天的金额现值",
+          "reported_value": 102.09,
+          "unit": "亿元",
+          "raw_text": "| 第5年末 | 102.09亿元 | 6.78元 |",
+          "line_number": 196,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#83"
+        },
+        {
+          "id": 84,
+          "label": "第5年末 · 对应每股现值",
+          "reported_value": 6.78,
+          "unit": "",
+          "raw_text": "| 第5年末 | 102.09亿元 | 6.78元 |",
+          "line_number": 196,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#84"
+        },
+        {
+          "id": 85,
+          "label": "第10年末 · 今天的金额现值",
+          "reported_value": 69.48,
+          "unit": "亿元",
+          "raw_text": "| 第10年末 | 69.48亿元 | 4.61元 |",
+          "line_number": 197,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#85"
+        },
+        {
+          "id": 86,
+          "label": "第10年末 · 对应每股现值",
+          "reported_value": 4.61,
+          "unit": "",
+          "raw_text": "| 第10年末 | 69.48亿元 | 4.61元 |",
+          "line_number": 197,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#86"
+        },
+        {
+          "id": 87,
+          "label": "压力路径 · 三年含息IRR",
+          "reported_value": -47.7,
+          "unit": "%",
+          "raw_text": "| 压力路径 | -47.70% | -13.31% | 5.58元 |",
+          "line_number": 215,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#87"
+        },
+        {
+          "id": 88,
+          "label": "压力路径 · 十年含息IRR（退出估值r=8%）",
+          "reported_value": -13.31,
+          "unit": "%",
+          "raw_text": "| 压力路径 | -47.70% | -13.31% | 5.58元 |",
+          "line_number": 215,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#88"
+        },
+        {
+          "id": 89,
+          "label": "压力路径 · 十年现金流按8%折现的每股值",
+          "reported_value": 5.58,
+          "unit": "",
+          "raw_text": "| 压力路径 | -47.70% | -13.31% | 5.58元 |",
+          "line_number": 215,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#89"
+        },
+        {
+          "id": 90,
+          "label": "中等恢复路径 · 三年含息IRR",
+          "reported_value": -20.35,
+          "unit": "%",
+          "raw_text": "| 中等恢复路径 | -20.35% | -2.59% | 15.50元 |",
+          "line_number": 216,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#90"
+        },
+        {
+          "id": 91,
+          "label": "中等恢复路径 · 十年含息IRR（退出估值r=8%）",
+          "reported_value": -2.59,
+          "unit": "%",
+          "raw_text": "| 中等恢复路径 | -20.35% | -2.59% | 15.50元 |",
+          "line_number": 216,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#91"
+        },
+        {
+          "id": 92,
+          "label": "中等恢复路径 · 十年现金流按8%折现的每股值",
+          "reported_value": 15.5,
+          "unit": "",
+          "raw_text": "| 中等恢复路径 | -20.35% | -2.59% | 15.50元 |",
+          "line_number": 216,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#92"
+        },
+        {
+          "id": 93,
+          "label": "较强恢复路径 · 三年含息IRR",
+          "reported_value": -0.61,
+          "unit": "%",
+          "raw_text": "| 较强恢复路径 | -0.61% | +5.40% | 30.27元 |",
+          "line_number": 217,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#93"
+        },
+        {
+          "id": 94,
+          "label": "较强恢复路径 · 十年含息IRR（退出估值r=8%）",
+          "reported_value": 5.4,
+          "unit": "%",
+          "raw_text": "| 较强恢复路径 | -0.61% | +5.40% | 30.27元 |",
+          "line_number": 217,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#94"
+        },
+        {
+          "id": 95,
+          "label": "较强恢复路径 · 十年现金流按8%折现的每股值",
+          "reported_value": 30.27,
+          "unit": "",
+          "raw_text": "| 较强恢复路径 | -0.61% | +5.40% | 30.27元 |",
+          "line_number": 217,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#95"
+        },
+        {
+          "id": 96,
+          "label": "国信证券 · 2026年归母利润预测",
+          "reported_value": 30.94,
+          "unit": "亿元",
+          "raw_text": "| 国信证券 | 30.94亿元 | 中性 | 2026年4月材料 |",
+          "line_number": 235,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#96"
+        },
+        {
+          "id": 98,
+          "label": "国金证券 · 2026年归母利润预测",
+          "reported_value": 18.45,
+          "unit": "亿元",
+          "raw_text": "| 国金证券 | 18.45亿元 | 买入 | 2026年4月材料 |",
+          "line_number": 236,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#98"
+        },
+        {
+          "id": 100,
+          "label": "海通国际 · 2026年归母利润预测",
+          "reported_value": 47.07,
+          "unit": "亿元",
+          "raw_text": "| 海通国际 | 47.07亿元 | 优于大市 | 2025年11月材料 |",
+          "line_number": 237,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#100"
+        },
+        {
+          "id": 102,
+          "label": "接近约45元而经营假设没有同步改善 · 不能机械执行的动作",
+          "reported_value": 45.0,
+          "unit": "",
+          "raw_text": "| 接近约45元而经营假设没有同步改善 | 较强恢复情景的空间已较多反映，需要比较机会成本 | 不把45元设成脱离经营的固定卖出线 |",
+          "line_number": 292,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#102"
+        }
+      ],
+      "sample": [
+        {
+          "id": 23,
+          "label": "压力 · 第1年",
+          "reported_value": -3.0,
+          "unit": "",
+          "raw_text": "| 压力 | -3 | 0 | 2 | 4 | 6 |",
+          "line_number": 108,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#23"
+        },
+        {
+          "id": 24,
+          "label": "压力 · 第3年",
+          "reported_value": 2.0,
+          "unit": "",
+          "raw_text": "| 压力 | -3 | 0 | 2 | 4 | 6 |",
+          "line_number": 108,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#24"
+        },
+        {
+          "id": 30,
+          "label": "恢复 · 第4年",
+          "reported_value": 20.0,
+          "unit": "",
+          "raw_text": "| 恢复 | 8 | 12 | 16 | 20 | 24 |",
+          "line_number": 109,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#30"
+        },
+        {
+          "id": 39,
+          "label": "前十年经营自由现金流转换率 · 压力",
+          "reported_value": 70.0,
+          "unit": "%",
+          "raw_text": "| 前十年经营自由现金流转换率 | 70% | 80% | 85% |",
+          "line_number": 115,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#39"
+        },
+        {
+          "id": 41,
+          "label": "前十年经营自由现金流转换率 · 较强恢复",
+          "reported_value": 85.0,
+          "unit": "%",
+          "raw_text": "| 前十年经营自由现金流转换率 | 70% | 80% | 85% |",
+          "line_number": 115,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#41"
+        },
+        {
+          "id": 42,
+          "label": "第十年之后永续增长 · 恢复",
+          "reported_value": 1.0,
+          "unit": "%",
+          "raw_text": "| 第十年之后永续增长 | 0% | 1% | 2% |",
+          "line_number": 116,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#42"
+        },
+        {
+          "id": 48,
+          "label": "净财务资产现值A · 恢复",
+          "reported_value": 150.0,
+          "unit": "亿元",
+          "raw_text": "| 净财务资产现值A | 100亿元 | 150亿元 | 180亿元 |",
+          "line_number": 118,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#48"
+        },
+        {
+          "id": 61,
+          "label": "终值占经营价值比重 · 较强恢复",
+          "reported_value": 63.14,
+          "unit": "%",
+          "raw_text": "| 终值占经营价值比重 | 70.32% | 61.30% | 63.14% |",
+          "line_number": 154,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#61"
+        },
+        {
+          "id": 72,
+          "label": "r=8% · 压力情景每股值",
+          "reported_value": 9.92,
+          "unit": "",
+          "raw_text": "| r=8% | 9.92元 | 27.86元 | 45.12元 | 本系列主参数 |",
+          "line_number": 179,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#72"
+        },
+        {
+          "id": 73,
+          "label": "r=8% · 恢复情景每股值",
+          "reported_value": 27.86,
+          "unit": "",
+          "raw_text": "| r=8% | 9.92元 | 27.86元 | 45.12元 | 本系列主参数 |",
+          "line_number": 179,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#73"
+        },
+        {
+          "id": 83,
+          "label": "第5年末 · 今天的金额现值",
+          "reported_value": 102.09,
+          "unit": "亿元",
+          "raw_text": "| 第5年末 | 102.09亿元 | 6.78元 |",
+          "line_number": 196,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#83"
+        },
+        {
+          "id": 85,
+          "label": "第10年末 · 今天的金额现值",
+          "reported_value": 69.48,
+          "unit": "亿元",
+          "raw_text": "| 第10年末 | 69.48亿元 | 4.61元 |",
+          "line_number": 197,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#85"
+        },
+        {
+          "id": 92,
+          "label": "中等恢复路径 · 十年现金流按8%折现的每股值",
+          "reported_value": 15.5,
+          "unit": "",
+          "raw_text": "| 中等恢复路径 | -20.35% | -2.59% | 15.50元 |",
+          "line_number": 216,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#92"
+        },
+        {
+          "id": 93,
+          "label": "较强恢复路径 · 三年含息IRR",
+          "reported_value": -0.61,
+          "unit": "%",
+          "raw_text": "| 较强恢复路径 | -0.61% | +5.40% | 30.27元 |",
+          "line_number": 217,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#93"
+        },
+        {
+          "id": 94,
+          "label": "较强恢复路径 · 十年含息IRR（退出估值r=8%）",
+          "reported_value": 5.4,
+          "unit": "%",
+          "raw_text": "| 较强恢复路径 | -0.61% | +5.40% | 30.27元 |",
+          "line_number": 217,
+          "report": "03-何时才算修复，什么价格值得承担不确定性.md",
+          "key": "03-何时才算修复，什么价格值得承担不确定性.md#94"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "body_han_characters_total": 29515,
+  "articles": [
+    {
+      "file": "01-一年赚过百亿，为什么还要重新认识洋河.md",
+      "body_han_characters": 8986,
+      "file_han_characters": 9610,
+      "sha256": "9cbb686e4a166b1f713feb9f0a8f24eb516c0aa44e7d25cea2aa2bb714491f6f"
+    },
+    {
+      "file": "02-账上的现金和老酒，能给股东多少保护.md",
+      "body_han_characters": 9945,
+      "file_han_characters": 10606,
+      "sha256": "dd61dc92d8f3acf0cd5fba53402f90d51cb9105147fc7b19dc70910f3fc5739d"
+    },
+    {
+      "file": "03-何时才算修复，什么价格值得承担不确定性.md",
+      "body_han_characters": 10584,
+      "file_han_characters": 11133,
+      "sha256": "7ed3d26b4b7a65cf2d1a6dd462de641717bb313fb692b6c3fc0eeb42e015f59b"
+    }
+  ],
+  "links_and_privacy_patterns": "pass"
+}

@@ -1,7 +1,7 @@
 {
-  "count": 2514,
-  "published": 2299,
-  "drafts": 215,
+  "count": 2519,
+  "published": 2302,
+  "drafts": 217,
   "reports": [
     {
       "title": "抽检判决与范围",
@@ -23,6 +23,61 @@
       "type": "研究",
       "date": "2026-11-12",
       "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "公开来源与读取范围",
+      "path": "reports/洋河股份/《看懂洋河股份》/证据/sources.md",
+      "bucket": "公司",
+      "group": "洋河股份",
+      "series": "《看懂洋河股份》",
+      "type": "底稿",
+      "date": "2026-11-10",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "何时才算修复，什么价格值得承担不确定性？",
+      "path": "reports/洋河股份/《看懂洋河股份》/03-何时才算修复，什么价格值得承担不确定性.md",
+      "bucket": "公司",
+      "group": "洋河股份",
+      "series": "《看懂洋河股份》",
+      "type": "深度系列",
+      "date": "2026-11-10",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "账上的现金和老酒，能给股东多少保护？",
+      "path": "reports/洋河股份/《看懂洋河股份》/02-账上的现金和老酒，能给股东多少保护.md",
+      "bucket": "公司",
+      "group": "洋河股份",
+      "series": "《看懂洋河股份》",
+      "type": "深度系列",
+      "date": "2026-11-10",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "一年赚过百亿，为什么还要重新认识洋河？",
+      "path": "reports/洋河股份/《看懂洋河股份》/01-一年赚过百亿，为什么还要重新认识洋河.md",
+      "bucket": "公司",
+      "group": "洋河股份",
+      "series": "《看懂洋河股份》",
+      "type": "深度系列",
+      "date": "2026-11-10",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "《看懂洋河股份》系列说明",
+      "path": "reports/洋河股份/《看懂洋河股份》/00-系列说明.md",
+      "bucket": "公司",
+      "group": "洋河股份",
+      "series": "《看懂洋河股份》",
+      "type": "底稿",
+      "date": "2026-11-10",
+      "date_source": "正文",
       "ticker": ""
     },
     {

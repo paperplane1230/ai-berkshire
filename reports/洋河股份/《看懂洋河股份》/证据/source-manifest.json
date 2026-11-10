@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/002304.phtml",
+    "retrieved_at": "2026-11-10T20:23:38.105307+08:00",
+    "sha256": "8a6eddc69fe59ccd7a8a13c545b9dd3fb17db674b5ef40bf16386f8d2fb9bdda",
+    "bytes": 55337
+  },
+  {
+    "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_GBALANCE&sty=ALL&filter=(SECUCODE%3D%22002304.SZ%22)&p=1&ps=3&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "retrieved_at": "2026-11-10T20:38:06.790183+08:00",
+    "sha256": "1f97e3c7f5890f8e5e698bf25660d3dbacb681551d2ed73a6fa1210da12c8a75",
+    "bytes": 27902
+  },
+  {
+    "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22002304.SZ%22)&p=1&ps=40&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "retrieved_at": "2026-11-10T20:23:38.307048+08:00",
+    "sha256": "aab7064d83c5484d2a869d465160414b6af386ca4d104753f943f91ac2ae611b",
+    "bytes": 168177
+  },
+  {
+    "url": "https://qt.gtimg.cn/q=sz002304",
+    "retrieved_at": "2026-11-10T20:23:37.768980+08:00",
+    "sha256": "29f774b8d6f18e9e4cddcef1757692e97868ba82359780b7c1c6896784587314",
+    "bytes": 498
+  },
+  {
+    "url": "https://hq.sinajs.cn/list=sz002304",
+    "retrieved_at": "2026-11-10T20:23:37.894559+08:00",
+    "sha256": "4d9190e6e868bb4b906f84132ca118290a07e2887f39721a786ae5439993568a",
+    "bytes": 263
+  },
+  {
+    "repository_relative_path": "local/洋河深度系列-20261109/annual/annual-facts.json",
+    "sha256": "331c77d8697b5ab686ed224aa098c6b61818f01404bf4b3568db32a8b886b5ed",
+    "scope": "Public research inputs; older capture date remains in source file"
+  },
+  {
+    "repository_relative_path": "local/洋河深度系列-20261109/brokers/sources.json",
+    "sha256": "30cd33073b97b3f53dccd03198bb9b744ed54e3f49a593dd24cf2a8f54481b43",
+    "scope": "Public research inputs; older capture date remains in source file"
+  },
+  {
+    "repository_relative_path": "reports/洋河股份/research-20261106/inputs.json",
+    "sha256": "ba8c6e11305229eca70b9646117e56b591f2e64d3fd39a43916fa30e3d87a6d0",
+    "scope": "Public research inputs; older capture date remains in source file"
+  }
+]
