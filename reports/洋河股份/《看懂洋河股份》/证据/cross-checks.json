@@ -1,0 +1,494 @@
+[
+  {
+    "period": "2023",
+    "metric": "revenue",
+    "primary": "33126277551.51",
+    "secondary": "33126277551.51",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2023",
+    "metric": "profit",
+    "primary": "10015930040.27",
+    "secondary": "10015930040.27",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2023",
+    "metric": "core",
+    "primary": "9842844980.49",
+    "secondary": "9842844980.49",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2023",
+    "metric": "cfo",
+    "primary": "6130220867.96",
+    "secondary": "6130220867.96",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2024",
+    "metric": "revenue",
+    "primary": "28876296993.56",
+    "secondary": "28876296993.56",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2024",
+    "metric": "profit",
+    "primary": "6673388602.12",
+    "secondary": "6673388602.12",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2024",
+    "metric": "core",
+    "primary": "6835235643.35",
+    "secondary": "6835235643.35",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2024",
+    "metric": "cfo",
+    "primary": "4628711237.28",
+    "secondary": "4628711237.28",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025",
+    "metric": "revenue",
+    "primary": "19211057613.05",
+    "secondary": "19211057613.05",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025",
+    "metric": "profit",
+    "primary": "2206058926.68",
+    "secondary": "2206058926.68",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025",
+    "metric": "core",
+    "primary": "2134729412.30",
+    "secondary": "2134729412.3",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025",
+    "metric": "cfo",
+    "primary": "-763040326.79",
+    "secondary": "-763040326.79",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025H1",
+    "metric": "revenue",
+    "primary": "14795651340.14",
+    "secondary": "14795651340.14",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025H1",
+    "metric": "profit",
+    "primary": "4343649032.11",
+    "secondary": "4343649032.11",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025H1",
+    "metric": "core",
+    "primary": "4231577767.24",
+    "secondary": "4231577767.24",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025H1",
+    "metric": "cfo",
+    "primary": "616044153.37",
+    "secondary": "616044153.37",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026H1",
+    "metric": "revenue",
+    "primary": "10540431576.04",
+    "secondary": "10540431576.04",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026H1",
+    "metric": "profit",
+    "primary": "2601710694.52",
+    "secondary": "2601710694.52",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026H1",
+    "metric": "core",
+    "primary": "2449044826.83",
+    "secondary": "2449044826.83",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026H1",
+    "metric": "cfo",
+    "primary": "334794835.22",
+    "secondary": "334794835.22",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025YTD",
+    "metric": "revenue",
+    "primary": "18090155654.57",
+    "secondary": "18090155654.57",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025YTD",
+    "metric": "profit",
+    "primary": "3975002897.08",
+    "secondary": "3975002897.08",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025YTD",
+    "metric": "core",
+    "primary": "3756884161.73",
+    "secondary": "3756884161.73",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2025YTD",
+    "metric": "cfo",
+    "primary": "966239537.43",
+    "secondary": "966239537.43",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026YTD",
+    "metric": "revenue",
+    "primary": "11821851942.02",
+    "secondary": "11821851942.02",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026YTD",
+    "metric": "profit",
+    "primary": "1830804016.17",
+    "secondary": "1830804016.17",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026YTD",
+    "metric": "core",
+    "primary": "1797590974.89",
+    "secondary": "1797590974.89",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026YTD",
+    "metric": "cfo",
+    "primary": "115601710.47",
+    "secondary": "115601710.47",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2021",
+    "metric": "revenue",
+    "primary": "25350178204.45",
+    "secondary": "25350178204.45",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2021",
+    "metric": "profit",
+    "primary": "7507741599.03",
+    "secondary": "7507682797.4",
+    "exact": false,
+    "documented_restatement_difference": true,
+    "pass": true
+  },
+  {
+    "period": "2021",
+    "metric": "deducted_profit",
+    "primary": "7372817058.92",
+    "secondary": "7372817058.92",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2021",
+    "metric": "cfo",
+    "primary": "15318165480.53",
+    "secondary": "15318165480.53",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2022",
+    "metric": "revenue",
+    "primary": "30104896186.70",
+    "secondary": "30104896186.7",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2022",
+    "metric": "profit",
+    "primary": "9377865479.41",
+    "secondary": "9377865479.41",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2022",
+    "metric": "deducted_profit",
+    "primary": "9276677881.62",
+    "secondary": "9276677881.62",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2022",
+    "metric": "cfo",
+    "primary": "3647623952.19",
+    "secondary": "3647623952.19",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2023",
+    "metric": "revenue",
+    "primary": "33126277551.51",
+    "secondary": "33126277551.51",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2023",
+    "metric": "profit",
+    "primary": "10015930040.27",
+    "secondary": "10015930040.27",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2023",
+    "metric": "deducted_profit",
+    "primary": "9842844980.49",
+    "secondary": "9842844980.49",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2023",
+    "metric": "cfo",
+    "primary": "6130220867.96",
+    "secondary": "6130220867.96",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2024",
+    "metric": "revenue",
+    "primary": "28876296993.56",
+    "secondary": "28876296993.56",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2024",
+    "metric": "profit",
+    "primary": "6673388602.12",
+    "secondary": "6673388602.12",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2024",
+    "metric": "deducted_profit",
+    "primary": "6835235643.35",
+    "secondary": "6835235643.35",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2024",
+    "metric": "cfo",
+    "primary": "4628711237.28",
+    "secondary": "4628711237.28",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2025",
+    "metric": "revenue",
+    "primary": "19211057613.05",
+    "secondary": "19211057613.05",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2025",
+    "metric": "profit",
+    "primary": "2206058926.68",
+    "secondary": "2206058926.68",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2025",
+    "metric": "deducted_profit",
+    "primary": "2134729412.30",
+    "secondary": "2134729412.3",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2025",
+    "metric": "cfo",
+    "primary": "-763040326.79",
+    "secondary": "-763040326.79",
+    "exact": true,
+    "documented_restatement_difference": false,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "cash",
+    "primary": "9839808008.25",
+    "secondary": "9839808008.25",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "trading_financial_assets",
+    "primary": "8663041300.53",
+    "secondary": "8663041300.53",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "noncurrent_financial_assets",
+    "primary": "3333604368.59",
+    "secondary": "3333604368.59",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "long_equity_investments",
+    "primary": "1309324377.70",
+    "secondary": "1309324377.7",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "inventory",
+    "primary": "19997333687.94",
+    "secondary": "19997333687.94",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "contract_liabilities",
+    "primary": "4896460324.23",
+    "secondary": "4896460324.23",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "short_debt",
+    "primary": "4904030.71",
+    "secondary": "4904030.71",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "long_debt",
+    "primary": "145750000.00",
+    "secondary": "145750000",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "current_noncurrent_debt",
+    "primary": "27749198.41",
+    "secondary": "27749198.41",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "lease_liability",
+    "primary": "23256355.60",
+    "secondary": "23256355.6",
+    "exact": true,
+    "pass": true
+  },
+  {
+    "period": "2026Q3 balance",
+    "metric": "parent_equity",
+    "primary": "46408381698.81",
+    "secondary": "46408381698.81",
+    "exact": true,
+    "pass": true
+  }
+]

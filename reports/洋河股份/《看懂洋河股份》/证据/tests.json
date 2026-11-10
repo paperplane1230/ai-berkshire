@@ -1,0 +1,15 @@
+{
+  "two_quote_prices": true,
+  "quote_total_shares": true,
+  "59_cross_checks": true,
+  "58_exact_one_documented": true,
+  "cash_not_inventory": true,
+  "core_model_has_negative_first_year": true,
+  "quarter_profit_check": true,
+  "quarter_revenue_check": true,
+  "ttm_not_annualized": true,
+  "sotp_adds_only_net_A": true,
+  "whole_equity_exit_has_no_extra_asset": true,
+  "asset_delay_reduces_PV": true,
+  "no_terminal_conversion_improvement_reduces_value": true
+}

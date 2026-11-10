@@ -1,0 +1,21 @@
+test_asset_not_added_twice (__main__.Checks.test_asset_not_added_twice) ... ok
+test_contract_liability_split (__main__.Checks.test_contract_liability_split) ... ok
+test_delayed_assets_no_free_interest (__main__.Checks.test_delayed_assets_no_free_interest) ... ok
+test_discounted_core_cash_and_year11 (__main__.Checks.test_discounted_core_cash_and_year11) ... ok
+test_financial_asset_tiers (__main__.Checks.test_financial_asset_tiers) ... ok
+test_inventory_transcription (__main__.Checks.test_inventory_transcription) ... ok
+test_loss_year_not_softened_by_conversion_ratio (__main__.Checks.test_loss_year_not_softened_by_conversion_ratio) ... ok
+test_narrow_spread_and_out_of_band (__main__.Checks.test_narrow_spread_and_out_of_band) ... ok
+test_q3_difference (__main__.Checks.test_q3_difference) ... ok
+test_restatement_preserved (__main__.Checks.test_restatement_preserved) ... ok
+test_reverse_model_matches_price (__main__.Checks.test_reverse_model_matches_price) ... ok
+test_share_and_market_units (__main__.Checks.test_share_and_market_units) ... ok
+test_terminal_cash_conversion_sensitivity (__main__.Checks.test_terminal_cash_conversion_sensitivity) ... ok
+test_ttm_not_profit_growth_base (__main__.Checks.test_ttm_not_profit_growth_base) ... ok
+test_two_quote_prices_and_day (__main__.Checks.test_two_quote_prices_and_day) ... ok
+test_whole_equity_irr_residual (__main__.Checks.test_whole_equity_irr_residual) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.002s
+
+OK

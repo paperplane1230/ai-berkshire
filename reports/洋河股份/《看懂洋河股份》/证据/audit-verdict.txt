@@ -1,0 +1,71 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：看懂洋河股份三篇系列
+======================================================================
+
+  ✅ 通过 [19] 2021 · 经营现金流（亿元）                     报告:       153.18
+                                                    H23 p7 restated 2021; source-data.annual.2021.cfo: 153.18 (偏差 0.00%)  |  Fresh Eastmoney 2021 NETCASH_OPERATE_PK: 153.18 (偏差 0.00%)
+  ✅ 通过 [27] 2023 · 营业收入（亿元）                      报告:       331.26
+                                                    S3 p8-p9 annual comparison 2023; source-data.annual.2023.revenue: 331.26 (偏差 0.00%)  |  Fresh Eastmoney 2023 TOTALOPERATEREVE: 331.26 (偏差 0.00%)
+  ✅ 通过 [29] 2023 · 经营现金流（亿元）                     报告:        61.30
+                                                    S3 p8-p9 annual comparison 2023; source-data.annual.2023.cfo: 61.30 (偏差 0.00%)  |  Fresh Eastmoney 2023 NETCASH_OPERATE_PK: 61.30 (偏差 0.00%)
+  ✅ 通过 [31] 2023 · 销售费率                          报告:        16.26 %
+                                                    H23 income/expense table: selling expense divided by same-year revenue; Decimal recomputation: 16.26 (偏差 0.01%)
+  ✅ 通过 [38] 2025 · 归母利润（亿元）                      报告:        22.06
+                                                    S3 p8-p9 annual comparison 2025; source-data.annual.2025.profit: 22.06 (偏差 0.00%)  |  Fresh Eastmoney 2025 PARENTNETPROFIT: 22.06 (偏差 0.00%)
+  ✅ 通过 [40] 2025 · 合并毛利率                         报告:        71.60 %
+                                                    S3 revenue and cost; Decimal (1-cost/revenue)*100: 71.60 (偏差 0.00%)  |  Eastmoney XSMLL, same fiscal year: 71.60 (偏差 0.00%)
+  ✅ 通过 [28] 2021 · 经营现金流（亿元）                     报告:       153.18
+                                                    H23 p7 restated 2021; source-data.annual.2021.cfo: 153.18 (偏差 0.00%)  |  Fresh Eastmoney 2021 NETCASH_OPERATE_PK: 153.18 (偏差 0.00%)
+  ✅ 通过 [39] 2024 · 归母利润（亿元）                      报告:        66.73
+                                                    S3 p8-p9 annual comparison 2024; source-data.annual.2024.profit: 66.73 (偏差 0.01%)  |  Fresh Eastmoney 2024 PARENTNETPROFIT: 66.73 (偏差 0.01%)
+  ✅ 通过 [45] 2025 · 购建长期资产支出（亿元）                  报告:         6.78
+                                                    S3 annual report cash-flow/balance/dividend section; source-data.annual.2025.capex: 6.78 (偏差 0.07%)
+  ✅ 通过 [50] 2022 · 合并存货账面值（亿元）                   报告:       177.29
+                                                    H22 annual report cash-flow/balance/dividend section; source-data.annual.2022.inventory: 177.29 (偏差 0.00%)
+  ✅ 通过 [54] 2023 · 成品酒库存（吨，含红酒）                  报告:     39875.47
+                                                    H23 annual report p10-p12 operating inventory; source-data.annual.2023.finished_alcohol_tonnes: 39875.47 (偏差 0.00%)
+  ✅ 通过 [55] 2023 · 半成品酒（吨，含基础酒）                  报告:    650766.36
+                                                    H23 annual report p10-p12 operating inventory; source-data.annual.2023.semifinished_including_base_tonnes: 650766.36 (偏差 0.00%)
+  ✅ 通过 [12] 新规划D1 · 不能推出什么                       报告:        70.00 亿元
+                                                    D0 2024-2026 plan specified RMB7bn; D1 2025-2027 text has 100% profit ratio and no RMB7bn floor. Checked the NEGATED context: this is not a D1 promise.: 70.00 (偏差 0.00%)
+  ✅ 通过 [62] 2021 · 每股税前分红                        报告:         3.00
+                                                    H21 annual report cash-flow/balance/dividend section; source-data.annual.2021.fiscal_dividend_per_share: 3.00 (偏差 0.00%)
+  ✅ 通过 [64] 2023 · 每股税前分红                        报告:         4.66
+                                                    H23 annual report cash-flow/balance/dividend section; source-data.annual.2023.fiscal_dividend_per_share: 4.66 (偏差 0.00%)
+  ✅ 通过 [23] 压力 · 第1年                             报告:        -3.00
+                                                    source-data.core_dcf_scenarios.stress.first5_profit_yi[0]; research input, not a financial disclosure: -3.00 (偏差 0.00%)
+  ✅ 通过 [24] 压力 · 第3年                             报告:         2.00
+                                                    source-data.core_dcf_scenarios.stress.first5_profit_yi[2]; research input, not a financial disclosure: 2.00 (偏差 0.00%)
+  ✅ 通过 [30] 恢复 · 第4年                             报告:        20.00
+                                                    source-data.core_dcf_scenarios.recovery.first5_profit_yi[3]; research input, not a financial disclosure: 20.00 (偏差 0.00%)
+  ✅ 通过 [39] 前十年经营自由现金流转换率 · 压力                   报告:        70.00 %
+                                                    source-data.core_dcf_scenarios.stress.cash_conversion; explicit research input, no external verification claimed: 70.00 (偏差 0.00%)
+  ✅ 通过 [41] 前十年经营自由现金流转换率 · 较强恢复                 报告:        85.00 %
+                                                    source-data.core_dcf_scenarios.strong.cash_conversion; explicit research input, no external verification claimed: 85.00 (偏差 0.00%)
+  ✅ 通过 [42] 第十年之后永续增长 · 恢复                       报告:         1.00 %
+                                                    source-data.core_dcf_scenarios.recovery.g; explicit research input, no external verification claimed: 1.00 (偏差 0.00%)
+  ✅ 通过 [48] 净财务资产现值A · 恢复                        报告:       150.00 亿元
+                                                    source-data.core_dcf_scenarios.recovery.net_financial_asset_yi; explicit research input, no external verification claimed: 150.00 (偏差 0.00%)
+  ✅ 通过 [61] 终值占经营价值比重 · 较强恢复                     报告:        63.14 %
+                                                    results.core_dcf.strong.r8: discounted year11 perpetuity / operating present value; independently tested formula: 63.14 (偏差 0.00%)
+  ✅ 通过 [72] r=8% · 压力情景每股值                       报告:         9.92
+                                                    results.core_dcf.stress.r8.value_per_share = (operating PV + net A)/shares: 9.92 (偏差 0.02%)
+  ✅ 通过 [73] r=8% · 恢复情景每股值                       报告:        27.86
+                                                    results.core_dcf.recovery.r8.value_per_share = (operating PV + net A)/shares: 27.86 (偏差 0.01%)
+  ✅ 通过 [83] 第5年末 · 今天的金额现值                       报告:       102.09 亿元
+                                                    Independent Decimal: future RMB15bn / 1.08^5. No intervening financial income; not re-discounting the main model A.: 102.09 (偏差 0.00%)
+  ✅ 通过 [85] 第10年末 · 今天的金额现值                      报告:        69.48 亿元
+                                                    Independent Decimal: future RMB15bn / 1.08^10. No intervening financial income; not re-discounting the main model A.: 69.48 (偏差 0.00%)
+  ✅ 通过 [92] 中等恢复路径 · 十年现金流按8%折现的每股值              报告:        15.50
+                                                    results.whole_equity.recovery: explicit annual dividends + ex-dividend terminal price, no additional A. Independent NPV residual tests pass.: 15.50 (偏差 0.03%)
+  ✅ 通过 [93] 较强恢复路径 · 三年含息IRR                     报告:        -0.61 %
+                                                    results.whole_equity.strong: explicit annual dividends + ex-dividend terminal price, no additional A. Independent NPV residual tests pass.: -0.61 (偏差 0.77%)
+  ✅ 通过 [94] 较强恢复路径 · 十年含息IRR（退出估值r=8%）           报告:         5.40 %
+                                                    results.whole_equity.strong: explicit annual dividends + ex-dividend terminal price, no additional A. Independent NPV residual tests pass.: 5.40 (偏差 0.04%)
+
+----------------------------------------------------------------------
+  抽检总数: 30  |  通过: 30  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
