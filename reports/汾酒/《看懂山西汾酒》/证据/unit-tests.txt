@@ -1,0 +1,23 @@
+test_alcohol_not_consolidated_revenue (__main__.Check.test_alcohol_not_consolidated_revenue) ... ok
+test_dividend_fiscal_year_and_date (__main__.Check.test_dividend_fiscal_year_and_date) ... ok
+test_future_dividend_not_paid_history (__main__.Check.test_future_dividend_not_paid_history) ... ok
+test_irr_and_pv_independent_identity (__main__.Check.test_irr_and_pv_independent_identity) ... ok
+test_leases_not_ignored (__main__.Check.test_leases_not_ignored) ... ok
+test_outside_difference (__main__.Check.test_outside_difference) ... ok
+test_policy_terminal_lower_and_different_decision (__main__.Check.test_policy_terminal_lower_and_different_decision) ... ok
+test_quarter_province_difference (__main__.Check.test_quarter_province_difference) ... ok
+test_quote_day_is_last_trading_day (__main__.Check.test_quote_day_is_last_trading_day) ... ok
+test_quote_units_and_shares (__main__.Check.test_quote_units_and_shares) ... ok
+test_rate_validity (__main__.Check.test_rate_validity) ... ok
+test_restatement_explicit (__main__.Check.test_restatement_explicit) ... ok
+test_retained_capital_parameter_is_assumption (__main__.Check.test_retained_capital_parameter_is_assumption) ... ok
+test_reverse_residual (__main__.Check.test_reverse_residual) ... ok
+test_terminal_forward_year11 (__main__.Check.test_terminal_forward_year11) ... ok
+test_terminal_policy_exact_gordon (__main__.Check.test_terminal_policy_exact_gordon) ... ok
+test_ttm_from_annual_and_cumulative (__main__.Check.test_ttm_from_annual_and_cumulative) ... ok
+test_ttm_quarter_sum (__main__.Check.test_ttm_quarter_sum) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.012s
+
+OK

@@ -1,0 +1,24 @@
+{
+  "body_han_characters_total": 29204,
+  "articles": [
+    {
+      "file": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+      "body_han_characters": 8629,
+      "total_han_characters": 9161,
+      "sha256": "aaa2b084301bca480fa4dfa7287e16d7f1e889513c2739c7b83e6cf2ff4d6ea1"
+    },
+    {
+      "file": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+      "body_han_characters": 9962,
+      "total_han_characters": 10490,
+      "sha256": "0f2070a3fb05fa5ed3e439d4b3cc608229922eb822e420a87c9761f5287f2cd9"
+    },
+    {
+      "file": "03-利润仍厚，买入门槛该怎么定.md",
+      "body_han_characters": 10613,
+      "total_han_characters": 11104,
+      "sha256": "12aa2d3086b3a8c2002322c9b585c13980b2c54f108d185d5c4bdc499aa7bc6d"
+    }
+  ],
+  "links_privacy_terms": "pass"
+}
