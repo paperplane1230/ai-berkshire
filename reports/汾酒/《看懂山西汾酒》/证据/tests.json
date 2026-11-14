@@ -1,0 +1,12 @@
+{
+  "57_comparisons_pass": true,
+  "correct_quote_day": true,
+  "debt_includes_lease": true,
+  "one_restatement_difference": true,
+  "policy_value_not_above_capacity": true,
+  "province_positive_outside_negative": true,
+  "regional_q3_sum": true,
+  "reverse_residual": true,
+  "shares_match_portal": true,
+  "two_prices_match": true
+}

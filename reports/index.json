@@ -1,8 +1,63 @@
 {
-  "count": 2519,
-  "published": 2302,
-  "drafts": 217,
+  "count": 2524,
+  "published": 2305,
+  "drafts": 219,
   "reports": [
+    {
+      "title": "来源卡与实际阅读范围",
+      "path": "reports/汾酒/《看懂山西汾酒》/证据/sources.md",
+      "bucket": "公司",
+      "group": "汾酒",
+      "series": "《看懂山西汾酒》",
+      "type": "底稿",
+      "date": "2026-11-14",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "利润仍厚，买入门槛该怎么定？",
+      "path": "reports/汾酒/《看懂山西汾酒》/03-利润仍厚，买入门槛该怎么定.md",
+      "bucket": "公司",
+      "group": "汾酒",
+      "series": "《看懂山西汾酒》",
+      "type": "深度系列",
+      "date": "2026-11-14",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "省内回暖，省外承压：全国化的钱花在哪里？",
+      "path": "reports/汾酒/《看懂山西汾酒》/02-省内回暖，省外承压，全国化的钱花在哪里.md",
+      "bucket": "公司",
+      "group": "汾酒",
+      "series": "《看懂山西汾酒》",
+      "type": "深度系列",
+      "date": "2026-11-14",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "从玻汾到青花：清香品牌如何跨越价格带？",
+      "path": "reports/汾酒/《看懂山西汾酒》/01-从玻汾到青花，清香品牌如何跨越价格带.md",
+      "bucket": "公司",
+      "group": "汾酒",
+      "series": "《看懂山西汾酒》",
+      "type": "深度系列",
+      "date": "2026-11-14",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "《看懂山西汾酒》系列说明",
+      "path": "reports/汾酒/《看懂山西汾酒》/00-系列说明.md",
+      "bucket": "公司",
+      "group": "汾酒",
+      "series": "《看懂山西汾酒》",
+      "type": "底稿",
+      "date": "2026-11-14",
+      "date_source": "正文",
+      "ticker": ""
+    },
     {
       "title": "抽检判决与范围",
       "path": "reports/英伟达/黄仁勋事件-20261112/audit/report-audit-summary.md",

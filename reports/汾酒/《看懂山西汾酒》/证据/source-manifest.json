@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/600809.phtml",
+    "retrieved_at": "2026-11-14T11:38:21.334013+08:00",
+    "sha256": "e776ea696cd7e72b973a00ad5285fc2ffb53a2ab51ddf35dced4a8b6721971a2",
+    "bytes": 55252
+  },
+  {
+    "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/600809/page_type/ndbg.phtml",
+    "retrieved_at": "2026-11-14T11:38:21.533486+08:00",
+    "sha256": "968ed989adee762cdb513ba86d667b03866b831137f80fc61eb854ac6f46ed96",
+    "bytes": 51526
+  },
+  {
+    "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_GBALANCE&sty=ALL&filter=(SECUCODE%3D%22600809.SH%22)&p=1&ps=3&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "retrieved_at": "2026-11-14T11:38:21.149981+08:00",
+    "sha256": "360b7063569159c40a8a31c8ab49f0fd0240582166ba67489e092524667999c1",
+    "bytes": 27807
+  },
+  {
+    "url": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22600809.SH%22)&p=1&ps=40&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "retrieved_at": "2026-11-14T11:38:20.957346+08:00",
+    "sha256": "f33a62bbe2546de8ee755b649bbc33d43e224afd800a4f01ba102cfdb6124485",
+    "bytes": 167521
+  },
+  {
+    "url": "https://qt.gtimg.cn/q=sh600809",
+    "retrieved_at": "2026-11-14T11:38:20.670013+08:00",
+    "sha256": "4382a1a95dbd0cf1af2085befe99528ba5df566a520f6aa48e12089b69a768b1",
+    "bytes": 525
+  },
+  {
+    "url": "https://hq.sinajs.cn/list=sh600809",
+    "retrieved_at": "2026-11-14T11:38:20.783665+08:00",
+    "sha256": "4d69d05f64708f0a2de687e23953af045798ad7dfabea9a1d2a077db69520098",
+    "bytes": 275
+  },
+  {
+    "repository_relative_path": "local/汾酒深度系列-20261114/annual/annual-facts.json",
+    "sha256": "7fe798f5ad5be75a332be6877ec5db6b6c11272020aadc02932c28fb1fa7085e",
+    "scope": "Public-data input; not proof of new acquisition of the older source"
+  },
+  {
+    "repository_relative_path": "local/汾酒深度系列-20261114/operating-quarter.json",
+    "sha256": "f36b511648faadeea4158883d1a113d628ee4358077e2fcfbf6087f1ce6c660c",
+    "scope": "Public-data input; not proof of new acquisition of the older source"
+  },
+  {
+    "repository_relative_path": "local/汾酒深度系列-20261114/brokers/sources.json",
+    "sha256": "c27e0a673670b04851cd978b92cdc0f3b06c7463afac09c7c79a5e9e487dfdb4",
+    "scope": "Public-data input; not proof of new acquisition of the older source"
+  },
+  {
+    "repository_relative_path": "reports/汾酒/research-20261107/inputs.json",
+    "sha256": "3c29c51a83ba008673fca48ab87fce2efd32271c6d8684f57783e31ed2b68ee3",
+    "scope": "Public-data input; not proof of new acquisition of the older source"
+  }
+]

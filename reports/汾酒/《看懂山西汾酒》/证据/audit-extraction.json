@@ -1,0 +1,2530 @@
+{
+  "seed": 20261114,
+  "ratio": 0.15,
+  "reports": [
+    {
+      "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+      "sha256": "aaa2b084301bca480fa4dfa7287e16d7f1e889513c2739c7b83e6cf2ff4d6ea1",
+      "raw_count": 18,
+      "supplement_count": 20,
+      "excluded": [
+        {
+          "id": 8,
+          "label": "全国化与现金 · 对应篇目",
+          "reported_value": 2.0,
+          "unit": "",
+          "raw_text": "| 全国化与现金 | 区域、费用、库存、供给与租赁，最后留下多少现金？ | [第02篇：省内回暖，省外承压，全国化的钱花在哪里？](02-省内回暖，省外承压，全国化的钱花在哪里.md) |",
+          "line_number": 231,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#8",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 9,
+          "label": "价格与重审 · 对应篇目",
+          "reported_value": 3.0,
+          "unit": "",
+          "raw_text": "| 价格与重审 | 利润、分红与恢复条件，对应什么买入门槛？ | [第03篇：利润仍厚，买入门槛该怎么定？](03-利润仍厚，买入门槛该怎么定.md) |",
+          "line_number": 232,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#9",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 10,
+          "label": "S1",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S1：2026年第三季度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672141)，主要指",
+          "line_number": 254,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#10",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 11,
+          "label": "S2",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S2：2026年半年度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574659)，业务模式",
+          "line_number": 255,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#11",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 12,
+          "label": "S3",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [S3：2025年年度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12153884)，第5—6页",
+          "line_number": 256,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#12",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 13,
+          "label": "H21",
+          "reported_value": 2021.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=8109878)，第",
+          "line_number": 257,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#13",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 14,
+          "label": "H22",
+          "reported_value": 2022.0,
+          "unit": "",
+          "raw_text": "- [H22：2022年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=9122352)，第",
+          "line_number": 258,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#14",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 15,
+          "label": "H23",
+          "reported_value": 2023.0,
+          "unit": "",
+          "raw_text": "- [H23：2023年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=10076138)，",
+          "line_number": 259,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#15",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 16,
+          "label": "H24",
+          "reported_value": 2024.0,
+          "unit": "",
+          "raw_text": "- [H24：2024年年度报告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=11070229)，",
+          "line_number": 260,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#16",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 17,
+          "label": "O1",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [O1：2026年上半年经营数据](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574673",
+          "line_number": 261,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#17",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 18,
+          "label": "stockid=600809&id=12574673)、[O2",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [O1：2026年上半年经营数据](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574673",
+          "line_number": 261,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#18",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        }
+      ],
+      "eligible": [
+        {
+          "id": 1,
+          "label": "2022—2024年报 · 研究时最容易混淆什么",
+          "reported_value": 130.0,
+          "unit": "",
+          "raw_text": "| 2022—2024年报 | 中高价酒类、其他酒类 | 每升130元及以上是公司分类，包含多个品牌与产品 |",
+          "line_number": 98,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#1"
+        },
+        {
+          "id": 2,
+          "label": "省内 · 2026年前三季同比",
+          "reported_value": -4.23,
+          "unit": "%",
+          "raw_text": "| 省内 | -4.23% | 26.0087 | +14.44% |",
+          "line_number": 157,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#2"
+        },
+        {
+          "id": 3,
+          "label": "省内 · 2026年单Q3收入（亿元）",
+          "reported_value": 26.0087,
+          "unit": "",
+          "raw_text": "| 省内 | -4.23% | 26.0087 | +14.44% |",
+          "line_number": 157,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#3"
+        },
+        {
+          "id": 4,
+          "label": "省内 · 单Q3同比",
+          "reported_value": 14.44,
+          "unit": "%",
+          "raw_text": "| 省内 | -4.23% | 26.0087 | +14.44% |",
+          "line_number": 157,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#4"
+        },
+        {
+          "id": 5,
+          "label": "省外 · 2026年前三季同比",
+          "reported_value": -18.91,
+          "unit": "%",
+          "raw_text": "| 省外 | -18.91% | 46.9136 | -29.67% |",
+          "line_number": 158,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#5"
+        },
+        {
+          "id": 6,
+          "label": "省外 · 2026年单Q3收入（亿元）",
+          "reported_value": 46.9136,
+          "unit": "",
+          "raw_text": "| 省外 | -18.91% | 46.9136 | -29.67% |",
+          "line_number": 158,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#6"
+        },
+        {
+          "id": 7,
+          "label": "省外 · 单Q3同比",
+          "reported_value": -29.67,
+          "unit": "%",
+          "raw_text": "| 省外 | -18.91% | 46.9136 | -29.67% |",
+          "line_number": 158,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#7"
+        },
+        {
+          "id": 19,
+          "label": "2021 · 营业收入（亿元）",
+          "reported_value": 199.71,
+          "unit": "",
+          "line_number": 113,
+          "raw_text": "| 2021 | 199.71 | 53.14 | 74.91% | 15.82% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#19"
+        },
+        {
+          "id": 20,
+          "label": "2021 · 归母利润（亿元）",
+          "reported_value": 53.14,
+          "unit": "",
+          "line_number": 113,
+          "raw_text": "| 2021 | 199.71 | 53.14 | 74.91% | 15.82% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#20"
+        },
+        {
+          "id": 21,
+          "label": "2021 · 合并毛利率",
+          "reported_value": 74.91,
+          "unit": "%",
+          "line_number": 113,
+          "raw_text": "| 2021 | 199.71 | 53.14 | 74.91% | 15.82% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#21"
+        },
+        {
+          "id": 22,
+          "label": "2021 · 销售费率",
+          "reported_value": 15.82,
+          "unit": "%",
+          "line_number": 113,
+          "raw_text": "| 2021 | 199.71 | 53.14 | 74.91% | 15.82% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#22"
+        },
+        {
+          "id": 23,
+          "label": "2022 · 营业收入（亿元）",
+          "reported_value": 262.14,
+          "unit": "",
+          "line_number": 114,
+          "raw_text": "| 2022 | 262.14 | 80.96 | 75.36% | 12.98% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#23"
+        },
+        {
+          "id": 24,
+          "label": "2022 · 归母利润（亿元）",
+          "reported_value": 80.96,
+          "unit": "",
+          "line_number": 114,
+          "raw_text": "| 2022 | 262.14 | 80.96 | 75.36% | 12.98% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#24"
+        },
+        {
+          "id": 25,
+          "label": "2022 · 合并毛利率",
+          "reported_value": 75.36,
+          "unit": "%",
+          "line_number": 114,
+          "raw_text": "| 2022 | 262.14 | 80.96 | 75.36% | 12.98% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#25"
+        },
+        {
+          "id": 26,
+          "label": "2022 · 销售费率",
+          "reported_value": 12.98,
+          "unit": "%",
+          "line_number": 114,
+          "raw_text": "| 2022 | 262.14 | 80.96 | 75.36% | 12.98% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#26"
+        },
+        {
+          "id": 27,
+          "label": "2023 · 营业收入（亿元）",
+          "reported_value": 319.28,
+          "unit": "",
+          "line_number": 115,
+          "raw_text": "| 2023 | 319.28 | 104.38 | 75.31% | 10.07% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#27"
+        },
+        {
+          "id": 28,
+          "label": "2023 · 归母利润（亿元）",
+          "reported_value": 104.38,
+          "unit": "",
+          "line_number": 115,
+          "raw_text": "| 2023 | 319.28 | 104.38 | 75.31% | 10.07% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#28"
+        },
+        {
+          "id": 29,
+          "label": "2023 · 合并毛利率",
+          "reported_value": 75.31,
+          "unit": "%",
+          "line_number": 115,
+          "raw_text": "| 2023 | 319.28 | 104.38 | 75.31% | 10.07% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#29"
+        },
+        {
+          "id": 30,
+          "label": "2023 · 销售费率",
+          "reported_value": 10.07,
+          "unit": "%",
+          "line_number": 115,
+          "raw_text": "| 2023 | 319.28 | 104.38 | 75.31% | 10.07% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#30"
+        },
+        {
+          "id": 31,
+          "label": "2024 · 营业收入（亿元）",
+          "reported_value": 360.11,
+          "unit": "",
+          "line_number": 116,
+          "raw_text": "| 2024 | 360.11 | 122.43 | 76.20% | 10.35% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#31"
+        },
+        {
+          "id": 32,
+          "label": "2024 · 归母利润（亿元）",
+          "reported_value": 122.43,
+          "unit": "",
+          "line_number": 116,
+          "raw_text": "| 2024 | 360.11 | 122.43 | 76.20% | 10.35% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#32"
+        },
+        {
+          "id": 33,
+          "label": "2024 · 合并毛利率",
+          "reported_value": 76.2,
+          "unit": "%",
+          "line_number": 116,
+          "raw_text": "| 2024 | 360.11 | 122.43 | 76.20% | 10.35% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#33"
+        },
+        {
+          "id": 34,
+          "label": "2024 · 销售费率",
+          "reported_value": 10.35,
+          "unit": "%",
+          "line_number": 116,
+          "raw_text": "| 2024 | 360.11 | 122.43 | 76.20% | 10.35% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#34"
+        },
+        {
+          "id": 35,
+          "label": "2025 · 营业收入（亿元）",
+          "reported_value": 387.18,
+          "unit": "",
+          "line_number": 117,
+          "raw_text": "| 2025 | 387.18 | 122.46 | 74.85% | 10.59% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#35"
+        },
+        {
+          "id": 36,
+          "label": "2025 · 归母利润（亿元）",
+          "reported_value": 122.46,
+          "unit": "",
+          "line_number": 117,
+          "raw_text": "| 2025 | 387.18 | 122.46 | 74.85% | 10.59% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#36"
+        },
+        {
+          "id": 37,
+          "label": "2025 · 合并毛利率",
+          "reported_value": 74.85,
+          "unit": "%",
+          "line_number": 117,
+          "raw_text": "| 2025 | 387.18 | 122.46 | 74.85% | 10.59% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#37"
+        },
+        {
+          "id": 38,
+          "label": "2025 · 销售费率",
+          "reported_value": 10.59,
+          "unit": "%",
+          "line_number": 117,
+          "raw_text": "| 2025 | 387.18 | 122.46 | 74.85% | 10.59% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#38"
+        }
+      ],
+      "sample": [
+        {
+          "id": 19,
+          "label": "2021 · 营业收入（亿元）",
+          "reported_value": 199.71,
+          "unit": "",
+          "line_number": 113,
+          "raw_text": "| 2021 | 199.71 | 53.14 | 74.91% | 15.82% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#19"
+        },
+        {
+          "id": 27,
+          "label": "2023 · 营业收入（亿元）",
+          "reported_value": 319.28,
+          "unit": "",
+          "line_number": 115,
+          "raw_text": "| 2023 | 319.28 | 104.38 | 75.31% | 10.07% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#27"
+        },
+        {
+          "id": 29,
+          "label": "2023 · 合并毛利率",
+          "reported_value": 75.31,
+          "unit": "%",
+          "line_number": 115,
+          "raw_text": "| 2023 | 319.28 | 104.38 | 75.31% | 10.07% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#29"
+        },
+        {
+          "id": 30,
+          "label": "2023 · 销售费率",
+          "reported_value": 10.07,
+          "unit": "%",
+          "line_number": 115,
+          "raw_text": "| 2023 | 319.28 | 104.38 | 75.31% | 10.07% |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#30"
+        },
+        {
+          "id": 3,
+          "label": "省内 · 2026年单Q3收入（亿元）",
+          "reported_value": 26.0087,
+          "unit": "",
+          "raw_text": "| 省内 | -4.23% | 26.0087 | +14.44% |",
+          "line_number": 157,
+          "report": "01-从玻汾到青花，清香品牌如何跨越价格带.md",
+          "key": "01-从玻汾到青花，清香品牌如何跨越价格带.md#3"
+        }
+      ]
+    },
+    {
+      "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+      "sha256": "0f2070a3fb05fa5ed3e439d4b3cc608229922eb822e420a87c9761f5287f2cd9",
+      "raw_count": 44,
+      "supplement_count": 29,
+      "excluded": [
+        {
+          "id": 33,
+          "label": "S1",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S1：2026年第三季度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672141)，第5—",
+          "line_number": 309,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#33",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 34,
+          "label": "S2",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S2：2026年半年度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574659)，管理层讨",
+          "line_number": 310,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#34",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 35,
+          "label": "S3",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [S3：2025年年度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12153884)，主要指标、",
+          "line_number": 311,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#35",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 36,
+          "label": "H21",
+          "reported_value": 2021.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年年报](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=8109878)、[H2",
+          "line_number": 312,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#36",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 37,
+          "label": "stockid=600809&id=8109878)、[H22",
+          "reported_value": 2022.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年年报](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=8109878)、[H2",
+          "line_number": 312,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#37",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 38,
+          "label": "stockid=600809&id=9122352)、[H23",
+          "reported_value": 2023.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年年报](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=8109878)、[H2",
+          "line_number": 312,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#38",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 39,
+          "label": "tockid=600809&id=10076138)、[H24",
+          "reported_value": 2024.0,
+          "unit": "",
+          "raw_text": "- [H21：2021年年报](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=8109878)、[H2",
+          "line_number": 312,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#39",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 40,
+          "label": "O1",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [O1：2026年上半年经营公告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574673",
+          "line_number": 314,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#40",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 41,
+          "label": "stockid=600809&id=12574673)、[O2",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [O1：2026年上半年经营公告](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574673",
+          "line_number": 314,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#41",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 42,
+          "label": "D1",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [D1：2025—2027年股东分红回报规划](https://static.cninfo.com.cn/finalpage/2026-04-23/1225156711.PDF)、[D2：2025年度权益分派实施公告](https://",
+          "line_number": 315,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#42",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 43,
+          "label": "PDF)、[D2",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [D1：2025—2027年股东分红回报规划](https://static.cninfo.com.cn/finalpage/2026-04-23/1225156711.PDF)、[D2：2025年度权益分派实施公告](https://",
+          "line_number": 315,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#43",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 44,
+          "label": "tockid=600809&id=12462881)、[AGM",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [D1：2025—2027年股东分红回报规划](https://static.cninfo.com.cn/finalpage/2026-04-23/1225156711.PDF)、[D2：2025年度权益分派实施公告](https://",
+          "line_number": 315,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#44",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        }
+      ],
+      "eligible": [
+        {
+          "id": 1,
+          "label": "省内汾酒 · 公告列示户数",
+          "reported_value": 553.0,
+          "unit": "",
+          "raw_text": "| 省内汾酒 | 553 | 产品与区域分类，不等于零售终端数 |",
+          "line_number": 35,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#1"
+        },
+        {
+          "id": 2,
+          "label": "省内其他酒类 · 公告列示户数",
+          "reported_value": 257.0,
+          "unit": "",
+          "raw_text": "| 省内其他酒类 | 257 | 不能自动与汾酒行去重合并 |",
+          "line_number": 36,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#2"
+        },
+        {
+          "id": 3,
+          "label": "省外汾酒 · 公告列示户数",
+          "reported_value": 2898.0,
+          "unit": "",
+          "raw_text": "| 省外汾酒 | 2898 | 不表明各省分布与单商效率相同 |",
+          "line_number": 37,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#3"
+        },
+        {
+          "id": 4,
+          "label": "省外其他酒类 · 公告列示户数",
+          "reported_value": 613.0,
+          "unit": "",
+          "raw_text": "| 省外其他酒类 | 613 | 不等于全部低价产品经销商 |",
+          "line_number": 38,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#4"
+        },
+        {
+          "id": 5,
+          "label": "营业收入 · 2025Q3（亿元）",
+          "reported_value": 89.6,
+          "unit": "",
+          "raw_text": "| 营业收入 | 89.60 | 73.38 |",
+          "line_number": 54,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#5"
+        },
+        {
+          "id": 6,
+          "label": "营业收入 · 2026Q3（亿元）",
+          "reported_value": 73.38,
+          "unit": "",
+          "raw_text": "| 营业收入 | 89.60 | 73.38 |",
+          "line_number": 54,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#6"
+        },
+        {
+          "id": 7,
+          "label": "营业成本 · 2025Q3（亿元）",
+          "reported_value": 22.73,
+          "unit": "",
+          "raw_text": "| 营业成本 | 22.73 | 21.98 |",
+          "line_number": 55,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#7"
+        },
+        {
+          "id": 8,
+          "label": "营业成本 · 2026Q3（亿元）",
+          "reported_value": 21.98,
+          "unit": "",
+          "raw_text": "| 营业成本 | 22.73 | 21.98 |",
+          "line_number": 55,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#8"
+        },
+        {
+          "id": 9,
+          "label": "毛利额 · 2025Q3（亿元）",
+          "reported_value": 66.87,
+          "unit": "",
+          "raw_text": "| 毛利额 | 66.87 | 51.39 |",
+          "line_number": 56,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#9"
+        },
+        {
+          "id": 10,
+          "label": "毛利额 · 2026Q3（亿元）",
+          "reported_value": 51.39,
+          "unit": "",
+          "raw_text": "| 毛利额 | 66.87 | 51.39 |",
+          "line_number": 56,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#10"
+        },
+        {
+          "id": 11,
+          "label": "销售费用 · 2025Q3（亿元）",
+          "reported_value": 9.11,
+          "unit": "",
+          "raw_text": "| 销售费用 | 9.11 | 10.01 |",
+          "line_number": 57,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#11"
+        },
+        {
+          "id": 12,
+          "label": "销售费用 · 2026Q3（亿元）",
+          "reported_value": 10.01,
+          "unit": "",
+          "raw_text": "| 销售费用 | 9.11 | 10.01 |",
+          "line_number": 57,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#12"
+        },
+        {
+          "id": 13,
+          "label": "管理费用 · 2025Q3（亿元）",
+          "reported_value": 3.46,
+          "unit": "",
+          "raw_text": "| 管理费用 | 3.46 | 3.15 |",
+          "line_number": 58,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#13"
+        },
+        {
+          "id": 14,
+          "label": "管理费用 · 2026Q3（亿元）",
+          "reported_value": 3.15,
+          "unit": "",
+          "raw_text": "| 管理费用 | 3.46 | 3.15 |",
+          "line_number": 58,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#14"
+        },
+        {
+          "id": 15,
+          "label": "税金及附加 · 2025Q3（亿元）",
+          "reported_value": 14.85,
+          "unit": "",
+          "raw_text": "| 税金及附加 | 14.85 | 11.64 |",
+          "line_number": 59,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#15"
+        },
+        {
+          "id": 16,
+          "label": "税金及附加 · 2026Q3（亿元）",
+          "reported_value": 11.64,
+          "unit": "",
+          "raw_text": "| 税金及附加 | 14.85 | 11.64 |",
+          "line_number": 59,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#16"
+        },
+        {
+          "id": 17,
+          "label": "归母净利润 · 2025Q3（亿元）",
+          "reported_value": 28.99,
+          "unit": "",
+          "raw_text": "| 归母净利润 | 28.99 | 18.99 |",
+          "line_number": 60,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#17"
+        },
+        {
+          "id": 18,
+          "label": "归母净利润 · 2026Q3（亿元）",
+          "reported_value": 18.99,
+          "unit": "",
+          "raw_text": "| 归母净利润 | 28.99 | 18.99 |",
+          "line_number": 60,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#18"
+        },
+        {
+          "id": 19,
+          "label": "9月末货币资金 · 金额（亿元）",
+          "reported_value": 68.6848,
+          "unit": "",
+          "raw_text": "| 9月末货币资金 | 68.6848 | 与现金等价物接近，不意味着全部为多余资金 |",
+          "line_number": 118,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#19"
+        },
+        {
+          "id": 20,
+          "label": "9月末其他流动资产 · 金额（亿元）",
+          "reported_value": 212.9221,
+          "unit": "",
+          "raw_text": "| 9月末其他流动资产 | 212.9221 | 本季未细分全部定存、税项和限制，不全当现金 |",
+          "line_number": 119,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#20"
+        },
+        {
+          "id": 21,
+          "label": "9月末应收款项融资 · 金额（亿元）",
+          "reported_value": 22.6901,
+          "unit": "",
+          "raw_text": "| 9月末应收款项融资 | 22.6901 | 应按票据性质判断，不当现金等价物 |",
+          "line_number": 120,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#21"
+        },
+        {
+          "id": 22,
+          "label": "6月末定期存款及利息 · 金额（亿元）",
+          "reported_value": 256.6969,
+          "unit": "",
+          "raw_text": "| 6月末定期存款及利息 | 256.6969 | 半年附注原值，不能跨期加入9月现金 |",
+          "line_number": 121,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#22"
+        },
+        {
+          "id": 23,
+          "label": "其中用于开票质押的定存 · 金额（亿元）",
+          "reported_value": 25.6907,
+          "unit": "",
+          "raw_text": "| 其中用于开票质押的定存 | 25.6907 | 属于上行定存内的部分，不能再额外加总 |",
+          "line_number": 122,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#23"
+        },
+        {
+          "id": 24,
+          "label": "使用权资产 · 2026年6月末（亿元）",
+          "reported_value": 0.1937,
+          "unit": "",
+          "raw_text": "| 使用权资产 | 0.1937 | 24.4379 |",
+          "line_number": 176,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#24"
+        },
+        {
+          "id": 25,
+          "label": "使用权资产 · 2026年9月末（亿元）",
+          "reported_value": 24.4379,
+          "unit": "",
+          "raw_text": "| 使用权资产 | 0.1937 | 24.4379 |",
+          "line_number": 176,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#25"
+        },
+        {
+          "id": 26,
+          "label": "非流动租赁负债 · 2026年6月末（亿元）",
+          "reported_value": 0.0418,
+          "unit": "",
+          "raw_text": "| 非流动租赁负债 | 0.0418 | 20.3657 |",
+          "line_number": 177,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#26"
+        },
+        {
+          "id": 27,
+          "label": "非流动租赁负债 · 2026年9月末（亿元）",
+          "reported_value": 20.3657,
+          "unit": "",
+          "raw_text": "| 非流动租赁负债 | 0.0418 | 20.3657 |",
+          "line_number": 177,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#27"
+        },
+        {
+          "id": 28,
+          "label": "一年内到期非流动负债 · 2026年6月末（亿元）",
+          "reported_value": 0.0743,
+          "unit": "",
+          "raw_text": "| 一年内到期非流动负债 | 0.0743 | 1.9888 |",
+          "line_number": 178,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#28"
+        },
+        {
+          "id": 29,
+          "label": "一年内到期非流动负债 · 2026年9月末（亿元）",
+          "reported_value": 1.9888,
+          "unit": "",
+          "raw_text": "| 一年内到期非流动负债 | 0.0743 | 1.9888 |",
+          "line_number": 178,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#29"
+        },
+        {
+          "id": 30,
+          "label": "2021年报提出2022收入增长约25% · 后来披露结果",
+          "reported_value": 31.26,
+          "unit": "%",
+          "raw_text": "| 2021年报提出2022收入增长约25% | 实际增长31.26% | 超过该目标量级，不等于全部资本回报都已验证 |",
+          "line_number": 242,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#30"
+        },
+        {
+          "id": 31,
+          "label": "2022年报提出2023收入增长约20% · 后来披露结果",
+          "reported_value": 21.8,
+          "unit": "%",
+          "raw_text": "| 2022年报提出2023收入增长约20% | 实际增长21.80% | 收入目标量级达到，现金与结构仍需另看 |",
+          "line_number": 243,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#31"
+        },
+        {
+          "id": 32,
+          "label": "2023年报提出2024收入增长约20% · 后来披露结果",
+          "reported_value": 12.79,
+          "unit": "%",
+          "raw_text": "| 2023年报提出2024收入增长约20% | 实际增长12.79% | 未达到该目标量级，应审视环境和执行差异 |",
+          "line_number": 244,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#32"
+        },
+        {
+          "id": 45,
+          "label": "2021 · 归母利润（亿元）",
+          "reported_value": 53.14,
+          "unit": "",
+          "line_number": 88,
+          "raw_text": "| 2021 | 53.14 | 76.45 | 1.56 | 74.89 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#45"
+        },
+        {
+          "id": 46,
+          "label": "2021 · 经营现金流（亿元）",
+          "reported_value": 76.45,
+          "unit": "",
+          "line_number": 88,
+          "raw_text": "| 2021 | 53.14 | 76.45 | 1.56 | 74.89 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#46"
+        },
+        {
+          "id": 47,
+          "label": "2021 · 购建支出（亿元）",
+          "reported_value": 1.56,
+          "unit": "",
+          "line_number": 88,
+          "raw_text": "| 2021 | 53.14 | 76.45 | 1.56 | 74.89 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#47"
+        },
+        {
+          "id": 48,
+          "label": "2021 · 简化余量（亿元）",
+          "reported_value": 74.89,
+          "unit": "",
+          "line_number": 88,
+          "raw_text": "| 2021 | 53.14 | 76.45 | 1.56 | 74.89 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#48"
+        },
+        {
+          "id": 49,
+          "label": "2022 · 归母利润（亿元）",
+          "reported_value": 80.96,
+          "unit": "",
+          "line_number": 89,
+          "raw_text": "| 2022 | 80.96 | 103.10 | 8.26 | 94.85 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#49"
+        },
+        {
+          "id": 50,
+          "label": "2022 · 经营现金流（亿元）",
+          "reported_value": 103.1,
+          "unit": "",
+          "line_number": 89,
+          "raw_text": "| 2022 | 80.96 | 103.10 | 8.26 | 94.85 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#50"
+        },
+        {
+          "id": 51,
+          "label": "2022 · 购建支出（亿元）",
+          "reported_value": 8.26,
+          "unit": "",
+          "line_number": 89,
+          "raw_text": "| 2022 | 80.96 | 103.10 | 8.26 | 94.85 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#51"
+        },
+        {
+          "id": 52,
+          "label": "2022 · 简化余量（亿元）",
+          "reported_value": 94.85,
+          "unit": "",
+          "line_number": 89,
+          "raw_text": "| 2022 | 80.96 | 103.10 | 8.26 | 94.85 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#52"
+        },
+        {
+          "id": 53,
+          "label": "2023 · 归母利润（亿元）",
+          "reported_value": 104.38,
+          "unit": "",
+          "line_number": 90,
+          "raw_text": "| 2023 | 104.38 | 72.25 | 4.85 | 67.40 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#53"
+        },
+        {
+          "id": 54,
+          "label": "2023 · 经营现金流（亿元）",
+          "reported_value": 72.25,
+          "unit": "",
+          "line_number": 90,
+          "raw_text": "| 2023 | 104.38 | 72.25 | 4.85 | 67.40 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#54"
+        },
+        {
+          "id": 55,
+          "label": "2023 · 购建支出（亿元）",
+          "reported_value": 4.85,
+          "unit": "",
+          "line_number": 90,
+          "raw_text": "| 2023 | 104.38 | 72.25 | 4.85 | 67.40 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#55"
+        },
+        {
+          "id": 56,
+          "label": "2023 · 简化余量（亿元）",
+          "reported_value": 67.4,
+          "unit": "",
+          "line_number": 90,
+          "raw_text": "| 2023 | 104.38 | 72.25 | 4.85 | 67.40 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#56"
+        },
+        {
+          "id": 57,
+          "label": "2024 · 归母利润（亿元）",
+          "reported_value": 122.43,
+          "unit": "",
+          "line_number": 91,
+          "raw_text": "| 2024 | 122.43 | 121.72 | 6.38 | 115.35 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#57"
+        },
+        {
+          "id": 58,
+          "label": "2024 · 经营现金流（亿元）",
+          "reported_value": 121.72,
+          "unit": "",
+          "line_number": 91,
+          "raw_text": "| 2024 | 122.43 | 121.72 | 6.38 | 115.35 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#58"
+        },
+        {
+          "id": 59,
+          "label": "2024 · 购建支出（亿元）",
+          "reported_value": 6.38,
+          "unit": "",
+          "line_number": 91,
+          "raw_text": "| 2024 | 122.43 | 121.72 | 6.38 | 115.35 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#59"
+        },
+        {
+          "id": 60,
+          "label": "2024 · 简化余量（亿元）",
+          "reported_value": 115.35,
+          "unit": "",
+          "line_number": 91,
+          "raw_text": "| 2024 | 122.43 | 121.72 | 6.38 | 115.35 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#60"
+        },
+        {
+          "id": 61,
+          "label": "2025 · 归母利润（亿元）",
+          "reported_value": 122.46,
+          "unit": "",
+          "line_number": 92,
+          "raw_text": "| 2025 | 122.46 | 90.14 | 11.94 | 78.19 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#61"
+        },
+        {
+          "id": 62,
+          "label": "2025 · 经营现金流（亿元）",
+          "reported_value": 90.14,
+          "unit": "",
+          "line_number": 92,
+          "raw_text": "| 2025 | 122.46 | 90.14 | 11.94 | 78.19 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#62"
+        },
+        {
+          "id": 63,
+          "label": "2025 · 购建支出（亿元）",
+          "reported_value": 11.94,
+          "unit": "",
+          "line_number": 92,
+          "raw_text": "| 2025 | 122.46 | 90.14 | 11.94 | 78.19 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#63"
+        },
+        {
+          "id": 64,
+          "label": "2025 · 简化余量（亿元）",
+          "reported_value": 78.19,
+          "unit": "",
+          "line_number": 92,
+          "raw_text": "| 2025 | 122.46 | 90.14 | 11.94 | 78.19 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#64"
+        },
+        {
+          "id": 65,
+          "label": "2021 · 每股税前现金分红",
+          "reported_value": 1.8,
+          "unit": "",
+          "line_number": 222,
+          "raw_text": "| 2021 | 1.80元 | 2022年实施，不按支付年重复统计 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#65"
+        },
+        {
+          "id": 66,
+          "label": "2021 · 需要避免的混淆",
+          "reported_value": 2022.0,
+          "unit": "",
+          "line_number": 222,
+          "raw_text": "| 2021 | 1.80元 | 2022年实施，不按支付年重复统计 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#66"
+        },
+        {
+          "id": 67,
+          "label": "2022 · 每股税前现金分红",
+          "reported_value": 3.32,
+          "unit": "",
+          "line_number": 223,
+          "raw_text": "| 2022 | 3.32元 | 2023年实施，仍归属于2022年度方案 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#67"
+        },
+        {
+          "id": 68,
+          "label": "2022 · 需要避免的混淆",
+          "reported_value": 2023.0,
+          "unit": "",
+          "line_number": 223,
+          "raw_text": "| 2022 | 3.32元 | 2023年实施，仍归属于2022年度方案 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#68"
+        },
+        {
+          "id": 69,
+          "label": "2023 · 每股税前现金分红",
+          "reported_value": 4.37,
+          "unit": "",
+          "line_number": 224,
+          "raw_text": "| 2023 | 4.37元 | 不与后续年度的中期分配拼成同一年度 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#69"
+        },
+        {
+          "id": 70,
+          "label": "2024 · 每股税前现金分红",
+          "reported_value": 6.06,
+          "unit": "",
+          "line_number": 225,
+          "raw_text": "| 2024 | 6.06元 | 已含中期2.46元和末期3.60元 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#70"
+        },
+        {
+          "id": 71,
+          "label": "2024 · 需要避免的混淆",
+          "reported_value": 2.46,
+          "unit": "",
+          "line_number": 225,
+          "raw_text": "| 2024 | 6.06元 | 已含中期2.46元和末期3.60元 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#71"
+        },
+        {
+          "id": 72,
+          "label": "2025 · 每股税前现金分红",
+          "reported_value": 6.56,
+          "unit": "",
+          "line_number": 226,
+          "raw_text": "| 2025 | 6.56元 | 2026年7月31日实施，非未来固定票息 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#72"
+        },
+        {
+          "id": 73,
+          "label": "2025 · 需要避免的混淆",
+          "reported_value": 2026.0,
+          "unit": "",
+          "line_number": 226,
+          "raw_text": "| 2025 | 6.56元 | 2026年7月31日实施，非未来固定票息 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#73"
+        }
+      ],
+      "sample": [
+        {
+          "id": 2,
+          "label": "省内其他酒类 · 公告列示户数",
+          "reported_value": 257.0,
+          "unit": "",
+          "raw_text": "| 省内其他酒类 | 257 | 不能自动与汾酒行去重合并 |",
+          "line_number": 36,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#2"
+        },
+        {
+          "id": 5,
+          "label": "营业收入 · 2025Q3（亿元）",
+          "reported_value": 89.6,
+          "unit": "",
+          "raw_text": "| 营业收入 | 89.60 | 73.38 |",
+          "line_number": 54,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#5"
+        },
+        {
+          "id": 9,
+          "label": "毛利额 · 2025Q3（亿元）",
+          "reported_value": 66.87,
+          "unit": "",
+          "raw_text": "| 毛利额 | 66.87 | 51.39 |",
+          "line_number": 56,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#9"
+        },
+        {
+          "id": 16,
+          "label": "税金及附加 · 2026Q3（亿元）",
+          "reported_value": 11.64,
+          "unit": "",
+          "raw_text": "| 税金及附加 | 14.85 | 11.64 |",
+          "line_number": 59,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#16"
+        },
+        {
+          "id": 45,
+          "label": "2021 · 归母利润（亿元）",
+          "reported_value": 53.14,
+          "unit": "",
+          "line_number": 88,
+          "raw_text": "| 2021 | 53.14 | 76.45 | 1.56 | 74.89 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#45"
+        },
+        {
+          "id": 48,
+          "label": "2021 · 简化余量（亿元）",
+          "reported_value": 74.89,
+          "unit": "",
+          "line_number": 88,
+          "raw_text": "| 2021 | 53.14 | 76.45 | 1.56 | 74.89 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#48"
+        },
+        {
+          "id": 50,
+          "label": "2022 · 经营现金流（亿元）",
+          "reported_value": 103.1,
+          "unit": "",
+          "line_number": 89,
+          "raw_text": "| 2022 | 80.96 | 103.10 | 8.26 | 94.85 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#50"
+        },
+        {
+          "id": 61,
+          "label": "2025 · 归母利润（亿元）",
+          "reported_value": 122.46,
+          "unit": "",
+          "line_number": 92,
+          "raw_text": "| 2025 | 122.46 | 90.14 | 11.94 | 78.19 |",
+          "supplement_reason": "Year-first financial table omitted by shared extractor",
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#61"
+        },
+        {
+          "id": 31,
+          "label": "2022年报提出2023收入增长约20% · 后来披露结果",
+          "reported_value": 21.8,
+          "unit": "%",
+          "raw_text": "| 2022年报提出2023收入增长约20% | 实际增长21.80% | 收入目标量级达到，现金与结构仍需另看 |",
+          "line_number": 243,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#31"
+        },
+        {
+          "id": 32,
+          "label": "2023年报提出2024收入增长约20% · 后来披露结果",
+          "reported_value": 12.79,
+          "unit": "%",
+          "raw_text": "| 2023年报提出2024收入增长约20% | 实际增长12.79% | 未达到该目标量级，应审视环境和执行差异 |",
+          "line_number": 244,
+          "report": "02-省内回暖，省外承压，全国化的钱花在哪里.md",
+          "key": "02-省内回暖，省外承压，全国化的钱花在哪里.md#32"
+        }
+      ]
+    },
+    {
+      "report": "03-利润仍厚，买入门槛该怎么定.md",
+      "sha256": "12aa2d3086b3a8c2002322c9b585c13980b2c54f108d185d5c4bdc499aa7bc6d",
+      "raw_count": 100,
+      "supplement_count": 0,
+      "excluded": [
+        {
+          "id": 78,
+          "label": "国金证券 · 信息日期",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "| 国金证券 | 91.03亿元 | 100.23亿元 | 113.98亿元 | 2026年10月 |",
+          "line_number": 238,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#78",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 82,
+          "label": "东吴证券 · 信息日期",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "| 东吴证券 | 99.80亿元 | 109.80亿元 | 123.26亿元 | 2026年8月 |",
+          "line_number": 239,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#82",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 86,
+          "label": "国信证券 · 信息日期",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "| 国信证券 | 100.27亿元 | 104.89亿元 | 118.01亿元 | 2026年9月 |",
+          "line_number": 240,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#86",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 96,
+          "label": "S1",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S1：2026三季报](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672141)、[S3：202",
+          "line_number": 340,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#96",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 97,
+          "label": "stockid=600809&id=12672141)、[S3",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [S1：2026三季报](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12672141)、[S3：202",
+          "line_number": 340,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#97",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 98,
+          "label": "S2",
+          "reported_value": 2026.0,
+          "unit": "",
+          "raw_text": "- [S2：2026半年报](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600809&id=12574659)，定存、质押、租",
+          "line_number": 341,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#98",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 99,
+          "label": "D1",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [D1：2025—2027分红规划](https://static.cninfo.com.cn/finalpage/2026-04-23/1225156711.PDF)、[AGM：股东会决议](https://stockmc.xueqi",
+          "line_number": 342,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#99",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        },
+        {
+          "id": 100,
+          "label": "GB.pdf)、[D2",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "- [D1：2025—2027分红规划](https://static.cninfo.com.cn/finalpage/2026-04-23/1225156711.PDF)、[AGM：股东会决议](https://stockmc.xueqi",
+          "line_number": 342,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#100",
+          "reason": "Citation, date or cross-reference numeral; not a financial observation"
+        }
+      ],
+      "eligible": [
+        {
+          "id": 1,
+          "label": "11月13日不复权收盘价 · 数值",
+          "reported_value": 129.25,
+          "unit": "",
+          "raw_text": "| 11月13日不复权收盘价 | 129.25元 | 当前交易价格，不是内在价值或成本价锚 |",
+          "line_number": 25,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#1"
+        },
+        {
+          "id": 2,
+          "label": "全部发行股份 · 数值",
+          "reported_value": 12.19964222,
+          "unit": "亿",
+          "raw_text": "| 全部发行股份 | 12.19964222亿股 | 所有普通股权益分母，不以流通股替代 |",
+          "line_number": 26,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#2"
+        },
+        {
+          "id": 3,
+          "label": "对应市值 · 数值",
+          "reported_value": 1576.8,
+          "unit": "亿元",
+          "raw_text": "| 对应市值 | 1576.80亿元 | 当前全体股权的定价 |",
+          "line_number": 27,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#3"
+        },
+        {
+          "id": 4,
+          "label": "归母TTM利润 · 数值",
+          "reported_value": 91.7971,
+          "unit": "亿元",
+          "raw_text": "| 归母TTM利润 | 91.7971亿元 | 已披露滚动盈利，不是年度预测 |",
+          "line_number": 28,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#4"
+        },
+        {
+          "id": 5,
+          "label": "扣非归母TTM利润 · 数值",
+          "reported_value": 91.7883,
+          "unit": "亿元",
+          "raw_text": "| 扣非归母TTM利润 | 91.7883亿元 | 本篇情景起点，不是纯卖酒自由现金流 |",
+          "line_number": 29,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#5"
+        },
+        {
+          "id": 6,
+          "label": "归母TTM市盈率 · 数值",
+          "reported_value": 17.18,
+          "unit": "倍",
+          "raw_text": "| 归母TTM市盈率 | 17.18倍 | 当前价格与该滚动盈利的关系 |",
+          "line_number": 30,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#6"
+        },
+        {
+          "id": 7,
+          "label": "市净率 · 数值",
+          "reported_value": 3.94,
+          "unit": "倍",
+          "raw_text": "| 市净率 | 3.94倍 | 当前价格与归母账面权益的关系 |",
+          "line_number": 31,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#7"
+        },
+        {
+          "id": 8,
+          "label": "TTM简化现金余量 · 数值",
+          "reported_value": 71.6238,
+          "unit": "亿元",
+          "raw_text": "| TTM简化现金余量 | 71.6238亿元 | 经营现金减现金购建支出，尚非严格股东自由现金流 |",
+          "line_number": 32,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#8"
+        },
+        {
+          "id": 9,
+          "label": "历史每股现金股息 · 数值",
+          "reported_value": 6.56,
+          "unit": "",
+          "raw_text": "| 历史每股现金股息 | 6.56元 | 已实施的2025年度分配 |",
+          "line_number": 33,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#9"
+        },
+        {
+          "id": 10,
+          "label": "历史每股现金股息 · 正确用途",
+          "reported_value": 2025.0,
+          "unit": "",
+          "raw_text": "| 历史每股现金股息 | 6.56元 | 已实施的2025年度分配 |",
+          "line_number": 33,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#10"
+        },
+        {
+          "id": 11,
+          "label": "压力 · 年盈利变化",
+          "reported_value": -5.0,
+          "unit": "%",
+          "raw_text": "| 压力 | -5% | 12倍 | -11.65% | 72.86元 |",
+          "line_number": 87,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#11"
+        },
+        {
+          "id": 12,
+          "label": "压力 · 第三年退出PE",
+          "reported_value": 12.0,
+          "unit": "倍",
+          "raw_text": "| 压力 | -5% | 12倍 | -11.65% | 72.86元 |",
+          "line_number": 87,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#12"
+        },
+        {
+          "id": 13,
+          "label": "压力 · 含逐年股利IRR",
+          "reported_value": -11.65,
+          "unit": "%",
+          "raw_text": "| 压力 | -5% | 12倍 | -11.65% | 72.86元 |",
+          "line_number": 87,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#13"
+        },
+        {
+          "id": 14,
+          "label": "压力 · 现金流按8%折现的入价参照",
+          "reported_value": 72.86,
+          "unit": "",
+          "raw_text": "| 压力 | -5% | 12倍 | -11.65% | 72.86元 |",
+          "line_number": 87,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#14"
+        },
+        {
+          "id": 15,
+          "label": "基准 · 年盈利变化",
+          "reported_value": 2.0,
+          "unit": "%",
+          "raw_text": "| 基准 | +2% | 16倍 | +3.56% | 114.51元 |",
+          "line_number": 88,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#15"
+        },
+        {
+          "id": 16,
+          "label": "基准 · 第三年退出PE",
+          "reported_value": 16.0,
+          "unit": "倍",
+          "raw_text": "| 基准 | +2% | 16倍 | +3.56% | 114.51元 |",
+          "line_number": 88,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#16"
+        },
+        {
+          "id": 17,
+          "label": "基准 · 含逐年股利IRR",
+          "reported_value": 3.56,
+          "unit": "%",
+          "raw_text": "| 基准 | +2% | 16倍 | +3.56% | 114.51元 |",
+          "line_number": 88,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#17"
+        },
+        {
+          "id": 18,
+          "label": "基准 · 现金流按8%折现的入价参照",
+          "reported_value": 114.51,
+          "unit": "",
+          "raw_text": "| 基准 | +2% | 16倍 | +3.56% | 114.51元 |",
+          "line_number": 88,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#18"
+        },
+        {
+          "id": 19,
+          "label": "较强恢复 · 年盈利变化",
+          "reported_value": 6.0,
+          "unit": "%",
+          "raw_text": "| 较强恢复 | +6% | 20倍 | +15.33% | 156.41元 |",
+          "line_number": 89,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#19"
+        },
+        {
+          "id": 20,
+          "label": "较强恢复 · 第三年退出PE",
+          "reported_value": 20.0,
+          "unit": "倍",
+          "raw_text": "| 较强恢复 | +6% | 20倍 | +15.33% | 156.41元 |",
+          "line_number": 89,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#20"
+        },
+        {
+          "id": 21,
+          "label": "较强恢复 · 含逐年股利IRR",
+          "reported_value": 15.33,
+          "unit": "%",
+          "raw_text": "| 较强恢复 | +6% | 20倍 | +15.33% | 156.41元 |",
+          "line_number": 89,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#21"
+        },
+        {
+          "id": 22,
+          "label": "较强恢复 · 现金流按8%折现的入价参照",
+          "reported_value": 156.41,
+          "unit": "",
+          "raw_text": "| 较强恢复 | +6% | 20倍 | +15.33% | 156.41元 |",
+          "line_number": 89,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#22"
+        },
+        {
+          "id": 23,
+          "label": "前十年盈利年变化 · 压力",
+          "reported_value": -5.0,
+          "unit": "%",
+          "raw_text": "| 前十年盈利年变化 | -5% | +2% | +6% |",
+          "line_number": 109,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#23"
+        },
+        {
+          "id": 24,
+          "label": "前十年盈利年变化 · 基准",
+          "reported_value": 2.0,
+          "unit": "%",
+          "raw_text": "| 前十年盈利年变化 | -5% | +2% | +6% |",
+          "line_number": 109,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#24"
+        },
+        {
+          "id": 25,
+          "label": "前十年盈利年变化 · 较强恢复",
+          "reported_value": 6.0,
+          "unit": "%",
+          "raw_text": "| 前十年盈利年变化 | -5% | +2% | +6% |",
+          "line_number": 109,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#25"
+        },
+        {
+          "id": 26,
+          "label": "第十年之后永续增长g · 基准",
+          "reported_value": 1.0,
+          "unit": "%",
+          "raw_text": "| 第十年之后永续增长g | 0% | 1% | 2% |",
+          "line_number": 110,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#26"
+        },
+        {
+          "id": 27,
+          "label": "第十年之后永续增长g · 较强恢复",
+          "reported_value": 2.0,
+          "unit": "%",
+          "raw_text": "| 第十年之后永续增长g | 0% | 1% | 2% |",
+          "line_number": 110,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#27"
+        },
+        {
+          "id": 28,
+          "label": "前十年模型分配比例 · 压力",
+          "reported_value": 65.0,
+          "unit": "%",
+          "raw_text": "| 前十年模型分配比例 | 65% | 65% | 65% |",
+          "line_number": 111,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#28"
+        },
+        {
+          "id": 29,
+          "label": "前十年模型分配比例 · 基准",
+          "reported_value": 65.0,
+          "unit": "%",
+          "raw_text": "| 前十年模型分配比例 | 65% | 65% | 65% |",
+          "line_number": 111,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#29"
+        },
+        {
+          "id": 30,
+          "label": "前十年模型分配比例 · 较强恢复",
+          "reported_value": 65.0,
+          "unit": "%",
+          "raw_text": "| 前十年模型分配比例 | 65% | 65% | 65% |",
+          "line_number": 111,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#30"
+        },
+        {
+          "id": 31,
+          "label": "新增留存资本回报代理R · 压力",
+          "reported_value": 20.0,
+          "unit": "%",
+          "raw_text": "| 新增留存资本回报代理R | 20% | 20% | 20% |",
+          "line_number": 112,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#31"
+        },
+        {
+          "id": 32,
+          "label": "新增留存资本回报代理R · 基准",
+          "reported_value": 20.0,
+          "unit": "%",
+          "raw_text": "| 新增留存资本回报代理R | 20% | 20% | 20% |",
+          "line_number": 112,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#32"
+        },
+        {
+          "id": 33,
+          "label": "新增留存资本回报代理R · 较强恢复",
+          "reported_value": 20.0,
+          "unit": "%",
+          "raw_text": "| 新增留存资本回报代理R | 20% | 20% | 20% |",
+          "line_number": 112,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#33"
+        },
+        {
+          "id": 34,
+          "label": "人民币回报要求r · 压力",
+          "reported_value": 8.0,
+          "unit": "%",
+          "raw_text": "| 人民币回报要求r | 8% | 8% | 8% |",
+          "line_number": 113,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#34"
+        },
+        {
+          "id": 35,
+          "label": "人民币回报要求r · 基准",
+          "reported_value": 8.0,
+          "unit": "%",
+          "raw_text": "| 人民币回报要求r | 8% | 8% | 8% |",
+          "line_number": 113,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#35"
+        },
+        {
+          "id": 36,
+          "label": "人民币回报要求r · 较强恢复",
+          "reported_value": 8.0,
+          "unit": "%",
+          "raw_text": "| 人民币回报要求r | 8% | 8% | 8% |",
+          "line_number": 113,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#36"
+        },
+        {
+          "id": 37,
+          "label": "潜在分配能力情景现值 · 压力",
+          "reported_value": 51.91,
+          "unit": "",
+          "raw_text": "| 潜在分配能力情景现值 | 51.91元 | 94.43元 | 139.68元 |",
+          "line_number": 153,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#37"
+        },
+        {
+          "id": 38,
+          "label": "潜在分配能力情景现值 · 基准",
+          "reported_value": 94.43,
+          "unit": "",
+          "raw_text": "| 潜在分配能力情景现值 | 51.91元 | 94.43元 | 139.68元 |",
+          "line_number": 153,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#38"
+        },
+        {
+          "id": 39,
+          "label": "潜在分配能力情景现值 · 较强恢复",
+          "reported_value": 139.68,
+          "unit": "",
+          "raw_text": "| 潜在分配能力情景现值 | 51.91元 | 94.43元 | 139.68元 |",
+          "line_number": 153,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#39"
+        },
+        {
+          "id": 40,
+          "label": "能力情景十年含息IRR · 压力",
+          "reported_value": -3.86,
+          "unit": "%",
+          "raw_text": "| 能力情景十年含息IRR | -3.86% | +3.97% | +8.99% |",
+          "line_number": 154,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#40"
+        },
+        {
+          "id": 41,
+          "label": "能力情景十年含息IRR · 基准",
+          "reported_value": 3.97,
+          "unit": "%",
+          "raw_text": "| 能力情景十年含息IRR | -3.86% | +3.97% | +8.99% |",
+          "line_number": 154,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#41"
+        },
+        {
+          "id": 42,
+          "label": "能力情景十年含息IRR · 较强恢复",
+          "reported_value": 8.99,
+          "unit": "%",
+          "raw_text": "| 能力情景十年含息IRR | -3.86% | +3.97% | +8.99% |",
+          "line_number": 154,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#42"
+        },
+        {
+          "id": 43,
+          "label": "持续65%股利情景现值 · 压力",
+          "reported_value": 42.78,
+          "unit": "",
+          "raw_text": "| 持续65%股利情景现值 | 42.78元 | 76.04元 | 113.15元 |",
+          "line_number": 155,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#43"
+        },
+        {
+          "id": 44,
+          "label": "持续65%股利情景现值 · 基准",
+          "reported_value": 76.04,
+          "unit": "",
+          "raw_text": "| 持续65%股利情景现值 | 42.78元 | 76.04元 | 113.15元 |",
+          "line_number": 155,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#44"
+        },
+        {
+          "id": 45,
+          "label": "持续65%股利情景现值 · 较强恢复",
+          "reported_value": 113.15,
+          "unit": "",
+          "raw_text": "| 持续65%股利情景现值 | 42.78元 | 76.04元 | 113.15元 |",
+          "line_number": 155,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#45"
+        },
+        {
+          "id": 46,
+          "label": "股利情景十年含息IRR · 压力",
+          "reported_value": -6.87,
+          "unit": "%",
+          "raw_text": "| 股利情景十年含息IRR | -6.87% | +1.03% | +6.27% |",
+          "line_number": 156,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#46"
+        },
+        {
+          "id": 47,
+          "label": "股利情景十年含息IRR · 基准",
+          "reported_value": 1.03,
+          "unit": "%",
+          "raw_text": "| 股利情景十年含息IRR | -6.87% | +1.03% | +6.27% |",
+          "line_number": 156,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#47"
+        },
+        {
+          "id": 48,
+          "label": "股利情景十年含息IRR · 较强恢复",
+          "reported_value": 6.27,
+          "unit": "%",
+          "raw_text": "| 股利情景十年含息IRR | -6.87% | +1.03% | +6.27% |",
+          "line_number": 156,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#48"
+        },
+        {
+          "id": 49,
+          "label": "r=6% · 基准：能力现值",
+          "reported_value": 138.1,
+          "unit": "",
+          "raw_text": "| r=6% | 138.10元 | 107.06元 | 221.58元 | 173.61元 |",
+          "line_number": 186,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#49"
+        },
+        {
+          "id": 50,
+          "label": "r=6% · 基准：65%股利现值",
+          "reported_value": 107.06,
+          "unit": "",
+          "raw_text": "| r=6% | 138.10元 | 107.06元 | 221.58元 | 173.61元 |",
+          "line_number": 186,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#50"
+        },
+        {
+          "id": 51,
+          "label": "r=6% · 较强：能力现值",
+          "reported_value": 221.58,
+          "unit": "",
+          "raw_text": "| r=6% | 138.10元 | 107.06元 | 221.58元 | 173.61元 |",
+          "line_number": 186,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#51"
+        },
+        {
+          "id": 52,
+          "label": "r=6% · 较强：65%股利现值",
+          "reported_value": 173.61,
+          "unit": "",
+          "raw_text": "| r=6% | 138.10元 | 107.06元 | 221.58元 | 173.61元 |",
+          "line_number": 186,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#52"
+        },
+        {
+          "id": 53,
+          "label": "r=7% · 基准：能力现值",
+          "reported_value": 112.5,
+          "unit": "",
+          "raw_text": "| r=7% | 112.50元 | 88.96元 | 172.22元 | 137.29元 |",
+          "line_number": 187,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#53"
+        },
+        {
+          "id": 54,
+          "label": "r=7% · 基准：65%股利现值",
+          "reported_value": 88.96,
+          "unit": "",
+          "raw_text": "| r=7% | 112.50元 | 88.96元 | 172.22元 | 137.29元 |",
+          "line_number": 187,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#54"
+        },
+        {
+          "id": 55,
+          "label": "r=7% · 较强：能力现值",
+          "reported_value": 172.22,
+          "unit": "",
+          "raw_text": "| r=7% | 112.50元 | 88.96元 | 172.22元 | 137.29元 |",
+          "line_number": 187,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#55"
+        },
+        {
+          "id": 56,
+          "label": "r=7% · 较强：65%股利现值",
+          "reported_value": 137.29,
+          "unit": "",
+          "raw_text": "| r=7% | 112.50元 | 88.96元 | 172.22元 | 137.29元 |",
+          "line_number": 187,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#56"
+        },
+        {
+          "id": 57,
+          "label": "r=8% · 基准：能力现值",
+          "reported_value": 94.43,
+          "unit": "",
+          "raw_text": "| r=8% | 94.43元 | 76.04元 | 139.68元 | 113.15元 |",
+          "line_number": 188,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#57"
+        },
+        {
+          "id": 58,
+          "label": "r=8% · 基准：65%股利现值",
+          "reported_value": 76.04,
+          "unit": "",
+          "raw_text": "| r=8% | 94.43元 | 76.04元 | 139.68元 | 113.15元 |",
+          "line_number": 188,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#58"
+        },
+        {
+          "id": 59,
+          "label": "r=8% · 较强：能力现值",
+          "reported_value": 139.68,
+          "unit": "",
+          "raw_text": "| r=8% | 94.43元 | 76.04元 | 139.68元 | 113.15元 |",
+          "line_number": 188,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#59"
+        },
+        {
+          "id": 60,
+          "label": "r=8% · 较强：65%股利现值",
+          "reported_value": 113.15,
+          "unit": "",
+          "raw_text": "| r=8% | 94.43元 | 76.04元 | 139.68元 | 113.15元 |",
+          "line_number": 188,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#60"
+        },
+        {
+          "id": 61,
+          "label": "r=9% · 基准：能力现值",
+          "reported_value": 81.03,
+          "unit": "",
+          "raw_text": "| r=9% | 81.03元 | 66.36元 | 116.72元 | 95.99元 |",
+          "line_number": 189,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#61"
+        },
+        {
+          "id": 62,
+          "label": "r=9% · 基准：65%股利现值",
+          "reported_value": 66.36,
+          "unit": "",
+          "raw_text": "| r=9% | 81.03元 | 66.36元 | 116.72元 | 95.99元 |",
+          "line_number": 189,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#62"
+        },
+        {
+          "id": 63,
+          "label": "r=9% · 较强：能力现值",
+          "reported_value": 116.72,
+          "unit": "",
+          "raw_text": "| r=9% | 81.03元 | 66.36元 | 116.72元 | 95.99元 |",
+          "line_number": 189,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#63"
+        },
+        {
+          "id": 64,
+          "label": "r=9% · 较强：65%股利现值",
+          "reported_value": 95.99,
+          "unit": "",
+          "raw_text": "| r=9% | 81.03元 | 66.36元 | 116.72元 | 95.99元 |",
+          "line_number": 189,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#64"
+        },
+        {
+          "id": 65,
+          "label": "r=10% · 基准：能力现值",
+          "reported_value": 70.75,
+          "unit": "",
+          "raw_text": "| r=10% | 70.75元 | 58.84元 | 99.73元 | 83.17元 |",
+          "line_number": 190,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#65"
+        },
+        {
+          "id": 66,
+          "label": "r=10% · 基准：65%股利现值",
+          "reported_value": 58.84,
+          "unit": "",
+          "raw_text": "| r=10% | 70.75元 | 58.84元 | 99.73元 | 83.17元 |",
+          "line_number": 190,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#66"
+        },
+        {
+          "id": 67,
+          "label": "r=10% · 较强：能力现值",
+          "reported_value": 99.73,
+          "unit": "",
+          "raw_text": "| r=10% | 70.75元 | 58.84元 | 99.73元 | 83.17元 |",
+          "line_number": 190,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#67"
+        },
+        {
+          "id": 68,
+          "label": "r=10% · 较强：65%股利现值",
+          "reported_value": 83.17,
+          "unit": "",
+          "raw_text": "| r=10% | 70.75元 | 58.84元 | 99.73元 | 83.17元 |",
+          "line_number": 190,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#68"
+        },
+        {
+          "id": 69,
+          "label": "三年持有 · 固定的退出条件",
+          "reported_value": 16.0,
+          "unit": "倍",
+          "raw_text": "| 三年持有 | 第三年16倍整体PE | 6.37% |",
+          "line_number": 220,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#69"
+        },
+        {
+          "id": 70,
+          "label": "三年持有 · 所需盈利年增长",
+          "reported_value": 6.37,
+          "unit": "%",
+          "raw_text": "| 三年持有 | 第三年16倍整体PE | 6.37% |",
+          "line_number": 220,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#70"
+        },
+        {
+          "id": 71,
+          "label": "十年能力情景 · 固定的退出条件",
+          "reported_value": 1.0,
+          "unit": "%",
+          "raw_text": "| 十年能力情景 | 永续增长1%，留存资本回报代理20%，r=8% | 5.95% |",
+          "line_number": 221,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#71"
+        },
+        {
+          "id": 72,
+          "label": "十年能力情景 · 所需盈利年增长",
+          "reported_value": 5.95,
+          "unit": "%",
+          "raw_text": "| 十年能力情景 | 永续增长1%，留存资本回报代理20%，r=8% | 5.95% |",
+          "line_number": 221,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#72"
+        },
+        {
+          "id": 73,
+          "label": "十年持续65%股利情景 · 固定的退出条件",
+          "reported_value": 1.0,
+          "unit": "%",
+          "raw_text": "| 十年持续65%股利情景 | 永续增长1%，r=8% | 9.04% |",
+          "line_number": 222,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#73"
+        },
+        {
+          "id": 74,
+          "label": "十年持续65%股利情景 · 所需盈利年增长",
+          "reported_value": 9.04,
+          "unit": "%",
+          "raw_text": "| 十年持续65%股利情景 | 永续增长1%，r=8% | 9.04% |",
+          "line_number": 222,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#74"
+        },
+        {
+          "id": 75,
+          "label": "国金证券 · 2026归母预测",
+          "reported_value": 91.03,
+          "unit": "亿元",
+          "raw_text": "| 国金证券 | 91.03亿元 | 100.23亿元 | 113.98亿元 | 2026年10月 |",
+          "line_number": 238,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#75"
+        },
+        {
+          "id": 76,
+          "label": "国金证券 · 2027归母预测",
+          "reported_value": 100.23,
+          "unit": "亿元",
+          "raw_text": "| 国金证券 | 91.03亿元 | 100.23亿元 | 113.98亿元 | 2026年10月 |",
+          "line_number": 238,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#76"
+        },
+        {
+          "id": 77,
+          "label": "国金证券 · 2028归母预测",
+          "reported_value": 113.98,
+          "unit": "亿元",
+          "raw_text": "| 国金证券 | 91.03亿元 | 100.23亿元 | 113.98亿元 | 2026年10月 |",
+          "line_number": 238,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#77"
+        },
+        {
+          "id": 79,
+          "label": "东吴证券 · 2026归母预测",
+          "reported_value": 99.8,
+          "unit": "亿元",
+          "raw_text": "| 东吴证券 | 99.80亿元 | 109.80亿元 | 123.26亿元 | 2026年8月 |",
+          "line_number": 239,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#79"
+        },
+        {
+          "id": 80,
+          "label": "东吴证券 · 2027归母预测",
+          "reported_value": 109.8,
+          "unit": "亿元",
+          "raw_text": "| 东吴证券 | 99.80亿元 | 109.80亿元 | 123.26亿元 | 2026年8月 |",
+          "line_number": 239,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#80"
+        },
+        {
+          "id": 81,
+          "label": "东吴证券 · 2028归母预测",
+          "reported_value": 123.26,
+          "unit": "亿元",
+          "raw_text": "| 东吴证券 | 99.80亿元 | 109.80亿元 | 123.26亿元 | 2026年8月 |",
+          "line_number": 239,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#81"
+        },
+        {
+          "id": 83,
+          "label": "国信证券 · 2026归母预测",
+          "reported_value": 100.27,
+          "unit": "亿元",
+          "raw_text": "| 国信证券 | 100.27亿元 | 104.89亿元 | 118.01亿元 | 2026年9月 |",
+          "line_number": 240,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#83"
+        },
+        {
+          "id": 84,
+          "label": "国信证券 · 2027归母预测",
+          "reported_value": 104.89,
+          "unit": "亿元",
+          "raw_text": "| 国信证券 | 100.27亿元 | 104.89亿元 | 118.01亿元 | 2026年9月 |",
+          "line_number": 240,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#84"
+        },
+        {
+          "id": 85,
+          "label": "国信证券 · 2028归母预测",
+          "reported_value": 118.01,
+          "unit": "亿元",
+          "raw_text": "| 国信证券 | 100.27亿元 | 104.89亿元 | 118.01亿元 | 2026年9月 |",
+          "line_number": 240,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#85"
+        },
+        {
+          "id": 87,
+          "label": "基准增长＋潜在分配能力 · 8%折现的条件值",
+          "reported_value": 94.43,
+          "unit": "",
+          "raw_text": "| 基准增长＋潜在分配能力 | 94.43元 | 75.54元 |",
+          "line_number": 282,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#87"
+        },
+        {
+          "id": 88,
+          "label": "基准增长＋潜在分配能力 · 再留20%折价的价格参照",
+          "reported_value": 75.54,
+          "unit": "",
+          "raw_text": "| 基准增长＋潜在分配能力 | 94.43元 | 75.54元 |",
+          "line_number": 282,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#88"
+        },
+        {
+          "id": 89,
+          "label": "基准增长＋持续65%股利 · 8%折现的条件值",
+          "reported_value": 76.04,
+          "unit": "",
+          "raw_text": "| 基准增长＋持续65%股利 | 76.04元 | 60.83元 |",
+          "line_number": 283,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#89"
+        },
+        {
+          "id": 90,
+          "label": "基准增长＋持续65%股利 · 再留20%折价的价格参照",
+          "reported_value": 60.83,
+          "unit": "",
+          "raw_text": "| 基准增长＋持续65%股利 | 76.04元 | 60.83元 |",
+          "line_number": 283,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#90"
+        },
+        {
+          "id": 91,
+          "label": "较强恢复＋潜在分配能力 · 8%折现的条件值",
+          "reported_value": 139.68,
+          "unit": "",
+          "raw_text": "| 较强恢复＋潜在分配能力 | 139.68元 | 111.74元 |",
+          "line_number": 284,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#91"
+        },
+        {
+          "id": 92,
+          "label": "较强恢复＋潜在分配能力 · 再留20%折价的价格参照",
+          "reported_value": 111.74,
+          "unit": "",
+          "raw_text": "| 较强恢复＋潜在分配能力 | 139.68元 | 111.74元 |",
+          "line_number": 284,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#92"
+        },
+        {
+          "id": 93,
+          "label": "较强恢复＋持续65%股利 · 8%折现的条件值",
+          "reported_value": 113.15,
+          "unit": "",
+          "raw_text": "| 较强恢复＋持续65%股利 | 113.15元 | 90.52元 |",
+          "line_number": 285,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#93"
+        },
+        {
+          "id": 94,
+          "label": "较强恢复＋持续65%股利 · 再留20%折价的价格参照",
+          "reported_value": 90.52,
+          "unit": "",
+          "raw_text": "| 较强恢复＋持续65%股利 | 113.15元 | 90.52元 |",
+          "line_number": 285,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#94"
+        },
+        {
+          "id": 95,
+          "label": "较强恢复有独立经营证据，现金实现仍不清楚 · 对新资金的含义",
+          "reported_value": 65.0,
+          "unit": "%",
+          "raw_text": "| 较强恢复有独立经营证据，现金实现仍不清楚 | 应区分能力值与65%股利值，不把两者混为保障 | 继续核验投入、期限和分配，避免因一个积极信号扩大风险 |",
+          "line_number": 304,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#95"
+        }
+      ],
+      "sample": [
+        {
+          "id": 4,
+          "label": "归母TTM利润 · 数值",
+          "reported_value": 91.7971,
+          "unit": "亿元",
+          "raw_text": "| 归母TTM利润 | 91.7971亿元 | 已披露滚动盈利，不是年度预测 |",
+          "line_number": 28,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#4"
+        },
+        {
+          "id": 9,
+          "label": "历史每股现金股息 · 数值",
+          "reported_value": 6.56,
+          "unit": "",
+          "raw_text": "| 历史每股现金股息 | 6.56元 | 已实施的2025年度分配 |",
+          "line_number": 33,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#9"
+        },
+        {
+          "id": 17,
+          "label": "基准 · 含逐年股利IRR",
+          "reported_value": 3.56,
+          "unit": "%",
+          "raw_text": "| 基准 | +2% | 16倍 | +3.56% | 114.51元 |",
+          "line_number": 88,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#17"
+        },
+        {
+          "id": 20,
+          "label": "较强恢复 · 第三年退出PE",
+          "reported_value": 20.0,
+          "unit": "倍",
+          "raw_text": "| 较强恢复 | +6% | 20倍 | +15.33% | 156.41元 |",
+          "line_number": 89,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#20"
+        },
+        {
+          "id": 31,
+          "label": "新增留存资本回报代理R · 压力",
+          "reported_value": 20.0,
+          "unit": "%",
+          "raw_text": "| 新增留存资本回报代理R | 20% | 20% | 20% |",
+          "line_number": 112,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#31"
+        },
+        {
+          "id": 54,
+          "label": "r=7% · 基准：65%股利现值",
+          "reported_value": 88.96,
+          "unit": "",
+          "raw_text": "| r=7% | 112.50元 | 88.96元 | 172.22元 | 137.29元 |",
+          "line_number": 187,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#54"
+        },
+        {
+          "id": 56,
+          "label": "r=7% · 较强：65%股利现值",
+          "reported_value": 137.29,
+          "unit": "",
+          "raw_text": "| r=7% | 112.50元 | 88.96元 | 172.22元 | 137.29元 |",
+          "line_number": 187,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#56"
+        },
+        {
+          "id": 57,
+          "label": "r=8% · 基准：能力现值",
+          "reported_value": 94.43,
+          "unit": "",
+          "raw_text": "| r=8% | 94.43元 | 76.04元 | 139.68元 | 113.15元 |",
+          "line_number": 188,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#57"
+        },
+        {
+          "id": 62,
+          "label": "r=9% · 基准：65%股利现值",
+          "reported_value": 66.36,
+          "unit": "",
+          "raw_text": "| r=9% | 81.03元 | 66.36元 | 116.72元 | 95.99元 |",
+          "line_number": 189,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#62"
+        },
+        {
+          "id": 64,
+          "label": "r=9% · 较强：65%股利现值",
+          "reported_value": 95.99,
+          "unit": "",
+          "raw_text": "| r=9% | 81.03元 | 66.36元 | 116.72元 | 95.99元 |",
+          "line_number": 189,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#64"
+        },
+        {
+          "id": 65,
+          "label": "r=10% · 基准：能力现值",
+          "reported_value": 70.75,
+          "unit": "",
+          "raw_text": "| r=10% | 70.75元 | 58.84元 | 99.73元 | 83.17元 |",
+          "line_number": 190,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#65"
+        },
+        {
+          "id": 71,
+          "label": "十年能力情景 · 固定的退出条件",
+          "reported_value": 1.0,
+          "unit": "%",
+          "raw_text": "| 十年能力情景 | 永续增长1%，留存资本回报代理20%，r=8% | 5.95% |",
+          "line_number": 221,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#71"
+        },
+        {
+          "id": 76,
+          "label": "国金证券 · 2027归母预测",
+          "reported_value": 100.23,
+          "unit": "亿元",
+          "raw_text": "| 国金证券 | 91.03亿元 | 100.23亿元 | 113.98亿元 | 2026年10月 |",
+          "line_number": 238,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#76"
+        },
+        {
+          "id": 80,
+          "label": "东吴证券 · 2027归母预测",
+          "reported_value": 109.8,
+          "unit": "亿元",
+          "raw_text": "| 东吴证券 | 99.80亿元 | 109.80亿元 | 123.26亿元 | 2026年8月 |",
+          "line_number": 239,
+          "report": "03-利润仍厚，买入门槛该怎么定.md",
+          "key": "03-利润仍厚，买入门槛该怎么定.md#80"
+        }
+      ]
+    }
+  ]
+}

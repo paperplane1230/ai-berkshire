@@ -1,0 +1,478 @@
+[
+  {
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2023",
+    "primary": "31928483054.02",
+    "secondary": "31928483054.02"
+  },
+  {
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2023",
+    "primary": "10438114410.47",
+    "secondary": "10438114410.47"
+  },
+  {
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2023",
+    "primary": "10444776853.20",
+    "secondary": "10444776853.2"
+  },
+  {
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2023",
+    "primary": "7225083460.39",
+    "secondary": "7225083460.39"
+  },
+  {
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2024",
+    "primary": "36010992321.46",
+    "secondary": "36010992321.46"
+  },
+  {
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2024",
+    "primary": "12242884323.77",
+    "secondary": "12242884323.77"
+  },
+  {
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2024",
+    "primary": "12245617493.36",
+    "secondary": "12245617493.36"
+  },
+  {
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2024",
+    "primary": "12172323337.21",
+    "secondary": "12172323337.21"
+  },
+  {
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2025",
+    "primary": "38718257657.74",
+    "secondary": "38718257657.74"
+  },
+  {
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2025",
+    "primary": "12246329337.25",
+    "secondary": "12246329337.25"
+  },
+  {
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2025",
+    "primary": "12253039162.88",
+    "secondary": "12253039162.88"
+  },
+  {
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2025",
+    "primary": "9013519822.15",
+    "secondary": "9013519822.15"
+  },
+  {
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2025H1",
+    "primary": "23963969151.59",
+    "secondary": "23963969151.59"
+  },
+  {
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2025H1",
+    "primary": "8505077281.27",
+    "secondary": "8505077281.27"
+  },
+  {
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2025H1",
+    "primary": "8516198151.26",
+    "secondary": "8516198151.26"
+  },
+  {
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2025H1",
+    "primary": "5980102739.72",
+    "secondary": "5980102739.72"
+  },
+  {
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2026H1",
+    "primary": "21044387808.34",
+    "secondary": "21044387808.34"
+  },
+  {
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2026H1",
+    "primary": "6439313574.11",
+    "secondary": "6439313574.11"
+  },
+  {
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2026H1",
+    "primary": "6439269103.86",
+    "secondary": "6439269103.86"
+  },
+  {
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2026H1",
+    "primary": "6651541581.85",
+    "secondary": "6651541581.85"
+  },
+  {
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2025YTD",
+    "primary": "32924416755.68",
+    "secondary": "32924416755.68"
+  },
+  {
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2025YTD",
+    "primary": "11404509070.80",
+    "secondary": "11404509070.8"
+  },
+  {
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2025YTD",
+    "primary": "11411294175.75",
+    "secondary": "11411294175.75"
+  },
+  {
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2025YTD",
+    "primary": "8982107362.78",
+    "secondary": "8982107362.78"
+  },
+  {
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2026YTD",
+    "primary": "28381899019.52",
+    "secondary": "28381899019.52"
+  },
+  {
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2026YTD",
+    "primary": "8337890045.39",
+    "secondary": "8337890045.39"
+  },
+  {
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2026YTD",
+    "primary": "8337084203.99",
+    "secondary": "8337084203.99"
+  },
+  {
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2026YTD",
+    "primary": "7934297538.90",
+    "secondary": "7934297538.9"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2021",
+    "primary": "19970986258.92",
+    "secondary": "19970986258.92"
+  },
+  {
+    "documented_restatement_difference": true,
+    "exact": false,
+    "field": "profit",
+    "passed": true,
+    "period": "2021",
+    "primary": "5313722203.61",
+    "secondary": "5313612016.46"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2021",
+    "primary": "5259396088.06",
+    "secondary": "5259396088.06"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2021",
+    "primary": "7645105077.97",
+    "secondary": "7645105077.97"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2022",
+    "primary": "26213860718.30",
+    "secondary": "26213860718.3"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2022",
+    "primary": "8095872133.44",
+    "secondary": "8095872133.44"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2022",
+    "primary": "8087317894.80",
+    "secondary": "8087317894.8"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2022",
+    "primary": "10310203977.44",
+    "secondary": "10310203977.44"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2023",
+    "primary": "31928483054.02",
+    "secondary": "31928483054.02"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2023",
+    "primary": "10438114410.47",
+    "secondary": "10438114410.47"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2023",
+    "primary": "10444776853.20",
+    "secondary": "10444776853.2"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2023",
+    "primary": "7225083460.39",
+    "secondary": "7225083460.39"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2024",
+    "primary": "36010992321.46",
+    "secondary": "36010992321.46"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2024",
+    "primary": "12242884323.77",
+    "secondary": "12242884323.77"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2024",
+    "primary": "12245617493.36",
+    "secondary": "12245617493.36"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2024",
+    "primary": "12172323337.21",
+    "secondary": "12172323337.21"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "revenue",
+    "passed": true,
+    "period": "2025",
+    "primary": "38718257657.74",
+    "secondary": "38718257657.74"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "profit",
+    "passed": true,
+    "period": "2025",
+    "primary": "12246329337.25",
+    "secondary": "12246329337.25"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "core",
+    "passed": true,
+    "period": "2025",
+    "primary": "12253039162.88",
+    "secondary": "12253039162.88"
+  },
+  {
+    "documented_restatement_difference": false,
+    "exact": true,
+    "field": "cfo",
+    "passed": true,
+    "period": "2025",
+    "primary": "9013519822.15",
+    "secondary": "9013519822.15"
+  },
+  {
+    "exact": true,
+    "field": "cash",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "6868478131.14",
+    "secondary": "6868478131.14"
+  },
+  {
+    "exact": true,
+    "field": "other_current_assets",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "21292211205.43",
+    "secondary": "21292211205.43"
+  },
+  {
+    "exact": true,
+    "field": "inventory",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "14361948909.64",
+    "secondary": "14361948909.64"
+  },
+  {
+    "exact": true,
+    "field": "contract_liabilities",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "5612681168.15",
+    "secondary": "5612681168.15"
+  },
+  {
+    "exact": true,
+    "field": "lease_liability",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "2036569358.37",
+    "secondary": "2036569358.37"
+  },
+  {
+    "exact": true,
+    "field": "current_noncurrent_debt",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "198881370.64",
+    "secondary": "198881370.64"
+  },
+  {
+    "exact": true,
+    "field": "right_of_use",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "2443785886.32",
+    "secondary": "2443785886.32"
+  },
+  {
+    "exact": true,
+    "field": "construction",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "3704576664.49",
+    "secondary": "3704576664.49"
+  },
+  {
+    "exact": true,
+    "field": "parent_equity",
+    "passed": true,
+    "period": "2026Q3 balance",
+    "primary": "39993802016.52",
+    "secondary": "39993802016.52"
+  }
+]
