@@ -1,0 +1,49 @@
+{
+  "source": "东方财富 RPT_VALUEANALYSIS_DET，非逐日原始数据库存档",
+  "urls": [
+    "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=TRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM%2CPE_LAR&filter=%28SECURITY_CODE%3D%22600887%22%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=500&pageNumber=1&source=WEB&client=WEB",
+    "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=TRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM%2CPE_LAR&filter=%28SECURITY_CODE%3D%22600887%22%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=500&pageNumber=2&source=WEB&client=WEB",
+    "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=TRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM%2CPE_LAR&filter=%28SECURITY_CODE%3D%22600887%22%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=500&pageNumber=3&source=WEB&client=WEB"
+  ],
+  "retrieved": "2026-11-24T21:12:05.649417+08:00",
+  "start": "2021-11-24",
+  "end": "2026-11-24",
+  "count": 1212,
+  "distinct_share_counts": 10,
+  "le_current": 712,
+  "current": "20.99370273",
+  "quantiles": {
+    ".10": "13.7129491050",
+    ".25": "15.5968603425",
+    ".50": "19.8609176050",
+    ".75": "22.9783912300",
+    ".90": "25.9323516900"
+  },
+  "check_rows": [
+    {
+      "TRADE_DATE": "2026-10-29 00:00:00",
+      "CLOSE_PRICE": "29.45",
+      "TOTAL_SHARES": 6325360667,
+      "TOTAL_MARKET_CAP": "186281871643.15",
+      "PE_TTM": "18.40126827",
+      "PE_LAR": "16.10715001"
+    },
+    {
+      "TRADE_DATE": "2026-10-30 00:00:00",
+      "CLOSE_PRICE": "30.15",
+      "TOTAL_SHARES": 6325360667,
+      "TOTAL_MARKET_CAP": "190709624110.05",
+      "PE_TTM": "19.18061023",
+      "PE_LAR": "16.49000247"
+    },
+    {
+      "TRADE_DATE": "2026-11-24 00:00:00",
+      "CLOSE_PRICE": 33,
+      "TOTAL_SHARES": 6325360667,
+      "TOTAL_MARKET_CAP": 208736902011,
+      "PE_TTM": "20.99370273",
+      "PE_LAR": "18.04875892"
+    }
+  ],
+  "canonical_series_hash": "487ea3b5f931dd5ac2439d9bc37bfd5c2bbce26333ba6ecb13ec29149653ea5e"
+}

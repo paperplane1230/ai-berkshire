@@ -1,7 +1,7 @@
 {
-  "count": 2540,
-  "published": 2321,
-  "drafts": 219,
+  "count": 2547,
+  "published": 2325,
+  "drafts": 222,
   "reports": [
     {
       "title": "MiniMax 投资研究｜87.40 港元买到的，是多大的盈利机会？",
@@ -12,6 +12,83 @@
       "type": "研究",
       "date": "2026-11-25",
       "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "第 01、02 篇：经营证据与换算口径",
+      "path": "reports/伊利股份/《看懂伊利股份》/核验/经营证据.md",
+      "bucket": "公司",
+      "group": "伊利股份",
+      "series": "《看懂伊利股份》",
+      "type": "底稿",
+      "date": "2026-11-24",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "五年分位与现金分红怎么查",
+      "path": "reports/伊利股份/《看懂伊利股份》/核验/历史估值与分配口径.md",
+      "bucket": "公司",
+      "group": "伊利股份",
+      "series": "《看懂伊利股份》",
+      "type": "底稿",
+      "date": "2026-11-24",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "33元买伊利，要靠多少利润兑现？",
+      "path": "reports/伊利股份/《看懂伊利股份》/04-股价要求怎样的盈利.md",
+      "bucket": "公司",
+      "group": "伊利股份",
+      "series": "《看懂伊利股份》",
+      "type": "深度系列",
+      "date": "2026-11-24",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "伊利多收的钱，有多少真能分给股东？",
+      "path": "reports/伊利股份/《看懂伊利股份》/03-现金如何到达股东.md",
+      "bucket": "公司",
+      "group": "伊利股份",
+      "series": "《看懂伊利股份》",
+      "type": "深度系列",
+      "date": "2026-11-24",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "奶粉的毛利更高，为什么收购澳优仍会亏？",
+      "path": "reports/伊利股份/《看懂伊利股份》/02-澳优与增长的代价.md",
+      "bucket": "公司",
+      "group": "伊利股份",
+      "series": "《看懂伊利股份》",
+      "type": "深度系列",
+      "date": "2026-11-24",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "一盒牛奶便宜了，伊利的护城河还在吗？",
+      "path": "reports/伊利股份/《看懂伊利股份》/01-液体乳的定价权.md",
+      "bucket": "公司",
+      "group": "伊利股份",
+      "series": "《看懂伊利股份》",
+      "type": "深度系列",
+      "date": "2026-11-24",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "《看懂伊利股份》系列说明",
+      "path": "reports/伊利股份/《看懂伊利股份》/00-系列说明.md",
+      "bucket": "公司",
+      "group": "伊利股份",
+      "series": "《看懂伊利股份》",
+      "type": "底稿",
+      "date": "2026-11-24",
+      "date_source": "正文",
       "ticker": ""
     },
     {

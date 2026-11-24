@@ -1,0 +1,32 @@
+{
+  "qq": {
+    "url": "https://qt.gtimg.cn/q=sh600887",
+    "retrieved_at": "2026-11-24T20:32:49.055556+08:00",
+    "sha256": "94639c810390f7f5cc83384545db284e029ad2c91341891404271052a2b379a6",
+    "bytes": 517
+  },
+  "sina-quote": {
+    "url": "https://hq.sinajs.cn/list=sh600887",
+    "retrieved_at": "2026-11-24T20:32:48.989319+08:00",
+    "sha256": "46d6e8e3f8aad84d0089935ebe17efbb1211ac4b5941cb1cb483ceaf5707e0bd",
+    "bytes": 271
+  },
+  "em-balance": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_BALANCE&columns=ALL&filter=(SECURITY_CODE%3D%22600887%22)&pageSize=28&sortColumns=REPORT_DATE&sortTypes=-1",
+    "retrieved_at": "2026-11-24T20:32:49.106316+08:00",
+    "sha256": "167457f0387aa995b52d24c199b82cd7a126847cc82bf36cc89757811f2dfd0d",
+    "bytes": 43149
+  },
+  "em-cash": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_CASHFLOW&columns=ALL&filter=(SECURITY_CODE%3D%22600887%22)&pageSize=28&sortColumns=REPORT_DATE&sortTypes=-1",
+    "retrieved_at": "2026-11-24T20:32:49.073264+08:00",
+    "sha256": "cb32c366220a001f8c7b0d8a8c06c75a11d82c8837ee10dc51b1e7113e7ddc2b",
+    "bytes": 36343
+  },
+  "em-indicators": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_INCOME&columns=ALL&filter=(SECURITY_CODE%3D%22600887%22)&pageSize=28&sortColumns=REPORT_DATE&sortTypes=-1",
+    "retrieved_at": "2026-11-24T20:32:49.019385+08:00",
+    "sha256": "e1fd146dd7623a1f172f63d02e70e146f398917ccb2e7d5dc589326a08ef0a50",
+    "bytes": 36795
+  }
+}

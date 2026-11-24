@@ -1,0 +1,27 @@
+[
+  {
+    "file": "00-系列说明.md",
+    "han_in_body": 1320,
+    "sha256": "eb114ca011fd200b69fb07106caaaa7f72f7a59279787494bdb70d21f624067f"
+  },
+  {
+    "file": "01-液体乳的定价权.md",
+    "han_in_body": 5680,
+    "sha256": "0fe433fbcb4dfad551c0d7d0e9e62c812a0579421b8daac5c2c80f807d64501e"
+  },
+  {
+    "file": "02-澳优与增长的代价.md",
+    "han_in_body": 5902,
+    "sha256": "3b1895d8f8d1bfb95d24ebc08d2125710e908e38c8f6a6cc02528ecc20db49c0"
+  },
+  {
+    "file": "03-现金如何到达股东.md",
+    "han_in_body": 4859,
+    "sha256": "f3425745d8f44aa093f91f5addf49361550445ecabd881b50aa64c392d4d9229"
+  },
+  {
+    "file": "04-股价要求怎样的盈利.md",
+    "han_in_body": 6907,
+    "sha256": "b3536b2f175afb7801de8d59d7e9b9cf7adf6028fbeaccac0f7eead5cee843bf"
+  }
+]

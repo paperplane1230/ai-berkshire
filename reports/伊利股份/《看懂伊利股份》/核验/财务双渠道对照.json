@@ -1,0 +1,834 @@
+[
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/revenue",
+    "filing_yuan": "93581518865.47",
+    "vendor_yuan": "93581518865.47",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME-INTEREST_NI"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/total_revenue",
+    "filing_yuan": "93813317667.45",
+    "vendor_yuan": "93813317667.45",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/profit",
+    "filing_yuan": "8803770151.52",
+    "vendor_yuan": "8803770151.52",
+    "table": "em-indicators",
+    "field_in_table": "PARENT_NETPROFIT"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/deduct",
+    "filing_yuan": "8532200099.99",
+    "vendor_yuan": "8532200099.99",
+    "table": "em-indicators",
+    "field_in_table": "DEDUCT_PARENT_NETPROFIT"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/ocf",
+    "filing_yuan": "15441464454.51",
+    "vendor_yuan": "15441464454.51",
+    "table": "em-cash",
+    "field_in_table": "NETCASH_OPERATE"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/capex",
+    "filing_yuan": "2118420324.67",
+    "vendor_yuan": "2118420324.67",
+    "table": "em-cash",
+    "field_in_table": "CONSTRUCT_LONG_ASSET"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/cost",
+    "filing_yuan": "60070897738.64",
+    "vendor_yuan": "60070897738.64",
+    "table": "em-indicators",
+    "field_in_table": "OPERATE_COST"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/operating",
+    "filing_yuan": "11276271481.53",
+    "vendor_yuan": "11276271481.53",
+    "table": "em-indicators",
+    "field_in_table": "OPERATE_PROFIT"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/pbt",
+    "filing_yuan": "11000146858.51",
+    "vendor_yuan": "11000146858.51",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_PROFIT"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/tax",
+    "filing_yuan": "2360792207.81",
+    "vendor_yuan": "2360792207.81",
+    "table": "em-indicators",
+    "field_in_table": "INCOME_TAX"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026ytd/sales",
+    "filing_yuan": "16752685169.50",
+    "vendor_yuan": "16752685169.5",
+    "table": "em-indicators",
+    "field_in_table": "SALE_EXPENSE"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/revenue",
+    "filing_yuan": "90340548118.19",
+    "vendor_yuan": "90340548118.19",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME-INTEREST_NI"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/total_revenue",
+    "filing_yuan": "90563616525.12",
+    "vendor_yuan": "90563616525.12",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/profit",
+    "filing_yuan": "10426102617.04",
+    "vendor_yuan": "10426102617.04",
+    "table": "em-indicators",
+    "field_in_table": "PARENT_NETPROFIT"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/deduct",
+    "filing_yuan": "10102781490.65",
+    "vendor_yuan": "10102781490.65",
+    "table": "em-indicators",
+    "field_in_table": "DEDUCT_PARENT_NETPROFIT"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/ocf",
+    "filing_yuan": "9399863342.62",
+    "vendor_yuan": "9399863342.62",
+    "table": "em-cash",
+    "field_in_table": "NETCASH_OPERATE"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/capex",
+    "filing_yuan": "2223010157.07",
+    "vendor_yuan": "2223010157.07",
+    "table": "em-cash",
+    "field_in_table": "CONSTRUCT_LONG_ASSET"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/cost",
+    "filing_yuan": "58429607227.03",
+    "vendor_yuan": "58429607227.03",
+    "table": "em-indicators",
+    "field_in_table": "OPERATE_COST"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/operating",
+    "filing_yuan": "12316850731.07",
+    "vendor_yuan": "12316850731.07",
+    "table": "em-indicators",
+    "field_in_table": "OPERATE_PROFIT"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/pbt",
+    "filing_yuan": "11880435449.38",
+    "vendor_yuan": "11880435449.38",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_PROFIT"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/tax",
+    "filing_yuan": "1460379990.17",
+    "vendor_yuan": "1460379990.17",
+    "table": "em-indicators",
+    "field_in_table": "INCOME_TAX"
+  },
+  {
+    "period": "2025-09-30",
+    "field": "2025ytd/sales",
+    "filing_yuan": "16552963553.94",
+    "vendor_yuan": "16552963553.94",
+    "table": "em-indicators",
+    "field_in_table": "SALE_EXPENSE"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/revenue",
+    "filing_yuan": "64330936547.38",
+    "vendor_yuan": "64330936547.38",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME-INTEREST_NI"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/total_revenue",
+    "filing_yuan": "64489715236.16",
+    "vendor_yuan": "64489715236.16",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/profit",
+    "filing_yuan": "5758628097.79",
+    "vendor_yuan": "5758628097.79",
+    "table": "em-indicators",
+    "field_in_table": "PARENT_NETPROFIT"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/deduct",
+    "filing_yuan": "5595762517.76",
+    "vendor_yuan": "5595762517.76",
+    "table": "em-indicators",
+    "field_in_table": "DEDUCT_PARENT_NETPROFIT"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/ocf",
+    "filing_yuan": "9759147483.18",
+    "vendor_yuan": "9759147483.18",
+    "table": "em-cash",
+    "field_in_table": "NETCASH_OPERATE"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/capex",
+    "filing_yuan": "1304262044.68",
+    "vendor_yuan": "1304262044.68",
+    "table": "em-cash",
+    "field_in_table": "CONSTRUCT_LONG_ASSET"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/cost",
+    "filing_yuan": "40894077275.25",
+    "vendor_yuan": "40894077275.25",
+    "table": "em-indicators",
+    "field_in_table": "OPERATE_COST"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/operating",
+    "filing_yuan": "7512386765.46",
+    "vendor_yuan": "7512386765.46",
+    "table": "em-indicators",
+    "field_in_table": "OPERATE_PROFIT"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/pbt",
+    "filing_yuan": "7314474445.37",
+    "vendor_yuan": "7314474445.37",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_PROFIT"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/tax",
+    "filing_yuan": "1790782129.57",
+    "vendor_yuan": "1790782129.57",
+    "table": "em-indicators",
+    "field_in_table": "INCOME_TAX"
+  },
+  {
+    "period": "2026-06-30",
+    "field": "2026h1/sales",
+    "filing_yuan": "11432167134.28",
+    "vendor_yuan": "11432167134.28",
+    "table": "em-indicators",
+    "field_in_table": "SALE_EXPENSE"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/revenue",
+    "filing_yuan": "61776746682.68",
+    "vendor_yuan": "61776746682.68",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME-INTEREST_NI"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/total_revenue",
+    "filing_yuan": "61932792650.11",
+    "vendor_yuan": "61932792650.11",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/profit",
+    "filing_yuan": "7200477611.91",
+    "vendor_yuan": "7200477611.91",
+    "table": "em-indicators",
+    "field_in_table": "PARENT_NETPROFIT"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/deduct",
+    "filing_yuan": "7016349502.87",
+    "vendor_yuan": "7016349502.87",
+    "table": "em-indicators",
+    "field_in_table": "DEDUCT_PARENT_NETPROFIT"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/ocf",
+    "filing_yuan": "2964215363.27",
+    "vendor_yuan": "2964215363.27",
+    "table": "em-cash",
+    "field_in_table": "NETCASH_OPERATE"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/capex",
+    "filing_yuan": "1452716041.52",
+    "vendor_yuan": "1452716041.52",
+    "table": "em-cash",
+    "field_in_table": "CONSTRUCT_LONG_ASSET"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/cost",
+    "filing_yuan": "39509196192.71",
+    "vendor_yuan": "39509196192.71",
+    "table": "em-indicators",
+    "field_in_table": "OPERATE_COST"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/operating",
+    "filing_yuan": "8586277169.84",
+    "vendor_yuan": "8586277169.84",
+    "table": "em-indicators",
+    "field_in_table": "OPERATE_PROFIT"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/pbt",
+    "filing_yuan": "8274286309.15",
+    "vendor_yuan": "8274286309.15",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_PROFIT"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/tax",
+    "filing_yuan": "1038842756.54",
+    "vendor_yuan": "1038842756.54",
+    "table": "em-indicators",
+    "field_in_table": "INCOME_TAX"
+  },
+  {
+    "period": "2025-06-30",
+    "field": "2025h1/sales",
+    "filing_yuan": "11334120830.98",
+    "vendor_yuan": "11334120830.98",
+    "table": "em-indicators",
+    "field_in_table": "SALE_EXPENSE"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "2023/revenue",
+    "filing_yuan": "125758168916.51",
+    "vendor_yuan": "125758168916.51",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME-INTEREST_NI"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "2023/profit",
+    "filing_yuan": "10428540457.94",
+    "vendor_yuan": "10428540457.94",
+    "table": "em-indicators",
+    "field_in_table": "PARENT_NETPROFIT"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "2023/deduct",
+    "filing_yuan": "10026171076.03",
+    "vendor_yuan": "10026171076.03",
+    "table": "em-indicators",
+    "field_in_table": "DEDUCT_PARENT_NETPROFIT"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "2023/ocf",
+    "filing_yuan": "18290357650.56",
+    "vendor_yuan": "18290357650.56",
+    "table": "em-cash",
+    "field_in_table": "NETCASH_OPERATE"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "2024/revenue",
+    "filing_yuan": "115393310976.69",
+    "vendor_yuan": "115393310976.69",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME-INTEREST_NI"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "2024/profit",
+    "filing_yuan": "8452859993.18",
+    "vendor_yuan": "8452859993.18",
+    "table": "em-indicators",
+    "field_in_table": "PARENT_NETPROFIT"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "2024/deduct",
+    "filing_yuan": "6011274945.92",
+    "vendor_yuan": "6011274945.92",
+    "table": "em-indicators",
+    "field_in_table": "DEDUCT_PARENT_NETPROFIT"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "2024/ocf",
+    "filing_yuan": "21739740393.38",
+    "vendor_yuan": "21739740393.38",
+    "table": "em-cash",
+    "field_in_table": "NETCASH_OPERATE"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025/revenue",
+    "filing_yuan": "115636231250.05",
+    "vendor_yuan": "115636231250.05",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME-INTEREST_NI"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025/total_revenue",
+    "filing_yuan": "115931105774.99",
+    "vendor_yuan": "115931105774.99",
+    "table": "em-indicators",
+    "field_in_table": "TOTAL_OPERATE_INCOME"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025/profit",
+    "filing_yuan": "11565166497.81",
+    "vendor_yuan": "11565166497.81",
+    "table": "em-indicators",
+    "field_in_table": "PARENT_NETPROFIT"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025/deduct",
+    "filing_yuan": "11068321695.12",
+    "vendor_yuan": "11068321695.12",
+    "table": "em-indicators",
+    "field_in_table": "DEDUCT_PARENT_NETPROFIT"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025/ocf",
+    "filing_yuan": "14343920490.32",
+    "vendor_yuan": "14343920490.32",
+    "table": "em-cash",
+    "field_in_table": "NETCASH_OPERATE"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025/capex",
+    "filing_yuan": "3036644156.68",
+    "vendor_yuan": "3036644156.68",
+    "table": "em-cash",
+    "field_in_table": "CONSTRUCT_LONG_ASSET"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026q3/cash",
+    "filing_yuan": "17282182964.00",
+    "vendor_yuan": "17282182964",
+    "table": "em-balance",
+    "field_in_table": "MONETARYFUNDS"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026q3/ar",
+    "filing_yuan": "3696369989.01",
+    "vendor_yuan": "3696369989.01",
+    "table": "em-balance",
+    "field_in_table": "ACCOUNTS_RECE"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026q3/inventory",
+    "filing_yuan": "8676204480.80",
+    "vendor_yuan": "8676204480.8",
+    "table": "em-balance",
+    "field_in_table": "INVENTORY"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026q3/payables",
+    "filing_yuan": "12570640917.12",
+    "vendor_yuan": "12570640917.12",
+    "table": "em-balance",
+    "field_in_table": "ACCOUNTS_PAYABLE"
+  },
+  {
+    "period": "2026-09-30",
+    "field": "2026q3/assets",
+    "filing_yuan": "157051584640.01",
+    "vendor_yuan": "157051584640.01",
+    "table": "em-balance",
+    "field_in_table": "TOTAL_ASSETS"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025end/cash",
+    "filing_yuan": "19494920358.00",
+    "vendor_yuan": "19494920358",
+    "table": "em-balance",
+    "field_in_table": "MONETARYFUNDS"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025end/ar",
+    "filing_yuan": "2987426531.59",
+    "vendor_yuan": "2987426531.59",
+    "table": "em-balance",
+    "field_in_table": "ACCOUNTS_RECE"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025end/inventory",
+    "filing_yuan": "10823125184.53",
+    "vendor_yuan": "10823125184.53",
+    "table": "em-balance",
+    "field_in_table": "INVENTORY"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "2025end/payables",
+    "filing_yuan": "11479437770.67",
+    "vendor_yuan": "11479437770.67",
+    "table": "em-balance",
+    "field_in_table": "ACCOUNTS_PAYABLE"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "2024end/ar",
+    "filing_yuan": "2878402047.44",
+    "vendor_yuan": "2878402047.44",
+    "table": "em-balance",
+    "field_in_table": "ACCOUNTS_RECE"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "2024end/inventory",
+    "filing_yuan": "10744674420.37",
+    "vendor_yuan": "10744674420.37",
+    "table": "em-balance",
+    "field_in_table": "INVENTORY"
+  },
+  {
+    "period": "2021-12-31",
+    "field": "营业收入",
+    "filing_yuan": "110143986386.03",
+    "vendor_yuan": "110143986386.03",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2021-12-31",
+    "field": "归属于上市公司股东的净利润",
+    "filing_yuan": "8704915103.95",
+    "vendor_yuan": "8704915103.95",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2021-12-31",
+    "field": "归属于上市公司股东的扣除非经常性损益的净利润",
+    "filing_yuan": "7943784753.50",
+    "vendor_yuan": "7943784753.5",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2021-12-31",
+    "field": "经营活动产生的现金流量净额",
+    "filing_yuan": "15527519680.07",
+    "vendor_yuan": "15527519680.07",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2021-12-31",
+    "field": "购建固定资产、无形资产和其他长期资产支付的现金",
+    "filing_yuan": "6682734083.34",
+    "vendor_yuan": "6682734083.34",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2021-12-31",
+    "field": "营业成本",
+    "filing_yuan": "76416705532.38",
+    "vendor_yuan": "76416705532.38",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2021-12-31",
+    "field": "三、营业利润（亏损以“－”号填列）",
+    "filing_yuan": "10230310826.96",
+    "vendor_yuan": "10230310826.96",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2021-12-31",
+    "field": "销售费用",
+    "filing_yuan": "19314809749.71",
+    "vendor_yuan": "19314809749.71",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2022-12-31",
+    "field": "营业收入",
+    "filing_yuan": "122698004080.99",
+    "vendor_yuan": "122698004080.99",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2022-12-31",
+    "field": "归属于上市公司股东的净利润",
+    "filing_yuan": "9431064679.78",
+    "vendor_yuan": "9431064679.78",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2022-12-31",
+    "field": "归属于上市公司股东的扣除非经常性损益的净利润",
+    "filing_yuan": "8585692731.44",
+    "vendor_yuan": "8585692731.44",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2022-12-31",
+    "field": "经营活动产生的现金流量净额",
+    "filing_yuan": "13420320580.36",
+    "vendor_yuan": "13420320580.36",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2022-12-31",
+    "field": "购建固定资产、无形资产和其他长期资产支付的现金",
+    "filing_yuan": "6646107588.62",
+    "vendor_yuan": "6646107588.62",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2022-12-31",
+    "field": "营业成本",
+    "filing_yuan": "83118546374.24",
+    "vendor_yuan": "83118546374.24",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2022-12-31",
+    "field": "三、营业利润（亏损以“－”号填列）",
+    "filing_yuan": "10859972956.00",
+    "vendor_yuan": "10859972956",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2022-12-31",
+    "field": "销售费用",
+    "filing_yuan": "22908208330.35",
+    "vendor_yuan": "22908208330.35",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "营业收入",
+    "filing_yuan": "125758168916.51",
+    "vendor_yuan": "125758168916.51",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "归属于上市公司股东的净利润",
+    "filing_yuan": "10428540457.94",
+    "vendor_yuan": "10428540457.94",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "归属于上市公司股东的扣除非经常性损益的净利润",
+    "filing_yuan": "10026171076.03",
+    "vendor_yuan": "10026171076.03",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "经营活动产生的现金流量净额",
+    "filing_yuan": "18290357650.56",
+    "vendor_yuan": "18290357650.56",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "购建固定资产、无形资产和其他长期资产支付的现金",
+    "filing_yuan": "6955597704.25",
+    "vendor_yuan": "6955597704.25",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "营业成本",
+    "filing_yuan": "84788592077.34",
+    "vendor_yuan": "84788592077.34",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "三、营业利润（亏损以“－”号填列）",
+    "filing_yuan": "11873304166.44",
+    "vendor_yuan": "11873304166.44",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2023-12-31",
+    "field": "销售费用",
+    "filing_yuan": "22571509868.48",
+    "vendor_yuan": "22571509868.48",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "营业收入",
+    "filing_yuan": "115393310976.69",
+    "vendor_yuan": "115393310976.69",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "归属于上市公司股东的净利润",
+    "filing_yuan": "8452859993.18",
+    "vendor_yuan": "8452859993.18",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "归属于上市公司股东的扣除非经常性损益的净利润",
+    "filing_yuan": "6011274945.92",
+    "vendor_yuan": "6011274945.92",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "经营活动产生的现金流量净额",
+    "filing_yuan": "21739740393.38",
+    "vendor_yuan": "21739740393.38",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "购建固定资产、无形资产和其他长期资产支付的现金",
+    "filing_yuan": "3978318320.96",
+    "vendor_yuan": "3978318320.96",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "营业成本",
+    "filing_yuan": "76298833033.93",
+    "vendor_yuan": "76298833033.93",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "三、营业利润（亏损以“－”号填列）",
+    "filing_yuan": "10181768860.25",
+    "vendor_yuan": "10181768860.25",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2024-12-31",
+    "field": "销售费用",
+    "filing_yuan": "21982305923.27",
+    "vendor_yuan": "21982305923.27",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "营业收入",
+    "filing_yuan": "115636231250.05",
+    "vendor_yuan": "115636231250.05",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "归属于上市公司股东的净利润",
+    "filing_yuan": "11565166497.81",
+    "vendor_yuan": "11565166497.81",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "归属于上市公司股东的扣除非经常性损益的净利润",
+    "filing_yuan": "11068321695.12",
+    "vendor_yuan": "11068321695.12",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "经营活动产生的现金流量净额",
+    "filing_yuan": "14343920490.32",
+    "vendor_yuan": "14343920490.32",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "购建固定资产、无形资产和其他长期资产支付的现金",
+    "filing_yuan": "3036644156.68",
+    "vendor_yuan": "3036644156.68",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "营业成本",
+    "filing_yuan": "75653843800.99",
+    "vendor_yuan": "75653843800.99",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "三、营业利润（亏损以“－”号填列）",
+    "filing_yuan": "13527806620.67",
+    "vendor_yuan": "13527806620.67",
+    "table": "em-indicators/em-cash"
+  },
+  {
+    "period": "2025-12-31",
+    "field": "销售费用",
+    "filing_yuan": "21544580668.38",
+    "vendor_yuan": "21544580668.38",
+    "table": "em-indicators/em-cash"
+  }
+]

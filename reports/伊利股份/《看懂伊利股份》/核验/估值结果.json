@@ -1,0 +1,258 @@
+{
+  "snapshot": {
+    "price": "33.00",
+    "cap_yi": "2087.37",
+    "ttm_profit": "99.43",
+    "ttm_deduct": "94.98",
+    "eps": "1.57",
+    "deductEPS": "1.50",
+    "pe": "20.99",
+    "deductPE": "21.98",
+    "divyield": "4.18",
+    "ttmFCF": "174.53",
+    "ttmFCFyield": "8.36",
+    "pb": "3.67",
+    "ttmRevenue": "1188.77",
+    "ps": "1.76"
+  },
+  "scenarios": {
+    "压力": {
+      "eps3": "1.57",
+      "dps1": "1.22",
+      "dps3total": "3.11",
+      "exit3": "20.43",
+      "pv3": "18.91",
+      "irr3": "-11.11",
+      "eps10": "1.57",
+      "pe10": "12.50",
+      "pv10": "15.69",
+      "irr10": "-1.36",
+      "terminalPVshare": "58.02"
+    },
+    "经营改善": {
+      "eps3": "1.87",
+      "dps1": "1.25",
+      "dps3total": "3.98",
+      "exit3": "29.95",
+      "pv3": "27.19",
+      "irr3": "0.97",
+      "eps10": "2.30",
+      "pe10": "13.27",
+      "pv10": "24.18",
+      "irr10": "3.97",
+      "terminalPVshare": "59.09"
+    },
+    "顺利修复": {
+      "eps3": "2.09",
+      "dps1": "1.38",
+      "dps3total": "4.58",
+      "exit3": "41.84",
+      "pv3": "37.13",
+      "irr3": "12.49",
+      "eps10": "2.75",
+      "pe10": "14.29",
+      "pv10": "30.52",
+      "irr10": "6.97",
+      "terminalPVshare": "60.89"
+    }
+  },
+  "sensitivity": {
+    "压力": {
+      "6.00": {
+        "irr": "0.97",
+        "pv": "21.83",
+        "pe": "16.67",
+        "spread_pp": "6.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "7.00": {
+        "irr": "-0.30",
+        "pv": "18.30",
+        "pe": "14.29",
+        "spread_pp": "7.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "8.00": {
+        "irr": "-1.36",
+        "pv": "15.69",
+        "pe": "12.50",
+        "spread_pp": "8.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "9.00": {
+        "irr": "-2.28",
+        "pv": "13.68",
+        "pe": "11.11",
+        "spread_pp": "9.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "10.00": {
+        "irr": "-3.07",
+        "pv": "12.11",
+        "pe": "10.00",
+        "spread_pp": "10.00",
+        "spread_ok": true,
+        "currency_band": false,
+        "meets_r": false
+      }
+    },
+    "经营改善": {
+      "6.00": {
+        "irr": "6.74",
+        "pv": "35.02",
+        "pe": "18.57",
+        "spread_pp": "5.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": true
+      },
+      "7.00": {
+        "irr": "5.21",
+        "pv": "28.68",
+        "pe": "15.48",
+        "spread_pp": "6.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "8.00": {
+        "irr": "3.97",
+        "pv": "24.18",
+        "pe": "13.27",
+        "spread_pp": "7.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "9.00": {
+        "irr": "2.93",
+        "pv": "20.84",
+        "pe": "11.61",
+        "spread_pp": "8.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "10.00": {
+        "irr": "2.05",
+        "pv": "18.26",
+        "pe": "10.32",
+        "spread_pp": "9.00",
+        "spread_ok": true,
+        "currency_band": false,
+        "meets_r": false
+      }
+    },
+    "顺利修复": {
+      "6.00": {
+        "irr": "10.41",
+        "pv": "46.79",
+        "pe": "21.43",
+        "spread_pp": "4.00",
+        "spread_ok": false,
+        "currency_band": true,
+        "meets_r": true
+      },
+      "7.00": {
+        "irr": "8.48",
+        "pv": "37.01",
+        "pe": "17.14",
+        "spread_pp": "5.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": true
+      },
+      "8.00": {
+        "irr": "6.97",
+        "pv": "30.52",
+        "pe": "14.29",
+        "spread_pp": "6.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "9.00": {
+        "irr": "5.76",
+        "pv": "25.90",
+        "pe": "12.24",
+        "spread_pp": "7.00",
+        "spread_ok": true,
+        "currency_band": true,
+        "meets_r": false
+      },
+      "10.00": {
+        "irr": "4.74",
+        "pv": "22.45",
+        "pe": "10.71",
+        "spread_pp": "8.00",
+        "spread_ok": true,
+        "currency_band": false,
+        "meets_r": false
+      }
+    }
+  },
+  "reverse_and_alternatives": {
+    "implied_growth_first3": "18.14",
+    "implied_normal_eps": "2.15",
+    "implied_normal_profit": "135.69",
+    "required_pe3": "19.91",
+    "base_fixed_payout_pv": "21.43",
+    "base_fixed_payout_irr": "2.33",
+    "base_deduct_pv": "23.12",
+    "stress_without_policy": "15.43",
+    "FY25EPS": "1.83",
+    "FY25StartingPV": "28.13",
+    "FY25StartingIRR": "5.89",
+    "baseMargin20": "19.34",
+    "min75ForwardReturn": "24.00",
+    "implied_eps3": "2.59",
+    "implied_profit3": "163.93",
+    "static_fy25_pe": "18.05",
+    "baseAt8DividendPV": "9.89",
+    "baseAt8TerminalPV": "14.29",
+    "baseExit10": "30.85",
+    "baseExit3PV": "23.78",
+    "baseDPS3PV": "3.41",
+    "baseExtraInterimIllustrativePV": "0.42"
+  },
+  "base_cash_ladder": [
+    {
+      "year": 1,
+      "eps": "1.67",
+      "dividends": "1.25",
+      "dividend_pv": "1.16"
+    },
+    {
+      "year": 2,
+      "eps": "1.77",
+      "dividends": "1.32",
+      "dividend_pv": "1.14"
+    },
+    {
+      "year": 3,
+      "eps": "1.87",
+      "dividends": "1.40",
+      "dividend_pv": "1.11"
+    },
+    {
+      "year": 5,
+      "eps": "1.99",
+      "dividends": "1.49",
+      "dividend_pv": "1.01"
+    },
+    {
+      "year": 10,
+      "eps": "2.30",
+      "dividends": "1.73",
+      "dividend_pv": "0.80"
+    }
+  ]
+}
