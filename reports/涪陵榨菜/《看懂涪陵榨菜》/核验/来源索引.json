@@ -1,0 +1,50 @@
+{
+  "qq": {
+    "url": "https://qt.gtimg.cn/q=sz002507",
+    "retrieved_at": "2026-11-26T19:27:44.890297+08:00",
+    "sha256": "ac3620bd9fbc4fb0b86fec2954de006a5d1049f76211340c5254235c0c072ffa",
+    "bytes": 496
+  },
+  "sina": {
+    "url": "https://hq.sinajs.cn/list=sz002507",
+    "retrieved_at": "2026-11-26T19:27:44.820881+08:00",
+    "sha256": "1d68105763ed3cd67fff5a0045c5c7336a7ee8aca129c4fbf4bfbc7b04df6a4e",
+    "bytes": 262
+  },
+  "balance": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_BALANCE&columns=ALL&filter=%28SECURITY_CODE%3D%22002507%22%29&pageSize=28&sortColumns=REPORT_DATE&sortTypes=-1",
+    "retrieved_at": "2026-11-26T19:27:44.859143+08:00",
+    "sha256": "f19a12ae9b078b8ba0516d67edfe0064c86ebe76eca4834350398c25fd1994f8",
+    "bytes": 43107
+  },
+  "income": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_INCOME&columns=ALL&filter=%28SECURITY_CODE%3D%22002507%22%29&pageSize=28&sortColumns=REPORT_DATE&sortTypes=-1",
+    "retrieved_at": "2026-11-26T19:27:44.811401+08:00",
+    "sha256": "a19b81723c378ab95e46af891b49ef73283ff9b905966ff65f75d92c80d020da",
+    "bytes": 36010
+  },
+  "cash": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_DMSK_FN_CASHFLOW&columns=ALL&filter=%28SECURITY_CODE%3D%22002507%22%29&pageSize=28&sortColumns=REPORT_DATE&sortTypes=-1",
+    "retrieved_at": "2026-11-26T19:27:44.800482+08:00",
+    "sha256": "b0aded2c7a918f209a914d61c8342b4fc920f59f8392f28bba245d4e8b7b1983",
+    "bytes": 36109
+  },
+  "pe1": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=TRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM%2CPE_LAR&filter=%28SECURITY_CODE%3D%22002507%22%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=500&pageNumber=1",
+    "retrieved_at": "2026-11-26T19:27:44.967005+08:00",
+    "sha256": "fbeb8fe4242d00621af59e5cf027fb4fd977cb0e68725e721ced5c1f661e2378",
+    "bytes": 79352
+  },
+  "pe2": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=TRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM%2CPE_LAR&filter=%28SECURITY_CODE%3D%22002507%22%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=500&pageNumber=2",
+    "retrieved_at": "2026-11-26T19:27:45.150785+08:00",
+    "sha256": "243bc793ba8810b1bb95d6038495a74018adcfea4fabe6d7cf079bd483659187",
+    "bytes": 79152
+  },
+  "pe3": {
+    "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=TRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM%2CPE_LAR&filter=%28SECURITY_CODE%3D%22002507%22%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=500&pageNumber=3",
+    "retrieved_at": "2026-11-26T19:27:45.052802+08:00",
+    "sha256": "5d825584f5bf7ec8126b2567528d7af9df46d1742aba8ba6b7f3cbba02e9ee69",
+    "bytes": 78692
+  }
+}

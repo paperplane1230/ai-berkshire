@@ -1,8 +1,63 @@
 {
-  "count": 2547,
-  "published": 2325,
-  "drafts": 222,
+  "count": 2552,
+  "published": 2328,
+  "drafts": 224,
   "reports": [
+    {
+      "title": "核心榨菜与券商模型：一页数字口径表",
+      "path": "reports/涪陵榨菜/《看懂涪陵榨菜》/核验/校对事实.md",
+      "bucket": "公司",
+      "group": "涪陵榨菜",
+      "series": "《看懂涪陵榨菜》",
+      "type": "底稿",
+      "date": "2026-11-26",
+      "date_source": "front-matter",
+      "ticker": "002507.SZ"
+    },
+    {
+      "title": "11.58元买乌江，账上的钱能给股东多少？",
+      "path": "reports/涪陵榨菜/《看懂涪陵榨菜》/03-现金与买入价格.md",
+      "bucket": "公司",
+      "group": "涪陵榨菜",
+      "series": "《看懂涪陵榨菜》",
+      "type": "深度系列",
+      "date": "2026-11-26",
+      "date_source": "front-matter",
+      "ticker": "002507.SZ"
+    },
+    {
+      "title": "同一个基地，为什么要算两笔投资账？",
+      "path": "reports/涪陵榨菜/《看懂涪陵榨菜》/02-两期基地的投资账.md",
+      "bucket": "公司",
+      "group": "涪陵榨菜",
+      "series": "《看懂涪陵榨菜》",
+      "type": "深度系列",
+      "date": "2026-11-26",
+      "date_source": "front-matter",
+      "ticker": "002507.SZ"
+    },
+    {
+      "title": "一吨榨菜卖贵了，为什么一年留下的毛利反而少了？",
+      "path": "reports/涪陵榨菜/《看懂涪陵榨菜》/01-一吨榨菜的定价权.md",
+      "bucket": "公司",
+      "group": "涪陵榨菜",
+      "series": "《看懂涪陵榨菜》",
+      "type": "深度系列",
+      "date": "2026-11-26",
+      "date_source": "front-matter",
+      "ticker": "002507.SZ"
+    },
+    {
+      "title": "《看懂涪陵榨菜》系列说明",
+      "path": "reports/涪陵榨菜/《看懂涪陵榨菜》/00-系列说明.md",
+      "bucket": "公司",
+      "group": "涪陵榨菜",
+      "series": "《看懂涪陵榨菜》",
+      "type": "底稿",
+      "date": "2026-11-26",
+      "date_source": "正文",
+      "ticker": "002507.SZ"
+    },
     {
       "title": "MiniMax 投资研究｜87.40 港元买到的，是多大的盈利机会？",
       "path": "reports/MINIMAX/MiniMax研究报告-20261125.md",

@@ -1,0 +1,94 @@
+{
+  "start": "2021-11-26",
+  "end": "2026-11-26",
+  "count": 1212,
+  "le_current": 418,
+  "quantiles": {
+    ".10": "17.4101860440",
+    ".25": "18.5643054550",
+    ".50": "19.5816199550",
+    ".75": "24.3386083200",
+    ".90": "38.4344500110"
+  },
+  "sample_rows": [
+    {
+      "TRADE_DATE": "2026-10-27 00:00:00",
+      "CLOSE_PRICE": "11.22",
+      "TOTAL_SHARES": 1153919028,
+      "TOTAL_MARKET_CAP": "12946971494.16",
+      "PE_TTM": "17.58315674",
+      "PE_LAR": "16.85728866"
+    },
+    {
+      "TRADE_DATE": "2026-10-28 00:00:00",
+      "CLOSE_PRICE": "11.23",
+      "TOTAL_SHARES": 1153919028,
+      "TOTAL_MARKET_CAP": "12958510684.44",
+      "PE_TTM": "18.27830789",
+      "PE_LAR": "16.87231298"
+    },
+    {
+      "TRADE_DATE": "2026-11-26 00:00:00",
+      "CLOSE_PRICE": "11.58",
+      "TOTAL_SHARES": 1153919028,
+      "TOTAL_MARKET_CAP": "13362382344.24",
+      "PE_TTM": "18.8479791",
+      "PE_LAR": "17.39816423"
+    }
+  ],
+  "series_sha256": "2c0ca45db4fbb9a1adee042636f359a26c8e10d885eba36175010d6dbb473096",
+  "peer_samples": [
+    {
+      "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=SECURITY_CODE%2CTRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM&filter=%28SECURITY_CODE%3D%22002507%22%29%28TRADE_DATE%3D%272026-11-26%27%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=2&pageNumber=1",
+      "retrieved": "2026-11-26T20:54:32.243508+08:00",
+      "sha256": "9973e8f34eaaefcc95e4cfafc74795449fa0149c5852cecd3593b7d4998e7b46",
+      "row": {
+        "SECURITY_CODE": "002507",
+        "TRADE_DATE": "2026-11-26 00:00:00",
+        "CLOSE_PRICE": "11.58",
+        "TOTAL_SHARES": 1153919028,
+        "TOTAL_MARKET_CAP": "13362382344.24",
+        "PE_TTM": "18.8479791"
+      }
+    },
+    {
+      "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=SECURITY_CODE%2CTRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM&filter=%28SECURITY_CODE%3D%22603288%22%29%28TRADE_DATE%3D%272026-11-26%27%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=2&pageNumber=1",
+      "retrieved": "2026-11-26T20:54:32.476755+08:00",
+      "sha256": "a7998974aa95e57b45e838338f73fd06d42e703a0e6538c8e8b4ddc40067a266",
+      "row": {
+        "SECURITY_CODE": "603288",
+        "TRADE_DATE": "2026-11-26 00:00:00",
+        "CLOSE_PRICE": "35.49",
+        "TOTAL_SHARES": 5843973444,
+        "TOTAL_MARKET_CAP": "207402617527.56",
+        "PE_TTM": "29.20970495"
+      }
+    },
+    {
+      "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=SECURITY_CODE%2CTRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM&filter=%28SECURITY_CODE%3D%22603027%22%29%28TRADE_DATE%3D%272026-11-26%27%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=2&pageNumber=1",
+      "retrieved": "2026-11-26T20:54:32.250355+08:00",
+      "sha256": "7b41b6db9223895d98d44c1e5816cfdf1abc90cea742af552b91be48025bd25b",
+      "row": {
+        "SECURITY_CODE": "603027",
+        "TRADE_DATE": "2026-11-26 00:00:00",
+        "CLOSE_PRICE": "6.5",
+        "TOTAL_SHARES": 1330738612,
+        "TOTAL_MARKET_CAP": 8649800978,
+        "PE_TTM": "25.89260594"
+      }
+    },
+    {
+      "url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_VALUEANALYSIS_DET&columns=SECURITY_CODE%2CTRADE_DATE%2CCLOSE_PRICE%2CTOTAL_SHARES%2CTOTAL_MARKET_CAP%2CPE_TTM&filter=%28SECURITY_CODE%3D%22600305%22%29%28TRADE_DATE%3D%272026-11-26%27%29&sortColumns=TRADE_DATE&sortTypes=-1&pageSize=2&pageNumber=1",
+      "retrieved": "2026-11-26T20:54:32.235574+08:00",
+      "sha256": "297b376852c0b66a5247a548b06f98a9f65c42118b2f72250f28203ab0f6c34d",
+      "row": {
+        "SECURITY_CODE": "600305",
+        "TRADE_DATE": "2026-11-26 00:00:00",
+        "CLOSE_PRICE": "6.64",
+        "TOTAL_SHARES": 1104669668,
+        "TOTAL_MARKET_CAP": "7335006595.52",
+        "PE_TTM": "48.38864515"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "file": "00-系列说明.md",
+    "han_in_body": 1379,
+    "sha256": "97e42f15a4fab9658b590e6974d0fe8200dea753f3631fd2c2afa4667306c8b4"
+  },
+  {
+    "file": "01-一吨榨菜的定价权.md",
+    "han_in_body": 9137,
+    "sha256": "ac5545b1d19a1b1babc8d9efb8ba9ca35f04aa72f78b5af71afbd1baec4d1a66"
+  },
+  {
+    "file": "02-两期基地的投资账.md",
+    "han_in_body": 8516,
+    "sha256": "92e9130d652b4343840cd17a7075dad3ab799376bfc868b05d9c19dafcb094bf"
+  },
+  {
+    "file": "03-现金与买入价格.md",
+    "han_in_body": 11953,
+    "sha256": "503149ce49dce5952b311a81c69441d235c3d34d7bbfbc24df2d5d0e70c40bea"
+  }
+]

@@ -1,0 +1,386 @@
+{
+  "annual": {
+    "2021": {
+      "revenue": "2518647389.14",
+      "cost": "1199939736.71",
+      "profit": "741958457.29",
+      "adjusted_profit": "694494519.76",
+      "ocf": "745482455.96",
+      "capex": "140901597.20",
+      "interest_income": "96153157.56"
+    },
+    "2022": {
+      "revenue": "2548315095.90",
+      "cost": "1193997883.40",
+      "profit": "898803656.42",
+      "adjusted_profit": "817884554.28",
+      "ocf": "1079101901.90",
+      "capex": "131424637.74",
+      "interest_income": "104843798.08"
+    },
+    "2023": {
+      "revenue": "2449845145.50",
+      "cost": "1207405086.51",
+      "profit": "826577951.57",
+      "adjusted_profit": "755749061.39",
+      "ocf": "435487097.89",
+      "capex": "114683256.52",
+      "interest_income": "101522009.77"
+    },
+    "2024": {
+      "revenue": "2387126126.55",
+      "cost": "1169971308.07",
+      "profit": "799346652.13",
+      "adjusted_profit": "732116635.19",
+      "ocf": "816944577.91",
+      "capex": "261334881.02",
+      "interest_income": "102302017.44"
+    },
+    "2025": {
+      "revenue": "2431922780.17",
+      "cost": "1176382059.33",
+      "profit": "768034038.98",
+      "adjusted_profit": "697935713.13",
+      "ocf": "657219112.63",
+      "capex": "412339337.48",
+      "interest_income": "90305534.79"
+    }
+  },
+  "ytd_2025q3": {
+    "revenue": "1998577368.74",
+    "profit": "672969983.10",
+    "adjusted_profit": "615117387.91",
+    "ocf": "446958791.53",
+    "capex": "306326512.76",
+    "cost": "924726200.78",
+    "selling": "319277671.65",
+    "administration": "61427189.56",
+    "rd": "7523326.83",
+    "operating_profit": "798088648.49",
+    "interest_income": "66647594.29",
+    "investment_income": "59372827.72",
+    "fair_value_gain": "4292840.52",
+    "ar": "120875334.19",
+    "contract_liabilities": "41323458.09",
+    "inventory": "648830136.88",
+    "cash_received": "2117130442.50",
+    "tax_refund": "7866008.79",
+    "other_inflow": "59808388.16",
+    "purchase_cash": "815961846.06",
+    "staff_cash": "299909866.45",
+    "tax_cash": "250618988.32",
+    "other_outflow": "371355347.09"
+  },
+  "ytd_2026q3": {
+    "revenue": "2067509518.74",
+    "profit": "613891650.82",
+    "adjusted_profit": "581904031.35",
+    "ocf": "691282029.56",
+    "capex": "398688469.66",
+    "cost": "985995547.21",
+    "selling": "334204388.24",
+    "administration": "61344011.39",
+    "rd": "21067739.80",
+    "operating_profit": "727818728.81",
+    "interest_income": "54404339.53",
+    "investment_income": "31159976.95",
+    "fair_value_gain": "2122100.59",
+    "cash_received": "2156744391.13",
+    "tax_refund": "2932825.90",
+    "other_inflow": "47241633.93",
+    "purchase_cash": "683025873.49",
+    "staff_cash": "300959113.43",
+    "tax_cash": "240261608.88",
+    "other_outflow": "291390225.60",
+    "cash": "2900736352.79",
+    "trading_assets": "3491711152.72",
+    "cash_equivalents": "545725523.24",
+    "other_current_assets": "215335664.71",
+    "bank_debt": "0",
+    "lease_current": "79089.88",
+    "lease_noncurrent": "0",
+    "equity_parent": "9110211863.26",
+    "assets": "9771089090.09",
+    "liabilities": "660877226.83",
+    "ar": "143583620.28",
+    "ar_start": "29169038.48",
+    "contract_liabilities": "57348047.73",
+    "contract_start": "93740962.85",
+    "inventory": "485243114.98",
+    "inventory_start": "626157797.45",
+    "construction": "933152731.23",
+    "construction_start": "654843945.82",
+    "goodwill": "38913076.54",
+    "intangibles": "503237743.99",
+    "dividend_interest_cash": "484645991.76"
+  },
+  "h1_2026": {
+    "revenue": "1365457936.38",
+    "profit": "409000775.87",
+    "adjusted_profit": "387489996.90",
+    "ocf": "366074201.30",
+    "cost": "642596892.88",
+    "selling": "229597242.17",
+    "rd": "9944589.39",
+    "interest_income": "39545288.80",
+    "investment_income": "19989907.18",
+    "fair_value_gain": "2276169.55"
+  },
+  "h1_2025": {
+    "revenue": "1312643377.38",
+    "profit": "440706766.02",
+    "adjusted_profit": "414885000.22",
+    "ocf": "124003304.19",
+    "cost": "601855800.21",
+    "selling": "195246315.96",
+    "rd": "4845756.49",
+    "interest_income": "43796731.22",
+    "investment_income": "18251096.91",
+    "fair_value_gain": "8392685.46"
+  },
+  "products_2025": {
+    "榨菜": {
+      "revenue": "2059471664.42",
+      "prior_revenue": "2044418784.36",
+      "cost": "910468972.04",
+      "volume_tonnes": "111800",
+      "prior_volume_tonnes": "111400"
+    },
+    "萝卜": {
+      "revenue": "57489753.59",
+      "prior_revenue": "46071253.32"
+    },
+    "泡菜": {
+      "revenue": "214242739.12",
+      "prior_revenue": "229999755.73"
+    },
+    "其他产品": {
+      "revenue": "96566036.88",
+      "prior_revenue": "62373243.60"
+    },
+    "其他业务": {
+      "revenue": "4152586.16",
+      "prior_revenue": "4263089.54"
+    }
+  },
+  "products_h1_2026": {
+    "榨菜": {
+      "revenue": "1151418864.12",
+      "prior_revenue": "1122632937.52",
+      "cost": "489293111.87",
+      "volume_tonnes": "61000",
+      "prior_volume_tonnes": "59300"
+    },
+    "萝卜": {
+      "revenue": "26427445.01",
+      "prior_revenue": "33149268.50",
+      "cost": "21371857.18"
+    },
+    "泡菜": {
+      "revenue": "108294582.75",
+      "prior_revenue": "118591341.23",
+      "cost": "72777021.28"
+    },
+    "其他产品": {
+      "revenue": "77395853.11",
+      "prior_revenue": "36545560.96",
+      "cost": "56627838.67"
+    },
+    "其他业务": {
+      "revenue": "1921191.39",
+      "prior_revenue": "1724269.17",
+      "cost": "2527063.88"
+    }
+  },
+  "cutoff": "2026-11-26",
+  "currency": "CNY",
+  "market": {
+    "price_qq": "11.58",
+    "time_qq": "20261126161448",
+    "time_sina": "2026-11-26 16:29:00",
+    "price_sina": "11.580",
+    "shares": "1153919028",
+    "market_cap_qq_yi": "133.62"
+  },
+  "history_product": [
+    {
+      "year": "2021",
+      "revenue_product": "2226315299.91",
+      "cost_product": "1006349316.96",
+      "gross_profit_product": "1219965982.95",
+      "margin_product": "54.80",
+      "sales_product_wt": "13.48",
+      "sales_all_wt": "15.32",
+      "implied_per_tonne": "16515.69213583086053412462908",
+      "gross_profit_per_tonne": "9050.192751854599406528189911",
+      "page_revenues": [
+        13,
+        17,
+        18,
+        138
+      ],
+      "page_volumes": [
+        15
+      ],
+      "page_fin": [
+        7,
+        17,
+        91,
+        138
+      ],
+      "pdf_pages": 157,
+      "src": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002507&id=7892699"
+    },
+    {
+      "year": "2022",
+      "revenue_product": "2174807004.71",
+      "cost_product": "936321727.41",
+      "gross_profit_product": "1238485277.30",
+      "margin_product": "56.95",
+      "sales_product_wt": "11.78",
+      "sales_all_wt": "14.03",
+      "implied_per_tonne": "18461.85912317487266553480475",
+      "gross_profit_per_tonne": "10513.45736247877758913412564",
+      "page_revenues": [
+        13,
+        17,
+        18
+      ],
+      "page_volumes": [
+        15
+      ],
+      "page_fin": [
+        7,
+        17,
+        78,
+        121
+      ],
+      "pdf_pages": 138,
+      "src": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002507&id=8910236"
+    },
+    {
+      "year": "2023",
+      "revenue_product": "2075636010.98",
+      "cost_product": "938595422.51",
+      "gross_profit_product": "1137040588.47",
+      "margin_product": "54.78",
+      "sales_product_wt": "11.33",
+      "sales_all_wt": "13.45",
+      "implied_per_tonne": "18319.82357440423654015887026",
+      "gross_profit_per_tonne": "10035.6627402471315092674316",
+      "page_revenues": [
+        13,
+        19,
+        20,
+        125
+      ],
+      "page_volumes": [
+        15
+      ],
+      "page_fin": [
+        7,
+        19,
+        79,
+        124
+      ],
+      "pdf_pages": 143,
+      "src": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002507&id=9920714"
+    },
+    {
+      "year": "2024",
+      "revenue_product": "2044418784.36",
+      "cost_product": "929197436.92",
+      "gross_profit_product": "1115221347.44",
+      "margin_product": "54.55",
+      "sales_product_wt": "11.14",
+      "sales_all_wt": "13.26",
+      "implied_per_tonne": "18352.05371956912028725314183",
+      "gross_profit_per_tonne": "10010.96362154398563734290844",
+      "page_revenues": [
+        13,
+        19,
+        20,
+        145
+      ],
+      "page_volumes": [
+        15
+      ],
+      "page_fin": [
+        7,
+        19,
+        86,
+        87,
+        144,
+        145
+      ],
+      "pdf_pages": 167,
+      "src": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002507&id=10823115"
+    },
+    {
+      "year": "2025",
+      "revenue_product": "2059471664.42",
+      "cost_product": "910468972.04",
+      "gross_profit_product": "1149002692.38",
+      "margin_product": "55.79",
+      "sales_product_wt": "11.18",
+      "sales_all_wt": "13.40",
+      "implied_per_tonne": "18421.0345654740608228980322",
+      "gross_profit_per_tonne": "10277.30494078711985688729875",
+      "page_revenues": [
+        14,
+        22,
+        23,
+        134
+      ],
+      "page_volumes": [
+        16
+      ],
+      "page_fin": [
+        7,
+        22,
+        81,
+        134,
+        135
+      ],
+      "pdf_pages": 154,
+      "src": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002507&id=12029573"
+    }
+  ],
+  "historical_dividend_per_share": "0.42",
+  "interim": "0.20",
+  "scenarios": {
+    "压力": [
+      "-.03",
+      "14",
+      "-.02",
+      "0"
+    ],
+    "温和改善": [
+      ".03",
+      "18",
+      ".03",
+      ".01"
+    ],
+    "顺利": [
+      ".07",
+      "22",
+      ".06",
+      ".02"
+    ]
+  },
+  "assumptions": {
+    "payout": ".65",
+    "r": ".08",
+    "terminal_incremental_return": ".15",
+    "interest_tax": ".15",
+    "project1_and_IT_reserve_yi": "24",
+    "working_capital_yi": "7",
+    "safety_buffer_yi": "1.5",
+    "release_delay_years": 3,
+    "phase2_allowances_yi": [
+      "0",
+      "2.5",
+      "5"
+    ]
+  }
+}

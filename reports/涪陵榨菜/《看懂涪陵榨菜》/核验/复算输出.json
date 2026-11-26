@@ -1,0 +1,282 @@
+{
+  "snapshot": {
+    "price": "11.58",
+    "cap": "133.62",
+    "profit": "7.09",
+    "deduct": "6.65",
+    "deductEPS": "0.58",
+    "PE": "18.85",
+    "deductPE": "20.10",
+    "hist_yield": "3.63",
+    "OCF": "9.02",
+    "capex": "5.05",
+    "fcf": "3.97",
+    "fcfYield": "2.97",
+    "PB": "1.47",
+    "ps": "5.34",
+    "intTTM": "0.78",
+    "core": "5.98",
+    "net_fin": "63.92",
+    "financial_assets_per_share": "5.54",
+    "hist_pct": "34.49",
+    "static_pe": "17.40"
+  },
+  "cases": {
+    "压力": {
+      "eps3": "0.53",
+      "eps10": "0.47",
+      "dps3": "1.06",
+      "exit3": "7.36",
+      "pv3": "6.75",
+      "irr3": "-10.48",
+      "pe10": "12.50",
+      "exit10": "5.88",
+      "pv10": "5.01",
+      "irr10": "-2.65",
+      "divPV10": "2.28",
+      "termPV10": "2.73",
+      "termShare": "54.44"
+    },
+    "温和改善": {
+      "eps3": "0.63",
+      "eps10": "0.77",
+      "dps3": "1.19",
+      "exit3": "11.33",
+      "pv3": "10.02",
+      "irr3": "2.73",
+      "pe10": "13.33",
+      "exit10": "10.43",
+      "pv10": "7.74",
+      "irr10": "2.92",
+      "divPV10": "2.91",
+      "termPV10": "4.83",
+      "termShare": "62.38"
+    },
+    "顺利": {
+      "eps3": "0.71",
+      "eps10": "1.03",
+      "dps3": "1.29",
+      "exit3": "15.53",
+      "pv3": "13.43",
+      "irr3": "13.63",
+      "pe10": "14.44",
+      "exit10": "15.20",
+      "pv10": "10.42",
+      "irr10": "6.68",
+      "divPV10": "3.38",
+      "termPV10": "7.04",
+      "termShare": "67.54"
+    }
+  },
+  "sensitivity": {
+    "压力": {
+      "0.06": {
+        "irr": "-0.39",
+        "pv": "6.87",
+        "with_interim_pv": "7.06",
+        "with_interim_irr": "-0.18",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.07": {
+        "irr": "-1.62",
+        "pv": "5.80",
+        "with_interim_pv": "5.99",
+        "with_interim_irr": "-1.41",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.08": {
+        "irr": "-2.65",
+        "pv": "5.01",
+        "with_interim_pv": "5.19",
+        "with_interim_irr": "-2.44",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.09": {
+        "irr": "-3.53",
+        "pv": "4.39",
+        "with_interim_pv": "4.58",
+        "with_interim_irr": "-3.33",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.10": {
+        "irr": "-4.30",
+        "pv": "3.91",
+        "with_interim_pv": "4.09",
+        "with_interim_irr": "-4.09",
+        "in_band": false,
+        "spread_valid": true
+      }
+    },
+    "温和改善": {
+      "0.06": {
+        "irr": "5.76",
+        "pv": "11.36",
+        "with_interim_pv": "11.55",
+        "with_interim_irr": "5.96",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.07": {
+        "irr": "4.20",
+        "pv": "9.24",
+        "with_interim_pv": "9.42",
+        "with_interim_irr": "4.40",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.08": {
+        "irr": "2.92",
+        "pv": "7.74",
+        "with_interim_pv": "7.93",
+        "with_interim_irr": "3.12",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.09": {
+        "irr": "1.85",
+        "pv": "6.63",
+        "with_interim_pv": "6.82",
+        "with_interim_irr": "2.05",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.10": {
+        "irr": "0.94",
+        "pv": "5.78",
+        "with_interim_pv": "5.96",
+        "with_interim_irr": "1.14",
+        "in_band": false,
+        "spread_valid": true
+      }
+    },
+    "顺利": {
+      "0.06": {
+        "irr": "10.30",
+        "pv": "16.48",
+        "with_interim_pv": "16.66",
+        "with_interim_irr": "10.50",
+        "in_band": true,
+        "spread_valid": false
+      },
+      "0.07": {
+        "irr": "8.27",
+        "pv": "12.83",
+        "with_interim_pv": "13.02",
+        "with_interim_irr": "8.47",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.08": {
+        "irr": "6.68",
+        "pv": "10.42",
+        "with_interim_pv": "10.61",
+        "with_interim_irr": "6.88",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.09": {
+        "irr": "5.38",
+        "pv": "8.73",
+        "with_interim_pv": "8.91",
+        "with_interim_irr": "5.59",
+        "in_band": true,
+        "spread_valid": true
+      },
+      "0.10": {
+        "irr": "4.30",
+        "pv": "7.47",
+        "with_interim_pv": "7.65",
+        "with_interim_irr": "4.51",
+        "in_band": false,
+        "spread_valid": true
+      }
+    }
+  },
+  "asset_bridge": [
+    {
+      "phase2": "0.00",
+      "rest": "29.12",
+      "pvrest": "23.11",
+      "implied_pe": "18.08",
+      "price16": "10.50",
+      "price14": "9.46",
+      "price18": "11.54"
+    },
+    {
+      "phase2": "2.50",
+      "rest": "26.62",
+      "pvrest": "21.13",
+      "implied_pe": "18.41",
+      "price16": "10.33",
+      "price14": "9.29",
+      "price18": "11.36"
+    },
+    {
+      "phase2": "5.00",
+      "rest": "24.12",
+      "pvrest": "19.14",
+      "implied_pe": "18.75",
+      "price16": "10.16",
+      "price14": "9.12",
+      "price18": "11.19"
+    }
+  ],
+  "additional": {
+    "rev_g": "8.09",
+    "profit_in_ten": "14.47",
+    "base_profit10": "8.93",
+    "implied_exit_pe3": "21.13",
+    "divPV3": "1.02",
+    "termPV3": "8.99",
+    "stay65PV10": "6.27",
+    "stay65IRR10": "0.10",
+    "wc_cost8_wan": "4000.00",
+    "annuity15_wan": "5841.48",
+    "delay2_wan": "6813.50",
+    "growth_on_retained": "8.57",
+    "cash_delayed_slope": "0.07",
+    "full_5_per_share": "0.43",
+    "div2025_payout": "63.10"
+  },
+  "business": {
+    "eps_total": "0.61",
+    "EPS_adjusted": "0.58",
+    "ytd_profit": "6.14",
+    "ytd_deduct": "5.82",
+    "ytd_rev": "20.68",
+    "single_profit": "2.05",
+    "single_deduct": "1.94",
+    "ytd_cash_growth": "54.66",
+    "single_cash_growth": "0.70",
+    "ytd_fcf": "2.93",
+    "trade_fin_yi": "34.92",
+    "ar_same": "18.79",
+    "ar_year": "392.25",
+    "contra_same": "38.78",
+    "gov_FY25_dps_yi": "4.85",
+    "income_yield": "5.31",
+    "capex_delta": "0.92",
+    "OCF_sales_delta": "0.40",
+    "OCF_purchase_delta": "1.33"
+  },
+  "extra": {
+    "full_cash_now_16": "10.59",
+    "full_cash_5yr_16": "9.92",
+    "require_fully_reserved_core_at16": "7.01",
+    "base_dr3_at18": "1.19",
+    "moderate_exit3_preserve_nominal": "16.50",
+    "eps3": "0.63",
+    "base_net_growth_by_volume": "34.39",
+    "static_cashdeduct_PE": "9.83",
+    "finshare": "47.84",
+    "turnover0": "2.09",
+    "base_initial_div": "0.39",
+    "no_date_pv6_gap": "0.22",
+    "before_capex_fcf_yield": "2.97",
+    "capex_share_FY25": "62.74"
+  }
+}

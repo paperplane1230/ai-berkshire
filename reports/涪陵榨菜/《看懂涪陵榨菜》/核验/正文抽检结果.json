@@ -1,0 +1,10 @@
+{
+  "verdict": "PASS",
+  "pass_count": 19,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 19,
+  "fail_items": [],
+  "warn_items": [],
+  "scope": "各篇数据表数字单元抽查；不含所有叙述与预测。证实测算不是验证未来。"
+}
